@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>NATIONAL GEOLOGIC MAPPING ACT OF 1992</dc:title>
+        <citableAs>Public Law 102–285, as amended</citableAs>
+        <citableAsShortTitle>NATIONAL GEOLOGIC MAPPING ACT OF 1992</citableAsShortTitle>
+        <docNumber>285</docNumber>
+        <currentThroughPublicLaw>117–58</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-12-13</processedDate>
+        <containsShortTitle>National Geologic Mapping Act of 1992</containsShortTitle>
+        <property role="fileId">1604</property>
+        <congress>102</congress>
+        <approvedDate>1992-05-18</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">NATIONAL GEOLOGIC MAPPING ACT OF 1992</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 102–285</citableAs>; 106 Stat.166)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 117–58</currentThroughPublicLaw>, Enacted <date date="2021-11-15">November 15, 2021</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 102–285. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To enhance geologic mapping of the United States, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/102/285/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s31a">43 U.S.C. 31a note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content style="-uslm-dtd:text" class="block">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">National Geologic Mapping Act of 1992</inline></shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/102/285/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s31a">43 U.S.C. 31a</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FINDINGS AND PURPOSE. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s2/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Findings.—</heading><chapeau style="-uslm-dtd:text">The Congress finds and declares that—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s2/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">although significant progress has been made in the production of geologic maps since the establishment of the national cooperative geologic mapping program in 1992, no modern, digital, geologic map exists for approximately 75 percent of the United States;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s2/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">geologic maps are the primary data base for virtually all applied and basic earth-science investigations, including—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s2/a/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">exploration for and development of mineral, energy, and water resources;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s2/a/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">screening and characterizing sites for toxic and nuclear waste disposal;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s2/a/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">land use evaluation and planning for homeland and environmental protection;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s2/a/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">earthquake hazards reduction;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s2/a/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">identifying volcanic hazards;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s2/a/2/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">design and construction of infrastructure requirements such as utility lifelines, transportation corridors, and surface-water impoundments;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s2/a/2/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">reducing losses from landslides and other ground failures;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s2/a/2/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">mitigating effects of coastal and stream erosion;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s2/a/2/I" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">siting of critical facilities;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s2/a/2/J" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="J">(J) </num><content style="-uslm-dtd:text">recreation and public awareness; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s2/a/2/K" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="K">(K) </num><content style="-uslm-dtd:text">basic earth-science research;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s2/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Federal agencies, State and local governments, private industry, and the general public depend on the information provided by geologic maps to determine the extent of potential environmental damage before embarking on projects that could lead to preventable, costly environmental problems or litigation;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s2/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the combined capabilities of State, Federal, and academic groups to provide geologic mapping are not sufficient to meet the present and future needs of the United States for national security, environmental protection, and energy self-sufficiency of the Nation;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s2/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">States are willing to contribute 50 percent of the funding necessary to complete the mapping of the geology within the State;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s2/a/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">the lack of proper geologic maps has led to the poor design of such structures as dams and waste-disposal facilities;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s2/a/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">geologic maps have proven indispensable in the search for needed fossil-fuel and mineral resources;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s2/a/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">geologic map information is required for the sustainable and balanced development of natural resources of all types, including energy, minerals, land, water, and biological resources;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s2/a/9" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">advances in digital technology and geographical information system science have made geologic map databases increasingly available as decision support tools for land and resource management; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s2/a/10" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">a comprehensive nationwide program of geologic mapping of surficial and bedrock deposits is required in order to systematically build the Nation's geologic-map data base at a pace that responds to increasing demand.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s2/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Purpose.—</heading><content style="-uslm-dtd:text">The purpose of this Act is to expedite the production of a geologic-map data base for the Nation, to be located within the United States Geological Survey, which can be applied to land-use management, assessment, and utilization, conservation of natural resources, groundwater management, and environmental protection and management.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/102/285/s3" styleType="OLC" role="definitions">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s31b">43 U.S.C. 31b</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">In this Act:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s3/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">advisory committee.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">ADVISORY COMMITTEE</term>” means the advisory committee established under section 5.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s3/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Association.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Association</term>” means the Association of American State Geologists.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s3/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Director.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Director</term>” means the Director of the United States Geological Survey.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s3/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Education component.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">education component</term>” means the education component of the geologic mapping program described in section 4(d)(3).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s3/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Federal component.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Federal component</term>” means the Federal component of the geologic mapping program described in section 4(d)(1).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s3/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Geologic mapping program.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">geologic mapping program</term>” means the National Cooperative Geologic Mapping Program established by section 4(a).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s3/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Secretary</term>” means the Secretary of the Interior.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s3/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">State.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State</term>” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the Virgin Islands.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s3/9" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">State component.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State component</term>” means the State component of the geologic mapping program described in section 4(d)(2).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s3/10" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><heading style="-uslm-dtd:header">Survey.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Survey</term>” means the United States Geological Survey.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/102/285/s4" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s31c">43 U.S.C. 31c</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">GEOLOGIC MAPPING PROGRAM. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s4/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">There is established a national cooperative geologic mapping program between the United States Geological Survey and the State geological surveys, acting through the Association.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Design, development, and administration.—</heading><chapeau style="-uslm-dtd:text">The cooperative geologic mapping program shall be—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/a/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">designed and administered to achieve the objectives set forth in subsection (c);</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/a/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">developed in consultation with the advisory committee; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/a/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">administered through the Survey.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s4/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Responsibilities of the Survey.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Lead agency.—</heading><chapeau style="-uslm-dtd:text">The Survey shall be the lead Federal agency responsible for planning, developing national priorities and standards for, coordinating, and managing the geologic mapping program. In carrying out this paragraph, the Secretary, acting through the Director, shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">develop a 5-year strategic plan for the geologic mapping program in accordance with section 6, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after the date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after the date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act in accordance with section 5; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/b/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">submit biennially a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/b/1/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">how the Survey and the Association are coordinating the development and implementation of the geologic mapping program;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/b/1/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">how the Survey and the Association establish goals, mapping priorities, and target dates for implementation of the geologic mapping program; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/b/1/C/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">how long-term staffing plans for the various components of the geologic mapping program affect successful implementation of the geologic mapping program.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Responsibilities of the secretary.—</heading><chapeau style="-uslm-dtd:text">In addition to paragraph (1), the Secretary, acting through the Director, shall be responsible for developing, as soon as practicable—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in cooperation with the Association, other Federal and State agencies, public and private sector organizations and academia, the geologic-map data base; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">maps and mapping techniques which achieve the objectives specified in subsection (c).</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s4/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Program Objectives.—</heading><chapeau style="-uslm-dtd:text">The objectives of the geologic mapping program shall include—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">determining  the Nation's geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map<ref style="-uslm-dtd:footnote-ref" idref="ID978328A5441D4AC684B4EEAD49358A99" class="footnoteRef">1</ref> data base;</content><footnote id="ID978328A5441D4AC684B4EEAD49358A99" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">So in original. Probably should be “<quotedText style="-uslm-dtd:quote">geologic-map</quotedText>”.</p></footnote>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">development of a complementary national geochronologic and paleontologic data base that provides value-added descriptive and interpretative information to the geologic-map data base;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">application of cost-effective mapping techniques that assemble, produce, translate and disseminate geologic-map information and that render such information of greater application and benefit to the public; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">development of public awareness of the role and application of geologic-map information to the resolution of national issues of land use management.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s4/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Program Components.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Federal component.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The geologic mapping program shall include a Federal geologic mapping component, the objective of which shall be to determine the geologic framework of areas determined to be vital to the economic, social, environmental, or scientific welfare of the United States.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Mapping priorities.—</heading><chapeau style="-uslm-dtd:text">For the Federal component, mapping priorities—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/d/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">shall be described in the 5-year plan under section 6; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/d/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">shall be based on—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s4/d/1/B/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">national requirements for geologic map information in areas of multiple-issue need or areas of compelling single-issue need;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s4/d/1/B/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">national requirements for geologic map information in areas where mapping is required to solve critical earth science problems; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s4/d/1/B/ii/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">the needs of land management agencies of the Department of the Interior.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Interdisciplinary studies.—</heading>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/d/1/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Federal component shall include interdisciplinary studies that add value to geologic mapping.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/d/1/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Representative categories.—</heading><chapeau style="-uslm-dtd:text">Interdisciplinary studies under clause (i) may include—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s4/d/1/C/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">establishment of a national geologic map database under section 7;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s4/d/1/C/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">studies that lead to the implementation of cost-effective digital methods for the acquisition, compilation, analysis, cartographic production, and dissemination of geologic map information;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s4/d/1/C/ii/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">paleontologic, geochrono-logic, and isotopic investigations that provide information critical to understanding the age and history of geologic map units;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s4/d/1/C/ii/IV" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">geophysical investigations that assist in delineating and mapping the physical characteristics and 3-dimensional distribution of geologic materials and geologic structures; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s4/d/1/C/ii/V" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="V">(V) </num><content style="-uslm-dtd:text">geochemical investigations and analytical operations that characterize the composition of geologic map units.</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/d/1/C/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><heading style="-uslm-dtd:header">Use of results.—</heading><content style="-uslm-dtd:text">The results of investigations under clause (ii) shall be contributed to national databases.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">State component.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The geologic mapping program shall include a State geologic mapping component, the objective of which shall be to establish the geologic framework of areas determined to be vital to the economic, social, environmental, or scientific welfare of individual States.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Mapping priorities.—</heading><chapeau style="-uslm-dtd:text">For the State component, mapping priorities—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/d/2/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">shall be determined by State panels representing a broad range of users of geologic maps; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/d/2/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">shall be based on—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s4/d/2/B/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">State requirements for geologic map information in areas of multiple-issue need or areas of compelling single-issue need; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s4/d/2/B/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">State requirements for geologic map information in areas where mapping is required to solve critical earth science problems.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Integration of federal and state priorities.—</heading><content style="-uslm-dtd:text">A national panel including representatives of the Survey shall integrate the State mapping priorities under this paragraph with the Federal mapping priorities under paragraph (1).</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Use of funds.—</heading><content style="-uslm-dtd:text">The Survey and recipients of grants under the State component shall not use more than 15.25 percent of the Federal funds made available under the State component for any fiscal year to pay indirect, servicing, or program management charges.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><heading style="-uslm-dtd:header">Federal share.—</heading><content style="-uslm-dtd:text">The Federal share of the cost of activities under the State component for any fiscal year shall not exceed 50 percent.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/d/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Education component.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The geologic mapping program shall include a geologic mapping education component for the training of geologic mappers, the objectives of which shall be—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/d/3/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">to provide for broad education in geologic mapping and field analysis through support of field studies; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/d/3/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">to develop academic programs that teach students of earth science the fundamental principles of geologic mapping and field analysis.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Investigations.—</heading><chapeau style="-uslm-dtd:text">The education component may include the conduct of investigations, which—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/d/3/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">shall be integrated with the Federal component and the State component; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s4/d/3/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">shall respond to mapping priorities identified for the Federal component and the State component.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Use of funds.—</heading><content style="-uslm-dtd:text">The Survey and recipients of grants under the education component shall not use more than 15.25 percent of the Federal funds made available under the education component for any fiscal year to pay indirect, servicing, or program management charges.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/3/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Federal share.—</heading><content style="-uslm-dtd:text">The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s4/d/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Abandoned mine land and mine waste component.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The geologic mapping program shall include an abandoned mine land and mine waste geologic mapping component, the objective of which shall be to establish the geologic framework of abandoned mine land and other land containing mine waste.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s4/d/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Mapping priorities.—</heading><content style="-uslm-dtd:text">For the component described in subparagraph (A), the priority shall be mapping abandoned mine land and other land containing mine waste where multiple critical mineral (as defined in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a))) and metal commodities are anticipated to be present, rather than single mineral resources.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/102/285/s5" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s31d">43 U.S.C. 31d</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ADVISORY COMMITTEE. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s5/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s5/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">There shall be established a 11-member geologic mapping advisory committee to advise the Director on planning and implementation of the geologic mapping program.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s5/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Members ex officio.—</heading><content style="-uslm-dtd:text">Federal agency members shall include the Administrator of the Environmental Protection Agency or a designee, the Secretary of the Interior or a designee from a land management agency of the Department of the Interior, the Secretary of Energy or a designee, and the Secretary of Agriculture or a designee.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s5/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Appointed members.—</heading><content style="-uslm-dtd:text">In consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Associate Director for Core Science Systems, as Chair), two representatives from the State geological surveys, one representative from academia, and 2 representatives from the private sector.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s5/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Duties.—</heading><chapeau style="-uslm-dtd:text">The advisory committee shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s5/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">review and update the 5-year plan prepared by the Director pursuant to section 6;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s5/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">review the scientific progress of the geologic mapping program;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s5/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">provide a scientific overview of geologic maps (including maps of geologic-based hazards) used or disseminated by Federal agencies for regulation or land-use planning; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s5/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">submit an annual report to the Secretary that evaluates the progress of the Federal, State, and university mapping activities and evaluates the progress made toward fulfilling the purposes of sections 4 through 7.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/102/285/s6" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s31e">43 U.S.C. 31e</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">GEOLOGIC MAPPING PROGRAM 5-YEAR PLAN, </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s6/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary, acting through the Director, shall, with the advice and review of the advisory committee, prepare a 5-year plan for the geologic mapping program.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s6/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">The 5-year plan shall identify—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s6/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">overall priorities for the geologic mapping program; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s6/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">implementation of the overall management structure and operation of the geologic mapping program, including—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s6/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the role of the Survey in the capacity of overall management lead, including the responsibility for developing the national geologic mapping program that meets Federal needs while fostering State needs;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s6/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the responsibilities of the State geological surveys, with emphasis on mechanisms that incorporate the needs, missions, capabilities, and requirements of the State geological surveys, into the nationwide geologic mapping program;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s6/b/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">mechanisms for identifying short- and long-term priorities for each component of the geologic mapping program, including—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s6/b/2/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">for the Federal component, a priority-setting mechanism that responds to—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s6/b/2/C/i/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">Federal mission requirements for geologic map information;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s6/b/2/C/i/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">critical scientific problems that require geologic maps for their resolution; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s6/b/2/C/i/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">shared Federal and State needs for geologic maps, in which joint Federal-State geologic mapping projects are in the national interest;</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s6/b/2/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">for the State component, a priority-setting mechanism that responds to—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s6/b/2/C/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">specific intrastate needs for geologic map information; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/102/285/s6/b/2/C/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">interstate needs shared by adjacent States that have common requirements; and</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s6/b/2/C/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">for the education component, a priority-setting mechanism that responds to requirements for geologic map information that are dictated by Federal and State mission requirements;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s6/b/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">a mechanism for adopting scientific and technical mapping standards for preparing and publishing general- and special-purpose geologic maps to—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s6/b/2/D/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">ensure uniformity of cartographic and scientific conventions; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/102/285/s6/b/2/D/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">provide a basis for assessing the comparability and quality of map products; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s6/b/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">a mechanism for monitoring the inventory of published and current mapping investigations nationwide to facilitate planning and information exchange and to avoid redundancy.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/102/285/s7" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s31f">43 U.S.C. 31f</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL GEOLOGIC MAP DATABASE. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s7/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s7/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Survey shall establish a national geologic-map database.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s7/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Function.—</heading><chapeau style="-uslm-dtd:text">The database shall serve as a national catalog and archive, distributed through links to Federal and State geologic map holdings, that includes—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s7/a/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">all maps developed with funding provided by the National Cooperative Geologic Mapping Program, including under the Federal, State, and education components;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s7/a/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the databases developed in connection with investigations under subclauses (III), (IV), and (V) of section 4(d)(1)(C)(ii); and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/102/285/s7/a/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">other maps and data that the Survey and the Association consider appropriate.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s7/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Standardization.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s7/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Geologic maps contributed to the national archives shall have format, symbols, and technical attributes that adhere to standards so that archival information can be  accessed, exchanged, and compared efficiently and accurately, as required by Executive Order 12906 (59 Fed. Reg. 17,671 (1994)), which established the National Spatial Data Infrastructure.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s7/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Development of standards.—</heading><content style="-uslm-dtd:text">Entities that contribute geologic maps to the national archives shall develop the standards described in paragraph (1) in cooperation with the Federal Geographic Data Committee, which is charged with standards development and other data coordination activities as described in Office of Management and Budget revised Circular A–16.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/102/285/s8" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s31g">43 U.S.C. 31g</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">BIENNIAL REPORT. </heading>
+            <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">Not later than 3 years after the date of enactment of the Omnibus Public Land Management Act of 2009 and biennially thereafter, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s8/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">describes the status of the national geologic mapping program;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s8/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">describes and evaluates the progress achieved during the preceding 2 years in developing the national geologic map database; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s8/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">includes any recommendations that the Secretary may have for legislative or other action to achieve the purposes of sections 4 through 7.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/102/285/s9" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="9">SEC. 9. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s31h">43 U.S.C. 31h</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s9/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated to carry out this Act $64,000,000 for each of fiscal years 2009 through 2031.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s9/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Allocation of Appropriations.—</heading><chapeau style="-uslm-dtd:text">Of any amounts appropriated for any fiscal year in excess of the amount appropriated for fiscal year 2005—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s9/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">50 percent shall be available for the State component; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/102/285/s9/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">4 percent shall be available for the education component.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/102/285/s10" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="10">SEC. 10. </num><heading style="-uslm-dtd:header">UNITED STATES GEOLOGICAL SURVEY AND UNITED STATES BUREAU OF MINES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s10/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s31">43 U.S.C. 31 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">United States Geological Survey.—</heading><content style="-uslm-dtd:text">The Geological Survey established by the Act of March 3, 1879 (43 U.S.C. 31(a)), is designated as and shall hereafter be known as the United States Geological Survey.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/102/285/s10/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t30/s1">30 U.S.C. 1 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">United States Bureau of Mines.—</heading><content style="-uslm-dtd:text">The Bureau of Mines established by the Act of May 16, 1910 (30 U.S.C. 1), is designated as and shall hereafter be known as the United States Bureau of Mines.</content>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Secure and Trusted Communications Networks Act of 2019</dc:title>
+        <citableAs>Public Law 116–124, as amended</citableAs>
+        <citableAsShortTitle>Secure and Trusted Communications Networks Act of 2019</citableAsShortTitle>
+        <docNumber>124</docNumber>
+        <currentThroughPublicLaw>118–159</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
+        <processedDate>2025-04-11</processedDate>
+        <containsShortTitle>Secure and Trusted Communications Networks Act of 2019</containsShortTitle>
+        <property role="fileId">15677</property>
+        <congress>116</congress>
+        <approvedDate>2020-03-12</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Secure and Trusted Communications Networks Act of 2019</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 116–124</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 118–159</currentThroughPublicLaw>, Enacted <date date="2024-12-23">December 23, 2024</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 116–124. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To prohibit certain Federal subsidies from being used to purchase communications equipment or services posing national security risks, to provide for the establishment of a reimbursement program for the replacement of communications equipment or services posing such risks, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/116/124/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t47/s1601">47 U.S.C. 1601 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Secure and Trusted Communications Networks Act of 2019</shortTitle>”.</content>
+        </section>
+        <section identifier="/us/sComp/116/124/s2" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t47/s1601">47 U.S.C. 1601</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DETERMINATION OF COMMUNICATIONS EQUIPMENT OR SERVICES POSING NATIONAL SECURITY RISKS. </heading>
+            <subsection identifier="/us/sComp/116/124/s2/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Publication of Covered Communications Equipment or Services List.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, the Commission shall publish on its website a list of covered communications equipment or services.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s2/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Publication by Commission.—</heading><chapeau style="-uslm-dtd:text">The Commission shall place on the list published under subsection (a) any communications equipment or service, if and only if such equipment or service—</chapeau>
+                <paragraph identifier="/us/sComp/116/124/s2/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">is produced or provided by any entity, if, based exclusively on the determinations described in paragraphs (1) through (4) of subsection (c), such equipment or service produced or provided by such entity poses an unacceptable risk to the national security of the United States or the security and safety of United States persons; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s2/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">is capable of—</chapeau>
+                    <subparagraph identifier="/us/sComp/116/124/s2/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">routing or redirecting user data traffic or permitting visibility into any user data or packets that such equipment or service transmits or otherwise handles;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s2/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">causing the network of a provider of advanced communications service to be disrupted remotely; or</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s2/b/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">otherwise posing an unacceptable risk to the national security of the United States or the security and safety of United States persons.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s2/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Reliance on Certain Determinations.—</heading><chapeau style="-uslm-dtd:text">In taking action under subsection (b)(1), the Commission shall place on the list any communications equipment or service that poses an unacceptable risk to the national security of the United States or the security and safety of United States persons based solely on one or more of the following determinations:</chapeau>
+                <paragraph identifier="/us/sComp/116/124/s2/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">A specific determination made by any executive branch interagency body with appropriate national security expertise,  including the Federal Acquisition Security Council established under section 1322(a) of title 41, United States Code.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s2/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">A specific determination made by the Department of Commerce pursuant to Executive Order No. 13873 (84 Fed. Reg. 22689; relating to securing the information and communications technology and services supply chain).</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s2/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The communications equipment or service being covered telecommunications equipment or services, as defined in section 889(f)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 132 Stat. 1918).</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s2/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">A specific determination made by an appropriate national security agency.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s2/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Updating of List.—</heading>
+                <paragraph identifier="/us/sComp/116/124/s2/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Commission shall periodically update the list published under subsection (a) to address changes in the determinations described in paragraphs (1) through (4) of subsection (c).</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s2/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Monitoring of determinations.—</heading><content style="-uslm-dtd:text">The Commission shall monitor the making or reversing of the determinations described in paragraphs (1) through (4) of subsection (c) in order to place additional communications equipment or services on the list published under subsection (a) or to remove communications equipment or services from such list. If a determination described in any such paragraph that provided the basis for a determination by the Commission under subsection (b)(1) with respect to any communications equipment or service is reversed, the Commission shall remove such equipment or service from such list, except that the Commission may not remove such equipment or service from such list if any other determination described in any such paragraph provides a basis for inclusion on such list by the Commission under subsection (b)(1) with respect to such equipment or service.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s2/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Public notification.—</heading><content style="-uslm-dtd:text">For each 12-month period during which the list published under subsection (a) is not updated, the Commission shall notify the public that no updates were necessary during such period to protect national security or to address changes in the determinations described in paragraphs (1) through (4) of subsection (c).</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/116/124/s3" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t47/s1602">47 U.S.C. 1602</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PROHIBITION ON USE OF CERTAIN FEDERAL SUBSIDIES. </heading>
+            <subsection identifier="/us/sComp/116/124/s3/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading>
+                <paragraph identifier="/us/sComp/116/124/s3/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Prohibition.—</heading><chapeau style="-uslm-dtd:text">A Federal subsidy that is made available through a program administered by the Commission and that provides funds to be used for the capital expenditures necessary for the provision of advanced communications service may not be used to—</chapeau>
+                    <subparagraph identifier="/us/sComp/116/124/s3/a/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">purchase, rent, lease, or otherwise obtain any covered communications equipment or service; or</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s3/a/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">maintain any covered communications equipment or service previously purchased, rented, leased, or otherwise obtained.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s3/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Timing.—</heading><content style="-uslm-dtd:text">Paragraph (1) shall apply with respect to any covered communications equipment or service beginning on the date that is 60 days after the date on which the Commission places such equipment or service on the list required by section 2(a). In the case of any covered communications equipment or service that is on the initial list published under such section,  such equipment or service shall be treated as being placed on the list on the date on which such list is published.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s3/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Completion of Proceeding.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of this Act, the Commission shall adopt a Report and Order to implement subsection (a). If the Commission has, before the date of the enactment of this Act, taken action that in whole or in part implements subsection (a), the Commission is not required to revisit such action, but only to the extent such action is consistent with this section.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/116/124/s4" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t47/s1603">47 U.S.C. 1603</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SECURE AND TRUSTED COMMUNICATIONS NETWORKS REIMBURSEMENT PROGRAM. </heading>
+            <subsection identifier="/us/sComp/116/124/s4/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Commission shall establish a reimbursement program, to be known as the “Secure and Trusted Communications Networks Reimbursement Program”, to make reimbursements to providers of advanced communications service to replace covered communications equipment or services.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s4/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Eligibility.—</heading><chapeau style="-uslm-dtd:text">The Commission may not make a reimbursement under the Program to a provider of advanced communications service unless the provider—</chapeau>
+                <paragraph identifier="/us/sComp/116/124/s4/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">has 10,000,000 or fewer customers; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">makes all of the certifications required by subsection (d)(4).</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s4/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Use of Funds.—</heading>
+                <paragraph identifier="/us/sComp/116/124/s4/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">A recipient of a reimbursement under the Program shall use reimbursement funds solely for the purposes of—</chapeau>
+                    <subparagraph identifier="/us/sComp/116/124/s4/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">permanently removing covered communications equipment or services purchased, rented, leased, or otherwise obtained—</chapeau>
+                        <clause identifier="/us/sComp/116/124/s4/c/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">as defined in the Report and Order of the Commission in the matter of Protecting Against National Security Threats to the Communications Supply Chain Through FCC Programs (FCC 19–121; WC Docket No. 18–89; adopted November 22, 2019) (in this section referred to as the “<quotedText style="-uslm-dtd:quote">Report and Order</quotedText>”); or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/c/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">as determined to be covered by both the process of the Report and Order and the Designation Orders of the Commission on June 30, 2020 (DA 20–690; PS Docket No. 19–351; adopted June 30, 2020) (DA 20–691; PS Docket No. 19–352; adopted June 30, 2020) (in this section collectively referred to as the “<quotedText style="-uslm-dtd:quote">Designation Orders</quotedText>”);</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">replacing the covered communications equipment or services removed as described in subparagraph (A) with communications equipment or services that are not covered communications equipment or services; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/c/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">disposing of the covered communications equipment or services removed as described in subparagraph (A) in accordance with the requirements under subsection (d)(7).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Limitations.—</heading><chapeau style="-uslm-dtd:text">A recipient of a reimbursement under the Program may not—</chapeau>
+                    <subparagraph identifier="/us/sComp/116/124/s4/c/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">use reimbursement funds to remove, replace, or dispose of any covered communications equipment or service purchased, rented, leased, or otherwise obtained on or after—</chapeau>
+                        <clause identifier="/us/sComp/116/124/s4/c/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">publication of the Report and Order; or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/c/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in the case of covered communications equipment that only became covered pursuant to the Designation Orders, June 30, 2020; or</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/c/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">purchase, rent, lease, or otherwise obtain any covered communications equipment or service, using reimbursement funds or any other funds (including funds derived from private sources).</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s4/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Implementation.—</heading>
+                <paragraph identifier="/us/sComp/116/124/s4/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Suggested replacements.—</heading>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Development of list.—</heading><content style="-uslm-dtd:text">The Commission shall develop a list of suggested replacements of both physical and virtual communications equipment, application and management software, and services or categories of replacements of both physical and virtual communications equipment, application and management software and services.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Neutrality.—</heading><content style="-uslm-dtd:text">The list developed under subparagraph (A) shall be technology neutral and may not advantage the use of reimbursement funds for capital expenditures over operational expenditures, to the extent that the Commission determines that communications services can serve as an adequate substitute for the installation of communications equipment.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Application process.—</heading>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Commission shall develop an application process and related forms and materials for the Program.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Cost estimate.—</heading>
+                        <clause identifier="/us/sComp/116/124/s4/d/2/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Initial estimate.—</heading><content style="-uslm-dtd:text">The Commission shall require an applicant to provide an initial reimbursement cost estimate at the time of application, with supporting materials substantiating the costs.</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/d/2/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Updates.—</heading><chapeau style="-uslm-dtd:text">During and after the application review process, the Commission may require an applicant to—</chapeau>
+                            <subclause identifier="/us/sComp/116/124/s4/d/2/B/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">update the initial reimbursement cost estimate submitted under clause (i); and</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/116/124/s4/d/2/B/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">submit additional supporting materials substantiating an updated cost estimate submitted under subclause (I).</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Mitigation of burden.—</heading><content style="-uslm-dtd:text">In developing the application process under this paragraph, the Commission shall take reasonable steps to mitigate the administrative burdens and costs associated with the application process, while taking into account the need to avoid waste, fraud, and abuse in the Program.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Application review process.—</heading>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Deadline.—</heading>
+                        <clause identifier="/us/sComp/116/124/s4/d/3/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in clause (ii) and subparagraph (B), the Commission shall approve or deny an application for a reimbursement under the Program not later than 90 days after the date of the submission of the application.</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/d/3/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Additional time needed by commission.—</heading><content style="-uslm-dtd:text">If the Commission determines that, because an excessive number of applications have been filed at one time, the Commission needs additional time for  employees of the Commission to process the applications, the Commission may extend the deadline described in clause (i) for not more than 45 days.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Opportunity for applicant to cure deficiency.—</heading><content style="-uslm-dtd:text">If the Commission determines that an application is materially deficient (including by lacking an adequate cost estimate or adequate supporting materials), the Commission shall provide the applicant a 15-day period to cure the defect before denying the application. If such period would extend beyond the deadline under subparagraph (A) for approving or denying the application, such deadline shall be extended through the end of such period.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Effect of denial.—</heading><content style="-uslm-dtd:text">Denial of an application for a reimbursement under the Program shall not preclude the applicant from resubmitting the application or submitting a new application for a reimbursement under the Program at a later date.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/d/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Certifications.—</heading><chapeau style="-uslm-dtd:text">An applicant for a reimbursement under the Program shall, in the application of the applicant, certify to the Commission that—</chapeau>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">as of the date of the submission of the application, the applicant—</chapeau>
+                        <clause identifier="/us/sComp/116/124/s4/d/4/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">has developed a plan for—</chapeau>
+                            <subclause identifier="/us/sComp/116/124/s4/d/4/A/i/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the permanent removal and replacement of any covered communications equipment or services that are in the communications network of the applicant as of such date; and</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/116/124/s4/d/4/A/i/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the disposal of the equipment or services removed as described in subclause (I) in accordance with the requirements under paragraph (7); and</content>
+                            </subclause>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/d/4/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">has developed a specific timeline (subject to paragraph (6)) for the permanent removal, replacement, and disposal of the covered communications equipment or services identified under clause (i), which timeline shall be submitted to the Commission as part of the application; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">beginning on the date of the approval of the application, the applicant—</chapeau>
+                        <clause identifier="/us/sComp/116/124/s4/d/4/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">will not purchase, rent, lease, or otherwise obtain covered communications equipment or services, using reimbursement funds or any other funds (including funds derived from private sources); and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/d/4/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in developing and tailoring the risk management practices of the applicant, will consult and consider the standards, guidelines, and best practices set forth in the cybersecurity framework developed by the National Institute of Standards and Technology.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/d/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Distribution of reimbursement funds.—</heading>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/5/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to subparagraph (C), the Commission shall make reasonable efforts to ensure that reimbursement funds are distributed equitably among all applicants for reimbursements under the Program according to the needs of the applicants, as identified by the applications of the applicants.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/5/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Notification.—</heading><chapeau style="-uslm-dtd:text">If, at any time during the implementation of the Program, the Commission determines that $1,000,000,000 will not be sufficient to fully  fund all approved applications for reimbursements under the Program, the Commission shall immediately notify—</chapeau>
+                        <clause identifier="/us/sComp/116/124/s4/d/5/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/d/5/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/5/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Priority for allocation.—</heading><chapeau style="-uslm-dtd:text">On and after the date of enactment of this subparagraph, the Commission shall allocate sufficient reimbursement funds—</chapeau>
+                        <clause identifier="/us/sComp/116/124/s4/d/5/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">first, to approved applicants that have 2,000,000 or fewer customers, for removal and replacement of covered communications equipment, as defined in section 9 or as designated by the process set forth in the Report and Order;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/d/5/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">after funds have been allocated to all applicants described in clause (i), to approved applicants that are accredited public or private non-commercial educational institutions providing their own facilities-based educational broadband service, as defined in section 27.4 of title 47, Code of Federal Regulations, or any successor regulation, for removal and replacement of covered communications equipment, as defined in section 9 or as designated by the process set forth in the Report and Order; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/d/5/C/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">after funds have been allocated to all applicants described in clause (ii), to any remaining approved applicants determined to be eligible for reimbursement under the Program.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/d/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Removal, replacement, and disposal term.—</heading>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/6/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Deadline.—</heading><content style="-uslm-dtd:text">Except as provided in subparagraphs (B) and (C), the permanent removal, replacement, and disposal of any covered communications equipment or services identified under paragraph (4)(A)(i) shall be completed not later than 1 year after the date on which the Commission distributes reimbursement funds to the recipient.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/6/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">General extension.—</heading><chapeau style="-uslm-dtd:text">The Commission may grant an extension of the deadline described in subparagraph (A) for 6 months to all recipients of reimbursements under the Program if the Commission—</chapeau>
+                        <clause identifier="/us/sComp/116/124/s4/d/6/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">finds that the supply of replacement communications equipment or services needed by the recipients to achieve the purposes of the Program is inadequate to meet the needs of the recipients; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/d/6/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">provides notice and a detailed justification for granting the extension to—</chapeau>
+                            <subclause identifier="/us/sComp/116/124/s4/d/6/B/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the Committee on Energy and Commerce of the House of Representatives; and</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/116/124/s4/d/6/B/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the Committee on Commerce, Science, and Transportation of the Senate.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/6/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Individual extension.—</heading>
+                        <clause identifier="/us/sComp/116/124/s4/d/6/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Petition.—</heading><content style="-uslm-dtd:text">A recipient of a reimbursement under the Program may petition the Commission for an extension for such recipient of the deadline described in subparagraph (A) or, if the Commission has granted an extension of such deadline under subparagraph (B), such deadline as so extended.</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/d/6/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Grant.—</heading><content style="-uslm-dtd:text">The Commission may grant a petition filed under clause (i) by extending, for the recipient that filed the petition, the deadline described in subparagraph (A) or, if the Commission has granted an extension of such deadline under subparagraph (B), such deadline as so extended, for a period of not more than 6 months if the Commission finds that, due to no fault of such recipient, such recipient is unable to complete the permanent removal, replacement, and disposal described in subparagraph (A).</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/d/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Disposal of covered communications equipment or services.—</heading><content style="-uslm-dtd:text">The Commission shall include in the regulations promulgated under subsection (g) requirements for the disposal by a recipient of a reimbursement under the Program of covered communications equipment or services identified under paragraph (4)(A)(i) and removed from the network of the recipient in order to prevent such equipment or services from being used in the networks of providers of advanced communications service.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/d/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Status updates.—</heading>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/8/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not less frequently than once every 90 days beginning on the date on which the Commission approves an application for a reimbursement under the Program, the recipient of the reimbursement shall submit to the Commission a status update on the work of the recipient to permanently remove, replace, and dispose of the covered communications equipment or services identified under paragraph (4)(A)(i).</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/8/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Public posting.—</heading><content style="-uslm-dtd:text">Not earlier than 30 days after the date on which the Commission receives a status update under subparagraph (A), the Commission shall make such status update public on the website of the Commission.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/d/8/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Reports to congress.—</heading><chapeau style="-uslm-dtd:text">Not less frequently than once every 180 days beginning on the date on which the Commission first makes funds available to a recipient of a reimbursement under the Program, the Commission shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on—</chapeau>
+                        <clause identifier="/us/sComp/116/124/s4/d/8/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the implementation of the Program by the Commission; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/d/8/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the work by recipients of reimbursements under the Program to permanently remove, replace, and dispose of covered communications equipment or services identified under paragraph (4)(A)(i).</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s4/e" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Measures To Avoid Waste, Fraud, and Abuse.—</heading>
+                <paragraph identifier="/us/sComp/116/124/s4/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Commission shall take all necessary steps to avoid waste, fraud, and abuse with respect to the Program.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Spending reports.—</heading><content style="-uslm-dtd:text">The Commission shall require recipients of reimbursements under the Program to submit to the Commission on a regular basis reports regarding how reimbursement funds have been spent, including detailed accounting of the covered communications equipment or services permanently removed and disposed of, and the replacement equipment or services purchased, rented, leased, or otherwise obtained, using reimbursement funds.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Audits, reviews, and field investigations.—</heading><chapeau style="-uslm-dtd:text">The Commission shall conduct—</chapeau>
+                    <subparagraph identifier="/us/sComp/116/124/s4/e/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">regular audits and reviews of reimbursements under the Program to confirm that recipients of such reimbursements are complying with this Act; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/e/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">random field investigations to ensure that recipients of reimbursements under the Program are performing the work such recipients are required to perform under the commitments made in the applications of such recipients for reimbursements under the Program, including the permanent removal, replacement, and disposal of the covered communications equipment or services identified under subsection (d)(4)(A)(i).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/e/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Final certification.—</heading>
+                    <subparagraph identifier="/us/sComp/116/124/s4/e/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Commission shall require a recipient of a reimbursement under the Program to submit to the Commission, in a form and at an appropriate time to be determined by the Commission, a certification stating that the recipient—</chapeau>
+                        <clause identifier="/us/sComp/116/124/s4/e/4/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">has fully complied with (or is in the process of complying with) all terms and conditions of the Program;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/e/4/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">has fully complied with (or is in the process of complying with) the commitments made in the application of the recipient for the reimbursement;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/e/4/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">has permanently removed from the communications network of the recipient, replaced, and disposed of (or is in the process of permanently removing, replacing, and disposing of) all covered communications equipment or services that were in the network of the recipient as of the date of the submission of the application of the recipient for the reimbursement; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s4/e/4/A/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">has fully complied with (or is in the process of complying with) the timeline submitted by the recipient under subparagraph (A)(ii) of paragraph (4) of subsection (d) and the other requirements of such paragraph.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/e/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Updated certification.—</heading><content style="-uslm-dtd:text">If, at the time when a recipient of a reimbursement under the Program submits a certification under subparagraph (A), the recipient has not fully complied as described in clause (i), (ii), or (iv) of such subparagraph or has not completed the permanent removal, replacement, and disposal described in clause (iii) of such subparagraph, the Commission shall require the recipient to file an updated certification when the recipient has fully complied as described in such clause (i), (ii), or (iv) or completed such permanent removal, replacement, and disposal.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s4/f" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Effect of Removal of Equipment or Service From List.—</heading>
+                <paragraph identifier="/us/sComp/116/124/s4/f/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">If, after the date on which a recipient of a reimbursement under the Program submits the application for the reimbursement, any covered communications equipment or service that is in the network of the recipient as of such date is removed from the list published under section 2(a), the recipient may—</chapeau>
+                    <subparagraph identifier="/us/sComp/116/124/s4/f/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">return to the Commission any reimbursement funds received for the removal, replacement, and disposal of such equipment or service and be released from any requirement under this section to remove, replace, or dispose of such equipment or service; or</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s4/f/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">retain any reimbursement funds received for the removal, replacement, and disposal of such equipment or service and remain subject to the requirements of this section to remove, replace, and dispose of such equipment or service as if such equipment or service continued to be on the list published under section 2(a).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/f/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Assurances.—</heading><content style="-uslm-dtd:text">In the case of an assurance relating to the removal, replacement, or disposal of any equipment or service with respect to which the recipient returns to the Commission reimbursement funds under paragraph (1)(A), such assurance may be satisfied by making an assurance that such funds have been returned.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s4/g" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Rulemaking.—</heading>
+                <paragraph identifier="/us/sComp/116/124/s4/g/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Commencement.—</heading><content style="-uslm-dtd:text">Not later than 90 days after the date of the enactment of this Act, the Commission shall commence a rulemaking to implement this section.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/g/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Completion.—</heading><content style="-uslm-dtd:text">The Commission shall complete the rulemaking under paragraph (1) not later than 1 year after the date of the enactment of this Act.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s4/h" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Rule of Construction Regarding Timing of Reimbursement.—</heading><content style="-uslm-dtd:text">Nothing in this section shall be construed to prohibit the Commission from making a reimbursement under the Program to a provider of advanced communications service before the provider incurs the cost of the permanent removal, replacement, and disposal of the covered communications equipment or service for which the application of the provider has been approved under this section.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s4/i" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Education Efforts.—</heading><chapeau style="-uslm-dtd:text">The Commission shall engage in education efforts with providers of advanced communications service to—</chapeau>
+                <paragraph identifier="/us/sComp/116/124/s4/i/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">encourage such providers to participate in the Program; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s4/i/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">assist such providers in submitting applications for the Program.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s4/j" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="j">(j) </num><heading style="-uslm-dtd:header">Separate From Federal Universal Service Programs.—</heading><content style="-uslm-dtd:text">The Program shall be separate from any Federal universal service program established under section 254 of the Communications Act of 1934 (47 U.S.C. 254).</content>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s4/k" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="k">(k) </num><heading style="-uslm-dtd:header">Limitation.—</heading><content style="-uslm-dtd:text">In carrying out this section, the Commission may not expend more than $4,980,000,000.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/116/124/s5" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t47/s1604">47 U.S.C. 1604</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REPORTS ON COVERED COMMUNICATIONS EQUIPMENT OR SERVICES. </heading>
+            <subsection identifier="/us/sComp/116/124/s5/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Each provider of advanced communications service shall submit an annual report to the Commission, in a form to be determined by the Commission, regarding whether such provider has purchased, rented, leased, or otherwise obtained any covered communications equipment or service on or after—</chapeau>
+                <paragraph identifier="/us/sComp/116/124/s5/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in the case of any covered communications equipment or service that is on the initial list published under section 2(a), August 14, 2018; or</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s5/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in the case of any covered communications equipment or service that is not on the initial list published under section 2(a), the date that is 60 days after the date on which the Commission places such equipment or service on the list required by such section.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s5/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Rule of Construction.—</heading><content style="-uslm-dtd:text">If a provider of advanced communications service certifies to the Commission that such provider does not have any covered communications equipment or service in the network of such provider, such provider is not required to submit a report under subsection (a) after making such certification, unless such provider later purchases, rents, leases, or otherwise obtains any covered communications equipment or service.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s5/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Justification.—</heading><chapeau style="-uslm-dtd:text">If a provider of advanced communications service indicates in a report under subsection (a) that such provider has purchased, rented, leased, or otherwise obtained any covered communications equipment or service as described in such subsection, such provider shall include in such report—</chapeau>
+                <paragraph identifier="/us/sComp/116/124/s5/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a detailed justification for such action;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s5/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">information about whether such covered communications equipment or service has subsequently been removed and replaced pursuant to section 4; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s5/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">information about whether such provider plans to continue to purchase, rent, lease, or otherwise obtain, or install or use, such covered communications equipment or service and, if so, why.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s5/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Proceeding.—</heading><content style="-uslm-dtd:text">The Commission shall implement this section as part of the rulemaking required by section 4(g).</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/116/124/s6" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t47/s1605">47 U.S.C. 1605</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">HOLD HARMLESS. </heading>
+            <content class="block" style="-uslm-dtd:text">In the case of a person who is a winner of the Connect America Fund Phase II auction, has not yet been authorized to receive Connect America Fund Phase II support, and demonstrates an inability to reasonably meet the build-out and service obligations of such person under Connect America Fund Phase II without using equipment or services prohibited under this Act, such person may withdraw the application of such person for Connect America Fund Phase II support without being found in default or subject to forfeiture. The Commission may set a deadline to make such a withdrawal that is not earlier than the date that is 60 days after the date of the enactment of this Act.</content>
+        </section>
+        <section identifier="/us/sComp/116/124/s7" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t47/s1606">47 U.S.C. 1606</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ENFORCEMENT. </heading>
+            <subsection identifier="/us/sComp/116/124/s7/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Violations.—</heading><content style="-uslm-dtd:text">A violation of this Act or a regulation promulgated under this Act shall be treated as a violation of the Communications Act of 1934 (47 U.S.C. 151 et seq.) or a regulation promulgated under such Act, respectively. The Commission shall enforce this Act and the regulations promulgated under this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Communications Act of 1934 were incorporated into and made a part of this Act.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s7/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Additional Penalties.—</heading>
+                <paragraph identifier="/us/sComp/116/124/s7/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Except as provided in paragraph (2), in addition to penalties under the Communications Act of 1934, a recipient of a reimbursement under the Program found to have violated section 4, the regulations promulgated under such section, or the commitments made by the recipient in the application for the reimbursement—</chapeau>
+                    <subparagraph identifier="/us/sComp/116/124/s7/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">shall repay to the Commission all reimbursement funds provided to the recipient under the Program;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s7/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">shall be barred from further participation in the Program;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s7/b/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">shall be referred to all appropriate law enforcement agencies or officials for further action under applicable criminal and civil laws; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s7/b/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">may be barred by the Commission from participation in other programs of the Commission, including the Federal universal service support programs established under section 254 of the Communications Act of 1934 (47 U.S.C. 254).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s7/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Notice and opportunity to cure.—</heading><chapeau style="-uslm-dtd:text">The penalties described in paragraph (1) shall not apply to a recipient of a reimbursement under the Program unless—</chapeau>
+                    <subparagraph identifier="/us/sComp/116/124/s7/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Commission provides the recipient with notice of the violation; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s7/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the recipient fails to cure the violation within 180 days after the Commission provides such notice.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s7/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Recovery of Funds.—</heading><content style="-uslm-dtd:text">The Commission shall immediately take action to recover all reimbursement funds awarded to a  recipient of a reimbursement under the Program in any case in which such recipient is required to repay reimbursement funds under subsection (b)(1)(A).</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/116/124/s8" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t47/s1607">47 U.S.C. 1607</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NTIA PROGRAM FOR PREVENTING FUTURE VULNERABILITIES. </heading>
+            <subsection identifier="/us/sComp/116/124/s8/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Future Vulnerability Program.—</heading>
+                <paragraph identifier="/us/sComp/116/124/s8/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">Not later than 120 days after the date of the enactment of this Act, including an opportunity for notice and comment, the Assistant Secretary, in cooperation with the Director of National Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Homeland Security, and the Commission, shall establish a program to share information regarding supply chain security risks with trusted providers of advanced communications service and trusted suppliers of communications equipment or services.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s8/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Activities.—</heading><chapeau style="-uslm-dtd:text">In carrying out the program established under paragraph (1), the Assistant Secretary shall—</chapeau>
+                    <subparagraph identifier="/us/sComp/116/124/s8/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">conduct regular briefings and other events to share information with trusted providers of advanced communications service and trusted suppliers of communications equipment or services;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s8/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">engage with trusted providers of advanced communications service and trusted suppliers of communications equipment or services, in particular such providers and suppliers that—</chapeau>
+                        <clause identifier="/us/sComp/116/124/s8/a/2/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">are small businesses; or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s8/a/2/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">primarily serve rural areas;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s8/a/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">not later than 180 days after the date of the enactment of this Act, submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for—</chapeau>
+                        <clause identifier="/us/sComp/116/124/s8/a/2/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">declassifying material, when feasible, to help share information regarding supply chain security risks with trusted providers of advanced communications service and trusted suppliers of communications equipment or services; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/124/s8/a/2/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">expediting and expanding the provision of security clearances to facilitate information sharing regarding supply chain security risks with trusted providers of advanced communications service and trusted suppliers of communications equipment or services; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/124/s8/a/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">ensure that the activities carried out through the program are consistent with and, to the extent practicable, integrated with, ongoing activities of the Department of Homeland Security and the Department of Commerce.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s8/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Scope of program.—</heading><content style="-uslm-dtd:text">The program established under paragraph (1) shall involve only the sharing of information regarding supply chain security risks by the Federal Government to trusted providers of advanced communications service and trusted suppliers of communications equipment or services, and not the sharing of such information by such providers and suppliers to the Federal Government.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s8/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Representation on CSRIC of Interests of Public and Consumers.—</heading>
+                <paragraph identifier="/us/sComp/116/124/s8/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Commission shall appoint to the Communications Security, Reliability, and Interoperability Council (or any successor thereof), and to each subcommittee, workgroup, or other subdivision of the Council (or any such successor), at least one member to represent the interests of the public and consumers.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s8/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Initial appointments.—</heading><content style="-uslm-dtd:text">The Commission shall make the initial appointments required by paragraph (1) not later than 180 days after the date of the enactment of this Act. Any member so appointed shall be in addition to the members of the Council, or the members of the subdivision of the Council to which the appointment is being made, as the case may be, as of the date of the enactment of this Act.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/116/124/s8/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                <paragraph identifier="/us/sComp/116/124/s8/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Assistant secretary.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">Assistant Secretary</quotedText>” means the Assistant Secretary of Commerce for Communications and Information.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s8/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Foreign adversary.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">foreign adversary</quotedText>” means any foreign government or foreign nongovernment person engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or security and safety of United States persons.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s8/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Supply chain security risk.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">supply chain security risk</quotedText>” includes specific risk and vulnerability information related to equipment and software.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/124/s8/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Trusted.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">trusted</quotedText>” means, with respect to a provider of advanced communications service or a supplier of communications equipment or service, that the Assistant Secretary has determined that such provider or supplier is not owned by, controlled by, or subject to the influence of a foreign adversary.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/116/124/s9" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="9">SEC. 9. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t47/s1608">47 U.S.C. 1608</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">In this Act:</chapeau>
+            <paragraph identifier="/us/sComp/116/124/s9/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Advanced communications service.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">advanced communications service</term>” has the meaning given the term “<term style="-uslm-dtd:quote">advanced telecommunications capability</term>” in section 706 of the Telecommunications Act of 1996 (47 U.S.C. 1302).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/124/s9/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Appropriate national security agency.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">appropriate national security agency</term>” means—</chapeau>
+                <subparagraph identifier="/us/sComp/116/124/s9/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Department of Homeland Security;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/124/s9/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Department of Defense;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/124/s9/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Office of the Director of National Intelligence;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/124/s9/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the National Security Agency; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/124/s9/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the Federal Bureau of Investigation.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/124/s9/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Commission.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Commission</term>” means the Federal Communications Commission.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/124/s9/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Communications equipment or service.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">communications equipment or service</term>” means any equipment or service that is essential to the provision of advanced communications service.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/124/s9/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Covered communications equipment or service.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">covered communications equipment or service</term>” means any communications equipment or service that is on the list published by the Commission under section 2(a).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/124/s9/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Customers.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">customers</term>” means, with respect to a provider of advanced communications service—</chapeau>
+                <subparagraph identifier="/us/sComp/116/124/s9/6/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the customers of such provider; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/124/s9/6/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the customers of any affiliate (as defined in section 3 of the Communications Act of 1934 (47 U.S.C. 153)) of such provider.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/124/s9/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Executive branch interagency body.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">executive branch interagency body</term>” means an interagency body established in the executive branch.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/124/s9/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Person.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">person</term>” means an individual or entity.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/124/s9/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Program.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Program</term>” means the Secure and Trusted Communications Networks Reimbursement Program established under section 4(a).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/124/s9/10" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="10">(10) </num><heading style="-uslm-dtd:header">Provider of advanced communications service.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">provider of advanced communications service</term>”—</chapeau>
+                <subparagraph identifier="/us/sComp/116/124/s9/10/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">means a person who provides advanced communications service to United States customers; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/124/s9/10/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">includes—</chapeau>
+                    <clause identifier="/us/sComp/116/124/s9/10/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">accredited public or private noncommercial educational institutions, providing their own facilities-based educational broadband service, as defined in section 27.4 of title 47, Code of Federal Regulations, or any successor regulation; and </content>
+                    </clause>
+                    <clause identifier="/us/sComp/116/124/s9/10/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">health care providers and libraries providing advanced communications service.</content>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/124/s9/11" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="11">(11) </num><heading style="-uslm-dtd:header">Recipient.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">recipient</term>” means any provider of advanced communications service the application of which for a reimbursement under the Program has been approved by the Commission, regardless of whether the provider has received reimbursement funds.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/124/s9/12" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="12">(12) </num><heading style="-uslm-dtd:header">Reimbursement funds.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">reimbursement funds</term>” means any reimbursement received under the Program.</content>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/116/124/s10" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="10">SEC. 10. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t47/s1609">47 U.S.C. 1609</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SEVERABILITY. </heading>
+            <content class="block" style="-uslm-dtd:text">If any provision of this Act, or the application of such a provision to any person or circumstance, is held to be unconstitutional, the remaining provisions of this Act, and the application of such provisions to any person or circumstance, shall not be affected thereby.</content>
+        </section>
+        <section identifier="/us/sComp/116/124/s11" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="11">SEC. 11. </num><heading style="-uslm-dtd:header">DETERMINATION OF BUDGETARY EFFECTS. </heading>
+            <content class="block" style="-uslm-dtd:text">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</content>
+        </section>
+    </main>
+</statuteCompilation>

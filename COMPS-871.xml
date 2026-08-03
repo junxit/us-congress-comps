@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>PETROLEUM MARKETING PRACTICES ACT</dc:title>
+        <citableAs>Public Law 95–297, as amended</citableAs>
+        <citableAsShortTitle>PETROLEUM MARKETING PRACTICES ACT</citableAsShortTitle>
+        <docNumber>297</docNumber>
+        <currentThroughPublicLaw>110–140</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Petroleum Marketing Practices Act</containsShortTitle>
+        <property role="fileId">871</property>
+        <congress>95</congress>
+        <approvedDate>1978-06-19</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">PETROLEUM MARKETING PRACTICES ACT</property>
+        <citationNote style="-uslm-dtd:public-law">[<citableAs>Public Law 95–297</citableAs>]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 110–140</currentThroughPublicLaw>, Enacted <date date="2007-12-19">December 19, 2007</date>]</editionNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To provide for the protection of franchised distributors and retailers of motor fuel and to encourage conservation of automotive gasoline and competition in the marketing of such gasoline by requiring that information regarding the octane rating of automotive gasoline be disclosed to consumers.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula><section style="-uslm-dtd:section" styleType="OLC" role="undesignated-level" class="inline"><content style="-uslm-dtd:text">That this Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Petroleum Marketing Practices Act</shortTitle>”.<toc style="-uslm-dtd:toc">
+        <heading style="-uslm-dtd:toc-entry" class="centered">TABLE OF CONTENTS</heading>
+        <groupItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>FRANCHISE PROTECTION</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Definitions.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Franchise relationship; termination and nonrenewal.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Trial franchises and interim franchises; nonrenewal.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Notification of termination or nonrenewal.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 105.</designator><label> Enforcement.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 106.</designator><label> Relationship of this title to State law.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 107.</designator><label> Prohibition on restriction of installation of renewable fuel pumps.</label></referenceItem>
+        </groupItem>
+        <groupItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>OCTANE DISCLOSURE</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Definitions.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> Automotive fuel rating testing and disclosure requirements.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 203.</designator><label> Administration and enforcement.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 204.</designator><label> Relationship of this title to State law.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 205.</designator><label> Effective dates.</label></referenceItem>
+        </groupItem>
+        <groupItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>STUDY OF SUBSIDIZATION OF MOTOR FUEL MARKETING</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Study of subsidization of motor fuel marketing.</label></referenceItem>
+        </groupItem></toc></content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2801">15 U.S.C. 2801 note</ref><b>]</b> </editorialNote></section>
+        <title style="-uslm-dtd:title; -uslm-dtd-nonstandard:all-cap 10 no-bold" identifier="/us/sComp/95/297/tI" styleType="nonstandard">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">FRANCHISE PROTECTION </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tI/s101" styleType="traditional" role="definitions">
+                <heading style="-uslm-dtd:header">definitions </heading>
+                <num style="-uslm-dtd:enum" value="101">Sec. 101. </num><chapeau style="-uslm-dtd:text">As used in this title:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/1" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="1">(1)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/1/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">franchise</term>” means any contract—</chapeau>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s101/1/A/i" styleType="OLC" class="leftIndentDecrease2">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">between a refiner and a distributor,</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s101/1/A/ii" styleType="OLC" class="leftIndentDecrease2">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">between a refiner and a retailer,</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s101/1/A/iii" styleType="OLC" class="leftIndentDecrease2">
+                        <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">between a distributor and another distributor, or</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s101/1/A/iv" styleType="OLC" class="leftIndentDecrease2">
+                        <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">between a distributor and a retailer,</content>
+                    </clause></subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">under which a refiner or distributor (as the case may be) authorizes or permits a retailer or distributor to use, in connection with the sale, consignment, or distribution of motor fuel, a trademark which is owned or controlled by such refiner or by a refiner which supplies motor fuel to the distributor which authorizes or permits such use.</continuation>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/1/B" styleType="OLC" class="leftIndentDecrease2">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">franchise</term>” includes—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s101/1/B/i" styleType="OLC" class="leftIndentDecrease2">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">any contract under which a retailer or distributor (as the case may be) is authorized or permitted to occupy leased marketing premises, which premises are to be employed in connection with the sale, consignment, or distribution of motor fuel under a trademark which is owned or controlled by such refiner or by a refiner which supplies motor fuel to the distributor which authorizes or permits such occupancy;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s101/1/B/ii" styleType="OLC" class="leftIndentDecrease2">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">any contract pertaining to the supply of motor fuel which is to be sold, consigned or distributed—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s101/1/B/ii/I" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">under a trademark owned or controlled by a refiner; or</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s101/1/B/ii/II" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">under a contract which has existed continuously since May 15, 1973, and pursuant to which, on May 15, 1973, motor fuel was sold, consigned or distributed under a trademark owned or controlled on such date by a refiner; and</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s101/1/B/iii" styleType="OLC" class="leftIndentDecrease2">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the unexpired portion of any franchise, as defined by the preceding provisions of this paragraph, which is transferred or assigned as authorized by the provisions of such franchise or by any applicable provision of State law which permits such transfer or assignment without regard to any provision of the franchise.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/2" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">franchise relationship</term>” means the respective motor fuel marketing or distribution obligations and responsibilities of a franchisor and a franchisee which result from the marketing of motor fuel under a franchise.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/3" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">franchisor</term>” means a refiner or distributor (as the case may be) who authorizes or permits, under a franchise, a retailer or distributor to use a trademark in connection with the sale, consignment, or distribution of motor fuel.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/4" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">franchisee</term>” means a retailer or distributor (as the case may be) who is authorized or permitted, under a franchise, to use a trademark in connection with the sale, consignment, or distribution of motor fuel.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/5" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">refiner</term>” means any person engaged in the refining of crude oil to produce motor fuel, and includes any affiliate of such person.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/6" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">distributor</term>” means any person, including any affiliate of such person, who—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/6/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">purchases motor fuel for sale, consignment, or distribution to another; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/6/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">receives motor fuel on consignment for consignment or distribution to his own motor fuel accounts or to accounts of his supplier, but shall not include a person who is an employee of, or merely serves as a common carrier providing transportation service for, such supplier.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/7" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">retailer</term>” means any person who purchases motor fuel for sale to the general public for ultimate consumption.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/8" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">marketing premises</term>” means, in the case of any franchise, premises which, under such franchise, are to be employed by the franchisee in connection with the sale, consignment, or distribution of motor fuel.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/9" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">leased marketing premises</term>” means marketing premises owned, leased, or in any way controlled by a franchisor and which the franchisee is authorized or permitted, under the franchise, to employ in connection with the sale, consignment, or distribution of motor fuel.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/10" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">contract</term>” means any oral or written agreement. For supply purposes, delivery levels during the same month of the previous year shall be prima facie evidence of an agreement to deliver such levels.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/11" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">trademark</term>” means any trademark, trade name, service mark, or other identifying symbol or name.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/12" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">motor fuel</term>” means gasoline and diesel fuel of a type distributed for use as a fuel in self-propelled vehicles designed primarily for use on public streets, roads, and highways.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/13" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="13">(13) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">failure</term>” does not include—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/13/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any failure which is only technical or unimportant to the franchise relationship;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/13/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any failure for a cause beyond the reasonable control of the franchisee; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/13/C" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">any failure based on a provision of the franchise which is illegal or unenforceable under the law of any State (or subdivision thereof).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/14" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="14">(14) </num><chapeau style="-uslm-dtd:text">The terms “<term style="-uslm-dtd:term">fail to renew</term>” and “<term style="-uslm-dtd:quote">nonrenewal</term>” mean, with respect to any franchise relationship, a failure to reinstate, continue, or extend the franchise relationship—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/14/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">at the conclusion of the term, or on the expiration date, stated in the relevant franchise;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/14/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">at any time, in the case of the relevant franchise which does not state a term of duration or an expiration date; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/14/C" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">following a termination (on or after the date of enactment of this Act) of the relevant franchise which was entered into prior to such date of enactment and has not been renewed after such date.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/15" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="15">(15) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">affiliate</term>” means any person who (other than by means of a franchise) controls, is controlled by, or is under common control with, any other person.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/16" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="16">(16) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">relevant geographic market area</term>” includes a State or a standard metropolitan statistical area as periodically established by the Office of Management and Budget.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/17" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="17">(17) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">termination</term>” includes cancellation.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/18" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="18">(18) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">commerce</term>” means any trade, traffic, transportation, exchange, or other commerce—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/18/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">between any State and any place outside of such State; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s101/18/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">which affects any trade, transportation, exchange, or other commerce described in subparagraph (A).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s101/19" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="19">(19) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State</term>” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.</content>
+                </paragraph><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2801">15 U.S.C. 2801</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tI/s102" styleType="traditional">
+                <heading style="-uslm-dtd:header">franchise relationship; termination and nonrenewal </heading>
+                <num style="-uslm-dtd:enum" value="102">Sec. 102. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s102/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">Except as provided in subsection (b) and section 103, no franchisor engaged in the sale, consignment, or distribution of motor fuel in commerce may—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">terminate any franchise (entered into or renewed on or after the date of enactment of this Act) prior to the conclusion of the term, or the expiration date, stated in the franchise; or</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">fail to renew any franchise relationship (without regard to the date on which the relevant franchise was entered into or renewed).</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s102/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Any franchisor may terminate any franchise (entered into or renewed on or after the date of enactment of this Act) or may fail to renew any franchise relationship, if—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/b/1/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the notification requirements of section 104 are met; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/b/1/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">such terminaton is based upon a ground described in paragraph (2) or such nonrenewal is based upon a ground described in paragraph (2) or (3).</content>
+                    </subparagraph></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/b/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">For purposes of this subsection, the following are grounds for termination of a franchise or nonrenewal of a franchise relationship:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/b/2/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">A failure by the franchisee to comply with any provision of the franchise, which provision is both reasonable and of material significance to the franchise relationship, if the franchisor first acquired actual or constructive knowledge of such failure—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/A/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">not more than 120 days prior to the date on which notification of termination or nonrenewal is given, if notification is given pursuant to section 104(a); or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/A/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">not more than 60 days prior to the date on which notification of termination or nonrenewal is given, if less than 90 days notification is given pursuant to section 104(b)(1).</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/b/2/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">A failure by the franchisee to exert good faith efforts to carry out the provisions of the franchise, if—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/B/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the franchisee was apprised by the franchisor in writing of such failure and was afforded a reasonable opportunity to exert good faith efforts to carry out such provisions; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/B/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">such failure thereafter continued within the period which began not more than 180 days before the date notification of termination or nonrenewal was given pursuant to section 104.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/b/2/C" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">The occurrence of an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable, if such event occurs during the period the franchise is in effect and the franchisor first acquired actual or constructive knowledge of such occurrence—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/C/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">not more than 120 days prior to the date on which notification of termination or nonrenewal is given, if notification is given pursuant to section 104(a); or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/C/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">not more than 60 days prior to the date on which notification of termination or nonrenewal is given, if less than 90 days notification is given pursuant to section 104(b)(1).</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/b/2/D" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">An agreement, in writing, between the franchisor and the franchisee to terminate the franchise or not to renew the franchise relationship, if—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/D/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">such agreement is entered into not more than 180 days prior to the date of such termination or, in the case of nonrenewal, not more than 180 days prior to the conclusion of the term, or the expiration date, stated in the franchise;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/D/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the franchisee is promptly provided with a copy of such agreement, together with the summary statement described in section 104(d); and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/D/iii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">within 7 days after the date on which the franchisee is provided a copy of such agreement, the franchisee has not posted by certified mail a written notice to the franchisor repudiating such agreement.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/b/2/E" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><chapeau style="-uslm-dtd:text">In the case of any franchise entered into prior to the date of the enactment of this Act and in the case of any franchise entered into or renewed on or after such date (the term of which is 3 years or longer, or with respect to which the franchisee was offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business to withdraw from the marketing of motor fuel through retail outlets in the relevent geographic market area in which the marketing premises are located, if—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/E/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">such determination—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/b/2/E/i/I" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">was made after the date such franchise was entered into or renewed, and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/b/2/E/i/II" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">was based upon the occurrence of changes in relevant facts and circumstances after such date;</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/E/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the termination or nonrenewal is not for the purpose of converting the premises, which are the subject of the franchise, to operation by employees or agents of the franchisor for such franchisor's own account; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/2/E/iii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><chapeau style="-uslm-dtd:text">in the case of leased marketing premises—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/b/2/E/iii/I" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the franchisor, during the 180-day period after notification was given pursuant to section 104, either made a bona fide offer to sell, transfer, or assign to the franchisee such franchisor's interests in such premises, or, if applicable, offered the franchisee a right of first refusal of at least 45 days duration of an offer, made by another, to purchase such franchisor's interest in such premises; or</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/b/2/E/iii/II" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">in the case of the sale, transfer, or assignment to another person of the franchisor's interest in such premises in connection with the sale, transfer, or assignment to such other person of the franchisor's interest in one or more other marketing premises, if such other person offers, in good faith, a franchise to the franchisee on terms and conditions which are not discriminatory to the franchisee as compared to franchises then currently being offered by such other person or franchises then in effect and with respect to which such other person is the franchisor.</content>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/b/3" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">For purposes of this subsection, the following are grounds for nonrenewal of a franchise relationship:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/b/3/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">The failure of the franchisor and the franchisee to agree to changes or additions to the provisions of the franchise, if—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/3/A/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">such damages or additions are the result of determinations made by the franchisor in good faith and in the normal course of business; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/3/A/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">such failure is not the result of the franchisor's insistence upon such changes or additions for the purpose of converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise preventing the renewal of the franchise relationship.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/b/3/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">The receipt of numerous bona fide customer complaints by the franchisor concerning the franchisee's operation of the marketing premises, if—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/3/B/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the franchisee was promptly apprised of the existence and nature of such complaints following receipt of such complaints by the franchisor; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/3/B/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">if such complaints related to the condition of such premises or to the conduct of any employee of such franchisee, the franchisee did not promptly take action to cure or correct the basis of such complaints.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/b/3/C" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">A failure by the franchisee to operate the marketing premises in a clean, safe, and healthful manner, if the franchisee failed to do so on two or more previous occasions and the franchisor notified the franchisee of such failures.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/b/3/D" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">In the case of any franchise entered into prior to the date of the enactment of this Act (the unexpired term of which, on such date of enactment, is 3 years or longer) and, in the case of any franchise entered into or renewed on or after such date (the term of which was 3 years or longer, or with respect to which the franchisee was offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business, if—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/3/D/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">such determination is—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/b/3/D/i/I" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">to convert the leased marketing premises to a use other than the sale or distribution of motor fuel,</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/b/3/D/i/II" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">to materially alter, add to, or replace such premises,</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/b/3/D/i/III" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">to sell such premises, or</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/b/3/D/i/IV" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">that renewal of the franchise relationship is likely to be uneconomical to the franchisor despite any reasonable changes or reasonable additions to the provisions of the franchise which may be acceptable to the franchisee;</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/3/D/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">with respect to a determination referred to in subclause (II) or (IV), such determination is not made for the purpose of converting the leased marketing premises to operation by employees or agents of the franchisor for such franchisor's own account; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/b/3/D/iii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><chapeau style="-uslm-dtd:text">in the case of leased marketing premises such franchisor, during the 90-day period after notification was given pursuant to section 104, either—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/b/3/D/iii/I" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">made a bona fide offer to sell, transfer, or assign to the franchisee such franchisor's interests in such premises; or</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/b/3/D/iii/II" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">if applicable, offered the franchisee a right of first refusal of at least 45-days duration of an offer, made by another, to purchase such franchisor's interest in such premises.</content>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s102/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><chapeau style="-uslm-dtd:text">As used in subsection (b)(2)(C), the term “<term style="-uslm-dtd:term">an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable</term>” includes events such as—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">fraud or criminal misconduct by the franchisee relevant to the operation of the marketing premises;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">declaration of bankruptcy or judicial determination of insolvency of the franchisee;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">continuing severe physical or mental disability of the franchisee of at least 3 months duration which renders the franchisee unable to provide for the continued proper operation of the marketing premises;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">loss of the franchisor's right to grant possession of the leased marketing premises through expiration of an underlying lease, if—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/c/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">the franchisee was notified in writing, prior to the commencement of the term of the then existing franchise—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/c/4/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">of the duration of the underlying lease; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/c/4/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">of the fact that such underlying lease might expire and not be renewed during the term of such franchise (in the case of termination) or at the end of such term (in the case of nonrenewal);</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/c/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">during the 90-day period after notification was given pursuant to section 104, the franchisor offers to assign to the franchisee any option to extend the underlying lease or option to purchase the marketing premises that is held by the franchisor, except that the franchisor may condition the assignment upon receipt by the franchisor of—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/c/4/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">an unconditional release executed by both the landowner and the franchisee releasing the franchisor from any and all liability accruing after the date of the assignment for—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/c/4/B/i/I" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">financial obligations under the option (or the resulting extended lease or purchase agreement);</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/c/4/B/i/II" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">environmental contamination to (or originating from) the marketing premises; or</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s102/c/4/B/i/III" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">the operation or condition of the marketing premises; and</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/c/4/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">an instrument executed by both the landowner and the franchisee that ensures the franchisor and the contractors of the franchisor reasonable access to the marketing premises for the purpose of testing for and remediating any environmental contamination that may be present at the premises; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/c/4/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">in a situation in which the franchisee acquires possession of the leased marketing premises effective immediately after the loss of the right of the franchisor to grant possession (through an assignment pursuant to subparagraph (B) or by obtaining a new lease or purchasing the marketing premises from the landowner), the franchisor (if requested in writing by the franchisee not later than 30 days after notification was given pursuant to section 104), during the 90-day period after notification was given pursuant to section 104—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/c/4/C/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">made a bona fide offer to sell, transfer, or assign to the franchisee the interest of the franchisor in any improvements or equipment located on the premises; or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s102/c/4/C/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">if applicable, offered the franchisee a right of first refusal (for at least 45 days) of an offer, made by another person, to purchase the interest of the franchisor in the improvements and equipment.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">condemnation or other taking, in whole or in part, of the marketing premises pursuant to the power of eminent domain;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">loss of the franchisor's right to grant the right to use the trademark which is the subject of the franchise, unless such loss was due to trademark abuse, violation of Federal or State law, or other fault or negligence of the franchisor, which such abuse, violation, or other fault or negligence is related to action taken in bad faith by the franchisor;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">destruction (other than by the franchisor) of all or a substantial part of the marketing premises;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/8" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">failure by the franchisee to pay to the franchisor in a timely manner when due all sums to which the franchisor is legally entitled;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/9" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="9">(9) </num><chapeau style="-uslm-dtd:text">failure by the franchisee to operate the marketing premises for—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/c/9/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">7 consecutive days, or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s102/c/9/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">such lesser period which under the facts and circumstances constitutes an unreasonable period of time;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/10" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">willful adulteration, mislabeling or misbranding of motor fuels or other trademark violations by the franchisee;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/11" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">knowing failure of the franchisee to comply with Federal, State, or local laws or regulations relevant to the operation of the marketing premises; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/c/12" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">conviction of the franchisee of any felony involving moral turpitude.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s102/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><chapeau style="-uslm-dtd:text">In the case of any termination of a franchise (entered into or renewed on or after the date of enactment of this Act), or in the case of any nonrenewal of a franchise relationship (without regard to the date on which such franchise relationship was entered into or renewed)—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">if such termination or nonrenewal is based upon an event described in subsection (c)(5), the franchisor shall fairly apportion between the franchisor and the franchisee compensation, if any, received by the franchisor based upon any loss of business opportunity or good will; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s102/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">if such termination or nonrenewal is based upon an event described in subsection (c)(7) and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2802">15 U.S.C. 2802</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tI/s103" styleType="traditional">
+                <heading style="-uslm-dtd:header">trial franchises and interim franchises; nonrenewal </heading>
+                <num style="-uslm-dtd:enum" value="103">Sec. 103. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s103/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">The provisions of section 102 shall not apply to the nonrenewal of any franchise relationship—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s103/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">under a trial franchise; or</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s103/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">under an interim franchise.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s103/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">For purposes of this section—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s103/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">trial franchise</term>” means any franchise—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s103/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">which is entered into on or after the date of enactment of this Act;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s103/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the franchisee of which has not previously been a party to a franchise with the franchisor;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s103/b/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the initial term of which is for a period of not more than 1 year; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s103/b/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">which is in writing and states clearly and conspicuously—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s103/b/1/D/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">that the franchise is a trial franchise;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s103/b/1/D/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the duration of the initial term of the franchise;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s103/b/1/D/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">that the franchisor may fail to renew the franchise relationship at the conclusion of the initial term stated in the franchise by notifying the franchisee, in accordance with the provisions of section 104, of the franchisor's intention not to renew the franchise relationship; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s103/b/1/D/iv" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">that the provisions of section 102, limiting the right of a franchisor to fail to renew a franchise relationship, are not applicable to such trial franchise.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s103/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">trial franchise</term>” does not include any unexpired period of any term of any franchise (other than a trial franchise, as defined by paragraph (1)) which was transferred or assigned by a franchisee to the extent authorized by the provisions of the franchise or any applicable provision of State law which permits such transfer or assignment, without regard to any provision of the franchise.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s103/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">interim franchise</term>” means any franchise—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s103/b/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">which is entered into on or after the date of the enactment of this Act;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s103/b/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the term of which, when combined with the terms of all prior interim franchises between the franchisor and the franchisee, does not exceed 3 years;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s103/b/3/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">the effective date of which occurs immediately after the expiration of a prior franchise, applicable to the marketing premises, which was not renewed if such nonrenewal—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s103/b/3/C/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">was based upon a determination described in section 102(b)(2)(E), and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s103/b/3/C/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the requirements of section 102(b)(2)(E) were satisfied; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s103/b/3/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">which is in writing and states clearly and conspicuously—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s103/b/3/D/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">that the franchise is an interim franchise;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s103/b/3/D/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the duration of the franchise; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s103/b/3/D/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">that the franchisor may fail to renew the franchise at the conclusion of the term stated in the franchise based upon a determination made by the franchisor in good faith and in the normal course of business to withdraw from the marketing of motor fuel through retail outlets in the relevant geographic market area in which the marketing premises are located if the requirements of section 102(b)(2)(E) (ii) and (iii) are satisfied.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s103/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><chapeau style="-uslm-dtd:text">If the notification requirements of section 104 are met, any franchisor may fail to renew any franchise relationship—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s103/c/1" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">under any trial franchise, at the conclusion of the initial term of such trial franchise; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s103/c/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">under any interim franchise, at the conclusion of the term of such interim franchise, if—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s103/c/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">such nonrenewal is based upon a determination described in section 102(b)(2)(E); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s103/c/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the requirements of section 102(b)(2)(E) (ii) and (iii) are satisfied.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2803">15 U.S.C. 2803</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tI/s104" styleType="traditional">
+                <heading style="-uslm-dtd:header">notification of termination or nonrenewal </heading>
+                <num style="-uslm-dtd:enum" value="104">Sec. 104. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s104/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">Prior to termination of any franchise or nonrenewal of any franchise relationship, the franchisor shall furnish notification of such termination or such nonrenewal to the franchisee who is a party to such franchise or such franchise relationship—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s104/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in the manner described in subsection (c); and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s104/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">except as provided in subsection (b), not less than 90 days prior to the date on which such termination or nonrenewal takes effect.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s104/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s104/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">In circumstances in which it would not be reasonable for the franchisor to furnish notification, not less than 90 days prior to the date on which termination or nonrenewal takes effect, as required by subsection (a)(2)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s104/b/1/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">such franchisor shall furnish notification to the franchisee affected thereby on the earliest date on which furnishing of such notification is reasonably practicable; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s104/b/1/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in the case of leased marketing premises, such franchisor—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s104/b/1/B/i" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">may not establish a new franchise relationship with respect to such premises before the expiration of the 30-day period which begins—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s104/b/1/B/i/I" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">on the date notification was posted or personally delivered, or</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/297/tI/s104/b/1/B/i/II" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">if later, on the date on which such termination or nonrenewal takes effect; and</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s104/b/1/B/ii" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">may, if permitted to do so by the franchise agreement, repossess such premises and, in circumstances under which it would be reasonable to do so, operate such premises through employees or agents.</content>
+                        </clause>
+                    </subparagraph></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s104/b/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">In the case of any termination of any franchise or any nonrenewal of any franchise relationship pursuant to the provisions of section 102(b)(2)(E) or section 103(c)(2), the franchisor shall—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s104/b/2/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">furnish notification to the franchisee not less than 180 days prior to the date on which such termination or nonrenewal takes effect; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s104/b/2/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">promptly provide a copy of such notification, together with a plan describing the schedule and conditions under which the franchisor will withdraw from the marketing of motor fuel through retail outlets in the relevant geographic area, to the Governor of each State which contains a portion of such area.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s104/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><chapeau style="-uslm-dtd:text">Notification under this section—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s104/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">shall be in writing;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s104/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">shall be posted by certified mail or personally delivered to the franchisee; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s104/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">shall contain—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s104/c/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a statement of intention to terminate the franchise or not to renew the franchise relationship, together with the reasons therefor;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s104/c/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the date on which such termination or nonrenewal takes effect; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s104/c/3/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the summary statement prepared under subsection (d).</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s104/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s104/d/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Not later than 30 days after the date of enactment of this Act, the Secretary of Energy shall prepare and publish in the Federal Register a simple and concise summary of the provisions of this title, including a statement of the respective responsibilities of, and the remedies and relief available to, any franchisor and franchisee under this title.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s104/d/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">In the case of summaries required to be furnished under the provisions of section 102(b)(2)(D) or subsection (c)(3)(C) of this section before the date of publication of such summary in the Federal Register, such summary may be furnished not later than 5 days after it is so published rather than at the time required under such provisions.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2804">15 U.S.C. 2804</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tI/s105" styleType="traditional">
+                <heading style="-uslm-dtd:header">enforcement </heading>
+                <num style="-uslm-dtd:enum" value="105">Sec. 105. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s105/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">If a franchisor fails to comply with the requirements of section 102, 103, or 107, the franchisee may maintain a civil action against such franchisor. Such action may be brought, without regard to the amount in controversy, in the district court of the United States in any judicial district in which the principal place of business of such franchisor is located or in which such franchisee is doing business, except that no such action may be maintained unless commenced within 1 year after the later of—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the date of termination of the franchise or nonrenewal of the franchise relationship; or</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the date the franchisor fails to comply with the requirements of section 102, 103, or 107.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s105/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">In any action under subsection (a), the court shall grant such equitable relief as the court determines is necessary to remedy the effects of any failure to comply with the requirements of section 102, 103, or 107, including declaratory judgment, mandatory or prohibitive injunctive relief, and interim equitable relief.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/b/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">Except as provided in paragraph (3), in any action under subsection (a), the court shall grant a preliminary injunction if—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/b/2/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">the franchisee shows—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s105/b/2/A/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the franchise of which he is a party has been terminated or the franchise relationship of which he is a party has not been renewed, and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s105/b/2/A/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">there exist sufficiently serious questions going to the merits to make such questions a fair ground for litigation; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/b/2/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the court determines that, on balance, the hardships imposed upon the franchisor by the issuance of such preliminary injunctive relief will be less than the hardship which would be imposed upon such franchisee if such preliminary injunctive relief were not granted.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/b/3" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Nothing in this subsection prevents any court from requiring the franchisee in any action under subsection (a) to post a bond, in an amount established by the court, prior to the issuance or continuation of any equitable relief.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/b/4" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">In any action under subsection (a), the court need not exercise its equity powers to compel continuation or renewal of the franchise relationship if such action was commenced—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/b/4/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">more than 90 days after the date on which notification pursuant to section 104(a) was posted or personally delivered to the franchisee;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/b/4/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">more than 180 days after the date on which notification pursuant to section 104(b)(2) was posted or personally delivered to the franchisee; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/b/4/C" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">more than 30 days after the date on which the termination of such franchise or the nonrenewal of such franchise relationship takes effect if less than 90 days notification was provided pursuant to section 104(b)(1).</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s105/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">In any action under subsection (a), the franchisee shall have the burden of proving the termination of the franchise or the nonrenewal of the franchise relationship. The franchisor shall bear the burden of going forward with evidence to establish as an affirmative defense that such termination or nonrenewal was permitted under section 102(b) or 103, and, if applicable, that such franchisor complied with the requirements of section 102(d).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s105/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/d/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">If the franchisee prevails in any action under subsection (a), such franchisee shall be entitled—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/d/1/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">consistent with the Federal Rules of Civil Procedure, to actual damages;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/d/1/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the case of any such action which is based upon conduct of the franchisor which was in willful disregard of the requirements of section 102, 103, or 107, or the rights of the franchisee thereunder, to exemplary damages, where appropriate; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/d/1/C" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to reasonable attorney and expert witness fees to be paid by the franchisor, unless the court determines that only nominal damages are to be awarded to such franchisee, in which case the court, in its discretion, need not direct that such fees be paid by the franchisor.</content>
+                    </subparagraph></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/d/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The question of whether to award exemplary damages and the amount of any such award shall be determined by the court and not by a jury.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/d/3" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">In any action under subsection (a), the court may, in its discretion, direct that reasonable attorney and expert witness fees be paid by the franchisee if the court finds that such action is frivolous.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s105/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/e/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">In any action under subsection (a) with respect to a failure of a franchisor to renew a franchise relationship in compliance with the requirements of section 102, the court may not compel a continuation or renewal of the franchise relationship if the franchisor demonstrates to the satisfaction of the court that—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/e/1/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">the basis for such nonrenewal is a determination made by the franchisor in good faith and in the normal course of business—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s105/e/1/A/i" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">to convert the leased marketing premises to a use other than the sale or distribution of motor fuel,</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s105/e/1/A/ii" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">to materially alter, add to, or replace such premises,</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s105/e/1/A/iii" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">to sell such premises,</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s105/e/1/A/iv" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">to withdraw from the marketing of motor fuel through retail outlets in the relevant geographic market area in which the marketing premises are located, or</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tI/s105/e/1/A/v" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">that renewal of the franchise relationship is likely to be uneconomical to the franchisor despite any reasonable changes or reasonable additions to the provisions of the franchise which may be acceptable to the franchisee; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/e/1/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the requirements of section 104 have been complied with.</content>
+                    </subparagraph></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/e/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The provisions of paragraph (1) shall not affect any right of any franchisee to recover actual damages and reasonable attorney and expert witness fees under subsection (d) if such nonrenewal is prohibited by section 102.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s105/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/f/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">No franchisor shall require, as a condition of entering into or renewing the franchise relationship, a franchisee to release or waive—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/f/1/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any right that the franchisee has under this title or other Federal law; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s105/f/1/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any right that the franchisee may have under any valid and applicable State law.</content>
+                    </subparagraph></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s105/f/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">No provision of any franchise shall be valid or enforceable if the provision specifies that the interpretation or enforcement of the franchise shall be governed by the law of any State other than the State in which the franchisee has the principal place of business of the franchisee.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2805">15 U.S.C. 2805</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tI/s106" styleType="traditional">
+                <heading style="-uslm-dtd:header">relationship of this title to state law </heading>
+                <num style="-uslm-dtd:enum" value="106">Sec. 106. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s106/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s106/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">To the extent that any provision of this title applies to the termination (or the furnishing of notification with respect thereto) of any franchise, or to the nonrenewal (or the furnishing of notification with respect thereto) of any franchise relationship, no State or any political subdivision thereof may adopt, enforce, or continue in effect any provision of any law or regulation (including any remedy or penalty applicable to any violation thereof) with respect to termination (or the furnishing of notification with respect thereto) of any such franchise or to the nonrenewal (or the furnishing of notification with respect thereto) of any such franchise relationship unless such provision of such law or regulation is the same as the applicable provision of this title.</content></paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s106/a/2" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">No State or political subdivision of a State may adopt, enforce, or continue in effect any provision of law (including a regulation) that requires a payment for the goodwill of a franchisee on the termination of a franchise or nonrenewal of a franchise relationship authorized by this title.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s106/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s106/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Nothing in this title authorizes any transfer or assignment of any franchise or prohibits any transfer or assignment of any franchise as authorized by the provisions of such franchise or by any applicable provision of State law which permits such transfer or assignment without regard to any provision of the franchise.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s106/b/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Nothing in this title shall prohibit any State from specifying the terms and conditions under which any franchise or franchise relationship may be transferred to the designated successor of a franchisee upon the death of the franchisee.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2806">15 U.S.C. 2806</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tI/s107" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="107">SEC. 107. </num><heading style="-uslm-dtd:header">PROHIBITION ON RESTRICTION OF INSTALLATION OF RENEWABLE FUEL PUMPS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s107/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definition.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s107/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Renewable fuel.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">renewable fuel</term>” means any fuel—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s107/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">at least 85 percent of the volume of which consists of ethanol; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s107/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any mixture of biodiesel and diesel or renewable diesel (as defined in regulations adopted pursuant to section 211(o) of the Clean Air Act (40 CFR, part 80)), determined without regard to any use of kerosene and containing at least 20 percent biodiesel or renewable diesel.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s107/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Franchise-related document.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">franchise-related document</term>” means—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s107/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a franchise under this Act; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s107/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any other contract or directive of a franchisor relating to terms or conditions of the sale of fuel by a franchisee.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s107/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Prohibitions.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s107/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">No franchise-related document entered into or renewed on or after the date of enactment of this section shall contain any provision allowing a franchisor to restrict the franchisee or any affiliate of the franchisee from—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s107/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">installing on the marketing premises of the franchisee a renewable fuel pump or tank, except that the franchisee's franchisor may restrict the installation of a tank on leased marketing premises of such franchisor;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s107/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">converting an existing tank or pump on the marketing premises of the franchisee for renewable fuel use, so long as such tank or pump and the piping connecting them are either warranted by the manufacturer or certified by a recognized standards setting organization to be suitable for use with such renewable fuel;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s107/b/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">advertising (including through the use of signage) the sale of any renewable fuel;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s107/b/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">selling renewable fuel in any specified area on the marketing premises of the franchisee (including any area in which a name or logo of a franchisor or any other entity appears);</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s107/b/1/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">purchasing renewable fuel from sources other than the franchisor if the franchisor does not offer its own renewable fuel for sale by the franchisee;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s107/b/1/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">listing renewable fuel availability or prices, including on service station signs, fuel dispensers, or light poles; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tI/s107/b/1/G" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">allowing for payment of renewable fuel with a credit card,</content>
+                        </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">so long as such activities described in subparagraphs (A) through (G) do not constitute mislabeling, misbranding, willful adulteration, or other trademark violations by the franchisee.</continuation>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tI/s107/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Effect of provision.—</heading><content style="-uslm-dtd:text">Nothing in this section shall be construed to preclude a franchisor from requiring the franchisee to obtain reasonable indemnification and insurance policies.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tI/s107/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Exception to 3-Grade Requirement.—</heading><content style="-uslm-dtd:text">No franchise-related document that requires that 3 grades of gasoline be sold by the applicable franchisee shall prevent the franchisee from selling a renewable fuel in lieu of 1, and only 1, grade of gasoline.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2807">15 U.S.C. 2807</ref><b>]</b> </editorialNote>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title; -uslm-dtd-nonstandard:all-cap 10 no-bold" identifier="/us/sComp/95/297/tII" styleType="nonstandard">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">OCTANE DISCLOSURE </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tII/s201" styleType="traditional" role="definitions">
+                <heading style="-uslm-dtd:header">definitions </heading>
+                <num style="-uslm-dtd:enum" value="201">Sec. 201. </num><chapeau style="-uslm-dtd:text">As used in this title:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">octane rating</term>” means the rating of the antiknock characteristics of a grade or type of automotive fuel as determined by dividing by 2 the sum of the research octane number plus the motor octane number, unless another procedure is prescribed under section 203(c)(3), in which case such term means the rating of such characteristics as determined under the procedure so prescribed.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The terms “<term style="-uslm-dtd:term">research octane number</term>” and “<term style="-uslm-dtd:quote">motor octane number</term>” have the meanings given such terms in the specifications of the American Society for Testing and Materials (ASTM) entitled “<term style="-uslm-dtd:quote">Standard Specification for Automotive Spark-Ignition Engine Fuel</term>” designated D4814  (as in effect on the date of the enactment of this Act) and, with respect to any grade or type of automotive gasoline, are determined in accordance with test methods set forth in ASTM standard test methods designated D 2699 and D 2700 (as in effect on such date).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">knock</term>” means the combustion of a fuel spontaneously in localized areas of a cylinder of a spark-ignition engine, instead of the combustion of such fuel progressing from the spark.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">automotive fuel retailer</term>” means any person who markets automotive fuel to the general public for ultimate consumption.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">refiner</term>” means any person engaged in the production or importation of automotive fuel.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">automotive fuel</term>” means liquid fuel of a type distributed for use as a fuel in any motor vehicle.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">motor vehicle</term>” means any self-propelled four-wheeled vehicle, of less than 6,000 pounds gross vehicle weight, which is designed primarily for use on public streets, roads, and highways.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">new motor vehicle</term>” means any motor vehicle the equitable or legal title to which has not previously been transferred to an ultimate purchaser.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/9" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">ultimate purchaser</term>” means, with respect to any item, the first person who purchases such item for purposes other than resale.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/10" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">manufacturer</term>” means any person who imports, manufactures, or assembles motor vehicles for sale.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/11" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">automotive fuel requirement</term>” means, with respect to automotive fuel for use in a motor vehicle or a class thereof, imported, manufactured, or assembled by a manufacturer, the minimum automotive fuel rating of such automotive fuel which such manufacturer recommends for the efficient operation of such motor vehicle, or a substantial portion of such class, without knocking.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/12" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">model year</term>” means a manufacturer's annual production period (as determined by the Federal Trade Commission) for motor vehicles or a class of motor vehicles. If a manufacturer has no annual production period, the term “<term style="-uslm-dtd:term">model year</term>” means the calendar year.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/13" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="13">(13) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">commerce</term>” means any trade, traffic, transportation, exchange, or other commerce—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s201/13/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">between any State and any place outside of such State; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s201/13/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">which affects any trade, transportation, exchange, or other commerce described in subparagraph (A).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/14" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="14">(14) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State</term>” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/15" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="15">(15) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">person</term>”, for purposes of applying any provision of the Federal Trade Commission Act with respect to any provision of this title, includes a partnership and a corporation.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/16" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="16">(16) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">distributor</term>” means any person who receives automotive fuel and distributes such automotive fuel to another person other than the ultimate purchaser.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/17" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="17">(17) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">automotive fuel rating</term>” means—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s201/17/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the octane rating of an automotive spark-ignition engine fuel; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s201/17/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">if provided for by the Federal Trade Commission by rule, the cetane rating of diesel fuel oils; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s201/17/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">another form of rating determined by the Federal Trade Commission, after consultation with the American Society for Testing and Materials, to be more appropriate to carry out the purposes of this title with respect to the automotive fuel concerned.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s201/18" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="18">(18)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s201/18/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">cetane rating</term>” means a measure, as indicated by a cetane index or cetane number, of the ignition quality of diesel fuel oil and of the influence of the diesel fuel oil on combustion roughness.</content></subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s201/18/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">cetane index</term>” and the term “<term style="-uslm-dtd:term">cetane number</term>” have the meanings determined in accordance with the test methods set forth in the American Society for Testing and Materials standard test methods—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tII/s201/18/B/i" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">designated D976 or D4737 in the case of cetane index; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tII/s201/18/B/ii" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">designated D613 in the case of cetane number,</content>
+                        </clause><continuation style="-uslm-dtd:continuation-text" role="subparagraph">(as in effect on the date of the enactment of this Act) and shall apply to any grade or type of diesel fuel oils defined in the specification of the American Society for Testing and Materials entitled “<term style="-uslm-dtd:quote">Standard Specification for Diesel Fuel Oils</term>” designated D975 (as in effect on such date).</continuation>
+                    </subparagraph>
+                </paragraph><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2821">15 U.S.C. 2821</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tII/s202" styleType="traditional">
+                <heading style="-uslm-dtd:header">automotive fuel rating testing and disclosure requirements </heading>
+                <num style="-uslm-dtd:enum" value="202">Sec. 202. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s202/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">Each refiner who distributes automotive fuel in commerce shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">determine the automotive fuel rating of any such fuel; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">if such refiner distributes such fuel to any person other than the ultimate purchaser, certify, consistent with the determination made under paragraph (1), the automotive fuel rating of such fuel.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s202/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">Each distributor who receives automotive fuel, the automotive fuel rating of which is certified to him under this section, and distributes such fuel in commerce to another person other than the ultimate purchaser shall certify to such other person the automotive fuel rating of such fuel consistent with—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the automotive fuel rating of such fuel certified to such distributor; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">if such distributor elects (at such time and in such manner as the Federal Trade Commission may, by rule, prescribe), the automotive fuel rating of such fuel determined by such distributor.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s202/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><chapeau style="-uslm-dtd:text">Each automotive fuel retailer shall display in a clear and conspicuous manner, at the point of sale to ultimate purchasers of automotive fuel, the automotive fuel rating of such automotive fuel, which automotive fuel rating shall be consistent with—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the automotive fuel rating of such automotive fuel certified to such retailer under subsection (a)(2) or (b);</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">if such automotive fuel retailer elects (at such time and in such manner as the Federal Trade Commission may, by rule, prescribe), the automotive fuel rating of such automotive fuel determined by such retailer for such automotive fuel; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">if such automotive fuel retailer is a refiner, the automotive fuel rating of such automotive fuel determined under subsection (a)(1).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s202/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">The Federal Trade Commission shall, by rule, prescribe requirements, applicable to any manufacturer of new motor vehicles, with respect to the display on each such motor vehicle (or representation in connection with the sale of each such motor vehicle) of the automotive fuel requirement of such motor vehicle.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s202/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">No person who distributes automotive fuel in commerce may make any representation respecting the antiknock characteristics of such fuel unless such representation fairly discloses the automotive fuel rating of such fuel consistent with such fuel's automotive fuel rating as certified to or determined by such person under the foregoing provisions of this section.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s202/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><chapeau style="-uslm-dtd:text">For purposes of this section the automotive fuel rating of any automotive fuel shall be considered to be certified, displayed, or represented by any person consistent with the rating certified to, or determined by, such person—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/f/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in the case of automotive fuel which consists of a blend of two or more quantities of automotive fuel of differing automotive fuel ratings, only if the rating certified, displayed, or represented by such person is the average of the automotive fuel ratings of such quantities, weighted by volume; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/f/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in the case of fuel which does not consist of such a blend, only if the automotive fuel rating such person certifies, displays, or represents is the same as the automotive fuel rating of such fuel certified to, or determined by such person.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s202/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><chapeau style="-uslm-dtd:text">The foregoing provisions of this section shall not apply—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/g/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">to any representation (by display at the point of sale or by other means) of any characteristics of any automotive fuel other than its automotive fuel rating; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/g/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">to the identification of automotive fuel at the point of sale (or elsewhere) by the trademark, trade name, or other identifying symbol or mark used in connection with the sale of such fuel.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s202/h" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><chapeau style="-uslm-dtd:text">Any display or representation, with respect to the automotive fuel requirement of any motor vehicle, required to be made under any rule prescribed under subsection (d) shall not create an express or implied warranty under State or Federal law that any automotive fuel the automotive fuel rating of which equals or exceeds such automotive fuel requirement—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/h/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">may be used as a fuel in all motor vehicles of the same class as that motor vehicle without knocking; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s202/h/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">may be used as a fuel in such motor vehicles under all operating conditions without knocking.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2822">15 U.S.C. 2822</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tII/s203" styleType="traditional">
+                <heading style="-uslm-dtd:header">administration and enforcement </heading>
+                <num style="-uslm-dtd:enum" value="203">Sec. 203. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s203/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Federal Trade Commission shall have procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements of this title and rules prescribed pursuant to the requirements of this title, to further define terms used in this title, and to require the filing of reports, the production of documents and the appearance of witnesses, as though the applicable terms and conditions of the Federal Trade Commission Act were part of this title.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s203/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s203/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">The Environmental Protection Agency—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s203/b/1/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">may conduct field testing of the automotive fuel rating of automotive fuel, comparing the tested automotive fuel rating of fuel at retail outlets with the automotive fuel rating posted at those outlets;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s203/b/1/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">shall certify the results of such tests and comparisons to the Federal Trade Commission; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s203/b/1/C" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">shall notify the Federal Trade Commission of any failure to post the automotive fuel rating.</content>
+                    </subparagraph></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s203/b/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">The Federal Trade Commission may enter into interagency agreements with the Environmental Protection Agency and such other agencies of the United States as the Commission determines appropriate for the purpose of assuring enforcement of the provisions of this title in a manner which is consistent with—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s203/b/2/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">minimizing the cost of field inspection and related compliance activities; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s203/b/2/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">reducing duplication of similar or related field compliance activities performed by agencies of the United States.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s203/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s203/c/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Not later than 6 months after the date of the enactment of this Act, the Federal Trade Commission shall, by rule, prescribe and make effective—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s203/c/1/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a uniform method by which a person may certify to another the automotive fuel rating of automotive fuel; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s203/c/1/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a uniform method of displaying the automotive fuel rating of automotive fuel at the point of sale to ultimate purchasers.</content>
+                    </subparagraph></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s203/c/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">Effective on and after the effective date of the rule prescribed under paragraph (1), any person—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s203/c/2/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">shall be considered to satisfy the requirements of subsection (a) or (b) of section 202, as the case may be, only if such person complies with the requirements established pursuant to paragraph (1)(A); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s203/c/2/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">shall be considered to satisfy the requirements of section 202(c) only if such person complies with the requirements established pursuant to paragraph (1)(B).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s203/c/3" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">The Federal Trade Commission may, by rule, prescribe procedures for determination of the automotive fuel rating of automotive fuel which varies from that prescribed in section 201. In prescribing such rule, the Commission—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s203/c/3/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">shall consider—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tII/s203/c/3/A/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">ease of administration and enforcement, and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/297/tII/s203/c/3/A/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">industry practices in the distribution and marketing of automotive fuel; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/297/tII/s203/c/3/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">may permit adjustments in such automotive fuel rating to take into account the effects of altitude, temperature, and humidity.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s203/c/4" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The Federal Trade Commission may, by rule, prescribe and make effective a method of determining the automotive fuel rating of automotive fuel which consists of a blend of two or more quantities of automotive fuel of different automotive fuel ratings if the Federal Trade Commission finds that the method prescribed more accurately reflects the automotive fuel rating of such blend than the weighted-average method set forth in section 202(f)(1). Effective on and after the effective date of such rule, any person shall be considered to satisfy the requirements of section 202(f)(1) only if such person utilizes the method prescribed in such rule (in lieu of the method set forth in section 202(f)(1)).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s203/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s203/d/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">except as provided in paragraph (2), rules under this title shall be prescribed in accordance with section 553 of title 5, United States Code, except that interested persons shall be afforded an opportunity to present written and oral data, views, and arguments with respect to any proposed rule.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s203/d/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Rules prescribed under subsection (c)(3) and section 202(d) shall be prescribed on the record after opportunity for an agency hearing.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tII/s203/d/3" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Section 18 of the Federal Trade Commission Act (15 U.S.C. 57a) shall not apply with respect to any rule prescribed under this title.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s203/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">It shall be an unfair or deceptive act or practice in or affecting commerce (within the meaning of section 5(a)(1) of the Federal Trade Commission Act) for any person to violate subsection (a), (b), (c), or (e) of section 202, or a rule prescribed under subsection (d) of such section. For purposes of the Federal Trade Commission Act (including any remedy or penalty applicable to any violation thereof) such a violation shall be treated as a violation of a rule under such Act respecting unfair or deceptive acts or practices.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2823">15 U.S.C. 2823</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tII/s204" styleType="traditional">
+                <heading style="-uslm-dtd:header">relationship of this title to state law </heading>
+                <num style="-uslm-dtd:enum" value="204">Sec. 204. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s204/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">To the extent that any provision of this title applies to any act or omission, no State or any political subdivision thereof may adopt or continue in effect, except as provided in subsection (b), any provision of law or regulation with respect to such act or omission, unless such provision of such law or regulation is the same as the applicable provision of this title.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s204/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">A State or political subdivision thereof may provide for any investigative or enforcement action, remedy, or penalty (including procedural actions necessary to carry out such investigative or enforcement actions, remedies, or penalties) with respect to any provision of law or regulation permitted by subsection (a).</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2824">15 U.S.C. 2824</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tII/s205" styleType="traditional">
+                <heading style="-uslm-dtd:header">effective dates </heading>
+                <num style="-uslm-dtd:enum" value="205">Sec. 205. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s205/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Sections 202(a)(1) and 203(b) shall take effect on the first day of the first calendar month beginning more than 6 months after the date of the enactment of this Act.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s205/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Subsections (a)(2), (b), (c), and (e) of section 202 shall take effect on the first day of the first calendar month beginning more than 9 months after such date of enactment.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tII/s205/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Rules under section 202(d) may not take effect earlier than the beginning of the first motor vehicle model year which begins more than 9 months after such date of enactment.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2825">15 U.S.C. 2825</ref><b>]</b> </editorialNote>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title; -uslm-dtd-nonstandard:all-cap 10 no-bold" identifier="/us/sComp/95/297/tIII" styleType="nonstandard">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">STUDY OF SUBSIDIZATION OF MOTOR FUEL MARKETING </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/95/297/tIII/s301" styleType="traditional-inline">
+                <num style="-uslm-dtd:enum" value="301">Sec. 301. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tIII/s301/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Secretary of Energy, in consultation with the Chairman of the Federal Trade Commission and the Attorney General and other agencies as the Secretary deems appropriate, shall conduct a study of the extent to which producers, refiners, and other suppliers of motor fuel subsidize the sale of such motor fuel at retail or wholesale with profits obtained from other operations.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tIII/s301/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">Such study shall examine—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tIII/s301/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the role of vertically integrated operations in facilitating subsidization of sales of motor fuel at wholesale or retail;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tIII/s301/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the extent to which such subsidization is predatory and presents a threat to competition;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tIII/s301/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the profitability of various segments of the petroleum industry;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tIII/s301/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the impact of prohibiting such subsidization on the competitive viability of various segments of the petroleum industry, on prices of motor fuel to consumers and on the health and structure of the petroleum industry as a whole; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tIII/s301/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">such other matters as the Secretary considers appropriate.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tIII/s301/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">In conducting the study required by this section, the Secretary shall give appropriate notice and afford interested persons an opportunity to present written and oral data, views and arguments concerning such study.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tIII/s301/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tIII/s301/d/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Secretary shall report the results of the study required by this section, together with such recommendations for legislative action and such statistical evidence as he deems appropriate to the Congress on or before the expiration of the eighteenth month after the date of enactment of this section.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tIII/s301/d/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">If the President determines that interim measures are necessary and appropriate to maintain the competitive viability of the marketing sector of the petroleum industry during Congressional consideration of the recommendations contained in the report submitted under paragraph (1), he shall prescribe, by rule, in accordance with the procedures set forth in section 523(a) of the Energy Policy and Conservation Act (42 U.S.C. 6393) such interim measures.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tIII/s301/d/3" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">No interim measure proposed by the President under this section may be submitted after January 1, 1980, and the effect of such measure if approved by the Congress under paragraph (4) may not extend beyond 18 months after such Congressional approval.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/297/tIII/s301/d/4" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Such interim measure shall not take effect unless approved by both Houses of Congress as if it were a contingency plan under section 552 of the Energy Policy and Conservation Act (42 U.S.C. 6422): <i style="-uslm-dtd:italic">Provided, </i>That the 60-day period referred to in such section shall be extended to 90 days for purposes of this section.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/297/tIII/s301/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s2841">15 U.S.C. 2841</ref><b>]</b> </editorialNote>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

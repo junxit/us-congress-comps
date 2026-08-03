@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Flood Level Observation, Operations, and Decision Support Act</dc:title>
+        <citableAs>Public Law 117–316</citableAs>
+        <citableAsShortTitle>Flood Level Observation, Operations, and Decision Support Act</citableAsShortTitle>
+        <docNumber>316</docNumber>
+        <currentThroughPublicLaw>117–316</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2023-03-17</processedDate>
+        <containsShortTitle>Flood Level Observation, Operations, and Decision Support Act</containsShortTitle>
+        <containsShortTitle>FLOODS Act</containsShortTitle>
+        <property role="fileId">17358</property>
+        <congress>117</congress>
+        <approvedDate>2022-12-27</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Flood Level Observation, Operations, and Decision Support Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 117–316</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 117-316. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To establish a national integrated flood information system within the National Oceanic and Atmospheric Administration, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section identifier="/us/sComp/117/316/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection identifier="/us/sComp/117/316/s1/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9701">15 U.S.C. 9701 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Flood Level Observation, Operations, and Decision Support Act</shortTitle>” or the “<shortTitle style="-uslm-dtd:quote">FLOODS Act</shortTitle>”.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s1/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 2.</designator><label> Definitions.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 3.</designator><label> National Integrated Flood Information System.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 4.</designator><label> Observations and modeling for total water prediction.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 5.</designator><label> Service coordination hydrologists at River Forecast Centers of the National Weather Service.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 6.</designator><label> Improving National Oceanic and Atmospheric Administration communication of future flood risks and hazardous flash flood events.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 7.</designator><label> Freshwater monitoring along the coast.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 8.</designator><label> Tornado warning improvement.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 9.</designator><label> Hurricane forecast improvement program.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 10.</designator><label> Weather and water research and development planning.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 11.</designator><label> Forecast communication coordinators.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 12.</designator><label> Estimates of precipitation frequency in the United States.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 13.</designator><label> Interagency Committee on Water Management and Infrastructure.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 14.</designator><label> National Weather Service hydrologic research fellowship program.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 15.</designator><label> Identification and support of consistent, Federal set of forward-looking, long-term meteorological information.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 16.</designator><label> Gap analysis on availability of snow-related data to assess and predict flood and flood impacts.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 17.</designator><label> Availability to the public of flood-related data.</label></referenceItem></toc></content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/316/s2" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9701">15 U.S.C. 9701</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">In this Act:</chapeau>
+            <paragraph identifier="/us/sComp/117/316/s2/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Administrator.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Administrator</term>” means the Administrator of the National Oceanic and Atmospheric Administration.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/316/s2/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">State.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">State</term>” means each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.</content>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/117/316/s3" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9702">15 U.S.C. 9702</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL INTEGRATED FLOOD INFORMATION SYSTEM. </heading>
+            <subsection identifier="/us/sComp/117/316/s3/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Administrator shall establish a system, to be known as the “National Integrated Flood Information System”, 
+to better inform and provide for more timely decision making to reduce flood-related effects and costs.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s3/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">System Functions.—</heading><chapeau style="-uslm-dtd:text">The Administrator, through the National Integrated Flood Information System, shall—</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s3/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">provide an effective flood early warning system that—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s3/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">collects and integrates information on the key indicators of floods and flood impacts, including streamflow, reservoir release and diversion, precipitation, soil moisture, snow water equivalent, land cover, and evaporative demand;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s3/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">makes usable, reliable, and timely forecasts of floods;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s3/b/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">assesses the severity of flood conditions and effects;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s3/b/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">provides information described in subparagraph (A), forecasts described in subparagraph (B), and assessments described in subparagraph (C) at the national, regional, and local levels, as appropriate; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s3/b/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><chapeau style="-uslm-dtd:text">communicates flood forecasts, flood conditions, and flood impacts to appropriate entities engaged in flood planning, preparedness, and response and post-event flood extent, including—</chapeau>
+                        <clause identifier="/us/sComp/117/316/s3/b/1/E/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">decision makers at the Federal, State, local, and Tribal levels of government; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s3/b/1/E/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the public;</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s3/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">provide timely data, information, and products that reflect differences in flood conditions among localities, regions, watersheds, and States;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s3/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">coordinate and integrate, through interagency agreements as practicable, Federal research and monitoring in support of the flood early warning information system provided under paragraph (1);</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s3/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">use existing forecasting and assessment programs and partnerships;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s3/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">make improvements in seasonal precipitation and temperature, subseasonal precipitation and temperature, and flood water prediction; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s3/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><chapeau style="-uslm-dtd:text">continue ongoing research and monitoring activities relating to floods, including research activities relating to—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s3/b/6/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the prediction, length, severity, and impacts of floods and improvement of the accuracy, timing, and specificity of flash flood warnings;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s3/b/6/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the role of extreme weather events and climate variability in floods; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s3/b/6/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">how water travels over and through surfaces.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s3/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Partnerships.—</heading><chapeau style="-uslm-dtd:text">The Administrator, through the National Integrated Flood Information System, may—</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s3/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">engage with the private sector to improve flood monitoring, forecasts, land and topography data, and communication, if the Administrator determines that such engagement is appropriate, cost effective, and beneficial to the public and decision makers described in subsection (b)(1)(E)(i);</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s3/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">facilitate the development of 1 or more academic cooperative partnerships to assist in carrying out the functions of the National Integrated Flood Information System described in subsection (b);</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s3/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">use and support monitoring by citizen scientists, including by developing best practices to facilitate maximum data integration, as the Administrator considers appropriate;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s3/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">engage with, and leverage the resources of, entities within the National Oceanic and Atmospheric Administration in existence as of the date of the enactment of this Act, such as the National Weather Service with respect to forecast and warning functions, the National Integrated Drought Information System, the Regional Climate Center, and the National Mesonet Program, to improve coordination of water monitoring, forecasting, and management; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s3/c/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">engage with and support water monitoring by the United States Geological Survey—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s3/c/5/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to improve the availability and continuity of streamflow data at critical locations through the deployment of rapid deployment gages and the flood-hardening of at-risk streamflow gauges; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s3/c/5/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to increase storm surge monitoring data through the deployment of additional storm surge sensors.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s3/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">In developing and maintaining the National Integrated Flood Information System, the Administrator shall consult with relevant Federal, State, local, and Tribal government agencies, research institutions, and the private sector.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s3/e" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Cooperation From Other Federal Agencies.—</heading><content style="-uslm-dtd:text">Each Federal agency shall cooperate as appropriate with the Administrator in carrying out this section.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/316/s4" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9703">15 U.S.C. 9703</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">OBSERVATIONS AND MODELING FOR TOTAL WATER PREDICTION. </heading>
+            <subsection identifier="/us/sComp/117/316/s4/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Partnerships.—</heading>
+                <paragraph identifier="/us/sComp/117/316/s4/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Administrator shall establish partnerships with 1 or more institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) to evaluate observations that would improve total water prediction.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s4/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Priority observations.—</heading><content style="-uslm-dtd:text">In establishing partnerships under paragraph (1), the Administrator shall prioritize partnerships to evaluate observations from uncrewed aerial systems.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s4/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Maintained Observations.—</heading><content style="-uslm-dtd:text">If the Administrator determines that incorporating additional observations improves total water prediction, the Administrator shall, to the extent practicable, continue incorporating those observations.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s4/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Modeling Improvements.—</heading><content style="-uslm-dtd:text">The Administrator shall advance geographic coverage, resolution, skill, and efficiency of coastal oceanographic modeling, including efforts that improve the coupling of and interoperability between hydrological models and coastal ocean models.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/316/s5" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9704">15 U.S.C. 9704</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SERVICE COORDINATION HYDROLOGISTS AT RIVER FORECAST CENTERS OF THE NATIONAL WEATHER SERVICE. </heading>
+            <subsection identifier="/us/sComp/117/316/s5/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Designation of Service Coordination Hydrologists.—</heading>
+                <paragraph identifier="/us/sComp/117/316/s5/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director of the National Weather Service (in this section referred to as the “Director”) shall designate at least 1 service coordination hydrologist at each River Forecast Center of the National Weather Service.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s5/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Performance by other employees.—</heading><content style="-uslm-dtd:text">Performance of the responsibilities outlined in this section is not limited to the service coordination hydrologist position.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s5/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Primary Role of Service Coordination Hydrologists.—</heading><content style="-uslm-dtd:text">The primary role of the service coordination hydrologist shall be to carry out the responsibilities required by this section.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s5/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Responsibilities.—</heading>
+                <paragraph identifier="/us/sComp/117/316/s5/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Subject to paragraph (2), consistent with the analysis described in section 409 of the Weather Research and Forecasting Innovation Act of 2017 (Public Law 115-25; 131 Stat. 112), and in order to increase impact-based decision support services, each service coordination hydrologist designated under subsection (a) shall, with respect to hydrology—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s5/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">be responsible for providing service to the geographic area of responsibility covered by the River Forecast Center at which the service coordination hydrologist is employed to help ensure that users of products and services of the National Weather Service can respond effectively to improve outcomes from flood events;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s5/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">liaise with users of products and services of the National Weather Service, such as the public, academia, media outlets, users in the hydropower, transportation, recreation, and agricultural communities, and forestry, land, fisheries, and water management interests, to evaluate the adequacy and usefulness of the products and services of the National Weather Service;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s5/c/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">collaborate with such River Forecast Centers and Weather Forecast Offices and Federal, State, local, and Tribal government agencies as the Director considers appropriate in developing, proposing, and implementing plans to develop, modify, or tailor products and services of the National Weather Service to improve the usefulness of such products and services;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s5/c/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">engage in interagency partnerships with Federal, State, local, and Tribal government agencies to explore the use of forecast-informed reservoir operations to reduce flood risk;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s5/c/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">ensure the maintenance and accuracy of flooding call lists, appropriate office flooding policy or procedures, and other flooding information or dissemination methodologies or strategies; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s5/c/1/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">work closely with Federal, State, local, and Tribal emergency and floodplain management agencies, and other agencies relating to disaster management, to ensure a planned, coordinated, and effective preparedness and response effort.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s5/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Other staff.—</heading><content style="-uslm-dtd:text">The Director may assign a responsibility set forth in paragraph (1) to such other staff as the Director considers appropriate to carry out such responsibility.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s5/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Additional Responsibilities.—</heading>
+                <paragraph identifier="/us/sComp/117/316/s5/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Subject to paragraph (2), a service coordination hydrologist designated under subsection (a) may, with respect to hydrology—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s5/d/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">work with a State agency to develop plans for promoting more effective use of products and services of the National Weather Service throughout the State;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s5/d/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">identify priority community preparedness objectives;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s5/d/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">develop plans to meet the objectives identified under subparagraph (B); and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s5/d/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">conduct flooding event preparedness planning and citizen education efforts with and through various State, local, and Tribal government agencies and other disaster management-related organizations.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s5/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Other staff.—</heading><content style="-uslm-dtd:text">The Director may assign a responsibility set forth in paragraph (1) to such other staff as the Director considers appropriate to carry out such responsibility.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/316/s6" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9705">15 U.S.C. 9705</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">IMPROVING NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION COMMUNICATION OF FUTURE FLOOD RISKS AND HAZARDOUS FLASH FLOOD EVENTS. </heading>
+            <subsection identifier="/us/sComp/117/316/s6/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Assessment of Flash Flood Watches and Warnings.—</heading>
+                <paragraph identifier="/us/sComp/117/316/s6/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Not later than 2 years after the date of the enactment of this Act, the Administrator shall—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">conduct an assessment of—</chapeau>
+                        <clause identifier="/us/sComp/117/316/s6/a/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the flash flood watches and warnings of the National Weather Service; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s6/a/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the information delivery to support preparation and responses to floods; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">submit to Congress a report on the findings of the Administrator with respect to the assessment required by subparagraph (A).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s6/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Elements.—</heading><chapeau style="-uslm-dtd:text">The assessment required by paragraph (1)(A) shall include the following:</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">An evaluation of whether the watches, warnings, and information described in paragraph (1)(A) effectively—</chapeau>
+                        <clause identifier="/us/sComp/117/316/s6/a/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">communicate risk to the general public;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s6/a/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">inform action to prevent loss of life and property;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s6/a/2/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">inform action to support flood preparation and response; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s6/a/2/A/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">deliver information in a manner designed to lead to appropriate action.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">Subject to subsection (b)(2), such recommendations as the Administrator may have for—</chapeau>
+                        <clause identifier="/us/sComp/117/316/s6/a/2/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">legislative and administrative action to improve the watches and warnings described in paragraph (1)(A)(i); and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s6/a/2/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">such research as the Administrator considers necessary to address the focus areas described in paragraph (3).</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s6/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Focus areas.—</heading><chapeau style="-uslm-dtd:text">The assessment required by paragraph (1)(A) shall focus on the following areas:</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Ways to communicate the risks posed by hazardous flash flood events to the public that are most likely to result in informed decision making regarding the mitigation of those risks.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Ways to provide actionable geographic information to the recipient of a watch or warning for a flash flood, including partnering with emergency response agencies, as appropriate.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Evaluation of information delivery to support the preparation for and response to floods.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s6/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Consultation.—</heading><chapeau style="-uslm-dtd:text">In conducting the assessment required by paragraph (1)(A), the Administrator shall consult with—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">individuals in the academic sector, including individuals in the field of social and behavioral sciences;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">other weather services;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">media outlets and other entities that distribute the watches and warnings described in paragraph (1)(A)(i);</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/4/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">floodplain managers and emergency planners and responders, including State, local, and Tribal emergency management agencies;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/4/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">other government users of the watches and warnings described in paragraph (1)(A)(i), including the Federal Highway Administration; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/a/4/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">such other Federal agencies as the Administrator determines rely on watches and warnings regarding flash floods for operational decisions.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s6/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">National academy of sciences.—</heading><content style="-uslm-dtd:text">The Administrator shall engage with the National Academy of Sciences, as the Administrator considers necessary and practicable, including by contracting with the National Research Council to review the scientific and technical soundness of the assessment required by paragraph (1)(A), including the recommendations under paragraph (2)(B).</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s6/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Methodologies.—</heading><content style="-uslm-dtd:text">In conducting the assessment required by paragraph (1)(A), the Administrator shall use such methodologies as the Administrator considers are generally accepted by the weather enterprise, including social and behavioral sciences.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s6/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Improvements to Flash Flood Watches and Warnings.—</heading>
+                <paragraph identifier="/us/sComp/117/316/s6/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Based on the assessment required by subsection (a)(1)(A), the Administrator shall make such improvements to the watches and warnings described in that subsection as the Administrator considers necessary—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s6/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to improve the communication of the risks posed by hazardous flash flood events; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to provide actionable geographic information to the recipient of a watch or warning for a flash flood.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s6/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirements regarding recommendations.—</heading><chapeau style="-uslm-dtd:text">In conducting the assessment required by subsection (a)(1)(A), the Administrator shall ensure that any recommendation under subsection (a)(2)(B) that the Administrator considers a major change—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s6/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">is validated by social and behavioral science using a generalizable sample;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">accounts for the needs of various demographics, vulnerable populations, and geographic regions;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/b/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">responds to the needs of Federal, State, local, and Tribal government partners and media partners; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/b/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">accounts for necessary changes to federally operated watch and warning propagation and dissemination infrastructure and protocols.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s6/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s6/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Watch; warning.—</heading>
+                    <subparagraph identifier="/us/sComp/117/316/s6/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Except as provided in subparagraph (B), the terms “watch” and “warning”, with respect to a hazardous flash flood event, mean products issued by the National Oceanic and Atmospheric Administration, intended for use by the general public—</chapeau>
+                        <clause identifier="/us/sComp/117/316/s6/c/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">to alert the general public to the potential for or presence of the event; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s6/c/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">to inform action to prevent loss of life and property.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s6/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Exclusion.—</heading><content style="-uslm-dtd:text">The terms “watch” and “warning” do not include technical or specialized meteorological and hydrological forecasts, outlooks, or model guidance products.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s6/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Weather enterprise.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">weather enterprise</quotedText>” has the meaning given that term in section 2 of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8501).</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/316/s7" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9706">15 U.S.C. 9706</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FRESHWATER MONITORING ALONG THE COAST. </heading>
+            <subsection identifier="/us/sComp/117/316/s7/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Data Availability Assessment.—</heading><chapeau style="-uslm-dtd:text">The Administrator shall assess the availability of short- and long-term data on large-scale freshwater flooding into oceans, bays, and estuaries, including data on—</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s7/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">flow rate, including discharge;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s7/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">conductivity;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s7/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">oxygen concentration;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s7/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">nutrient load;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s7/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">water temperature; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s7/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">sediment load.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s7/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Data Needs Assessment.—</heading><content style="-uslm-dtd:text">The Administrator shall assess the need for additional data to assess and predict the effect of the flooding and freshwater discharge described in subsection (a).</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s7/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Inventory of Data Needs.—</heading><content style="-uslm-dtd:text">Based on the assessments required by subsections (a) and (b), the Administrator shall create an inventory of data needs with respect to the flooding and freshwater discharge described in subsections (a) and (b).</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s7/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Planning.—</heading><content style="-uslm-dtd:text">In planning for the collection of additional data necessary for ecosystem-based modeling of the effect of the flooding and freshwater discharge described in subsections (a) and (b), the Administrator shall use the inventory created under subsection (c).</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/316/s8" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><heading style="-uslm-dtd:header">TORNADO WARNING IMPROVEMENT. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">Section 103 of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8513) is amended—</chapeau>
+            <paragraph identifier="/us/sComp/117/316/s8/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/316/s8/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after subsection (b) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Innovative Observations.—</heading><content style="-uslm-dtd:text">The Under Secretary shall ensure that the program periodically examines the value of incorporating innovative observations, such as acoustic or infrasonic measurements, observations from phased array radars, and observations from mesonets, with respect to the improvement of tornado forecasts, predictions, and warnings.”</content>
+                </subsection></quotedContent>.</content>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/117/316/s9" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="9">SEC. 9. </num><heading style="-uslm-dtd:header">HURRICANE FORECAST IMPROVEMENT PROGRAM. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">Section 104(b) of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8514(b)) is amended—</chapeau>
+            <paragraph identifier="/us/sComp/117/316/s9/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (2), by striking “<quotedText style="-uslm-dtd:quote">; and</quotedText>” and inserting a semicolon;</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/316/s9/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (3), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/316/s9/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">evaluating and incorporating, as appropriate, innovative observations, including acoustic or infrasonic measurements.”</content>
+                </paragraph></quotedContent>.</content>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/117/316/s10" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="10">SEC. 10. </num><heading style="-uslm-dtd:header">WEATHER AND WATER RESEARCH AND DEVELOPMENT PLANNING. </heading>
+            <content class="block" style="-uslm-dtd:text">Section 105(2) of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8515(2)) is amended by inserting “<quotedText style="-uslm-dtd:quote">and flood-event</quotedText>” after  “<quotedText style="-uslm-dtd:quote">operational weather</quotedText>”.</content>
+        </section>
+        <section identifier="/us/sComp/117/316/s11" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="11">SEC. 11. </num><heading style="-uslm-dtd:header">FORECAST COMMUNICATION COORDINATORS. </heading>
+            <content class="block" style="-uslm-dtd:text">Section 1762(f)(1) of the Food Security Act of 1985 (15 U.S.C. 8521(f)(1)) is amended, in the second sentence, by striking “<quotedText style="-uslm-dtd:quote">may</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">shall</quotedText>”.</content>
+        </section>
+        <section identifier="/us/sComp/117/316/s12" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="12">SEC. 12. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9707">15 U.S.C. 9707</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ESTIMATES OF PRECIPITATION FREQUENCY IN THE UNITED STATES. </heading>
+            <subsection identifier="/us/sComp/117/316/s12/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s12/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Freely associated states.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">Freely Associated States</quotedText>” means the Republic of Palau, the Republic of the Marshall Islands, and the Federated States of Micronesia, which have each entered into a Compact of Free Association with the United States.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s12/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">United states.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">United States</quotedText>” means the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s12/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Administrator shall establish a program, to be known as the “NOAA Precipitation Frequency Atlas of the United States”, to compile, estimate, analyze, and communicate the frequency of precipitation in the United States.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s12/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Functions.—</heading><chapeau style="-uslm-dtd:text">The NOAA Precipitation Frequency Atlas of the United States—</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s12/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">shall better inform the public and provide information on—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s12/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">temporal and spatial distribution of heavy precipitation;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s12/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">analyses of seasonality in precipitation; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s12/c/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">trends in annual maximum series data; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s12/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">may serve as the official source of the Federal Government on estimates of precipitation frequency and associated information with respect to the United States.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s12/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Requirements.—</heading>
+                <paragraph identifier="/us/sComp/117/316/s12/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Coverage.—</heading><content style="-uslm-dtd:text">The NOAA Precipitation Frequency Atlas of the United States shall include such estimates of the frequency of precipitation in the United States as the Administrator determines appropriate.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s12/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Frequency.—</heading><chapeau style="-uslm-dtd:text">Such estimates—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s12/d/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">shall be conducted not less frequently than once every 10 years; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s12/d/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">may be conducted more frequently if determined appropriate by the Administrator.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s12/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Publication.—</heading><chapeau style="-uslm-dtd:text">Such estimates and methodologies used to conduct such estimates shall be—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s12/d/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">subject to an appropriate, scientific process, as determined by the Administrator; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s12/d/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">published on a publicly accessible website of the National Oceanic and Atmospheric Administration.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s12/e" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Partnerships.—</heading><content style="-uslm-dtd:text">The Administrator may partner with other Federal agencies, members of the private sector, academic cooperative partnerships, or nongovernment associations to assist in carrying out the functions described in subsection (c).</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s12/f" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">In carrying out this section, the Administrator may consult with relevant Federal, State, local, Tribal, and Territorial government agencies, research institutions, and the private sector, as the Administrator determines necessary.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s12/g" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Coordination.—</heading><content style="-uslm-dtd:text">In carrying out this section, the Administrator may coordinate with other Federal agencies.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s12/h" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There are authorized to be appropriated to carry out this section, from amounts otherwise authorized to be appropriated to the Administrator to carry out this Act, $3,500,000 for each of fiscal years 2022 through 2030.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/316/s13" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="13">SEC. 13. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9708">15 U.S.C. 9708</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">INTERAGENCY COMMITTEE ON WATER MANAGEMENT AND INFRASTRUCTURE. </heading>
+            <subsection identifier="/us/sComp/117/316/s13/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">There is established a committee, to be known as the “Interagency Committee on Water Management and Infrastructure” (in this section referred to as the “Water Policy Committee”).</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s13/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Membership.—</heading><chapeau style="-uslm-dtd:text">The Water Policy Committee shall be composed of the following members:</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s13/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Administrator.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The Secretary of the Interior.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The Administrator of the Environmental Protection Agency.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The Secretary of Agriculture.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">The Secretary of Commerce.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">The Secretary of Energy.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/b/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">The Secretary of the Army.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/b/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">The heads of such other agencies as the co-chairs consider appropriate.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s13/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Co-Chairs.—</heading><content style="-uslm-dtd:text">The Water Policy Committee shall be co-chaired by the Secretary of the Interior and the Administrator of the Environmental Protection Agency.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s13/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Meetings.—</heading><content style="-uslm-dtd:text">The Water Policy Committee shall meet not less frequently than 6 times each year, at the call of the co-chairs.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s13/e" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">General Purpose and Duties.—</heading><chapeau style="-uslm-dtd:text">The Water Policy Committee shall ensure that agencies and departments across the Federal Government that engage in water-related matters, including water storage and supplies, water quality and restoration activities, water infrastructure, transportation on United States rivers and inland waterways, and water forecasting, work together where such agencies and departments have joint or overlapping responsibilities to—</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s13/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">improve interagency coordination among Federal agencies and departments on water resource management and water infrastructure issues;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">coordinate existing water-related Federal task forces, working groups, and other formal cross-agency initiatives, as appropriate;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">prioritize managing the water resources of the United States and promoting resilience of the water-related infrastructure of the United States, including—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s13/e/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">increasing water storage, water supply reliability, and drought resiliency;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s13/e/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">improving water quality, source water protection, and nutrient management;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s13/e/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">promoting restoration activities;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s13/e/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">improving water systems, including with respect to drinking water, desalination, water reuse, wastewater, and flood control; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s13/e/3/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">improving water data management, research, modeling, and forecasting;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/e/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">improve interagency coordination of data management, access, modeling, and visualization with respect to water-related matters;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/e/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">promote integrated planning for Federal investments in water-related infrastructure to enhance coordination and protect taxpayer investment; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s13/e/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">support workforce development and efforts to recruit, train, and retain professionals to operate and maintain essential drinking water, wastewater, flood control, hydropower, water delivery, and water storage facilities in the United States.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s13/f" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Cross-Agency Priority Research Needs.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, the Water Policy Committee shall develop and submit to Congress a list of research needs that includes needs for cross-agency research and coordination.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/316/s14" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="14">SEC. 14. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9709">15 U.S.C. 9709</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL WEATHER SERVICE HYDROLOGIC RESEARCH FELLOWSHIP PROGRAM. </heading>
+            <subsection identifier="/us/sComp/117/316/s14/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s14/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Assistant administrator.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">Assistant Administrator</quotedText>” means the Assistant Administrator for Weather Services of the National Oceanic and Atmospheric Administration.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s14/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Decision support services.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">decision support services</quotedText>” means information, including data and refined products, that supports water resources-related decision-making processes.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s14/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Institution of higher education.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">institution of higher education</quotedText>” has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s14/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">NOAA line offices.—</heading><chapeau style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">NOAA line offices</quotedText>” means the following offices of the National Oceanic and Atmospheric Administration:</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s14/a/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The National Ocean Service.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/a/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The National Environmental Satellite, Data, and Information Service.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/a/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">The National Marine Fisheries Service.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/a/4/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">The Office of Oceanic and Atmospheric Research.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/a/4/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">The Office of Marine and Aviation Operations.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s14/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Hydrologic Research Fellowship Program.—</heading>
+                <paragraph identifier="/us/sComp/117/316/s14/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">The Administrator shall establish a hydrologic research fellowship program (in this section referred to as the “program”) for qualified individuals.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s14/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Qualified individual.—</heading><chapeau style="-uslm-dtd:text">For purposes of this section, a qualified individual is an individual who is—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s14/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a citizen of the United States; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">enrolled in a research-based graduate program, at an institution of higher education, in a field that advances the research priorities developed by the Assistant Administrator under paragraph (7), such as—</chapeau>
+                        <clause identifier="/us/sComp/117/316/s14/b/2/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">hydrology;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s14/b/2/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">earth sciences;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s14/b/2/B/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">atmospheric sciences;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s14/b/2/B/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">computer sciences;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s14/b/2/B/v" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">engineering;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s14/b/2/B/vi" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">environmental sciences;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s14/b/2/B/vii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vii">(vii) </num><content style="-uslm-dtd:text">geosciences;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s14/b/2/B/viii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="viii">(viii) </num><content style="-uslm-dtd:text">urban planning; or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/117/316/s14/b/2/B/ix" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ix">(ix) </num><content style="-uslm-dtd:text">related social sciences.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s14/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Award guidelines.—</heading><content style="-uslm-dtd:text">Fellowships under the program shall be awarded pursuant to guidelines established by the Assistant Administrator.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s14/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Selection preference.—</heading><content style="-uslm-dtd:text">In selecting qualified individuals for participation in the program, the Assistant Administrator shall give preference to applicants from historically Black colleges and universities and minority-serving institutions.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s14/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Placement.—</heading><content style="-uslm-dtd:text">The program shall support the placement of qualified individuals in positions within the executive branch of the Federal Government where such individuals can address and advance the research priorities developed by the Assistant Administrator under paragraph (7).</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s14/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Fellowship term.—</heading><content style="-uslm-dtd:text">A fellowship under the program shall be for a period of up to 2 years.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s14/b/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Fellowship research priorities.—</heading><chapeau style="-uslm-dtd:text">The Assistant Administrator, in consultation with representatives from the NOAA line offices, the United States Geological Survey, the Federal Emergency Management Agency, and the Army Corps of Engineers, as appropriate, shall develop and publish priorities for the conduct of research by fellows, which may include the following:</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s14/b/7/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Advance the collaborative development of a flexible community-based water resources modeling system.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/b/7/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Apply artificial intelligence and machine learning capabilities to advance existing hydrologic modeling capabilities.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/b/7/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Support the evolution and integration of hydrologic modeling within an Earth Systems Modeling Framework.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/b/7/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">Improve visualizations of hydrologic model outputs.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/b/7/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">Advance the state of coupled freshwater and salt water modeling and forecasting capabilities.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/b/7/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">Advance understanding and process representation of water quality parameters.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/b/7/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">Advance the assimilation of in-situ and remotely sensed observations and data.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/b/7/H" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">Support the integration of social science to advance decision support services.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/b/7/I" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">Develop methods to study groundwater sustainability and estimate the efficiency of recharge management.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s14/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Direct Hiring.—</heading>
+                <paragraph identifier="/us/sComp/117/316/s14/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Authority.—</heading><chapeau style="-uslm-dtd:text">During fiscal year 2022 and any fiscal year thereafter, the head of any Federal agency may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of that title, to a position with the Federal agency a recipient of a fellowship under the program who—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/316/s14/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">earned a degree from a program described in subsection (b)(2)(B);</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">successfully fulfilled the requirements of the fellowship within the executive branch of the Federal Government; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/316/s14/c/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">meets qualification standards established by the Office of Personnel Management.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s14/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Exercise of authority.—</heading><content style="-uslm-dtd:text">The direct hire authority provided by this subsection shall be exercised with respect to an individual described in paragraph (1) not later than 2 years after the date on which the individual completed the fellowship under the program.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/316/s15" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="15">SEC. 15. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9710">15 U.S.C. 9710</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">IDENTIFICATION AND SUPPORT OF CONSISTENT, FEDERAL SET OF FORWARD-LOOKING, LONG-TERM METEOROLOGICAL INFORMATION. </heading>
+            <subsection identifier="/us/sComp/117/316/s15/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s15/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Extreme weather.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">extreme weather</quotedText>” includes observed or anticipated severe and unseasonable atmospheric conditions, including drought, heavy precipitation, hurricanes, tornadoes and other windstorms (including derechos), large hail, extreme heat, extreme cold, flooding, sustained temperatures or precipitation that deviate substantially from historical averages, and any other weather event that the Administrator determines qualifies as extreme weather.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s15/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Long-term.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">long-term</quotedText>” shall have such meaning as the Director of the National Institute of Standards and Technology, in consultation with the Administrator, considers appropriate for purposes of this section.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s15/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Other environmental trends.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">other environmental trends</quotedText>” means wildfires, coastal flooding, inland flooding, land subsidence, rising sea levels, and any other challenges relating to changes in environmental systems over time that the Administrator determines qualify as environmental challenges other than extreme weather.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s15/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Identification and Support of Consistent, Federal Set of Forward-looking, Long-term Meteorological Information.—</heading><content style="-uslm-dtd:text">The Administrator shall identify, and support research that enables, a consistent, Federal set of forward-looking, long-term meteorological information that models future extreme weather events, other environmental trends, projections, and up-to-date observations, including mesoscale information as determined appropriate by the Administrator.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/316/s16" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="16">SEC. 16. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9711">15 U.S.C. 9711</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">GAP ANALYSIS ON AVAILABILITY OF SNOW-RELATED DATA TO ASSESS AND PREDICT FLOOD AND FLOOD IMPACTS. </heading>
+            <subsection identifier="/us/sComp/117/316/s16/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Administrator, in consultation with the Department of Agriculture, the Department of the Interior, and the Army Corps of Engineers, shall conduct an analysis of gaps in the availability of snow-related data to assess and predict floods and flood impacts, including data on the following:</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s16/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Snow water equivalent.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s16/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Snow depth.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s16/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Snowpack temperature.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s16/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Snow and mixed-phase precipitation.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s16/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">Snow melt.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s16/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">Rain-snow line.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s16/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of this Act, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on—</chapeau>
+                <paragraph identifier="/us/sComp/117/316/s16/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the findings of the gap analysis required by subsection (a); and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/316/s16/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">opportunities for additional collaboration among Federal agencies to collect snow-related data to better assess and predict floods and flood impacts.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/316/s17" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="17">SEC. 17. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s9712">15 U.S.C. 9712</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">AVAILABILITY TO THE PUBLIC OF FLOOD-RELATED DATA. </heading>
+            <subsection identifier="/us/sComp/117/316/s17/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Administrator shall make flood-related data available to the public on the website of the National Oceanic and Atmospheric Administration.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/316/s17/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Cost.—</heading><content style="-uslm-dtd:text">The Administrator may make the data under subsection (a) freely accessible or available at a cost that does not exceed the cost of preparing the data.</content>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

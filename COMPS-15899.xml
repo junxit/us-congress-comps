@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>NIST Small Business Cybersecurity Act</dc:title>
+        <citableAs>Public Law 115–236, as amended</citableAs>
+        <citableAsShortTitle>NIST Small Business Cybersecurity Act</citableAsShortTitle>
+        <docNumber>236</docNumber>
+        <currentThroughPublicLaw>116–283</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>NIST Small Business Cybersecurity Act</containsShortTitle>
+        <property role="fileId">15899</property>
+        <congress>115</congress>
+        <approvedDate>2018-08-14</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">NIST Small Business Cybersecurity Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 115–236</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 116–283</currentThroughPublicLaw>, Enacted <date date="2021-01-01">January 1, 2021</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 115-236. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To require the Director of the National Institute of Standards and Technology to disseminate guidance to help reduce small business cybersecurity risks, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/115/236/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s271">15 U.S.C. 271 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">NIST Small Business Cybersecurity Act</shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/115/236/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s272">15 U.S.C. 272 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">IMPROVING CYBERSECURITY OF SMALL BUSINESSES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/236/s2/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Director.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">Director</quotedText>” means the Director of the National Institute of Standards and Technology.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Resources.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">resources</quotedText>” means guidelines, tools, best practices, standards, methodologies, and other ways of providing information.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Small business concern.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">small business concern</quotedText>” has the meaning given such term in section 3 of the Small Business Act (15 U.S.C. 632).</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/236/s2/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Small Business Cybersecurity.—</heading><chapeau style="-uslm-dtd:text">Section 2(e)(1)(A) of the National Institute of Standards and Technology Act (15 U.S.C. 272(e)(1)(A)) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in clause (vii), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by redesignating clause (viii) as clause (ix); and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by inserting after clause (vii) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="viii">“(viii) </num><content style="-uslm-dtd:text">consider small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)); and”</content>
+                    </clause></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/236/s2/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Dissemination of Resources for Small Businesses.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than one year after the date of the enactment of this Act, the Director, in carrying out section 2(e)(1)(A)(viii) of the National Institute of Standards and Technology Act, as added by subsection (b) of this Act, in consultation with the heads of other appropriate Federal agencies, shall disseminate clear and concise resources to help small business concerns identify, assess, manage, and reduce their cybersecurity risks.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">The Director shall ensure that the resources disseminated pursuant to paragraph (1)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/236/s2/c/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">are generally applicable and usable by a wide range of small business concerns;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/236/s2/c/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">vary with the nature and size of the implementing small business concern, and the nature and sensitivity  of the data collected or stored on the information systems or devices of the implementing small business concern;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/236/s2/c/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">include elements, that promote awareness of simple, basic controls, a workplace cybersecurity culture, and third-party stakeholder relationships, to assist small business concerns in mitigating common cybersecurity risks;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/236/s2/c/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">include case studies of practical application;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/236/s2/c/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">are technology-neutral and can be implemented using technologies that are commercial and off-the-shelf; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/236/s2/c/2/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">are based on international standards to the extent possible, and are consistent with the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">National cybersecurity awareness and education program.—</heading><content style="-uslm-dtd:text">The Director shall ensure that the resources disseminated under paragraph (1) are consistent with the efforts of the Director under section 303 of the Cybersecurity Enhancement Act of 2014 (Public Law 113–274).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Small business development center cyber strategy.—</heading><content style="-uslm-dtd:text">In carrying out paragraph (1), the Director, to the extent practicable, shall consider any methods included in the Small Business Development Center Cyber Strategy developed under section 1841(a)(3)(B) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114-328).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/c/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Voluntary resources.—</heading><content style="-uslm-dtd:text">The use of the resources disseminated under paragraph (1) shall be considered voluntary.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/c/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Updates.—</heading><content style="-uslm-dtd:text">The Director shall review and, if necessary, update the resources disseminated under paragraph (1) in accordance with the requirements under paragraph (2).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/236/s2/c/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Public availability.—</heading><content style="-uslm-dtd:text">The Director and the head of each Federal agency that so elects shall make prominently available on the respective agency’s public Internet website information about the resources and updates to the resources disseminated under paragraph (1). The Director and the heads shall each ensure that the information they respectively make prominently available is consistent, clear, and concise.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/236/s2/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Other Federal Cybersecurity Requirements.—</heading><content style="-uslm-dtd:text">Nothing in this section may be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/236/s2/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">This Act shall be carried out using funds otherwise authorized to be appropriated or made available to the National Institute of Standards and Technology.</content>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

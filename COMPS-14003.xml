@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>American Super Computing Leadership Act of 2017</dc:title>
+        <citableAs>Public Law 108–423, as amended</citableAs>
+        <citableAsShortTitle>American Super Computing Leadership Act of 2017</citableAsShortTitle>
+        <docNumber>423</docNumber>
+        <currentThroughPublicLaw>115–246</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>American Super Computing Leadership Act of 2017</containsShortTitle>
+        <property role="fileId">14003</property>
+        <congress>108</congress>
+        <approvedDate>2004-11-30</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">American Super Computing Leadership Act of 2017</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 108–423</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 115–246</currentThroughPublicLaw>, Enacted <date date="2018-09-28">September 28, 2018</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 108–423. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To require the Secretary of Energy to carry out a program of research and development to advance high-end computing.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/108/423/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s5501">15 U.S.C. 5501 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content style="-uslm-dtd:text" class="block">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">American Super Computing Leadership Act of 2017</inline></shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/108/423/s2" styleType="OLC" role="definitions">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s5541">15 U.S.C. 5541</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">In this Act:</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s2/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Department.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Department</term>” means the Department of Energy.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s2/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Exascale computing.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">exascale computing</term>” means computing through the use of a computing machine that performs near or above 10 to the 18th power operations per second.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s2/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">High-end computing system.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">high-end computing system</term>” means a computing system with performance that substantially exceeds that of systems that are commonly available for advanced scientific and engineering applications.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s2/4" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Leadership system.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Leadership System</term>” means a high-end computing system that is among the most advanced in the world in terms of performance in solving scientific and engineering problems.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s2/5" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Institution of higher education.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">institution of higher education</term>” has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s2/6" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Secretary</term>” means the Secretary of Energy.</content>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/108/423/s3" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s5542">15 U.S.C. 5542</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEPARTMENT OF ENERGY HIGH-END COMPUTING RESEARCH AND DEVELOPMENT PROGRAM. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/423/s3/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">carry out a coordinated program across the Department of research and development (including development of software and hardware) to advance high-end computing systems; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">develop and deploy high-end computing systems for advanced scientific and engineering applications.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/423/s3/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Program.—</heading><chapeau style="-uslm-dtd:text">The program shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">support both individual investigators and multidisciplinary teams of investigators;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">conduct research in multiple architectures;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">conduct research on software for high-end computing systems, including research on algorithms, programming environments, tools, languages, and operating systems for high-end computing systems, in collaboration with architecture development efforts;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">provide for sustained access by the research community in the United States to high-end computing systems and to Leadership Systems, including provision of technical support for users of such systems;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">support technology transfer to the private sector and others in accordance with applicable law; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/b/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">ensure that the high-end computing activities of the Department of Energy are coordinated with relevant activities in industry and with other Federal agencies, including the National Science Foundation, the Defense Advanced Research Projects Agency, the National Nuclear Security Administration, the National Security Agency, the National Institutes of Health, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the National Institutes of Standards and Technology, and the Environmental Protection Agency.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/423/s3/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Leadership Systems Facilities.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">As part of the program carried out under this Act, the Secretary shall establish and operate 1 or more Leadership Systems facilities to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s3/c/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">conduct advanced scientific and engineering research and development using Leadership Systems; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s3/c/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">develop potential advancements in high-end computing system hardware and software.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Administration.—</heading><content style="-uslm-dtd:text">In carrying out this subsection, the Secretary shall provide to Leadership Systems, on a competitive, merit-reviewed basis, access to researchers in United States industry, institutions of higher education, national laboratories, and other Federal agencies.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/423/s3/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Exascale Computing Program.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall conduct a research program (referred to in this subsection as the “<quotedText style="-uslm-dtd:quote">Program</quotedText>”) for exascale computing, including the development of two or more exascale computing machine architectures, to promote the missions of the Department.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Execution.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s3/d/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">In carrying out the Program, the Secretary shall—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/423/s3/d/2/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">establish two or more National Laboratory partnerships with industry partners and institutions of higher education for the research and development of two or more exascale computing architectures across all applicable organizations of the Department;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/423/s3/d/2/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">conduct mission-related codesign activities in developing the exascale computing architectures under clause (i);</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/423/s3/d/2/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">develop such advancements in hardware and software technology as are required to fully realize the potential of an exascale production system in addressing Department target applications and solving scientific problems involving predictive modeling and simulation and large scale data analytics and management;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/423/s3/d/2/A/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">explore the use of exascale computing technologies to advance a broad range of science and engineering; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/423/s3/d/2/A/v" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">provide, as appropriate, on a competitive, merit-reviewed basis, access for researchers in industries in the United States, institutions of higher education, National Laboratories, and other Federal agencies to the exascale computing systems developed pursuant to clause (i).</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s3/d/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Selection of partners.—</heading><content style="-uslm-dtd:text">The Secretary shall select the partnerships with the computing facilities of the Department under subparagraph (A) through a competitive, peer-review process.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/d/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Codesign and application development.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s3/d/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/423/s3/d/3/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">carry out the Program through an integration of applications, computer science, applied mathematics, and computer hardware architecture using the partnerships established pursuant to paragraph (2) to ensure that, to the maximum extent practicable, two or more exascale computing machine architectures are capable of solving Department target applications and broader scientific problems, including predictive modeling and simulation and large scale data analytics and management; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/423/s3/d/3/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">conduct outreach programs to increase the readiness for the use of such platforms by domestic industries, including manufacturers.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s3/d/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall submit to Congress a report describing—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/423/s3/d/3/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">how the integration under subparagraph (A) is furthering application science data and computational workloads across application interests, including national security, material science, physical science, cybersecurity, biological science, the Materials Genome and BRAIN Initiatives of the President, advanced manufacturing, and the national electric grid; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/423/s3/d/3/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the roles and responsibilities of National Laboratories and industry, including the definition of the roles and responsibilities within the Department to ensure an integrated program across the Department.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/d/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Project review.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s3/d/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The exascale architectures developed pursuant to partnerships established pursuant to paragraph (2) shall be reviewed through a project review process.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s3/d/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 90 days after the date of enactment of this subsection, the Secretary shall submit to Congress a report on—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/423/s3/d/4/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the results of the review conducted under subparagraph (A); and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/423/s3/d/4/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the coordination and management of the Program to ensure an integrated research program across the Department.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s3/d/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Annual reports.—</heading><content style="-uslm-dtd:text">At the time of the budget submission of the Department for each fiscal year, the Secretary, in consultation with the members of the partnerships established pursuant to paragraph (2), shall submit to Congress a report that describes funding for the Program as a whole by functional element of the Department and critical milestones.</content>
+                </paragraph>
+            </subsection><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 4 was repealed by section 105(u) of Public Law 114–329.<b>]</b> </editorialNote>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/108/423/s5" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><heading style="-uslm-dtd:header">ASTRONOMY AND ASTROPHYSICS ADVISORY COMMITTEE. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/423/s5/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Amendments.—</heading><chapeau style="-uslm-dtd:text">Section 23 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n-9) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s5/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (a) and paragraphs (1) and (2) of subsection (b), by striking “<quotedText style="-uslm-dtd:quote">and the National Aeronautics and Space Administration</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">, the National Aeronautics and Space Administration, and the Department of Energy</quotedText>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s5/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subsection (b)(3), by striking “<quotedText style="-uslm-dtd:quote">Administration, and</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Administration, the Secretary of Energy, </quotedText>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s5/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in subsection (c)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s5/a/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraphs (1) and (2), by striking “<quotedText style="-uslm-dtd:quote">5</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">4</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s5/a/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (2), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s5/a/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by redesignating paragraph (3) as paragraph (4), and in that paragraph by striking “<quotedText style="-uslm-dtd:quote">3</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/423/s5/a/3/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">by inserting after paragraph (2) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">3 members selected by the Secretary of Energy;”</content>
+                        </paragraph></quotedContent>and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/423/s5/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in subsection (f), by striking “<quotedText style="-uslm-dtd:quote">the advisory bodies of other Federal agencies, such as the Department of Energy, which may engage in related research activities</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">other Federal advisory committees that advise Federal agencies that engage in related research activities</quotedText>”.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/423/s5/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1862n-9">42 U.S.C. 1862n-9 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by subsection (a) take effect on March 15, 2005.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/108/423/s6" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><heading style="-uslm-dtd:header">REMOVAL OF SUNSET PROVISION FROM SAVINGS IN CONSTRUCTION ACT OF 1996. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 14 of the Metric Conversion Act of 1975 (15 U.S.C. 205<i style="-uslm-dtd:italic">l</i>) is amended by striking subsection (e).</content>
+        </section>
+    </main>
+</statuteCompilation>

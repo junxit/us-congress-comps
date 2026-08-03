@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Digital Coast Act</dc:title>
+        <citableAs>Public Law 116–223</citableAs>
+        <citableAsShortTitle>Digital Coast Act</citableAsShortTitle>
+        <docNumber>223</docNumber>
+        <currentThroughPublicLaw>116–223</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Digital Coast Act</containsShortTitle>
+        <property role="fileId">15911</property>
+        <congress>116</congress>
+        <approvedDate>2020-12-18</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Digital Coast Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 116–223</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To require the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, to establish a constituent-driven program to provide a digital information platform capable of efficiently integrating coastal data with decision-support tools, training, and best practices and to support collection of priority coastal geospatial data to inform and improve local, State, regional, and Federal capacities to manage the coastal region, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/223/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s1451">16 U.S.C. 1451 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content style="-uslm-dtd:text" class="block">  This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Digital Coast Act</shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/223/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s1467">16 U.S.C. 1467 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FINDINGS. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">  Congress makes the following findings: </chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s2/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Digital Coast is a model approach for effective Federal partnerships with State and local government, nongovernmental organizations, and the private sector. </content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s2/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Access to current, accurate, uniform, and standards-based geospatial information, tools, and training to characterize the United States coastal region is critical for public safety and for the environment, infrastructure, and economy of the United States. </content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s2/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">More than half of all people of the United States (153,000,000) currently live on or near a coast and an additional 12,000,000 are expected in the next decade. </content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s2/4" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Coastal counties in the United States average 300 persons per square mile, compared with the national average of 98. </content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s2/5" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">On a typical day, more than 1,540 permits for construction of single-family homes are issued in coastal counties, combined with other commercial, retail, and institutional construction to support this population. </content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s2/6" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">Over half of the economic productivity of the United States is located within coastal regions. </content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s2/7" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="7">(7) </num><chapeau style="-uslm-dtd:text">Highly accurate, high-resolution remote sensing and other geospatial data play an increasingly important role in decision making and management of the coastal zone and economy, including for— </chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s2/7/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">flood and coastal storm surge prediction; </content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s2/7/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">hazard risk and vulnerability assessment; </content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s2/7/C" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">emergency response and recovery planning; </content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s2/7/D" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">community resilience to longer range coastal change; </content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s2/7/E" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">local planning and permitting;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s2/7/F" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">habitat and ecosystem health assessments; and </content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s2/7/G" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">landscape change detection. </content>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/223/s3" styleType="OLC" role="definitions">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s1467">16 U.S.C. 1467 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">  In this Act: </chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s3/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Coastal region.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">coastal region</term>” means the area of United States waters extending inland from the shoreline to include coastal watersheds and seaward to the territorial sea.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s3/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Coastal state.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">coastal State</term>” has the meaning given the term “<term style="-uslm-dtd:quote">coastal state</term>” in section 304 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453).</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s3/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Federal geographic data committee.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Federal Geographic Data Committee</term>” means the interagency committee that promotes the coordinated development, use, sharing, and dissemination of geospatial data on a national basis.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s3/4" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Remote sensing and other geospatial.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">remote sensing and other geospatial</term>” means collecting, storing, retrieving, or disseminating graphical or digital data depicting natural or manmade physical features, phenomena, or boundaries of the Earth and any information related thereto, including surveys, maps, charts, satellite and airborne remote sensing data, images, LiDAR, and services performed by professionals such as surveyors, photogrammetrists, hydrographers, geodesists, cartographers, and other such services.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s3/5" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term ““<term style="-uslm-dtd:quote">Secretary</term>” means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.</content>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/223/s4" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s1467">16 U.S.C. 1467</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ESTABLISHMENT OF THE DIGITAL COAST. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/223/s4/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall establish a program for the provision of an enabling platform that integrates geospatial data, decision-support tools, training, and best practices to address coastal management issues and needs. Under the program, the Secretary shall strive to enhance resilient communities, ecosystem values, and coastal economic growth and development by helping communities address their issues, needs, and challenges through cost-effective and participatory solutions. </content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Designation.—</heading><content style="-uslm-dtd:text">The program established under paragraph (1) shall be known as the “Digital Coast” (in this section referred to as the “program”). </content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/223/s4/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Program Requirements.—</heading><chapeau style="-uslm-dtd:text">In carrying out the program, the Secretary shall ensure that the program provides data integration, tool development, training, documentation, dissemination, and archive by— </chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">making data and resulting integrated products developed under this section readily accessible via the Digital Coast internet website of the National Oceanic and Atmospheric Administration, the GeoPlatform.gov and data.gov internet websites, and such other information distribution technologies as the Secretary considers appropriate; </content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">developing decision-support tools that use and display resulting integrated data and provide training on use of such tools;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">documenting such data to Federal Geographic Data Committee standards; and </content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">archiving all raw data acquired under this Act at the appropriate National Oceanic and Atmospheric Administration data center or such other Federal data center as the Secretary considers appropriate. </content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/223/s4/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Coordination.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall coordinate the activities carried out under the program to optimize data collection, sharing, and integration, and to minimize duplication by— </chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">consulting with coastal managers and decision makers concerning coastal issues, and sharing information and best practices, as the Secretary considers appropriate, with— </chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/c/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">coastal States; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/c/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">local governments; and </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/c/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">representatives of academia, the private sector, and nongovernmental organizations; </content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">consulting with other Federal agencies, including interagency committees, on relevant Federal activities, including activities carried out under the Ocean and Coastal Mapping Integration Act (33 U.S.C. 3501 et seq.), the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.), the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 et seq.), and the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892 et seq.); </content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">participating, pursuant to section 216 of the E-Government Act of 2002 (Public Law 107-347; 44 U.S.C. 3501 note), in the establishment of such standards and common protocols as the Secretary considers necessary to assure the interoperability of remote sensing and other geospatial data with all users of such information within— </chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/c/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the National Oceanic and Atmospheric Administration; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/c/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">other Federal agencies; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/c/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">State and local government; and </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/c/3/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the private sector; </content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">coordinating with, seeking assistance and cooperation of, and providing liaison to the Federal Geographic Data Committee pursuant to Office of Management and Budget Circular A-16 and Executive Order 12906 of April 11, 1994 (59 Fed. Reg. 17671), as amended by Executive Order 13286 of February 28, 2003 (68 Fed. Reg. 10619); and </content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/c/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">developing and maintaining a best practices document that sets out the best practices used by the Secretary in carrying out the program and providing such document to the United States Geological Survey, the Corps of Engineers, and other relevant Federal agencies. </content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/223/s4/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Filling Needs and Gaps.—</heading><chapeau style="-uslm-dtd:text">In carrying out the program, the Secretary shall— </chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">maximize the use of remote sensing and other geospatial data collection activities conducted for other purposes and under other authorities; </content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">focus on filling data needs and gaps for coastal management issues, including with respect to areas that, as of the date of the enactment of this Act, were underserved by coastal data and the areas of the Arctic that are under the jurisdiction of the United States;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/d/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">pursuant to the Ocean and Coastal Mapping Integration Act (33 U.S.C. 3501 et seq.), support continue improvement in existing efforts to coordinate the acquisition and integration of key data sets needed for coastal management and other purposes, including— </chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/d/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">coastal elevation data; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/d/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">land use and land cover data; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/d/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">socioeconomic and human use data; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/d/3/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">critical infrastructure data; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/d/3/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">structures data; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/d/3/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">living resources and habitat data; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/d/3/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">cadastral data; and </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/d/3/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">aerial imagery; and </content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/d/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">integrate the priority supporting data set forth under paragraph (3) with other available data for the benefit of the broadest measure of coastal resource management constituents and applications. </content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/223/s4/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Financial Agreements and Contracts.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/e/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">In carrying out the program, the Secretary— </chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/e/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">may enter into financial agreements to carry out the program, including— </chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/223/s4/e/1/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">support to non-Federal entities that participate in implementing the program; and </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/223/s4/e/1/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">grants, cooperative agreements, interagency agreements, contracts, or any other agreement on a reimbursable or non-reimbursable basis, with other Federal, tribal, State, and local governmental and nongovernmental entities; and </content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/e/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">may, to the maximum extent practicable, enter into such contracts with private sector entities for such products and services as the Secretary determines may be necessary to collect, process, and provide remote sensing and other geospatial data and products for purposes of the program. </content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/e/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Fees.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/e/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Assessment and collection.—</heading><content style="-uslm-dtd:text">The Secretary may, to the extent provided in advance in appropriations Acts, assess and collect fees for the conduct of any training, workshop, or conference that advances the purposes of the program. </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/e/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Amounts.—</heading><content style="-uslm-dtd:text">The amount of a fee under this paragraph may not exceed the sum of costs incurred, or expected to be incurred, by the Secretary as a direct result of the conduct of the training, workshop, or conference, including for subsistence expenses incidental to the training, workshop, or conference, as applicable. </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/223/s4/e/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Use of fees.—</heading><chapeau style="-uslm-dtd:text">Amounts collected by the Secretary in the form of fees under this paragraph shall be available to the extent and in such amounts as are provided in advance in appropriations Acts for— </chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/223/s4/e/2/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the costs incurred for conducting an activity described in subparagraph (A); or </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/223/s4/e/2/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the expenses described in subparagraph (B). </content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/223/s4/e/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Survey and mapping.—</heading><content style="-uslm-dtd:text">Contracts entered into under paragraph (1)(B) shall be considered “surveying and mapping” services as such term is used in and as such contracts are  awarded by the Secretary in accordance with the selection procedures in chapter 11 of title 40, United States Code. </content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/223/s4/f" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Ocean Economy.—</heading><content style="-uslm-dtd:text">The Secretary may establish publically available tools that track ocean and Great Lakes economy data for each coastal State. </content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/223/s4/g" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated to the Secretary $4,000,000 for each fiscal year 2021 through 2025 to carry out the program. </content>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

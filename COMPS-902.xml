@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>LOBBYING DISCLOSURE ACT OF 1995</dc:title>
+        <containsShortTitle>LOBBYING DISCLOSURE ACT OF 1995</containsShortTitle>
+        <currentThroughPublicLaw>117–286</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20220916.1</processedBy>
+        <processedDate>2023-04-21</processedDate>
+        <containsShortTitle>Lobbying Disclosure Act of 1995</containsShortTitle>
+        <property role="fileId">902</property>
+        <congress>104</congress>
+        <approvedDate>1995-12-19</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">LOBBYING DISCLOSURE ACT OF 1995<ref class="footnoteRef" idref="ID05815B3D2D9F44839F82EBCAAE9EF0DF" style="-uslm-dtd:footnote-ref">1</ref></property>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 117–286</currentThroughPublicLaw>, Enacted <date date="2022-12-27">December 27, 2022</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 104–65. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To provide for the disclosure of lobbying activities to influence the Federal Government, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/104/65/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1601">2 U.S.C. 1601 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content class="block" style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Lobbying Disclosure Act of 1995</inline></shortTitle>”.</content><footnote id="ID05815B3D2D9F44839F82EBCAAE9EF0DF" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><content><p style="-uslm-dtd:para; margin-left:1em">Title II of Public Law 110–81 provides for amendments to the Lobby Discolusure Act of 1995. Section 215 of such Public Law provides:</p>
+            <p style="-uslm-dtd:para">SEC. 215. EFFECTIVE DATE.</p>
+            <p style="-uslm-dtd:para; margin-left:1em">Except as otherwise provided in sections 203, 204, 206, 211, 212, and 213, the amendments made by this title shall apply with respect to registrations under the Lobbying Disclosure Act of 1995 having an effective date of January 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after January 1, 2008.</p></content></footnote>
+        </section>
+        <section identifier="/us/sComp/104/65/s2" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1601">2 U.S.C. 1601</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FINDINGS. </heading>
+            <subsection role="undesignated-level" style="-uslm-dtd:subsection" styleType="OLC"><chapeau style="-uslm-dtd:text">The Congress finds that—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s2/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">responsible representative Government requires public awareness of the efforts of paid lobbyists to influence the public decisionmaking process in both the legislative and executive branches of the Federal Government;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s2/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">existing lobbying disclosure statutes have been ineffective because of unclear statutory language, weak administrative and enforcement provisions, and an absence of clear guidance as to who is required to register and what they are required to disclose; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s2/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the effective public disclosure of the identity and extent of the efforts of paid lobbyists to influence Federal officials in the conduct of Government actions will increase public confidence in the integrity of Government.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s3" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1602">2 U.S.C. 1602</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <subsection role="undesignated-level" style="-uslm-dtd:subsection" styleType="OLC"><chapeau style="-uslm-dtd:text">As used in this Act:</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s3/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Agency.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">agency</term>” has the meaning given that term  in section 551(1) of title 5, United States Code.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Client.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">client</term>” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Covered executive branch official.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">covered executive branch official</term>” means—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s3/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the President;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Vice President;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">any officer or employee, or any other individual functioning in the capacity of such an officer or employee, in the Executive Office of the President;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">any officer or employee serving in a position in level I, II, III, IV, or V of the Executive Schedule, as designated by statute or Executive order;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/3/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">any member of the uniformed services whose pay grade is at or above O–7 under section 201 of title 37, United States Code; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/3/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">any officer or employee serving in a position of a confidential, policy-determining, policy-making, or policy-advocating character described in section 7511(b)(2)(B) of title 5, United States Code.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Covered legislative branch official.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">covered legislative branch official</term>” means—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s3/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a Member of Congress;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">an elected officer of either House of Congress;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">any employee of, or any other individual functioning in the capacity of an employee of—</chapeau>
+                        <clause identifier="/us/sComp/104/65/s3/4/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a Member of Congress;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/4/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a committee of either House of Congress;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/4/C/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the leadership staff of the House of Representatives or the leadership staff of the Senate;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/4/C/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">a joint committee of Congress; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/4/C/v" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">a working group or caucus organized to provide legislative services or other assistance to Members of Congress; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/4/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">any other legislative branch employee serving in a position described under section 13101(13) of title 5, United States Code.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Employee.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">employee</term>” means any individual who is an officer, employee, partner, director, or proprietor of a person or entity, but does not include—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s3/5/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">independent contractors; or</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/5/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">volunteers who receive no financial or other compensation from the person or entity for their services.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Foreign entity.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">foreign entity</term>” means a foreign principal (as defined in section 1(b) of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611(b)).</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Lobbying activities.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">lobbying activities</term>” means lobbying contacts and efforts in support of such contacts, including preparation and planning activities, research and other background work that is intended, at the time it is performed, for use in contacts, and coordination with the lobbying activities of others.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Lobbying contact.—</heading>
+                    <subparagraph identifier="/us/sComp/104/65/s3/8/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Definition.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">lobbying contact</term>” means any oral or written communication (including an electronic communication) to a covered executive branch official or a covered legislative branch official that is made on behalf of a client with regard to—</chapeau>
+                        <clause identifier="/us/sComp/104/65/s3/8/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the formulation, modification, or adoption of Federal legislation (including legislative proposals);</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the formulation, modification, or adoption of a Federal rule, regulation, Executive order, or any other program, policy, or position of the United States Government;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the administration or execution of a Federal program or policy (including the negotiation, award, or administration of a Federal contract, grant, loan, permit, or license); or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/A/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">the nomination or confirmation of a person for a position subject to confirmation by the Senate.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/8/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Exceptions.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">lobbying contact</term>” does not include a communication that is—</chapeau>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">made by a public official acting in the public official's official capacity;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">made by a representative of a media organization if the purpose of the communication is gathering and disseminating news and information to the public;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">made in a speech, article, publication or other material that is distributed and made available to the public, or through radio, television, cable television, or other medium of mass communication;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">made on behalf of a government of a foreign country or a foreign political party and disclosed under the Foreign Agents Registration Act of 1938 (22 U.S.C. 611 et seq.);</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/v" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">a request for a meeting, a request for the status of an action, or any other similar administrative request, if the request does not include an attempt to influence a covered executive branch official or a covered legislative branch official;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/vi" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">made in the course of participation in an advisory committee subject to chapter 10 of title 5, United States Code;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/vii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vii">(vii) </num><content style="-uslm-dtd:text">testimony given before a committee, subcommittee, or task force of the Congress, or submitted for inclusion in the public record of a hearing conducted by such committee, subcommittee, or task force;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/viii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="viii">(viii) </num><content style="-uslm-dtd:text">information provided in writing in response to an oral or written request by a covered executive branch official or a covered legislative branch official for specific information;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/ix" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ix">(ix) </num><content style="-uslm-dtd:text">required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/x" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="x">(x) </num><content style="-uslm-dtd:text">made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specifically designated in the notice to receive such communications;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/xi" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xi">(xi) </num><content style="-uslm-dtd:text">not possible to report without disclosing information, the unauthorized disclosure of which is prohibited by law;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/xii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xii">(xii) </num><chapeau style="-uslm-dtd:text">made to an official in an agency with regard to—</chapeau>
+                            <subclause identifier="/us/sComp/104/65/s3/8/B/xii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">a judicial proceeding or a criminal or civil law enforcement inquiry, investigation, or proceeding; or</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/104/65/s3/8/B/xii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">a filing or proceeding that the Government is specifically required by statute or regulation to maintain or conduct on a confidential basis,</content>
+                            </subclause><continuation role="clause" style="-uslm-dtd:continuation-text">if that agency is charged with responsibility for such proceeding, inquiry, investigation, or filing;</continuation>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/xiii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xiii">(xiii) </num><content style="-uslm-dtd:text">made in compliance with written agency procedures regarding an adjudication conducted by the agency under section 554 of title 5, United States Code, or substantially similar provisions;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/xiv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xiv">(xiv) </num><content style="-uslm-dtd:text">a written comment filed in the course of a public proceeding or any other communication that is made on the record in a public proceeding;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/xv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xv">(xv) </num><content style="-uslm-dtd:text">a petition for agency action made in writing and required to be a matter of public record pursuant to established agency procedures;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/xvi" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xvi">(xvi) </num><chapeau style="-uslm-dtd:text">made on behalf of an individual with regard to that individual's benefits, employment, or other personal matters involving only that individual, except that this clause does not apply to any communication with—</chapeau>
+                            <subclause identifier="/us/sComp/104/65/s3/8/B/xvi/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">a covered executive branch official, or</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/104/65/s3/8/B/xvi/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">a covered legislative branch official (other than the individual's elected Members of Congress or employees who work under such Members' direct supervision),</content>
+                            </subclause><continuation role="clause" style="-uslm-dtd:continuation-text">with respect to the formulation, modification, or adoption of private legislation for the relief of that individual;</continuation>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/xvii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xvii">(xvii) </num><content style="-uslm-dtd:text">a disclosure by an individual that is protected under the amendments made by the Whistleblower Protection Act of 1989, under chapter 4 of title 5, United States Code, or under another provision of law;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/xviii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xviii">(xviii) </num><chapeau style="-uslm-dtd:text">made by—</chapeau>
+                            <subclause identifier="/us/sComp/104/65/s3/8/B/xviii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">a church, its integrated auxiliary, or a convention or association of churches that is exempt from filing a Federal income tax return under paragraph 2(A)(i) of section 6033(a) of the Internal Revenue Code of 1986, or</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/104/65/s3/8/B/xviii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">a religious order that is exempt from filing a Federal income tax return under paragraph (2)(A)(iii) of such section 6033(a); and</content>
+                            </subclause>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/8/B/xix" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xix">(xix) </num><chapeau style="-uslm-dtd:text">between—</chapeau>
+                            <subclause identifier="/us/sComp/104/65/s3/8/B/xix/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">officials of a self-regulatory organization (as defined in section 3(a)(26) of the Securities Exchange Act) that is registered with or established by the Securities and Exchange Commission as required by that Act or a similar organization that is designated by or registered with the Commodities Future Trading Commission as provided under the Commodity Exchange Act; and</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/104/65/s3/8/B/xix/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the Securities and Exchange Commission or the Commodities Future Trading Commission, respectively;</content>
+                            </subclause><continuation role="clause" style="-uslm-dtd:continuation-text">relating to the regulatory responsibilities of such organization under that Act.</continuation>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Lobbying firm.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">lobbying firm</term>” means a person or entity that has 1 or more employees who are lobbyists on behalf of a client other than that person or entity. The term also includes a self-employed individual who is a lobbyist.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/10" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><heading style="-uslm-dtd:header">Lobbyist.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">lobbyist</term>” means any individual who is employed or retained by a client for financial or other compensation for services that include more than one lobbying contact, other than an individual whose lobbying activities constitute less than 20 percent of the time engaged in the services provided by such individual to that client over a 3-month period.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/11" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><heading style="-uslm-dtd:header">Media organization.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">media organization</term>” means a person or entity engaged in disseminating information to the general public through a newspaper, magazine, other publication, radio, television, cable television, or other medium of mass communication.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/12" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="12">(12) </num><heading style="-uslm-dtd:header">Member of congress.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Member of Congress</term>” means a Senator or a Representative in, or Delegate or Resident Commissioner to, the Congress.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/13" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="13">(13) </num><heading style="-uslm-dtd:header">Organization.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">organization</term>” means a person or entity other than an individual.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/14" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="14">(14) </num><heading style="-uslm-dtd:header">Person or entity.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">person or entity</term>” means any individual, corporation, company, foundation, association, labor organization, firm, partnership, society, joint stock company, group of organizations, or State or local government.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/15" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="15">(15) </num><heading style="-uslm-dtd:header">Public official.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">public official</term>” means any elected official, appointed official, or employee of—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s3/15/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">a Federal, State, or local unit of government in the United States other than—</chapeau>
+                        <clause identifier="/us/sComp/104/65/s3/15/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a college or university;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/15/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a government-sponsored enterprise (as defined in section 3(8) of the Congressional Budget and Impoundment Control Act of 1974);</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/15/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">a public utility that provides gas, electricity, water, or communications;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/15/A/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">a guaranty agency (as defined in section 435(j) of the Higher Education Act of 1965 (20 U.S.C. 1085(j))), including any affiliate of such an agency; or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s3/15/A/v" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">an agency of any State functioning as a student loan secondary market pursuant to section 435(d)(1)(F) of the Higher Education Act of 1965 (20 U.S.C. 1085(d)(1)(F));</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/15/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a Government corporation (as defined in section 9101 of title 31, United States Code);</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/15/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">an organization of State or local elected or appointed officials other than officials of an entity described in clause (i), (ii), (iii), (iv), or (v) of subparagraph (A);</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/15/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">an Indian tribe (as defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e));</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/15/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">a national or State political party or any organizational unit thereof; or</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s3/15/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">a national, regional, or local unit of any foreign government, or a group of governments acting together as an international organization.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s3/16" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="16">(16) </num><heading style="-uslm-dtd:header">State.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State</term>” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s4" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1603">2 U.S.C. 1603</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REGISTRATION OF LOBBYISTS. </heading>
+            <subsection identifier="/us/sComp/104/65/s4/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Registration.—</heading>
+                <paragraph identifier="/us/sComp/104/65/s4/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">General rule.—</heading><content style="-uslm-dtd:text">No later than 45 days after a lobbyist first makes a lobbying contact or is employed or retained to make a lobbying contact, whichever is earlier, or on the first business day after such 45th day if the 45th day is not a business day, such lobbyist (or, as provided under paragraph (2), the organization employing such lobbyist), shall register with the Secretary of the Senate and the Clerk of the House of Representatives.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s4/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Employer filing.—</heading><content style="-uslm-dtd:text">Any organization that has 1 or more employees who are lobbyists shall file a single registration under this section on behalf of such employees for each client on whose behalf the employees act as lobbyists.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s4/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Exemption.—</heading>
+                    <subparagraph identifier="/us/sComp/104/65/s4/a/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">General rule.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding paragraphs (1) and (2), a person or entity whose—</chapeau>
+                        <clause identifier="/us/sComp/104/65/s4/a/3/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">total income for matters related to lobbying activities on behalf of a particular client (in the case of a lobbying firm) does not exceed and is not expected to exceed $2,500; or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s4/a/3/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">total expenses in connection with lobbying activities (in the case of an organization whose employees engage in lobbying activities on its own behalf) do not exceed or are not expected to exceed $10,000,</content>
+                        </clause><continuation role="subparagraph" style="-uslm-dtd:continuation-text">(as estimated under section 5) in the quarterly period described in section 5(a) during which the registration would be made is not required to register under subsection (a) with respect to such client.</continuation>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s4/a/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Adjustment.—</heading><chapeau style="-uslm-dtd:text">The dollar amounts in subparagraph (A) shall be adjusted—</chapeau>
+                        <clause identifier="/us/sComp/104/65/s4/a/3/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">on January 1, 1997, to reflect changes in the Consumer Price Index (as determined by the Secretary of Labor) since the date of enactment of this Act; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s4/a/3/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">on January 1 of each fourth year occurring after January 1, 1997, to reflect changes in the Consumer Price Index (as determined by the Secretary of Labor) during the preceding 4-year period,</content>
+                        </clause><continuation role="subparagraph" style="-uslm-dtd:continuation-text">rounded to the nearest $500.</continuation>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s4/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Contents of Registration.—</heading><chapeau style="-uslm-dtd:text">Each registration under this section shall contain—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s4/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the name, address, business telephone number, and principal place of business of the registrant, and a general description of its business or activities;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s4/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the name, address, and principal place of business of the registrant's client, and a general description of its business or activities (if different from paragraph (1));</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s4/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">the name, address, and principal place of business of any organization, other than the client, that—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s4/b/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">contributes more than $5,000 to the registrant or the client in the quarterly period to fund the lobbying activities of the registrant; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s4/b/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">actively participates in the planning, supervision, or control of such lobbying activities;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s4/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">the name, address, principal place of business, amount of any contribution of more than $5,000 to the lobbying activities of the registrant, and approximate percentage of equitable ownership in the client (if any) of any foreign entity that—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s4/b/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">holds at least 20 percent equitable ownership in the client or any organization identified under paragraph (3);</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s4/b/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">directly or indirectly, in whole or in major part, plans, supervises, controls, directs, finances, or subsidizes the activities of the client or any organization identified under paragraph (3); or</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s4/b/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">is an affiliate of the client or any organization identified under paragraph (3) and has a direct interest in the outcome of the lobbying activity;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s4/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">a statement of—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s4/b/5/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the general issue areas in which the registrant expects to engage in lobbying activities on behalf of the client; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s4/b/5/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to the extent practicable, specific issues that have (as of the date of the registration) already been addressed or are likely to be addressed in lobbying activities; </content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s4/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">the name of each employee of the registrant who has acted or whom the registrant expects to act as a lobbyist on behalf of the client and, if any such employee has served as a covered executive branch official or a covered legislative branch official in the 20 years before the date on which the employee first acted as a lobbyist on behalf of the client, the position in which such employee served; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s4/b/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.</content>
+                </paragraph><continuation role="subsection" style="-uslm-dtd:continuation-text">No disclosure is required under paragraph (3)(B) if the organization that would be identified as affiliated with the client is listed on the client's publicly accessible Internet website as being a member of or contributor to the client, unless the organization in whole or in major part plans, supervises, or controls such lobbying activities. If a registrant relies upon the preceding sentence, the registrant must disclose the specific Internet address of the web page containing the information relied upon. Nothing in paragraph (3)(B) shall be construed to require the disclosure of any information about individuals who are members of, or donors to, an entity treated as a client by this Act or an organization identified under that paragraph.</continuation>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s4/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Guidelines for Registration.—</heading>
+                <paragraph identifier="/us/sComp/104/65/s4/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Multiple clients.—</heading><content style="-uslm-dtd:text">In the case of a registrant making lobbying contacts on behalf of more than 1 client, a separate registration under this section shall be filed for each such client.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s4/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Multiple contacts.—</heading><content style="-uslm-dtd:text">A registrant who makes more than 1 lobbying contact for the same client shall file a single registration covering all such lobbying contacts.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s4/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Termination of Registration.—</heading><chapeau style="-uslm-dtd:text">A registrant who after registration—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s4/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">is no longer employed or retained by a client to conduct lobbying activities, and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s4/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">does not anticipate any additional lobbying activities for such client,</content>
+                </paragraph><continuation role="subsection" style="-uslm-dtd:continuation-text">may so notify the Secretary of the Senate and the Clerk of the House of Representatives and terminate its registration.</continuation>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s5" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1604">2 U.S.C. 1604</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REPORTS BY REGISTERED LOBBYISTS. </heading>
+            <subsection identifier="/us/sComp/104/65/s5/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Quarterly Report.—</heading><content style="-uslm-dtd:text">No later than 20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under section 4, or on the first business day after such 20th day if the 20th day is not a business day, each registrant shall file a report with the Secretary of the Senate and the Clerk of the House of Representatives on its lobbying activities during such quarterly period. A separate report shall be filed for each client of the registrant.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s5/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Contents of Report.—</heading><chapeau style="-uslm-dtd:text">Each quarterly report filed under subsection (a) shall contain—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s5/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the name of the registrant, the name of the client, and any changes or updates to the information provided in the initial registration, including information under section 4(b)(3);</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s5/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">for each general issue area in which the registrant engaged in lobbying activities on behalf of the client during the quarterly period—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s5/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a list of the specific issues upon which a lobbyist employed by the registrant engaged in lobbying activities, including, to the maximum extent practicable, a list of bill numbers and references to specific executive branch actions;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s5/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a statement of the Houses of Congress and the Federal agencies contacted by lobbyists employed by the registrant on behalf of the client;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s5/b/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">a list of the employees of the registrant who acted as lobbyists on behalf of the client; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s5/b/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">a description of the interest, if any, of any foreign entity identified under section 4(b)(4) in the specific issues listed under subparagraph (A);</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s5/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in the case of a lobbying firm, a good faith estimate of the total amount of all income from the client (including any payments to the registrant by any other person for lobbying activities on behalf of the client) during the quarterly period, other than income for matters that are unrelated to lobbying activities;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s5/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in the case of a registrant engaged in lobbying activities on its own behalf, a good faith estimate of the total expenses that the registrant and its employees incurred in connection with lobbying activities during the quarterly period; </content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s5/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">for each client, immediately after listing the client, an identification of whether the client is a State or local government or a department, agency, special purpose district, or other instrumentality controlled by one or more State or local governments; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s5/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s5/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Estimates of Income or Expenses.—</heading><chapeau style="-uslm-dtd:text">For purposes of this section, estimates of income or expenses shall be made as follows:</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s5/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Estimates of amounts in excess of $5,000 shall be rounded to the nearest $10,000.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s5/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">In the event income or expenses do not exceed $5,000, the registrant shall include a statement that income or expenses totaled less than $5,000 for the reporting period.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s5/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Semiannual Reports on Certain Contributions.—</heading>
+                <paragraph identifier="/us/sComp/104/65/s5/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Not later than 30 days after the end of the semiannual period beginning on the first day of January and July of each year, or on the first business day after such 30th day if the 30th day is not a business day, each person or organization who is registered or is required to register under paragraph (1) or (2) of section 4(a), and each employee who is or is required to be listed as a lobbyist under section 4(b)(6) or subsection (b)(2)(C) of this section, shall file a report with the Secretary of the Senate and the Clerk of the House of Representatives containing—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s5/d/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the name of the person or organization;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s5/d/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the case of an employee, his or her employer;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s5/d/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the names of all political committees established or controlled by the person or organization;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s5/d/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the name of each Federal candidate or officeholder, leadership PAC, or political party committee, to whom aggregate contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization within the semiannual period, and the date and amount of each such contribution made within the semiannual period;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s5/d/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><chapeau style="-uslm-dtd:text">the date, recipient, and amount of funds contributed or disbursed during the semiannual period by the person or organization or a political committee established or controlled by the person or organization—</chapeau>
+                        <clause identifier="/us/sComp/104/65/s5/d/1/E/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">to pay the cost of an event to honor or recognize a covered legislative branch official or covered executive branch official;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s5/d/1/E/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">to an entity that is named for a covered legislative branch official, or to a person or entity in recognition of such official;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s5/d/1/E/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">to an entity established, financed, maintained, or controlled by a covered legislative branch official or covered executive branch official, or an entity designated by such official; or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s5/d/1/E/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">to pay the costs of a meeting, retreat, conference, or other similar event held by, or in the name of, 1 or more covered legislative branch officials or covered executive branch officials,</content>
+                        </clause><continuation role="subparagraph" style="-uslm-dtd:continuation-text">except that this subparagraph shall not apply if the funds are provided to a person who is required to report the receipt of the funds under section 304 of the Federal Election Campaign Act of 1971 (2 U.S.C. 434);</continuation>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s5/d/1/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the name of each Presidential library foundation, and each Presidential inaugural committee, to whom contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization, within the semiannual period, and the date and amount of each such contribution within the semiannual period; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s5/d/1/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><chapeau style="-uslm-dtd:text">a certification by the person or organization filing the report that the person or organization—</chapeau>
+                        <clause identifier="/us/sComp/104/65/s5/d/1/G/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">has read and is familiar with those provisions of the Standing Rules of the Senate and the Rules of the House of Representatives relating to the provision of gifts and travel; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/104/65/s5/d/1/G/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">has not provided, requested, or directed a gift, including travel, to a Member of Congress or an officer or employee of either House of Congress with knowledge that receipt of the gift would violate rule XXXV of the Standing Rules of the Senate or rule XXV of the Rules of the House of Representatives.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s5/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Definition.—</heading><content style="-uslm-dtd:text">In this subsection, the term “<term style="-uslm-dtd:term">leadership PAC</term>” has the meaning given such term in section 304(i)(8)(B) of the Federal Election Campaign Act of 1971.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s5/e" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Electronic Filing Required.—</heading><content style="-uslm-dtd:text">A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this Act.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s6" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1605">2 U.S.C. 1605</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DISCLOSURE AND ENFORCEMENT. </heading>
+            <subsection identifier="/us/sComp/104/65/s6/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Secretary of the Senate and the Clerk of the House of Representatives shall—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s6/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">provide guidance and assistance on the registration and reporting requirements of this Act and develop common standards, rules, and procedures for compliance with this Act;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s6/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">review, and, where necessary, verify and inquire to ensure the accuracy, completeness, and timeliness of registration and reports;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s6/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">develop filing, coding, and cross-indexing systems to carry out the purpose of this Act, including—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s6/a/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a publicly available list of all registered lobbyists, lobbying firms, and their clients; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s6/a/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">computerized systems designed to minimize the burden of filing and maximize public access to materials filed under this Act;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s6/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">make available for public inspection and copying at reasonable times the registrations and reports filed under this Act and, in the case of a report filed in electronic form under section 5(e), make such report available for public inspection over the Internet as soon as technically practicable after the report is so filed;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s6/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">retain registrations for a period of at least 6 years after they are terminated and reports for a period of at least 6 years after they are filed;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s6/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">compile and summarize, with respect to each quarterly period, the information contained in registrations and reports filed with respect to such period in a clear and complete manner;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s6/a/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">notify any lobbyist or lobbying firm in writing that may be in noncompliance with this Act;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s6/a/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">notify the United States Attorney for the District of Columbia that a lobbyist or lobbying firm may be in noncompliance with this Act, if the registrant has been notified in writing and has failed to provide an appropriate response within 60 days after notice was given under paragraph (7);</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s6/a/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><chapeau style="-uslm-dtd:text">maintain all registrations and reports filed under this Act, and make them available to the public over the Internet, without a fee or other access charge, in a searchable, sortable, and downloadable manner, to the extent technically practicable, that—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s6/a/9/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">includes the information contained in the registrations and reports;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s6/a/9/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">is searchable and sortable to the maximum extent practicable, including searchable and sortable by each of the categories of information described in section 4(b) or 5(b); and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s6/a/9/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">provides electronic links or other appropriate mechanisms to allow users to obtain relevant information in the database of the Federal Election Commission;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s6/a/10" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">retain the information contained in a registration or report filed under this Act for a period of 6 years after the registration or report (as the case may be) is filed; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s6/a/11" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">make publicly available, on a semiannual basis, the aggregate number of registrants referred to the United States Attorney for the District of Columbia for noncompliance as required by paragraph (8).</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s6/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Enforcement Report.—</heading>
+                <paragraph identifier="/us/sComp/104/65/s6/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">The Attorney General shall report to the congressional committees referred to in paragraph (2), after the end of each semiannual period beginning on January 1 and July 1, the aggregate number of enforcement actions taken by the Department of Justice under this Act during that semiannual period and, by case, any sentences imposed, except that such report shall not include the names of individuals, or personally identifiable information, that is not already a matter of public record.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s6/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Committees.—</heading><content style="-uslm-dtd:text">The congressional committees referred to in paragraph (1) are the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s7" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1606">2 U.S.C. 1606</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PENALTIES. </heading>
+            <subsection identifier="/us/sComp/104/65/s7/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Civil Penalty.—</heading><chapeau style="-uslm-dtd:text">Whoever knowingly fails to—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s7/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">remedy a defective filing within 60 days after notice of such a defect by the Secretary of the Senate or the Clerk of the House of Representatives; or</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s7/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">comply with any other provision of this Act;</content>
+                </paragraph><continuation role="subsection" style="-uslm-dtd:continuation-text">shall, upon proof of such knowing violation by a preponderance of the evidence, be subject to a civil fine of not more than $200,000, depending on the extent and gravity of the violation.</continuation>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s7/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Criminal Penalty.—</heading><content style="-uslm-dtd:text">Whoever knowingly and corruptly fails to comply with any provision of this Act shall be imprisoned for not more than 5 years or fined under title 18, United States Code, or both.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s8" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1607">2 U.S.C. 1607</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">RULES OF CONSTRUCTION. </heading>
+            <subsection identifier="/us/sComp/104/65/s8/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Constitutional Rights.—</heading><chapeau style="-uslm-dtd:text">Nothing in this Act shall be construed to prohibit or interfere with—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s8/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the right to petition the Government for the redress of grievances;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s8/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the right to express a personal opinion; or</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s8/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the right of association,</content>
+                </paragraph><continuation role="subsection" style="-uslm-dtd:continuation-text">protected by the first amendment to the Constitution.</continuation>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s8/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Prohibition of Activities.—</heading><content style="-uslm-dtd:text">Nothing in this Act shall be construed to prohibit, or to authorize any court to prohibit, lobbying activities or lobbying contacts by any person or entity, regardless of whether such person or entity is in compliance with the requirements of this Act.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s8/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Audit and Investigations.—</heading><content style="-uslm-dtd:text">Nothing in this Act shall be construed to grant general audit or investigative authority to the Secretary of the Senate or the Clerk of the House of Representatives.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s9" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="9">SEC. 9. </num><heading style="-uslm-dtd:header">AMENDMENTS TO THE FOREIGN AGENTS REGISTRATION ACT. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 9 provides for amendments to the Foreign Agents Registration Act of 1938 (22 U.S.C. 611 et seq.)<b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/104/65/s10" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="10">SEC. 10. </num><heading style="-uslm-dtd:header">AMENDMENTS TO THE BYRD AMENDMENT. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 10 provides for amendments to section 1352 of title 31, United States Code<b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/104/65/s11" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="11">SEC. 11. </num><heading style="-uslm-dtd:header">REPEAL OF CERTAIN LOBBYING PROVISIONS. </heading>
+            <subsection identifier="/us/sComp/104/65/s11/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Repeal of the Federal Regulation of Lobbying Act.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 11(a) provides for the repeal of the Federal Regulation of Lobbying Act (2 U.S.C. 261 et seq.) in its entirety<b>]</b> </editorialNote>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s11/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Repeal of Provisions Relating to Housing Lobbyist Activities.—</heading>
+                <paragraph identifier="/us/sComp/104/65/s11/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 11(b)(1) provides for the repeal of section 13 of the Department of Housing and Urban Development Act (42 U.S.C. 3537b)<b>]</b> </editorialNote>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s11/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 11(b)(2) provides for the repeal of section 536(d) of the Housing Act of 1949 (42 U.S.C. 1490p(d))<b>]</b> </editorialNote>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s12" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="12">SEC. 12. </num><heading style="-uslm-dtd:header">CONFORMING AMENDMENTS TO OTHER STATUTES. </heading>
+            <subsection identifier="/us/sComp/104/65/s12/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Amendment to Competitiveness Policy Council Act.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 12(a) provides for an amendment to section 5206(e) of the Competitiveness Policy Council Act (15 U.S.C. 4804(e))<b>]</b> </editorialNote>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s12/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Amendments to Title 18, United States Code.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 12(b) provides for amendments to section 219(a) of title 18, United States Code<b>]</b> </editorialNote>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s12/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Amendment to Foreign Service Act of 1980.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 12(c) provides for an amendment to section 602(c) of the Foreign Service Act of 1980 (22 U.S.C. 4002(c))<b>]</b> </editorialNote>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s13" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="13">SEC. 13. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1608">2 U.S.C. 1608</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SEVERABILITY. </heading>
+            <content class="block" style="-uslm-dtd:text">If any provision of this Act, or the application thereof, is held invalid, the validity of the remainder of this Act and the application of such provision to other persons and circumstances shall not be affected thereby.</content>
+        </section>
+        <section identifier="/us/sComp/104/65/s14" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="14">SEC. 14. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1609">2 U.S.C. 1609</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">IDENTIFICATION OF CLIENTS AND COVERED OFFICIALS. </heading>
+            <subsection identifier="/us/sComp/104/65/s14/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Oral Lobbying Contacts.—</heading><chapeau style="-uslm-dtd:text">Any person or entity that makes an oral lobbying contact with a covered legislative branch official or a covered executive branch official shall, on the request of the official at the time of the lobbying contact—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s14/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">state whether the person or entity is registered under this Act and identify the client on whose behalf the lobbying contact is made; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s14/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">state whether such client is a foreign entity and identify any foreign entity required to be disclosed under section 4(b)(4) that has a direct interest in the outcome of the lobbying activity.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s14/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Written Lobbying Contacts.—</heading><chapeau style="-uslm-dtd:text">Any person or entity registered under this Act that makes a written lobbying contact (including an electronic communication) with a covered legislative branch official or a covered executive branch official shall—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s14/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">if the client on whose behalf the lobbying contact was made is a foreign entity, identify such client, state that the client is considered a foreign entity under this Act, and state whether the person making the lobbying contact is registered on behalf of that client under section 4; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s14/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">identify any other foreign entity identified pursuant to section 4(b)(4) that has a direct interest in the outcome of the lobbying activity.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s14/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Identification as Covered Official.—</heading><content style="-uslm-dtd:text">Upon request by a person or entity making a lobbying contact, the individual who is contacted or the office employing that individual shall indicate whether or not the individual is a covered legislative branch official or a covered executive branch official.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s15" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="15">SEC. 15. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1610">2 U.S.C. 1610</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ESTIMATES BASED ON TAX REPORTING SYSTEM. </heading>
+            <subsection identifier="/us/sComp/104/65/s15/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Entities Covered by Section <inline style="-uslm-dtd:enum-in-header">6033(b)</inline> of the Internal Revenue Code of <inline style="-uslm-dtd:enum-in-header">1986</inline>.—</heading><chapeau style="-uslm-dtd:text">A person, other than a lobbying firm, that is required to report and does report lobbying expenditures pursuant to section 6033(b)(8) of the Internal Revenue Code of 1986 may—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s15/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">make a good faith estimate (by category of dollar value) of applicable amounts that would be required to be disclosed under such section for the appropriate quarterly period to meet the requirements of sections 4(a)(3) and 5(b)(4); and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s15/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">for all other purposes consider as lobbying contacts and lobbying activities only—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s15/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">lobbying contacts with covered legislative branch officials (as defined in section 3(4)) and lobbying activities in support of such contacts; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s15/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">lobbying of Federal executive branch officials to the extent that such activities are influencing legislation as defined in section 4911(d) of the Internal Revenue Code of 1986.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s15/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Entities Covered by Section <inline style="-uslm-dtd:enum-in-header">162(e)</inline> of the Internal Revenue Code of <inline style="-uslm-dtd:enum-in-header">1986</inline>.—</heading><chapeau style="-uslm-dtd:text">A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to section 162(e) of the Internal Revenue Code of 1986 may—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s15/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">make a good faith estimate (by category of dollar value) of applicable amounts that would not be deductible pursuant to such section for the appropriate quarterly period to meet the requirements of sections 4(a)(3) and 5(b)(4); and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s15/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">for all other purposes consider as lobbying contacts and lobbying activities only—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s15/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">lobbying contacts with covered legislative branch officials (as defined in section 3(4)) and lobbying activities in support of such contacts; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s15/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">lobbying of Federal executive branch officials to the extent that amounts paid or costs incurred in connection with such activities are not deductible pursuant to section 162(e) of the Internal Revenue Code of 1986.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s15/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Disclosure of Estimate.—</heading><chapeau style="-uslm-dtd:text">Any registrant that elects to make estimates required by this Act under the procedures authorized by subsection (a) or (b) for reporting or threshold purposes shall—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s15/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">inform the Secretary of the Senate and the Clerk of the House of Representatives that the registrant has elected to make its estimates under such procedures; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s15/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">make all such estimates, in a given calendar year, under such procedures.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s15/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Study.—</heading><chapeau style="-uslm-dtd:text">Not later than March 31, 1997, the Comptroller General of the United States shall review reporting by registrants under subsections (a) and (b) and report to the Congress—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s15/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the differences between the definition of “<quotedText style="-uslm-dtd:quote">lobbying activities</quotedText>” in section 3(7) and the definitions of “<quotedText style="-uslm-dtd:quote">lobbying expenditures</quotedText>”, “<quotedText style="-uslm-dtd:quote">influencing legislation</quotedText>”, and related terms in sections 162(e) and 4911 of the Internal Revenue Code of 1986, as each are implemented by regulations;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s15/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the impact that any such differences may have on filing and reporting under this Act pursuant to this subsection; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s15/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">any changes to this Act or to the appropriate sections of the Internal Revenue Code of 1986 that the Comptroller General may recommend to harmonize the definitions.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s16" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="16">SEC. 16. </num><heading style="-uslm-dtd:header">REPEAL OF THE RAMSPECK ACT. </heading>
+            <subsection identifier="/us/sComp/104/65/s16/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Repeal.—</heading><content style="-uslm-dtd:text">Subsection (c) of section 3304 of title 5, United States Code, is repealed.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s16/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Redesignation.—</heading><content style="-uslm-dtd:text">Subsection (d) of section 3304 of title 5, United States Code, is redesignated as subsection (c).</content>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s16/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The repeal and amendment made by this section shall take effect 2 years after the date of the enactment of this Act.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s17" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="17">SEC. 17. </num><heading style="-uslm-dtd:header">EXCEPTED SERVICE AND OTHER EXPERIENCE CONSIDERATIONS FOR COMPETITIVE SERVICE APPOINTMENTS. </heading>
+            <subsection identifier="/us/sComp/104/65/s17/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 3304 of title 5, United States Code (as amended by section 2 of this Act) is further amended by adding at the end thereof the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">“(d) </num><content style="-uslm-dtd:text">The Office of Personnel Management shall promulgate regulations on the manner and extent that experience of an individual in a position other than the competitive service, such as the excepted service (as defined under section 2103) in the legislative or judicial branch, or in any private or nonprofit enterprise, may be considered in making appointments to a position in the competitive service (as defined under section 2102). In promulgating such regulations OPM shall not grant any preference based on the fact of service in the legislative or judicial branch. The regulations shall be consistent with the principles of equitable competition and merit based appointments.”</content>
+                </subsection></quotedContent>.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s17/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><chapeau style="-uslm-dtd:text">The amendment made by this section shall take effect 2 years after the date of the enactment of this Act, except the Office of Personnel Management shall—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s17/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">conduct a study on excepted service considerations for competitive service appointments relating to such amendment; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s17/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">take all necessary actions for the regulations described under such amendment to take effect as final regulations on the effective date of this section.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s18" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="18">SEC. 18. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1611">2 U.S.C. 1611</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EXEMPT ORGANIZATIONS. </heading>
+            <content class="block" style="-uslm-dtd:text">An organization described in section 501(c)(4) of the Internal Revenue Code of 1986 which engages in lobbying activities shall not be eligible for the receipt of Federal funds constituting an award, grant, or loan.</content>
+        </section>
+        <section identifier="/us/sComp/104/65/s19" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="19">SEC. 19. </num><heading style="-uslm-dtd:header">AMENDMENT TO THE FOREIGN AGENTS REGISTRATION ACT (P.L. 75–583). </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 19 provides for an amendment to strike and insert section 11 of the Foreign Agents Registration Act of 1938<b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/104/65/s20" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="20">SEC. 20. </num><heading style="-uslm-dtd:header">DISCLOSURE OF THE VALUE OF ASSETS UNDER THE ETHICS IN GOVERNMENT ACT OF 1978. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 20 provides for amendments to section 102 of the Ethics in Government Act of 1978<b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/104/65/s21" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="21">SEC. 21. </num><heading style="-uslm-dtd:header">BAN ON TRADE REPRESENTATIVE REPRESENTING OR ADVISING FOREIGN ENTITIES. </heading>
+            <subsection identifier="/us/sComp/104/65/s21/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Representing after Service.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 21(a) provides for amendments to section 207(f)(2) of title 18, United States Code<b>]</b> </editorialNote>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s21/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Limitation on Appointment as United States Trade Representative and Deputy United States Trade Representative.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 21(b) provides for an amendment to section 141(b) of the Trade Act of 1974 (19 U.S.C. 2171(b))<b>]</b> </editorialNote>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s21/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall apply with respect to an individual appointed as United States Trade Representative or as a Deputy United States Trade Representative on or after the date of enactment of this Act.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s22" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="22">SEC. 22. </num><heading style="-uslm-dtd:header">FINANCIAL DISCLOSURE OF INTEREST IN QUALIFIED BLIND TRUST. </heading>
+            <subsection identifier="/us/sComp/104/65/s22/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sec. 22(a) and (b) provides for amendments to section 102 of the Ethics in Government Act of 1978<b>]</b> </editorialNote>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s22/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t5/s13104">5 U.S.C. 13104 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendment made by this section shall apply with respect to reports filed under subchapter I of chapter 131 of title 5, United States Code, for calendar year 1996 and thereafter.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s23" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="23">SEC. 23. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1612">2 U.S.C. 1612</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SENSE OF THE SENATE THAT LOBBYING EXPENSES SHOULD REMAIN NONDEDUCTIBLE. </heading>
+            <subsection identifier="/us/sComp/104/65/s23/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Findings.—</heading><content style="-uslm-dtd:text">The Senate finds that ordinary Americans generally are not allowed to deduct the costs of communicating with their elected representatives.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s23/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Sense of the Senate.—</heading><content style="-uslm-dtd:text">It is the sense of the Senate that lobbying expenses should not be tax deductible.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s24" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="24">SEC. 24. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1601">2 U.S.C. 1601 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EFFECTIVE DATES. </heading>
+            <subsection identifier="/us/sComp/104/65/s24/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Except as otherwise provided in this section, this Act and the amendments made by this Act shall take effect on January 1, 1996.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s24/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">The repeals and amendments made under sections 9, 10, 11, and 12 shall take effect as provided under subsection (a), except that such repeals and amendments—</chapeau>
+                <paragraph identifier="/us/sComp/104/65/s24/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">shall not affect any proceeding or suit commenced before the effective date under subsection (a), and in all such proceedings or suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s24/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">shall not affect the requirements of Federal agencies to compile, publish, and retain information filed or received before the effective date of such repeals and amendments.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s25" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="25">SEC. 25. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1613">2 U.S.C. 1613</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PROHIBITION ON PROVISION OF GIFTS OR TRAVEL BY REGISTERED LOBBYISTS TO MEMBERS OF CONGRESS AND TO CONGRESSIONAL EMPLOYEES. </heading>
+            <subsection identifier="/us/sComp/104/65/s25/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Prohibition.—</heading><content style="-uslm-dtd:text">Any person described in subsection (b) may not make a gift or provide travel to a covered legislative branch official if the person has knowledge that the gift or travel may not be accepted by that covered legislative branch official under the Rules of the House of Representatives or the Standing Rules of the Senate (as the case may be).</content>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s25/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Persons Subject to Prohibition.—</heading><content style="-uslm-dtd:text">The persons subject to the prohibition under subsection (a) are any lobbyist that is registered or is required to register under section 4(a)(1), any organization that employs 1 or more lobbyists and is registered or is required to register under section 4(a)(2), and any employee listed or required to be listed as a lobbyist by a registrant under section 4(b)(6) or 5(b)(2)(C).</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/104/65/s26" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="26">SEC. 26. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t2/s1614">2 U.S.C. 1614</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ANNUAL AUDITS AND REPORTS BY COMPTROLLER GENERAL. </heading>
+            <subsection identifier="/us/sComp/104/65/s26/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Audit.—</heading><content style="-uslm-dtd:text">On an annual basis, the Comptroller General shall audit the extent of compliance or noncompliance with the requirements of this Act by lobbyists, lobbying firms, and registrants through a random sampling of publicly available lobbying registrations and reports filed under this Act during each calendar year.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s26/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Reports to Congress.—</heading>
+                <paragraph identifier="/us/sComp/104/65/s26/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Annual reports.—</heading><chapeau style="-uslm-dtd:text">Not later than April 1 of each year, the Comptroller General shall submit to the Congress a report on the review required by subsection (a) for the preceding calendar year. The report shall include the Comptroller General's assessment of the matters required to be emphasized by that subsection and any recommendations of the Comptroller General to—</chapeau>
+                    <subparagraph identifier="/us/sComp/104/65/s26/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">improve the compliance by lobbyists, lobbying firms, and registrants with the requirements of this Act; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/104/65/s26/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">provide the Department of Justice with the resources and authorities needed for the effective enforcement of this Act.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/104/65/s26/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Assessment of compliance.—</heading><content style="-uslm-dtd:text">The annual report under paragraph (1) shall include an assessment of compliance by registrants with the requirements of section 4(b)(3).</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/104/65/s26/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Access to Information.—</heading><content style="-uslm-dtd:text">The Comptroller General may, in carrying out this section, request information from and access to any relevant documents from any person registered under paragraph (1) or (2) of section 4(a) and each employee who is listed as a lobbyist under section 4(b)(6) or section 5(b)(2)(C) if the material requested relates to the purposes of this section. The Comptroller General may request such person to submit in writing such information as the Comptroller General may prescribe. The Comptroller General may notify the Congress in writing if a person from whom information has been requested under this subsection refuses to comply with the request within 45 days after the request is made.</content>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

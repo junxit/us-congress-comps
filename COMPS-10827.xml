@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Federal Funding Accountability and Transparency Act of 2006</dc:title>
+        <citableAs>Public Law 109–282, as amended</citableAs>
+        <citableAsShortTitle>Federal Funding Accountability and Transparency Act of 2006</citableAsShortTitle>
+        <docNumber>282</docNumber>
+        <currentThroughPublicLaw>117–40</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Federal Funding Accountability and Transparency Act of 2006</containsShortTitle>
+        <containsShortTitle>Digital Accountability and Transparency Act of 2014</containsShortTitle>
+        <property role="fileId">10827</property>
+        <congress>109</congress>
+        <approvedDate>2006-09-26</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Federal Funding Accountability and Transparency Act of 2006</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 109–282</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 117–40</currentThroughPublicLaw>, Enacted <date date="2021-09-24">September 24, 2021</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 109–282. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To require full disclosure of all entities and organizations receiving Federal funds.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/109/282/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6101">31 U.S.C. 6101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content style="-uslm-dtd:text" class="block">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Federal Funding Accountability and Transparency Act of 2006</inline></shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/109/282/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6101">31 U.S.C. 6101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FULL DISCLOSURE OF ENTITIES RECEIVING FEDERAL FUNDING. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s2/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this Act:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Director.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Director</term>” means the Director of the Office of Management and Budget.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Entity.—</heading><chapeau style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">entity</quotedText>”—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/a/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">includes, whether for profit or nonprofit—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/2/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a corporation;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/2/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">an association;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/2/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">a partnership;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/2/A/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">a limited liability company;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/2/A/v" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">a limited liability partnership;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/2/A/vi" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">a sole proprietorship;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/2/A/vii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vii">(vii) </num><content style="-uslm-dtd:text">any other legal business entity;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/2/A/viii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="viii">(viii) </num><content style="-uslm-dtd:text">any other grantee or contractor that is not excluded by subparagraph (B) or (C); and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/2/A/ix" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ix">(ix) </num><content style="-uslm-dtd:text">any State or locality;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/a/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">on and after January 1, 2009, includes any subcontractor or subgrantee; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/a/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">does not include—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/2/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">an individual recipient of Federal assistance; or</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/2/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a Federal employee.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Federal
+ agency.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Federal agency</term>” has the meaning given
+ the term “<term style="-uslm-dtd:term">Executive agency</term>” under section 105 of title 5, United
+ States Code.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Federal award.—</heading><chapeau style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">Federal award</quotedText>”—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/a/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">means Federal financial assistance and expenditures that—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/4/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">include grants, subgrants, loans, awards, cooperative agreements, and other forms of financial assistance;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/a/4/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">include contracts, subcontracts, purchase orders, task orders, and delivery orders;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/a/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">does not include individual transactions below $25,000; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/a/4/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">before October 1, 2008, does not include credit card transactions.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Object
+ class.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">object class</term>” means the category
+ assigned for purposes of the annual budget of the President submitted under
+ section 1105(a) of title 31, United States Code, to the type of property or
+ services purchased by the Federal Government.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/a/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Program
+ activity.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">program activity</term>” has the meaning
+ given that term under section 1115(h) of title 31, United States
+ Code.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/a/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Searchable website.—</heading><chapeau style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">searchable website</quotedText>” means a website that allows the public to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/a/7/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">search and aggregate Federal funding by any element required by subsection (b)(1);</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/a/7/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">ascertain through a single search the total amount of Federal funding awarded to an entity by a Federal award described in paragraph (2)(A)(i), by fiscal year;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/a/7/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">ascertain through a single search the total amount of Federal funding awarded to an entity by a Federal award described in paragraph (2)(A)(ii), by fiscal year; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/a/7/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">download data included in subparagraph (A) included in the outcome from searches.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/a/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Secretary</term>” means the Secretary of the Treasury.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s2/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">In General.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Website.—</heading><chapeau style="-uslm-dtd:text">Not later than January 1, 2008, the Office of Management and Budget shall, in accordance with this section, section 204 of the E-Government Act of 2002 (Public Law 107-347; 44 U.S.C. 3501 note), and the Office of Federal Procurement Policy Act (41 U.S.C. 403 et seq.), ensure the existence and operation of a single searchable website, accessible by the public at no cost to access, that includes for each Federal award—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the name of the entity receiving the award;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the amount of the award;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/b/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">information on the award including transaction type, funding agency, the North American Industry Classification System code or Catalog of Federal Domestic Assistance number (where applicable), program source, and an award title descriptive of the purpose of each funding action;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/b/1/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the location of the entity receiving the award and the primary location of performance under the award, including the city, State, congressional district, and country;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/b/1/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">a unique identifier of the entity receiving the award and of the parent entity of the recipient, should the entity be owned by another entity;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/b/1/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><chapeau style="-uslm-dtd:text">the names and total compensation of the five most highly compensated officers of the entity if—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/b/1/F/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">the entity in the preceding fiscal year received—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/109/282/s2/b/1/F/i/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">80 percent or more of its annual gross revenues in Federal awards; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/109/282/s2/b/1/F/i/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">$25,000,000 or more in annual gross revenues from Federal awards; and</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/b/1/F/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the public does not have access to information about the compensation of the senior executives of the entity through periodic reports filed under section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a), 78o(d)) or section 6104 of the Internal Revenue Code of 1986.<ref style="-uslm-dtd:footnote-ref" idref="IDD8710069C85D44ECAA83B88B328A38A0" class="footnoteRef">1</ref></content><footnote id="IDD8710069C85D44ECAA83B88B328A38A0" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">So in law. The period at the end of subparagraph (F) probably should be “<quotedText style="-uslm-dtd:quote">; and</quotedText>”. </p></footnote>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/b/1/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">any other relevant information specified by the Office of Management and Budget.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Scope of data.—</heading><content style="-uslm-dtd:text">The website shall include data for fiscal year 2007, and each fiscal year thereafter.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Designation of agencies.—</heading><content style="-uslm-dtd:text">The Director  is authorized to designate one or more Federal agencies to participate in the development, establishment, operation, and support of the single website. In the initial designation, or in subsequent instructions and guidance, the Director may specify the scope of the responsibilities of each such agency.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Agency responsibilities.—</heading><content style="-uslm-dtd:text">Federal agencies shall comply with the instructions and guidance issued by the Director  under paragraph (3), and shall provide appropriate assistance to the Director upon request, so as to assist the Director in ensuring the existence and operation of the single website.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s2/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Website.—</heading><chapeau style="-uslm-dtd:text">The website established under this section—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">may use as the source of its data the Federal Procurement Data System, Federal Assistance Award Data System, and Grants.gov, if all of these data sources are searchable through the website and can be accessed in a search on the website required by this Act, provided that the user may—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/c/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">specify such search shall be confined to Federal contracts and subcontracts;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/c/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">specify such search shall be confined to include grants, subgrants, loans, awards, cooperative agreements, and other forms of financial assistance;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">shall not be considered in compliance if it hyperlinks to the Federal Procurement Data System website, Federal Assistance Award Data System website, Grants.gov website, or other existing websites, so that the information elements required by subsection (b)(1) cannot be searched electronically by field in a single search;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">shall provide an opportunity for the public to provide input about the utility of the site and recommendations for improvements;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">shall be updated not later than 30 days after the award of any Federal award requiring a posting; </content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/c/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">shall provide for separate searches for Federal awards described in subsection (a) to distinguish between the Federal awards described in subsection (a)(2)(A)(i) and those described in subsection (a)(2)(A)(ii);</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/c/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">shall have the ability to aggregate data for the categories described in paragraphs (1) through (5) without double-counting data; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/c/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><chapeau style="-uslm-dtd:text">shall ensure that all information published under this section is available—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/c/7/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in machine-readable and open formats;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/c/7/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to be downloaded in bulk; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/c/7/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to the extent practicable, for automated processing.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s2/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Subaward Data.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Pilot program.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/d/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Not later than July 1, 2007, the Director  shall commence a pilot program to—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/d/1/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">test the collection and accession of data about subgrants and subcontracts; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/d/1/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">determine how to implement a subaward reporting program across the Federal Government, including—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/109/282/s2/d/1/A/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">a reporting system under which the entity issuing a subgrant or subcontract is responsible for fulfilling the subaward reporting requirement; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/109/282/s2/d/1/A/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">a mechanism for collecting and incorporating agency and public feedback on the design and utility of the website.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/d/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Termination.—</heading><content style="-uslm-dtd:text">The pilot program under subparagraph (A) shall terminate not later than January 1, 2009.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Reporting of subawards.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/d/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Based on the pilot program conducted under paragraph (1), and, except as provided in subparagraph (B), not later than January 1, 2009, the Director —</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/d/2/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">shall ensure that data regarding subawards are disclosed in the same manner as data regarding other Federal awards, as required by this Act; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s2/d/2/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">shall ensure that the method for collecting and distributing data about subawards under clause (i)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/109/282/s2/d/2/A/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">minimizes burdens imposed on Federal award recipients and subaward recipients;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/109/282/s2/d/2/A/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">allows Federal award recipients and subaward recipients to allocate reasonable costs for the collection and reporting of subaward data as indirect costs; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/109/282/s2/d/2/A/ii/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">establishes cost-effective requirements for collecting subaward data under block grants, formula grants, and other types of assistance to State and local governments.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/d/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Extension of deadline.—</heading><content style="-uslm-dtd:text">For subaward recipients that receive Federal funds through State, local, or tribal governments, the Director  may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s2/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Exception.—</heading><content style="-uslm-dtd:text">Any entity that demonstrates to the Director  that the gross income, from all sources, for such entity did not exceed $300,000 in the previous tax year of such entity shall be exempt from the requirement to report subawards under subsection (d), until the Director determines that the imposition of such reporting requirements will not cause an undue burden on such entities.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s2/f" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Construction.—</heading><content style="-uslm-dtd:text">Nothing in this Act shall prohibit the Office of Management and Budget from including through the website established under this section access to data that is publicly available in any other Federal database.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s2/g" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Report.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/g/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director  shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives an annual report regarding the implementation of the website established under this section.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/g/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">Each report submitted under paragraph (1) shall include—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/g/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">data regarding the usage and public feedback on the utility of the site (including recommendations for improving data quality and collection);</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/g/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">an assessment of the reporting burden placed on Federal award and subaward recipients; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s2/g/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">an explanation of any extension of the subaward reporting deadline under subsection (d)(2)(B), if applicable.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s2/g/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Publication.—</heading><content style="-uslm-dtd:text">The Director  shall make each report submitted under paragraph (1) publicly available on the website established under this section.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/109/282/s3" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6101">31 U.S.C. 6101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FULL DISCLOSURE OF FEDERAL FUNDS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s3/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not less frequently than monthly when practicable, and in any event not less frequently than quarterly, the Secretary (in consultation with the Director and, with respect to information described in subsection (b)(2), the head of the applicable Federal agency) shall ensure that updated information with respect to the information described in subsection (b) is posted on the website established under section 2.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s3/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Information To Be Posted.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s3/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Funds.—</heading><chapeau style="-uslm-dtd:text">For any funds made available to or expended by a Federal agency or component of a Federal agency, the information to be posted shall include—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s3/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">for each appropriations account, including an expired or unexpired appropriations account, the amount—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/1/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">of budget authority appropriated;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/1/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">that is obligated;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/1/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">of unobligated balances; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/1/A/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">of any other budgetary resources;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s3/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">from which accounts and in what amount—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">appropriations are obligated for each program activity; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">outlays are made for each program activity;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s3/b/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">from which accounts and in what amount—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/1/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">appropriations are obligated for each object class; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/1/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">outlays are made for each object class; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s3/b/1/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">for each program activity, the amount—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/1/D/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">obligated for each object class; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/1/D/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">of outlays made for each object class.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s3/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Budget justifications.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s3/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this paragraph—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/2/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:term">budget justification materials</term>” means the annual budget justification materials of a Federal agency, or a component of a Federal agency, that are submitted, in conjunction with the budget of the United States Government submitted under section 1105(a) of title 31, United States Code; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/2/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:term">open Government data asset</term>” has the meaning given that term in section 3502 of title 44, United States Code. </content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s3/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Information.—</heading><chapeau style="-uslm-dtd:text">The information to be posted— </chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/2/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">shall include any budget justification materials—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/109/282/s3/b/2/B/i/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text"> for the second fiscal year beginning after the date of enactment of this paragraph, and each fiscal year thereafter; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/109/282/s3/b/2/B/i/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">to the extent practicable, that were released for any fiscal year before the date of enactment of this paragraph; and</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/2/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">shall not include budget justification materials the disclosure of which is prohibited by law, that are classified, or that are exempt from disclosure under section 552(b) of title 5, United States Code.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s3/b/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Format.—</heading><chapeau style="-uslm-dtd:text">Budget justification materials shall be posted under subparagraph (B)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/2/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">as an open Government data asset;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/2/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in a manner that enables users to download individual reports, download all reports in bulk, and download in bulk the results of a search, to the extent practicable; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s3/b/2/C/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">in a structured data format, to the extent practicable.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s3/b/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Deadline.—</heading><content style="-uslm-dtd:text">The budget justification materials required to be posted under subparagraph (B)(i) shall be posted not later than 2 weeks after the date on which the budget justification materials are first submitted to Congress.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s3/b/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><heading style="-uslm-dtd:header">Rule of construction.—</heading><content style="-uslm-dtd:text">Nothing in this paragraph shall be construed to authorize a Federal agency, or a component of a Federal agency, to destroy any budget justification materials relating to a fiscal year before the fiscal year described in subparagraph (B)(i).</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/109/282/s4" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6101">31 U.S.C. 6101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DATA
+		  STANDARDS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s4/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In
+		  General.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment of standards.—</heading><content style="-uslm-dtd:text">The Secretary and the
+		  Director, in consultation with the heads of Federal agencies, shall establish
+			 Government-wide
+		  financial data standards for	any Federal funds made available to or expended by
+			 Federal agencies and entities receiving Federal funds.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Data elements.—</heading><content style="-uslm-dtd:text">The financial data standards established under paragraph (1) shall include common data
+		  elements for	financial and payment information required to be reported by
+		  Federal agencies and entities receiving Federal funds.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s4/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">The
+		  data standards established under subsection (a) shall, to the extent reasonable
+		  and practicable—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">incorporate
+		  widely accepted common data elements, such as those developed and maintained
+		  by—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s4/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">an international
+		  voluntary consensus standards body;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s4/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Federal agencies
+		  with authority over contracting and financial assistance; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s4/b/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">accounting
+		  standards organizations;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">incorporate a
+		  widely accepted, nonproprietary, searchable, platform-independent
+		  computer-readable format;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">include
+		  unique  identifiers for Federal awards and entities receiving
+		  Federal awards that can be consistently applied Government-wide;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">be
+		  consistent with and implement applicable accounting principles;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">be
+		  capable of being continually upgraded as necessary;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/b/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">produce
+		  consistent and comparable data, including across program activities; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/b/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">establish a
+		  standard method of conveying the reporting period, reporting entity, unit of
+		  measure, and other associated attributes.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s4/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Deadlines.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Guidance.—</heading><content style="-uslm-dtd:text">Not
+		  later than 1 year after the date of enactment of the
+		  <inline style="-uslm-dtd:short-title">Digital Accountability and Transparency Act of 2014</inline>, the Director and the Secretary shall issue guidance to
+		  Federal agencies on the data standards established under subsection (a).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Agencies.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s4/c/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in subparagraph (B), not
+		  later than 2 years after the date on which the guidance under paragraph (1) is
+		  issued, each Federal agency shall report financial and
+		  payment information data in accordance with the data standards established
+		  under subsection (a).</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s4/c/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Noninterference with auditability of department of defense financial statements.—</heading>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s4/c/2/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Upon request by the Secretary of Defense, the Director may grant an extension of the deadline under
+			 subparagraph (A) to the Department of Defense for a period of not more
+			 than 6 months to report financial and
+		  payment information data in accordance with the data standards established
+		  under subsection (a).</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s4/c/2/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Limitation.—</heading><content style="-uslm-dtd:text">The Director may not grant more than 3 extensions to the Secretary of Defense under clause (i).</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s4/c/2/B/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><heading style="-uslm-dtd:header">Notification.—</heading><chapeau style="-uslm-dtd:text">The Director of the Office of Management and Budget shall notify the Committee on Homeland Security
+			 and Governmental Affairs and the Committee on Armed Services of the Senate
+			 and the Committee on Oversight and Government Reform and the Committee on
+			 Armed Services of the House of Representatives of—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/109/282/s4/c/2/B/iii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">each grant of an extension  under clause (i); and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/109/282/s4/c/2/B/iii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the reasons for granting such an extension.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s4/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Website.—</heading><content style="-uslm-dtd:text">Not
+		  later than 3 years after the date on which the guidance under paragraph (1) is
+		  issued, the Director and the Secretary
+		  shall ensure that the data standards established under
+		  subsection (a) are applied to the data made available on the website
+		  established under section 2.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s4/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">The
+		  Director and the Secretary shall consult with public and private stakeholders in
+		  establishing data standards under this section.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/109/282/s5" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6101">31 U.S.C. 6101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SIMPLIFYING
+		  FEDERAL AWARD REPORTING. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s5/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In
+		  General.—</heading><chapeau style="-uslm-dtd:text">The Director, in
+		  consultation with relevant Federal agencies, recipients of Federal awards,
+		  including State and local governments, and institutions of higher education (as
+		  defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)),
+		  shall review the information required to be reported by recipients of Federal
+		  awards to identify—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s5/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">common reporting
+		  elements across the Federal Government;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s5/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">unnecessary
+		  duplication in financial reporting; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s5/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">unnecessarily
+		  burdensome reporting requirements for recipients of Federal awards.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s5/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Pilot
+		  Program.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s5/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment.—</heading><chapeau style="-uslm-dtd:text">Not
+		  later than 1 year after the date of enactment of the
+		  <inline style="-uslm-dtd:short-title">Digital Accountability and Transparency Act of 2014</inline>, the Director, or a Federal agency designated by the Director, shall establish a pilot program (in
+			 this section referred to as the “<quotedText style="-uslm-dtd:quote">pilot program</quotedText>”) with the participation of appropriate Federal agencies to
+		  facilitate the development of recommendations for—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s5/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">standardized reporting
+		  elements across the Federal Government;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s5/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the elimination
+		  of unnecessary duplication in financial reporting; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s5/b/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the reduction of
+		  compliance costs for recipients of Federal awards.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s5/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">The
+		  pilot program shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s5/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">include a
+		  combination of Federal contracts, grants, and subawards, the aggregate value of
+		  which is not less than $1,000,000,000 and not more than $2,000,000,000;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s5/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">include a diverse
+		  group of recipients of Federal awards; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s5/b/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to the extent
+		  practicable, include recipients who receive Federal awards from multiple
+		  programs across multiple agencies.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s5/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Data
+		  collection.—</heading><content style="-uslm-dtd:text">The pilot program shall include data collected during
+		  a 12-month reporting cycle.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s5/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Reporting and
+		  evaluation requirements.—</heading><content style="-uslm-dtd:text">Each recipient of a Federal award
+		  participating in the pilot program shall submit to the Office of Management and
+		  Budget or the Federal agency designated under paragraph (1), as appropriate, any
+			 requested reports of the selected Federal awards.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s5/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Termination.—</heading><content style="-uslm-dtd:text">The
+		  pilot program shall terminate on the date that is 2 years after the date on
+		  which the pilot program is established.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s5/b/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Report to
+		  congress.—</heading><chapeau style="-uslm-dtd:text">Not later than 90 days after the date on which the pilot
+		  program terminates under paragraph (5), the Director shall submit to the
+			 Committee on Homeland Security and
+		  Governmental Affairs and the Committee on the Budget of the Senate and the
+		  Committee on Oversight and Government Reform and the Committee on the Budget of
+		  the House of Representatives a report on the pilot program, which shall
+		  include—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s5/b/6/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a description of
+		  the data collected under the pilot program, the usefulness of the data
+		  provided, and the cost to collect the data from recipients; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s5/b/6/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">a discussion of any legislative action required and recommendations
+		  for—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s5/b/6/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">consolidating
+		  aspects of Federal financial reporting to reduce the costs to recipients of
+		  Federal awards;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s5/b/6/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">automating
+		  aspects of Federal financial reporting to increase efficiency and reduce the
+		  costs to recipients of Federal awards;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s5/b/6/B/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">simplifying the reporting requirements for
+		  recipients of Federal awards; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s5/b/6/B/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">improving
+		  financial transparency.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s5/b/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Government-wide implementation.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date on which the Director submits the report under paragraph (6),
+			 the Director shall issue guidance to the heads of Federal agencies as to
+			 how the Government-wide financial data standards established under
+			 section 4(a) shall be applied to the information required to be reported
+			 by
+			 entities
+			 receiving Federal awards to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s5/b/7/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">reduce the burden of complying with reporting requirements; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s5/b/7/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">simplify the reporting process, including by reducing duplicative reports.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/109/282/s6" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6101">31 U.S.C. 6101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ACCOUNTABILITY
+		  FOR FEDERAL FUNDING. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s6/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Inspector
+		  General Reports.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s6/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In
+		  general.—</heading><chapeau style="-uslm-dtd:text">In accordance with paragraph (2), the Inspector General
+		  of each Federal agency, in consultation with the Comptroller General of the
+		  United States, shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s6/a/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">review a
+		  statistically valid sampling of the spending data submitted under this Act by
+		  the Federal agency; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s6/a/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">submit to
+		  Congress and make publically available a report assessing the completeness,
+		  timeliness, quality, and accuracy of the data sampled and the implementation
+		  and use of data standards by the Federal agency.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s6/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Deadlines.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s6/a/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">First
+		  report.—</heading><content style="-uslm-dtd:text">Not later than 18 months after the date on which the Director and the Secretary issue guidance to
+			 Federal agencies under section 4(c)(1), the Inspector
+			 General of each Federal agency
+		  shall submit and make publically available a report as described in paragraph
+			 (1).</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s6/a/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Subsequent
+		  reports.—</heading><content style="-uslm-dtd:text">On the same date as the Inspector General of each Federal
+		  agency submits the second and fourth reports under sections 3521(f) and
+			 9105(a)(3) of title 31,
+		  United States Code, that are submitted after the report under subparagraph (A),
+		  the Inspector General shall submit and make publically available a report as
+			 described in paragraph (1). The
+		  report submitted under this subparagraph may be submitted as a part of the
+		  report submitted under section 3521(f) or 9105(a)(3) of title 31, United States
+			 Code.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s6/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Comptroller
+		  General Reports.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s6/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">In accordance with paragraph (2) and after a review of the reports submitted under subsection (a),
+			 the Comptroller General of the United States shall submit
+		  to Congress and make publically available a report assessing and comparing the
+		  data completeness, timeliness, quality, and accuracy of the data submitted
+		  under this Act by Federal agencies and the implementation and use of data
+		  standards by Federal agencies.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s6/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Deadlines.—</heading><content style="-uslm-dtd:text">Not later than 30 months after the date on which the Director and the Secretary issue guidance to
+			 Federal agencies under section 4(c)(1), and every 2 years
+			 thereafter until the date that is 4  years after the date on which the
+			 first report is submitted under this subsection, the Comptroller General
+			 of the United States shall submit and make publically available a report
+			 as described in paragraph (1).</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/109/282/s6/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Recovery Accountability and Transparency Board Data Analysis Center.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s6/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Secretary may establish a data analysis center or expand an existing service to
+			 provide data, analytic tools, and data
+			 management techniques to support—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s6/c/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the
+			 prevention and reduction of improper payments by Federal agencies; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s6/c/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">improving efficiency and transparency in Federal spending.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s6/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Data availability.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall enter into memoranda of understanding with Federal agencies, including
+			 Inspectors General and Federal law enforcement agencies—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s6/c/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">under which the Secretary may provide data from the data analysis center for—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s6/c/2/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the purposes set forth under paragraph (1);</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s6/c/2/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the identification, prevention, and reduction of waste, fraud, and abuse relating to Federal
+			 spending; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/109/282/s6/c/2/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">use in the conduct of criminal and other investigations; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/109/282/s6/c/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">which may require the Federal agency, Inspector General, or Federal law enforcement agency to
+			 provide reimbursement to the Secretary for the reasonable cost of carrying
+			 out the agreement.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s6/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Transfer.—</heading><content style="-uslm-dtd:text">Upon the establishment of a data analysis center or the expansion of a service under paragraph (1),
+			 and on or before the date on which the Recovery
+			 Accountability and Transparency Board terminates, and
+			 in addition to any other transfer that the Director determines is
+			 necessary under section 1531 of title 31, United States Code, there are
+			 transferred to the Department of the Treasury all assets identified by the
+			 Secretary that support the
+			 operations and activities of the Recovery Operations Center of the
+			 Recovery Accountability and Transparency Board relating to
+			 the detection of waste, fraud, and abuse in the use of Federal funds that
+			 are in existence on the day before the transfer.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/109/282/s7" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6101">31 U.S.C. 6101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">CLASSIFIED AND
+		  PROTECTED INFORMATION. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">Nothing
+		  in this Act shall require the disclosure to the public of—</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s7/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">information
+		  that would be exempt from disclosure under section 552 of title 5, United States
+			 Code
+		  (commonly known as the “<quotedText style="-uslm-dtd:quote">Freedom of Information Act</quotedText>”); or</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/109/282/s7/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">information
+		  protected under section 552a of title 5, United States Code (commonly known as
+		  the “<quotedText style="-uslm-dtd:quote">Privacy Act of 1974</quotedText>”), or section 6103 of the Internal
+		  Revenue Code of
+		  1986.</content>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/109/282/s8" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6101">31 U.S.C. 6101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NO PRIVATE RIGHT OF ACTION. </heading>
+            <content style="-uslm-dtd:text" class="block">Nothing in this Act shall be construed to create a private right of action for enforcement of any
+			 provision of this Act.</content>
+        </section>
+    </main>
+</statuteCompilation>

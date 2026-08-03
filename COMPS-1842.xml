@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>CYBER SECURITY RESEARCH AND DEVELOPMENT ACT</dc:title>
+        <citableAs>Public Law 107–305, as amended</citableAs>
+        <citableAsShortTitle>CYBER SECURITY RESEARCH AND DEVELOPMENT ACT</citableAsShortTitle>
+        <docNumber>305</docNumber>
+        <currentThroughPublicLaw>116–115</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Cyber Security Research and Development Act</containsShortTitle>
+        <property role="fileId">1842</property>
+        <congress>107</congress>
+        <approvedDate>2002-11-27</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">CYBER SECURITY RESEARCH AND DEVELOPMENT ACT</property>
+        <citationNote style="-uslm-dtd:public-law">[<citableAs>P.L. 107–305</citableAs>, Enacted <date date="2002-11-27">November 27, 2002</date>]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 116–115</currentThroughPublicLaw>, Enacted <date date="2020-02-11">February 11, 2020</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 107–305. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To authorize funding for computer and network security research and development and research fellowship programs, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7401">15 U.S.C. 7401 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content style="-uslm-dtd:text" class="block">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Cyber Security Research and Development Act</inline></shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7401">15 U.S.C. 7401</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FINDINGS. </heading>
+            <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">The Congress finds the following:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s2/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Revolutionary advancements in computing and communications technology have interconnected government, commercial, scientific, and educational infrastructures—including critical infrastructures for electric power, natural gas and petroleum production and distribution, telecommunications, transportation, water supply, banking and finance, and emergency and government services—in a vast, interdependent physical and electronic network.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s2/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Exponential increases in interconnectivity have facilitated enhanced communications, economic growth, and the delivery of services critical to the public welfare, but have also increased the consequences of temporary or prolonged failure.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s2/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">A Department of Defense Joint Task Force concluded after a 1997 United States information warfare exercise that the results “<quotedText style="-uslm-dtd:quote">clearly demonstrated our lack of preparation for a coordinated cyber and physical attack on our critical military and civilian infrastructure</quotedText>”.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s2/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">Computer security technology and systems implementation lack—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s2/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">sufficient long term research funding;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s2/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">adequate coordination across Federal and State government agencies and among government, academia, and industry; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s2/4/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">sufficient numbers of outstanding researchers in the field.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s2/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">Accordingly, Federal investment in computer and network security research and development must be significantly increased to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s2/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">improve vulnerability assessment and technological and systems solutions;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s2/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">expand and improve the pool of information security professionals, including researchers, in the United States workforce; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s2/5/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">better coordinate information sharing and collaboration among industry, government, and academic research projects.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s2/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">While African-Americans, Hispanics, and Native Americans constitute 25 percent of the total United States workforce and 30 percent of the college-age population, members of these minorities comprise less than 7 percent of the United States computer and information science workforce.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s3" styleType="OLC" role="definitions">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7402">15 U.S.C. 7402</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">In this Act:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s3/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Director.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Director</term>” means the Director of the National Science Foundation.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s3/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Institution of higher education.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">institution of higher education</term>” has the meaning given that term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s4" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7403">15 U.S.C. 7403</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL SCIENCE FOUNDATION RESEARCH. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s4/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Computer and Network Security Research Grants.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s4/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Director shall award grants for basic research on innovative approaches to the structure of computer and network hardware and software that are aimed at enhancing computer security. Research areas may include—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">authentication, cryptography, and other secure data communications technology;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">computer forensics and intrusion detection;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">reliability of computer and network applications, middleware, operating systems, control systems, and communications infrastructure;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">privacy and confidentiality;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">network security architecture, including tools for security administration and analysis;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">emerging threats;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">vulnerability assessments and techniques for quantifying risk;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">remote access and wireless security; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/I" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">enhancement of law enforcement ability to detect, investigate, and prosecute cyber-crimes, including those that involve piracy of intellectual property;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/J" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="J">(J) </num><content style="-uslm-dtd:text">secure fundamental protocols that are integral to inter-network communications and data exchange;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/K" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="K">(K) </num><chapeau style="-uslm-dtd:text">secure software engineering and software assurance, including—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s4/a/1/K/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">programming languages and systems that include fundamental security features;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s4/a/1/K/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">portable or reusable code that remains secure when deployed in various environments;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s4/a/1/K/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">verification and validation technologies to ensure that requirements and specifications have been implemented; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s4/a/1/K/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">models for comparison and metrics to assure that required standards have been met;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/L" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="L">(L) </num><chapeau style="-uslm-dtd:text">holistic system security that—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s4/a/1/L/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">addresses the building of secure systems from trusted and untrusted components;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s4/a/1/L/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">proactively reduces vulnerabilities;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s4/a/1/L/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">addresses insider threats; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s4/a/1/L/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">supports privacy in conjunction with improved security;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/M" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="M">(M) </num><content style="-uslm-dtd:text">monitoring and detection;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/N" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="N">(N) </num><content style="-uslm-dtd:text">mitigation and rapid recovery methods;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/O" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="O">(O) </num><content style="-uslm-dtd:text">security of wireless networks and mobile devices; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/P" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="P">(P) </num><content style="-uslm-dtd:text">security of cloud infrastructure and services;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/Q" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="Q">(Q) </num><content style="-uslm-dtd:text">security of election-dedicated voting system software and hardware; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/1/R" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="R">(R) </num><content style="-uslm-dtd:text">role of the human factor in cybersecurity and the interplay of computers and humans and the physical world.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s4/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Merit review; competition.—</heading><content style="-uslm-dtd:text">Grants shall be awarded under this section on a merit-reviewed competitive basis.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s4/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><chapeau style="-uslm-dtd:text">There are authorized to be appropriated to the National Science Foundation to carry out this subsection—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">$35,000,000 for fiscal year 2003;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">$40,000,000 for fiscal year 2004;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">$46,000,000 for fiscal year 2005;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/3/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">$52,000,000 for fiscal year 2006; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/a/3/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">$60,000,000 for fiscal year 2007.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s4/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Computer and Network Security Research Centers.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s4/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director shall award multiyear grants, subject to the availability of appropriations, to institutions of higher education, nonprofit research institutions, or consortia thereof to establish multidisciplinary Centers for Computer and Network Security Research. Institutions of higher education, nonprofit research institutions, or consortia thereof receiving such grants may partner with 1 or more government laboratories or for-profit institutions, or other institutions of higher education or nonprofit research institutions.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s4/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Merit review; competition.—</heading><content style="-uslm-dtd:text">Grants shall be awarded under this subsection on a merit-reviewed competitive basis.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s4/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Purpose.—</heading><content style="-uslm-dtd:text">The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas described in subsection (a)(1).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s4/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Applications.—</heading><chapeau style="-uslm-dtd:text">An institution of higher education, nonprofit research institution, or consortia thereof seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the research projects that will be undertaken by the Center and the contributions of each of the participating entities;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">how the Center will promote active collaboration among scientists and engineers from different disciplines, such as computer scientists, engineers, mathematicians, and social science researchers;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/4/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">how the Center will contribute to increasing the number and quality of computer and network security researchers and other professionals, including individuals from groups historically underrepresented in these fields; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/4/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">how the Center will disseminate research results quickly and widely to improve cyber security in information technology networks, products, and services.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s4/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Criteria.—</heading><chapeau style="-uslm-dtd:text">In evaluating the applications submitted under paragraph (4), the Director shall consider, at a minimum—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the ability of the applicant to generate innovative approaches to computer and network security and effectively carry out the research program;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the experience of the applicant in conducting research on computer and network security and the capacity of the applicant to foster new multidisciplinary collaborations;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/5/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the capacity of the applicant to attract and provide adequate support for a diverse group of undergraduate and graduate students and postdoctoral fellows to pursue computer and network security research; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/5/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the extent to which the applicant will partner with government laboratories, for-profit entities, other institutions of higher education, or nonprofit research institutions, and the role the partners will play in the research undertaken by the Center;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/5/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the demonstrated capability of the applicant to conduct high performance computation integral to complex computer and network security research, through on-site or off-site computing;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/5/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the applicant's affiliation with private sector entities involved with industrial research described in subsection (a)(1);</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/5/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">the capability of the applicant to conduct research in a secure environment;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/5/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">the applicant's affiliation with existing research programs of the Federal Government;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/5/I" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the applicant's experience managing public-private partnerships to transition new technologies into a commercial setting or the government user community;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/5/J" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="J">(J) </num><content style="-uslm-dtd:text">the capability of the applicant to conduct interdisciplinary cybersecurity research, basic and applied, such as in law, economics, or behavioral sciences; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/5/K" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="K">(K) </num><content style="-uslm-dtd:text">the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and networking and information technology, nanotechnology, or industrial control systems.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s4/b/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Annual meeting.—</heading><content style="-uslm-dtd:text">The Director shall convene an annual meeting of the Centers in order to foster collaboration and communication between Center participants.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s4/b/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><chapeau style="-uslm-dtd:text">There are authorized to be appropriated for the National Science Foundation to carry out this subsection—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/7/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">$12,000,000 for fiscal year 2003;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/7/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">$24,000,000 for fiscal year 2004;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/7/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">$36,000,000 for fiscal year 2005;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/7/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">$36,000,000 for fiscal year 2006; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s4/b/7/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">$36,000,000 for fiscal year 2007.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s5" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7404">15 U.S.C. 7404</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL SCIENCE FOUNDATION COMPUTER AND NETWORK SECURITY PROGRAMS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s5/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Computer and Network Security Capacity Building Grants.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director shall establish a program to award grants to institutions of higher education (or consortia thereof) to establish or improve undergraduate and master's degree programs in computer and network security, to increase the number of students, including the number of students from groups historically underrepresented in these fields and students who are veterans, who pursue undergraduate or master's degrees in fields related to computer and network security, and to provide students with experience in government or industry related to their computer and network security studies.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Merit review.—</heading><content style="-uslm-dtd:text">Grants shall be awarded under this subsection on a merit-reviewed competitive basis.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Use of funds.—</heading><chapeau style="-uslm-dtd:text">Grants awarded under this subsection shall be used for activities that enhance the ability of an institution of higher education (or consortium thereof) to provide high-quality undergraduate and master's degree programs in computer and network security and to recruit and retain increased numbers of students to such programs. Activities may include—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">revising curriculum to better prepare undergraduate and master's degree students for careers in computer and network security;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">establishing degree and certificate programs in computer and network security;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">creating opportunities for undergraduate students to participate in computer and network security research projects;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/3/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">acquiring equipment necessary for student instruction in computer and network security, including the installation of testbed networks for student use;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/3/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">providing opportunities for faculty to work with local or Federal Government agencies, private industry, nonprofit research institutions, or other academic institutions to develop new expertise or to formulate new research directions in computer and network security;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/3/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">establishing collaborations with other academic institutions or academic departments that seek to establish, expand, or enhance programs in computer and network security;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/3/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">establishing student internships in computer and network security at government agencies or in private industry;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/3/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">establishing collaborations with other academic institutions to establish or enhance a web-based collection of computer and network security courseware and laboratory exercises for sharing with other institutions of higher education, including community colleges;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/3/I" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">establishing or enhancing bridge programs in computer and network security between community colleges and universities; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/3/J" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="J">(J) </num><content style="-uslm-dtd:text">creating opportunities for veterans to transition to careers in computer and network security; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/3/K" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="K">(K) </num><content style="-uslm-dtd:text">any other activities the Director determines will accomplish the goals of this subsection.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Selection process.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Application.—</heading><chapeau style="-uslm-dtd:text">An institution of higher education (or a consortium thereof) seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s5/a/4/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a description of the applicant's computer and network security research and instructional capacity, and in the case of an application from a consortium of institutions of higher education, a description of the role that each member will play in implementing the proposal;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s5/a/4/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a comprehensive plan by which the institution or consortium will build instructional capacity in computer and information security;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s5/a/4/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">a description of relevant collaborations with government agencies or private industry that inform the instructional program in computer and network security;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s5/a/4/A/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">a survey of the applicant's historic student enrollment and placement data in fields related to computer and network security and a study of potential enrollment and placement for students enrolled in the proposed computer and network security program; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s5/a/4/A/v" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">a plan to evaluate the success of the proposed computer and network security program, including post-graduation assessment of graduate school and job placement and retention rates as well as the relevance of the instructional program to graduate study and to the workplace.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Awards.—</heading><clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s5/a/4/B/i" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">The Director shall ensure, to the extent practicable, that grants are awarded under this subsection in a wide range of geographic areas and categories of institutions of higher education, including minority serving institutions.</content></clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/107/305/s5/a/4/B/ii" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">The Director shall award grants under this subsection for a period not to exceed 5 years.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Assessment required.—</heading><content style="-uslm-dtd:text">The Director shall evaluate the program established under this subsection no later than 6 years after the establishment of the program. At a minimum, the Director shall evaluate the extent to which the program achieved its objectives of increasing the quality and quantity of students, including students from groups historically underrepresented in computer and network security related disciplines, pursuing undergraduate or master's degrees in computer and network security.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/a/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><chapeau style="-uslm-dtd:text">There are authorized to be appropriated to the National Science Foundation to carry out this subsection—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/6/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">$15,000,000 for fiscal year 2003;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/6/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">$20,000,000 for fiscal year 2004;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/6/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">$20,000,000 for fiscal year 2005;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/6/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">$20,000,000 for fiscal year 2006; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/a/6/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">$20,000,000 for fiscal year 2007.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s5/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Scientific and Advanced Technology Act of 1992.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Grants.—</heading><content style="-uslm-dtd:text">The Director shall provide grants under the Scientific and Advanced Technology Act of 1992 (42 U.S.C. 1862i) for the purposes of section 3(a) and (b) of that Act, except that the activities supported pursuant to this subsection shall be limited to improving education in fields related to computer and network security.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><chapeau style="-uslm-dtd:text">There are authorized to be appropriated to the National Science Foundation to carry out this subsection—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">$1,000,000 for fiscal year 2003;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">$1,250,000 for fiscal year 2004;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/b/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">$1,250,000 for fiscal year 2005;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/b/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">$1,250,000 for fiscal year 2006; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/b/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">$1,250,000 for fiscal year 2007.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s5/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Graduate Traineeships in Computer and Network Security Research.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs for graduate students who pursue computer and network security research leading to a doctorate degree by providing funding and other assistance, and by providing graduate students with research experience in government or industry related to the students' computer and network security studies.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Merit review.—</heading><content style="-uslm-dtd:text">Grants shall be provided under this subsection on a merit-reviewed competitive basis.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Use of funds.—</heading><chapeau style="-uslm-dtd:text">An institution of higher education shall use grant funds for the purposes of—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">providing traineeships to students who are citizens, nationals, or lawfully admitted permanent resident aliens of the United States and are pursuing research in computer or network security leading to a doctorate degree;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">paying tuition and fees for students receiving traineeships under subparagraph (A);</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">establishing scientific internship programs for students receiving traineeships under subparagraph (A) in computer and network security at for-profit institutions, nonprofit research institutions, or government laboratories; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/3/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">other costs associated with the administration of the program.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Traineeship amount.—</heading><content style="-uslm-dtd:text">Traineeships provided under paragraph (3)(A) shall be in the amount of $25,000 per year, or the level of the National Science Foundation Graduate Research Fellowships, whichever is greater, for up to 3 years.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/c/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Selection process.—</heading><chapeau style="-uslm-dtd:text">An institution of higher education seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the instructional program and research opportunities in computer and network security available to graduate students at the applicant's institution; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the internship program to be established, including the opportunities that will be made available to students for internships at for-profit institutions, nonprofit research institutions, and government laboratories.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/c/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Review of applications.—</heading><chapeau style="-uslm-dtd:text">In evaluating the applications submitted under paragraph (5), the Director shall consider—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/6/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the ability of the applicant to effectively carry out the proposed program;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/6/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the quality of the applicant's existing research and education programs;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/6/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the likelihood that the program will recruit increased numbers of students, including students from groups historically underrepresented in computer and network security related disciplines or veterans, to pursue and earn doctorate degrees in computer and network security;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/6/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the nature and quality of the internship program established through collaborations with government laboratories, nonprofit research institutions, and for-profit institutions;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/6/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the integration of internship opportunities into graduate students' research; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/6/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the relevance of the proposed program to current and future computer and network security needs.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/c/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><chapeau style="-uslm-dtd:text">There are authorized to be appropriated to the National Science Foundation to carry out this subsection—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/7/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">$10,000,000 for fiscal year 2003;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/7/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">$20,000,000 for fiscal year 2004;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/7/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">$20,000,000 for fiscal year 2005;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/7/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">$20,000,000 for fiscal year 2006; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/c/7/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">$20,000,000 for fiscal year 2007.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s5/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Graduate Research Fellowships Program Support.—</heading><content style="-uslm-dtd:text">Computer and network security shall be included among the fields of specialization supported by the National Science Foundation's Graduate Research Fellowships program under section 10 of the National Science Foundation Act of 1950 (42 U.S.C. 1869).</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s5/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Cyber Security Faculty Development Traineeship Program.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/e/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs to enable graduate students to pursue academic careers in cyber security upon completion of doctoral degrees.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/e/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Merit review; competition.—</heading><content style="-uslm-dtd:text">Grants shall be awarded under this section on a merit-reviewed competitive basis.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/e/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Application.—</heading><content style="-uslm-dtd:text">Each institution of higher education desiring to receive a grant under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director shall require.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/e/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Use of funds.—</heading><chapeau style="-uslm-dtd:text">Funds received by an institution of higher education under this paragraph shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/e/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">be made available to individuals on a merit-reviewed competitive basis and in accordance with the requirements established in paragraph (7);</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/e/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">be in an amount that is sufficient to cover annual tuition and fees for doctoral study at an institution of higher education for the duration of the graduate traineeship, and shall include, in addition, an annual living stipend of $25,000; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/e/4/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">be provided to individuals for a duration of no more than 5 years, the specific duration of each graduate traineeship to be determined by the institution of higher education, on a case-by-case basis.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/e/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Repayment.—</heading><chapeau style="-uslm-dtd:text">Each graduate traineeship shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/e/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">subject to paragraph (5)(B), be subject to full repayment upon completion of the doctoral degree according to a repayment schedule established and administered by the institution of higher education;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/e/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">be forgiven at the rate of 20 percent of the total amount of the graduate traineeship assistance received under this section for each academic year that a recipient is employed as a full-time faculty member at an institution of higher education for a period not to exceed 5 years; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/e/5/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">be monitored by the institution of higher education receiving a grant under this subsection to ensure compliance with this subsection.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/e/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Exceptions.—</heading><content style="-uslm-dtd:text">The Director may provide for the partial or total waiver or suspension of any service obligation or payment by an individual under this section whenever compliance by the individual is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be unconscionable.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/e/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Eligibility.—</heading><chapeau style="-uslm-dtd:text">To be eligible to receive a graduate traineeship under this section, an individual shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/e/7/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">be a citizen, national, or lawfully admitted permanent resident alien of the United States; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s5/e/7/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">demonstrate a commitment to a career in higher education.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/e/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Consideration.—</heading><content style="-uslm-dtd:text">In making selections for graduate traineeships under this paragraph, an institution receiving a grant under this subsection shall consider, to the extent possible, a diverse pool of applicants whose interests are of an interdisciplinary nature, encompassing the social scientific as well as the technical dimensions of cyber security.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s5/e/9" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><content style="-uslm-dtd:text">There are authorized to be appropriated to the National Science Foundation to carry out this paragraph $5,000,000 for each of fiscal years 2003 through 2007.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s6" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7405">15 U.S.C. 7405</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">CONSULTATION. </heading>
+            <content style="-uslm-dtd:text" class="block">In carrying out sections 4 and 5, the Director shall consult with other Federal agencies.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s7" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><heading style="-uslm-dtd:header">FOSTERING RESEARCH AND EDUCATION IN COMPUTER AND NETWORK SECURITY. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 7 provides for amendments to section 3(a) of the National Science Foundation Act of 1950 (42 U.S.C. 1862(a)), which is shown in its entirety elsewhere in this compilation.<b>]</b> </editorialNote>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s8" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7406">15 U.S.C. 7406</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY PROGRAMS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s8/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Research Program.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Subsection (a) of this section provides for amendments to the National Institute of Standards and Technology Act (15 U.S.C. 271 et seq.), which is shown in its entirety elsewhere in this compilation.<b>]</b> </editorialNote>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s8/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Amendment of Computer system Definition.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Subsection (b) of this section provides for an amendment to section 20(d)(1)(B)(i) of National Institute of Standards and Technology Act (15 U.S.C. 278g–3(d)(1)(B)(i)), which is shown in its entirety elsewhere in this compilation.<b>]</b> </editorialNote>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s8/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Security Automation and Checklists for Government Systems.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s8/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology shall, as necessary, develop and revise security automation standards, associated reference materials (including protocols), and checklists providing settings and option selections that minimize the security risks associated with each information technology hardware or software system and security tool that is, or is likely to become, widely used within the Federal Government, thereby enabling standardized and interoperable technologies, architectures, and frameworks for continuous monitoring of information security within the Federal Government.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s8/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Priorities for development.—</heading><chapeau style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology shall establish priorities for the development of standards, reference materials, and checklists under this subsection on the basis of—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s8/c/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the security risks associated with the use of the system;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s8/c/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the number of agencies that use a particular system or security tool;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s8/c/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the usefulness of the standards, reference materials, or checklists to Federal agencies that are users or potential users of the system;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s8/c/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the effectiveness of the associated standard, reference material, or checklist in creating or enabling continuous monitoring of information security; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s8/c/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">such other factors as the Director of the National Institute of Standards and Technology determines to be appropriate.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s8/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Excluded systems.—</heading><content style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology may exclude from the application of paragraph (1) any information technology hardware or software system or security tool for which such Director determines that the development of a standard, reference material, or checklist is inappropriate because of the infrequency of use of the system, the obsolescence of the system, or the lack of utility or impracticability of developing a standard, reference material, or checklist for the system.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s8/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Dissemination of standards and related materials.—</heading><content style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology shall ensure that Federal agencies are informed of the availability of any standard, reference material, checklist, or other item developed under this subsection.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s8/c/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Agency use requirements.—</heading><chapeau style="-uslm-dtd:text">The development of standards, reference materials, and checklists under paragraph (1) for an information technology hardware or software system or tool does not—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s8/c/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">require any Federal agency to select the specific settings or options recommended by the standard, reference material, or checklist for the system;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s8/c/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">establish conditions or prerequisites for Federal agency procurement or deployment of any such system;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s8/c/5/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">imply an endorsement of any such system by the Director of the National Institute of Standards and Technology; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s8/c/5/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">preclude any Federal agency from procuring or deploying other information technology hardware or software systems for which no such standard, reference material, or checklist has been developed or identified under paragraph (1).</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s8/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Federal Agency Information Security Programs.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s8/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">In developing the agencywide information security program required by section 3554(b) of title 44, United States Code, an agency that deploys a computer hardware or software system for which the Director of the National Institute of Standards and Technology has developed a checklist under subsection (c) of this section—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s8/d/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">shall include in that program an explanation of how the agency has considered such checklist in deploying that system; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s8/d/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">may treat the explanation as if it were a portion of the agency's annual performance plan properly classified under criteria established by an Executive Order (within the meaning of section 1115(d) of title 31, United States Code).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s8/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Limitation.—</heading><content style="-uslm-dtd:text">Paragraph (1) does not apply to any computer hardware or software system for which the National Institute of Standards and Technology does not have responsibility under section 20(a)(3) of the National Institute of Standards and Technology Act (15 U.S.C.278g–3(a)(3)).</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s9" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="9">SEC. 9. </num><heading style="-uslm-dtd:header">COMPUTER SECURITY REVIEW, PUBLIC MEETINGS, AND INFORMATION. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 9 provides for an amendment to section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3), which is shown in its entirety elsewhere in this compilation.<b>]</b> </editorialNote>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s10" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="10">SEC. 10. </num><heading style="-uslm-dtd:header">INTRAMURAL SECURITY RESEARCH. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 10 provides for amendments to section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3), which is shown in its entirety elsewhere in this compilation.<b>]</b> </editorialNote>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s11" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="11">SEC. 11. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7407">15 U.S.C. 7407</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+            <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s11/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">for activities under section 22 of the National Institute of Standards and Technology Act, as added by section 8 of this Act—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s11/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">$25,000,000 for fiscal year 2003;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s11/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">$40,000,000 for fiscal year 2004;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s11/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">$55,000,000 for fiscal year 2005;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s11/1/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">$70,000,000 for fiscal year 2006;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s11/1/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">$85,000,000 for fiscal year 2007; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s11/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">for activities under section 20(f) of the National Institute of Standards and Technology Act, as added by section 10 of this Act—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s11/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">$6,000,000 for fiscal year 2003;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s11/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">$6,200,000 for fiscal year 2004;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s11/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">$6,400,000 for fiscal year 2005;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s11/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">$6,600,000 for fiscal year 2006; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/107/305/s11/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">$6,800,000 for fiscal year 2007.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s12" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="12">SEC. 12. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7408">15 U.S.C. 7408</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL ACADEMY OF SCIENCES STUDY ON COMPUTER AND NETWORK SECURITY IN CRITICAL INFRASTRUCTURES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s12/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Study.—</heading><chapeau style="-uslm-dtd:text">Not later than 3 months after the date of the enactment of this Act, the Director of the National Institute of Standards and Technology shall enter into an arrangement with the National Research Council of the National Academy of Sciences to conduct a study of the vulnerabilities of the Nation's network infrastructure and make recommendations for appropriate improvements. The National Research Council shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s12/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">review existing studies and associated data on the architectural, hardware, and software vulnerabilities and interdependencies in United States critical infrastructure networks;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s12/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">identify and assess gaps in technical capability for robust critical infrastructure network security and make recommendations for research priorities and resource requirements; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s12/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">review any and all other essential elements of computer and network security, including security of industrial process controls, to be determined in the conduct of the study.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s12/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology shall transmit a report containing the results of the study and recommendations required by subsection (a) to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science not later than 21 months after the date of enactment of this Act.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s12/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Security.—</heading><content style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology shall ensure that no information that is classified is included in any publicly released version of the report required by this section.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s12/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology for the purposes of carrying out this section, $700,000.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s13" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="13">SEC. 13. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7409">15 U.S.C. 7409</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">COORDINATION OF FEDERAL CYBER SECURITY RESEARCH AND DEVELOPMENT </heading>
+            <content style="-uslm-dtd:text" class="block">The Director of the National Science Foundation and the Director of the National Institute of Standards and Technology shall coordinate the research programs authorized by this Act or pursuant to amendments made by this Act. The Director of the Office of Science and Technology Policy shall work with the Director of the National Science Foundation and the Director of the National Institute of Standards and Technology to ensure that programs authorized by this Act or pursuant to amendments made by this Act are taken into account in any government-wide cyber security research effort.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s14" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="14">SEC. 14. </num><heading style="-uslm-dtd:header">OFFICE OF SPACE COMMERCIALIZATION. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 14 provides for an amendment to Section 8(a) of the Technology Administration Act of 1998 (15 U.S.C. 1511e(a)).<b>]</b> </editorialNote>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s15" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="15">SEC. 15. </num><heading style="-uslm-dtd:header">TECHNICAL CORRECTION OF NATIONAL CONSTRUCTION SAFETY TEAM ACT. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 15 provides for an amendment to section 2(c)(1)(d) of the National Construction Safety Team Act.<b>]</b> </editorialNote>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s16" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="16">SEC. 16. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7410">15 U.S.C. 7410</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">GRANT ELIGIBILITY REQUIREMENTS AND COMPLIANCE WITH IMMIGRATION LAWS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s16/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Immigration Status.—</heading><content style="-uslm-dtd:text">No grant or fellowship may be awarded under this Act, directly or indirectly, to any individual who is in violation of the terms of his or her status as a nonimmigrant under section 101(a)(15)(F), (M), or (J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(F), (M), or (J)).</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s16/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Aliens from Certain Countries.—</heading><content style="-uslm-dtd:text">No grant or fellowship may be awarded under this Act, directly or indirectly, to any alien from a country that is a state sponsor of international terrorism, as defined under section 306(b) of the Enhanced Border Security and VISA Entry Reform Act (8 U.S.C. 1735(b)), unless the Secretary of State determines, in consultation with the Attorney General and the heads of other appropriate agencies, that such alien does not pose a threat to the safety or national security of the United States.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/107/305/s16/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Non-complying Institutions.—</heading><chapeau style="-uslm-dtd:text">No grant or fellowship may be awarded under this Act, directly or indirectly, to any institution of higher education or non-profit institution (or consortia thereof) that has—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s16/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">materially failed to comply with the recordkeeping and reporting requirements to receive nonimmigrant students or exchange visitor program participants under section 101(a)(15)(F), (M), or (J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(F), (M), or (J)), or section 641 of the Illegal Immigration Reform and Responsibility Act of 1996 (8 U.S.C. 1372), as required by section 502 of the Enhanced Border Security and VISA Entry Reform Act (8 U.S.C. 1762); or</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/107/305/s16/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">been suspended or terminated pursuant to section 502(c) of the Enhanced Border Security and VISA Entry Reform Act (8 U.S.C 1762(c)).</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/107/305/s17" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="17">SEC. 17. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7411">15 U.S.C. 7411</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REPORT ON GRANT AND FELLOWSHIP PROGRAMS. </heading>
+            <content style="-uslm-dtd:text" class="block">Within 24 months after the date of enactment of this Act, the Director, in consultation with the Assistant to the President for National Security Affairs, shall submit to Congress a report reviewing this Act to ensure that the programs and fellowships are being awarded under this Act to individuals and institutions of higher education who are in compliance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) in order to protect our national security.</content>
+        </section>
+    </main>
+</statuteCompilation>

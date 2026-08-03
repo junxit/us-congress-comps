@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>NATIONAL DAM SAFETY PROGRAM ACT</dc:title>
+        <citableAs>Public Law 92-367, as amended</citableAs>
+        <citableAsShortTitle>NATIONAL DAM SAFETY PROGRAM ACT</citableAsShortTitle>
+        <docNumber>367</docNumber>
+        <currentThroughPublicLaw>118–272</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
+        <processedDate>2025-02-07</processedDate>
+        <containsShortTitle>National Dam Safety Program Act</containsShortTitle>
+        <property role="fileId">2975</property>
+        <congress>92</congress>
+        <approvedDate>1972-08-08</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">NATIONAL DAM SAFETY PROGRAM ACT</property>
+        <citationNote style="-uslm-dtd:public-law">[<citableAs>Public Law 92-367</citableAs>
+]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 118–272</currentThroughPublicLaw>, Enacted <date date="2025-01-04">January 4, 2025</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 92-367. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To authorize the Secretary of the Army to undertake a national program of inspection of dams.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/92/367/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content class="block" style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">National Dam Safety Program Act</inline></shortTitle>”.</content><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467">33 U.S.C. 467</ref> nt<b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s2" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <subsection role="undesignated-level" style="-uslm-dtd:subsection" styleType="OLC"><chapeau style="-uslm-dtd:text">In this Act, the following definitions apply:</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s2/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Administrator.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Administrator</term>” means the Administrator of the Federal Emergency Management Agency.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Board.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Board</term>” means a National Dam Safety Review Board established under section 8(f).</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Dam.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">dam</term>”—</chapeau>
+                    <subparagraph identifier="/us/sComp/92/367/s2/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">means any artificial barrier that has the ability to impound water, wastewater, or any liquid-borne material, for the purpose of storage or control of water, that—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s2/3/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">is 25 feet or more in height from—</chapeau>
+                            <subclause identifier="/us/sComp/92/367/s2/3/A/i/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the natural bed of the stream channel or watercourse measured at the downstream toe of the barrier; or</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/92/367/s2/3/A/i/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">if the barrier is not across a stream channel or watercourse, from the lowest elevation of the outside limit of the barrier;</content>
+                            </subclause><continuation role="clause" style="-uslm-dtd:continuation-text">to the maximum water storage elevation; or</continuation>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s2/3/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">has an impounding capacity for maximum storage elevation of 50 acre-feet or more; but</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s2/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">does not include—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s2/3/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a levee; or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s2/3/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">a barrier described in subparagraph (A) that—</chapeau>
+                            <subclause identifier="/us/sComp/92/367/s2/3/B/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">is 6 feet or less in height regardless of storage capacity; or</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/92/367/s2/3/B/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">has a storage capacity at the maximum water storage elevation that is 15 acre-feet or less regardless of height;</content>
+                            </subclause><continuation role="clause" style="-uslm-dtd:continuation-text">unless the barrier, because of the location of the barrier or another physical characteristic of the barrier, is likely to pose a significant threat to human life or property if the barrier fails (as determined by the Administrator).</continuation>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Eligible high hazard potential dam.—</heading>
+                    <subparagraph identifier="/us/sComp/92/367/s2/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">eligible high hazard potential dam</term>” means a non-Federal dam that—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s2/4/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">is located in a State with a State dam safety program;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s2/4/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">is classified as “<term style="-uslm-dtd:quote">high hazard potential</term>” by the State dam safety agency in the State in which the dam is located;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s2/4/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><chapeau style="-uslm-dtd:text">has an emergency action plan that—</chapeau>
+                            <subclause identifier="/us/sComp/92/367/s2/4/A/iii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">is approved by the relevant State dam safety agency; or</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/92/367/s2/4/A/iii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">is in conformance with State law and pending approval by the relevant State dam safety agency;</content>
+                            </subclause>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s2/4/A/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">fails to meet minimum dam safety standards of the State in which the dam is located, as determined by the State; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s2/4/A/v" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">poses an unacceptable risk to the public, as determined by the Administrator, in consultation with the Board.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s2/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Exclusion.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">eligible high hazard potential dam</term>” does not include—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s2/4/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a licensed hydroelectric dam under a hydropower project with an authorized installed capacity of greater than 1.5 megawatts; or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s2/4/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a dam built under the authority of the Secretary of Agriculture.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Federal agency.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Federal agency</term>” means a Federal agency that designs, finances, constructs, owns, operates, maintains, or regulates the construction, operation, or maintenance of a dam.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Federal guidelines for dam safety.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Federal Guidelines for Dam Safety</term>” means the FEMA publication, numbered 93 and dated June 1979, that defines management practices for dam safety at all Federal agencies.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">FEMA.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">FEMA</term>” means the Federal Emergency Management Agency.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Hazard reduction.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">hazard reduction</term>” means the reduction in the potential consequences to life and property of dam failure.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">ICODS.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">ICODS</term>” means the Interagency Committee on Dam Safety established by section 7.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/10" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><heading style="-uslm-dtd:header">Eligible subrecipient.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">eligible subrecipient</term>”, in the case of a project receiving assistance under section 8A, includes—</chapeau>
+                    <subparagraph identifier="/us/sComp/92/367/s2/10/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a governmental organization; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s2/10/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a nonprofit organization.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/11" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><heading style="-uslm-dtd:header">Program.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Program</term>” means the national dam safety program established under section 8.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/12" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="12">(12) </num><heading style="-uslm-dtd:header">Rehabilitation.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">rehabilitation</term>” means the repair, replacement, reconstruction, or removal of a dam that is carried out to meet applicable State dam safety and security standards.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/13" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="13">(13) </num><heading style="-uslm-dtd:header">State.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State</term>” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/14" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="14">(14) </num><heading style="-uslm-dtd:header">State dam safety agency.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State dam safety agency</term>” means a State agency that has regulatory authority over the safety of non-Federal dams.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/15" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="15">(15) </num><heading style="-uslm-dtd:header">State dam safety program.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State dam safety program</term>” means a State dam safety program approved and assisted under section 8(e).</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/16" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="16">(16) </num><heading style="-uslm-dtd:header">Underserved community.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">underserved community</term>” means a community with a population of less than 50,000 that has a median household income of less than 80 percent of the statewide median household income.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s2/17" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="17">(17) </num><heading style="-uslm-dtd:header">United states.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">United States</term>”, when used in a geographical sense, means all of the States.</content>
+                </paragraph>
+            </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467">33 U.S.C. 467</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s3" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><heading style="-uslm-dtd:header">INSPECTION OF DAMS. </heading>
+            <subsection identifier="/us/sComp/92/367/s3/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">As soon as practicable, the Secretary of the Army, acting through the Chief of Engineers, shall carry out a national program of inspection of dams for the purpose of protecting human life and property. All dams in the United States shall be inspected by the Secretary except (1) dams under the jurisdiction of the Bureau of Reclamation, the Tennessee Valley Authority, or the International Boundary and Water Commission, (2) dams which have been constructed pursuant to licenses issued under the authority of the Federal Power Act, (3) dams which have been inspected within the twelve-month period immediately prior to the enactment of this Act by a State agency and which the Governor of such State requests be excluded from inspection, and (4) dams which the Secretary of the Army determines do not pose any threat to human life or property. The Secretary may inspect dams which have been licensed under the Federal Power Act upon request of the Federal Power Commission and dams under the jurisdiction of the International Boundary and Water Commission upon request of such Commission.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s3/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">State Participation.—</heading><chapeau style="-uslm-dtd:text">On request of a State dam safety agency, with respect to any dam the failure of which would affect the State, the head of a Federal agency shall—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s3/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">provide information to the State dam safety agency on the construction, operation, maintenance, condition, or provisions for emergency operations of the dam; or</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s3/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">allow any official of the State dam safety agency to participate in the Federal inspection of the dam.</content>
+                </paragraph>
+            </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467a">33 U.S.C. 467a</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s4" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><heading style="-uslm-dtd:header">INVESTIGATION REPORTS TO GOVERNORS. </heading>
+            <content class="block" style="-uslm-dtd:text">As soon as practicable after inspection of a dam, the Secretary shall notify the Governor of the State in which such dam is located the results of such investigation. In any case in which any hazardous conditions are found during an inspection, upon request by the owner, the Secretary, acting through the Chief of Engineers, may perform detailed engineering studies to determine the structural integrity of the dam, subject to reimbursement of such expense by the owner of such dam. The Secretary shall immediately notify the Governor of any hazardous conditions found during an inspection. The Secretary shall provide advice to the Governor, upon request, relating to timely remedial measures necessary to mitigate or obviate any hazardous conditions found during an inspection.</content><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467b">33 U.S.C. 467b</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s5" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><heading style="-uslm-dtd:header">DETERMINATION OF DANGER TO HUMAN LIFE AND PROPERTY. </heading>
+            <content class="block" style="-uslm-dtd:text">For the purpose of determining whether a dam (including the waters impounded by such dam) constitutes a danger to human life or property, the Secretary shall take into consideration the possibility that the dam might be endangered by overtopping, seepage, settlement, erosion, sediment, cracking, earth movement, earthquakes, failure of bulkheads, flashboard, gates on conduits, or other conditions which exist or which might occur in any area in the vicinity of the dam.</content><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467c">33 U.S.C. 467c</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s6" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><heading style="-uslm-dtd:header">NATIONAL INVENTORY OF DAMS AND LOW-HEAD DAMS. </heading>
+            <subsection identifier="/us/sComp/92/367/s6/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary of the Army shall maintain and update information on the inventory of dams and low-head dams in the United States.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s6/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Dams.—</heading><content style="-uslm-dtd:text">The inventory maintained under subsection (a) shall include any available information assessing each dam based on inspections completed by a Federal agency, a State dam safety agency, or a Tribal government.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s6/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Low-head Dams.—</heading><chapeau style="-uslm-dtd:text">The inventory maintained under subsection (a) shall include—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s6/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the location, ownership, description, current use, condition, height, and length of each low-head dam; </content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s6/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">any information on public safety conditions at each low-head dam; and </content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s6/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">any other relevant information concerning low-head dams.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s6/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Data.—</heading><chapeau style="-uslm-dtd:text">In carrying out this section, the Secretary shall—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s6/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">coordinate with Federal and State agencies, Tribal governments, and other relevant entities; and </content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s6/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">use data provided to the Secretary by those agencies and entities.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s6/e" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Public Availability.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall make the inventory maintained under subsection (a) publicly available (including on a publicly available website), including—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s6/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">public safety information on the dangers of low-head dams; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s6/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a directory of financial and technical assistance resources available to reduce safety hazards and fish passage barriers at low-head dams. </content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s6/f" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Clarification.—</heading><content style="-uslm-dtd:text">Nothing in this section provides authority to the Secretary to carry out an activity, with respect to a low-head dam, that is not explicitly authorized under this section.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s6/g" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Low-Head Dam Defined.—</heading><content style="-uslm-dtd:text">In this section, the term “<term style="-uslm-dtd:term">low-head dam</term>” means a river-wide artificial barrier that generally spans a stream channel, blocking the waterway and creating a backup of water behind the barrier, with a drop off over the wall of not less than 6 inches and not more than 25 feet.</content><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467d">33 U.S.C. 467d</ref><b>]</b> </editorialNote>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/92/367/s7" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><heading style="-uslm-dtd:header">INTERAGENCY COMMITTEE ON DAM SAFETY. </heading>
+            <subsection identifier="/us/sComp/92/367/s7/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading><chapeau style="-uslm-dtd:text">There is established an Interagency Committee on Dam Safety—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s7/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">comprised of a representative of each of the Department of Agriculture, the Department of Defense, the Department of Energy, the Department of the Interior, the Department of Labor, FEMA, the Federal Energy Regulatory Commission, the Nuclear Regulatory Commission, the Tennessee Valley Authority, and the United States Section of the International Boundary Commission; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s7/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">chaired by the Administrator.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s7/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Duties.—</heading><content style="-uslm-dtd:text">ICODS shall encourage the establishment and maintenance of effective Federal programs, policies, and guidelines intended to enhance dam safety for the protection of human life and property through coordination and information exchange among Federal agencies concerning implementation of the Federal Guidelines for Dam Safety.</content>
+            </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467e">33 U.S.C. 467e</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s8" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><heading style="-uslm-dtd:header">NATIONAL DAM SAFETY PROGRAM. </heading>
+            <subsection identifier="/us/sComp/92/367/s8/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Administrator, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with this section, a coordinated national dam safety program. The Program shall—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s8/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">be administered by FEMA to achieve the objectives set forth in subsection (c);</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">involve, to the extent appropriate, each Federal agency; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">include—</chapeau>
+                    <subparagraph identifier="/us/sComp/92/367/s8/a/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">each of the components described in subsection (d);</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/a/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the strategic plan described in subsection (b); and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/a/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">assistance for State dam safety programs described in subsection (e).</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Duties.—</heading><chapeau style="-uslm-dtd:text">The Administrator shall prepare a strategic plan—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s8/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">to establish goals, priorities, performance measures, and target dates toward effectively administering this Act in order to improve the safety of dams in the United States; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">to the extent feasible, to establish cooperation and coordination with, and assistance to, interested governmental entities in all States.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Objectives.—</heading><chapeau style="-uslm-dtd:text">The objectives of the Program are to—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s8/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">ensure that new and existing dams are safe through the development of technologically and economically feasible programs and procedures for national dam safety hazard reduction;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">encourage acceptable engineering policies and procedures to be used for dam site investigation, design, construction, operation and maintenance, and emergency preparedness;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">encourage the establishment and implementation of effective dam safety programs in each State based on State standards;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">develop and implement a comprehensive dam safety hazard education and public awareness initiative to assist the public in preparing for, mitigating, responding to, and recovering from dam incidents;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/c/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">develop technical assistance materials for Federal and non-Federal dam safety programs;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/c/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">develop mechanisms with which to provide Federal technical assistance for dam safety to the non-Federal sector; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/c/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">develop technical assistance materials, seminars, and guidelines to improve security for dams in the United States.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Components.—</heading>
+                <paragraph identifier="/us/sComp/92/367/s8/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Program shall consist of—</chapeau>
+                    <subparagraph identifier="/us/sComp/92/367/s8/d/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a Federal element and a non-Federal element; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/d/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">leadership activity, technical assistance activity, and public awareness activity.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Elements.—</heading>
+                    <subparagraph identifier="/us/sComp/92/367/s8/d/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Federal.—</heading><content style="-uslm-dtd:text">The Federal element shall incorporate the activities and practices carried out by Federal agencies under section 7 to implement the Federal Guidelines for Dam Safety.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/d/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Non-federal.—</heading><chapeau style="-uslm-dtd:text">The non-Federal element shall consist of—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s8/d/2/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the activities and practices carried out by States, local governments, and the private sector to safely build, regulate, operate, and maintain dams; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8/d/2/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">Federal activities that foster State efforts to develop and implement effective programs for the safety of dams.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Functional activities.—</heading>
+                    <subparagraph identifier="/us/sComp/92/367/s8/d/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Leadership.—</heading><content style="-uslm-dtd:text">The leadership activity shall be the responsibility of FEMA and shall be exercised by chairing the Board to coordinate national efforts to improve the safety of the dams in the United States.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/d/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Technical assistance.—</heading><content style="-uslm-dtd:text">The technical assistance activity shall consist of the transfer of knowledge and technical information among the Federal and non-Federal elements described in paragraph (2).</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/d/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Public awareness.—</heading><content style="-uslm-dtd:text">The public awareness activity shall provide for the education of the public, including State and local officials, in the hazards of dam failure, methods of reducing the adverse consequences of dam failure, and related matters.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8/e" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Assistance for State Dam Safety Programs.—</heading>
+                <paragraph identifier="/us/sComp/92/367/s8/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">To encourage the establishment and maintenance of effective State programs intended to ensure dam safety, to protect human life and property, and to improve State dam safety programs, the Administrator shall provide assistance with amounts made available under section 13 to assist States in establishing, maintaining, and improving dam safety programs in accordance with the criteria specified in paragraph (2).</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Criteria and budgeting requirement.—</heading><chapeau style="-uslm-dtd:text">For a State to be eligible for assistance under this subsection, a State dam safety program must be working toward meeting the following criteria and budgeting requirement:</chapeau>
+                    <subparagraph identifier="/us/sComp/92/367/s8/e/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Criteria.—</heading><chapeau style="-uslm-dtd:text">A State dam safety program must be authorized by State legislation to include, at a minimum—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s8/e/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the authority to review and approve plans and specifications to construct, enlarge, modify, remove, and abandon dams;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8/e/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the authority to perform periodic inspections during dam construction to ensure compliance with approved plans and specifications;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8/e/2/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">a requirement that, on completion of dam construction, State approval must be given before operation of the dam;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8/e/2/A/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">the authority to require or perform periodic evaluations of all dams and reservoirs to determine the extent of the threat to human life and property in case of failure;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8/e/2/A/v" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v)</num><subclause class="inline" identifier="/us/sComp/92/367/s8/e/2/A/v/I" style="-uslm-dtd:subclause" styleType="OLC"><num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the authority to require or perform the inspection, at least once every 5 years, of all dams and reservoirs that would pose a significant threat to human life and property in case of failure to determine the continued safety of the dams and reservoirs; and</content></subclause>
+                            <subclause class="leftIndentDecrease1" identifier="/us/sComp/92/367/s8/e/2/A/v/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">a procedure for more detailed and frequent safety inspections;</content>
+                            </subclause>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8/e/2/A/vi" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">a requirement that all inspections be performed under the supervision of a State-registered professional engineer with related experience in dam design and construction;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8/e/2/A/vii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vii">(vii) </num><content style="-uslm-dtd:text">the authority to issue notices, when appropriate, to require owners of dams to perform necessary maintenance or remedial work, install and monitor instrumentation, improve security, revise operating procedures, or take other actions, including breaching dams when necessary;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8/e/2/A/viii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="viii">(viii) </num><content style="-uslm-dtd:text">regulations for carrying out the legislation of the State described in this subparagraph;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8/e/2/A/ix" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ix">(ix) </num><chapeau style="-uslm-dtd:text">provision for necessary funds—</chapeau>
+                            <subclause identifier="/us/sComp/92/367/s8/e/2/A/ix/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">to ensure timely repairs or other changes to, or removal of, a dam in order to protect human life and property; and</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/92/367/s8/e/2/A/ix/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">if the owner of the dam does not take action described in subclause (I), to take appropriate action as expeditiously as practicable;</content>
+                            </subclause>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8/e/2/A/x" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="x">(x) </num><content style="-uslm-dtd:text">a system of emergency procedures to be used if a dam fails or if the failure of a dam is imminent; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8/e/2/A/xi" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xi">(xi) </num><chapeau style="-uslm-dtd:text">an identification of—</chapeau>
+                            <subclause identifier="/us/sComp/92/367/s8/e/2/A/xi/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">each dam the failure of which could be reasonably expected to endanger human life;</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/92/367/s8/e/2/A/xi/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the maximum area that could be flooded if the dam failed; and</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/92/367/s8/e/2/A/xi/III" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">necessary public facilities that would be affected by the flooding.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/e/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Budgeting requirement.—</heading><content style="-uslm-dtd:text">For a State to be eligible for assistance under this subsection, State appropriations must be budgeted to carry out the legislation of the State under subparagraph (A).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Work plans.—</heading><content style="-uslm-dtd:text">The Administrator shall enter into a agreement with each State receiving assistance under paragraph (2) to develop a work plan necessary for the State dam safety program to reach a level of program performance specified in the agreement.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/e/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Maintenance of effort.—</heading><content style="-uslm-dtd:text">Assistance may not be provided to a State under this subsection for a fiscal year unless the State enters into such agreement with the Administrator as the Administrator requires to ensure that the State will maintain the aggregate expenditures of the State from all other sources for programs to ensure dam safety for the protection of human life and property at or above a level equal to the average annual level of such expenditures for the 2 fiscal years preceding the fiscal year.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/e/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Approval of programs.—</heading>
+                    <subparagraph identifier="/us/sComp/92/367/s8/e/5/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Submission.—</heading><content style="-uslm-dtd:text">For a State to be eligible for assistance under this subsection, a plan for a State dam safety program shall be submitted to the Administrator for approval.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/e/5/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Approval.—</heading><content style="-uslm-dtd:text">A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Administrator unless the Administrator determines within the 120-day period that the State dam safety program fails to meet the requirements of paragraphs (1) through (3).</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/e/5/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Notification of disapproval.—</heading><content style="-uslm-dtd:text">If the Administrator determines that a State dam safety program does not meet the requirements for approval, the Administrator shall immediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/e/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Review of state dam safety programs.—</heading><content style="-uslm-dtd:text">Using the expertise of the Board, the Administrator shall periodically review State dam safety programs. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Administrator concurs, the Administrator shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8/f" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Board.—</heading>
+                <paragraph identifier="/us/sComp/92/367/s8/f/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">The Administrator shall establish an advisory board to be known as the “<quotedText style="-uslm-dtd:quote">National Dam Safety Review Board</quotedText>” to monitor the safety of dams in the United States, to monitor State implementation of this section, and to advise the Administrator on national dam safety policy.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/f/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authority.—</heading><content style="-uslm-dtd:text">The Board may use the expertise of Federal agencies and enter into contracts for necessary studies to carry out this section.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/f/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Voting membership.—</heading><chapeau style="-uslm-dtd:text">The Board shall consist of 11 voting members selected by the Administrator for expertise in dam safety, of whom—</chapeau>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">1 member shall represent the Department of Agriculture;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">1 member shall represent the Department of Defense;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">1 member shall represent the Department of the Interior;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">1 member shall represent FEMA;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/3/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">1 member shall represent the Federal Energy Regulatory Commission;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/3/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">5 members shall be selected by the Administrator from among State dam safety officials; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/3/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">1 member shall be selected by the Administrator to represent the private sector.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/f/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Nonvoting membership.—</heading><content style="-uslm-dtd:text">The Administrator, in consultation with the Board, may invite a representative of the National Laboratories of the Department of Energy and may invite representatives from Federal or State agencies, representatives from nongovernmental organizations, or dam safety experts, as needed, to participate in meetings of the Board.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/f/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Duties.—</heading>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/5/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Board shall encourage the establishment and maintenance of effective programs, policies, and guidelines to enhance dam safety for the protection of human life and property throughout the United States.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/5/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Coordination and information exchange among agencies.—</heading><content style="-uslm-dtd:text">In carrying out subparagraph (A), the Board shall encourage coordination and information exchange among Federal and State dam safety agencies that share common problems and responsibilities for dam safety, including planning, design, construction, operation, emergency action planning, inspections, maintenance, regulation or licensing, technical or financial assistance, research, and data management.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/f/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Work groups.—</heading><content style="-uslm-dtd:text">The Administrator may establish work groups under the Board to assist the Board in accomplishing its goals. The work groups shall consist of members of the Board and other individuals selected by the Administrator.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/f/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Compensation of members.—</heading>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/7/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Federal employees.—</heading><content style="-uslm-dtd:text">Each member of the Board who is an officer or employee of the United States shall serve without compensation in addition to compensation received for the services of the member as an officer or employee of the United States.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/7/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Other members.—</heading><content style="-uslm-dtd:text">Each member of the Board who is not an officer or employee of the United States shall serve without compensation.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/f/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Travel expenses.—</heading>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/8/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Representatives of federal agencies.—</heading><content style="-uslm-dtd:text">To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a Federal agency shall be reimbursed of appropriations for travel expenses by his or her agency, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of services for the Board.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8/f/8/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Other individuals.—</heading><content style="-uslm-dtd:text">To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a State agency, the member of the Board who represents the private sector, and each member of a work group created under paragraph (1) shall be reimbursed for travel expenses by FEMA, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from home or regular place of business of the member in performance of services for the Board.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8/f/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Applicability of chapter 10 of title 5, united states code.—</heading><content style="-uslm-dtd:text">Chapter 10 of title 5, United States Code, shall not apply to the Board.</content>
+                </paragraph>
+            </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467f">33 U.S.C. 467f</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s8A" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8A">SEC. 8A. </num><heading style="-uslm-dtd:header">REHABILITATION OF HIGH HAZARD POTENTIAL DAMS. </heading>
+            <subsection identifier="/us/sComp/92/367/s8A/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment of Program.—</heading><content style="-uslm-dtd:text">The Administrator shall establish, within FEMA, a program to provide technical, planning, design, and construction assistance in the form of grants to States with dam safety programs for rehabilitation of eligible high hazard potential dams.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8A/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Eligible Activities.—</heading><chapeau style="-uslm-dtd:text">A grant awarded under this section to a State may be used by the State to award grants to eligible subrecipients for—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s8A/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">repair;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">removal; or</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">any other structural or nonstructural measures to rehabilitate an eligible high hazard potential dam.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8A/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Award of Grants.—</heading>
+                <paragraph identifier="/us/sComp/92/367/s8A/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Application.—</heading>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">A State interested in receiving a grant under this section may submit to the Administrator an application for the grant.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Requirements.—</heading><content style="-uslm-dtd:text">An application submitted to the Administrator under this section shall be submitted at such time, be in such form, and contain such information as the Administrator may prescribe by regulation.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Grant.—</heading>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/c/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Administrator may make a grant in accordance with this section for rehabilitation of eligible high hazard potential dams to a State that submits an application for the grant in accordance with the regulations prescribed by the Administrator.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/c/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Grant agreement.—</heading><content style="-uslm-dtd:text">The Administrator shall enter into a grant agreement with the State to establish the terms of the grant and the projects for which the grant is awarded, including the amount of the grant.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/c/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Grant assurance.—</heading><content style="-uslm-dtd:text">As part of a grant agreement under subparagraph (B), the Administrator shall require that each eligible subrecipient to which the State awards a grant under this section provides an assurance from the dam owner, with respect to the dam to be rehabilitated, that the dam owner will carry out a plan for maintenance of the dam during the expected life of the dam.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/c/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Limitation.—</heading><chapeau style="-uslm-dtd:text">A State may not award a grant to an eligible subrecipient under this section that exceeds, for any 1 dam, the lesser of—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s8A/c/2/D/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">12.5 percent of the total amount of funds made available to carry out this section; or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8A/c/2/D/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">$7,500,000.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8A/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Requirements.—</heading>
+                <paragraph identifier="/us/sComp/92/367/s8A/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Approval.—</heading><content style="-uslm-dtd:text">A grant awarded under this section to an eligible subrecipient for a project shall be approved by the relevant State dam safety agency.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Eligible subrecipient requirements.—</heading><chapeau style="-uslm-dtd:text">To receive a grant under this section, an eligible subrecipient shall, with respect to the dam to be rehabilitated by the eligible subrecipient—</chapeau>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/d/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">demonstrate that the community in which the dam is located participates in, and complies with, all applicable Federal flood insurance programs, including demonstrating that such community is participating in the National Flood Insurance Program, and is not on probation, suspended, or withdrawn from such Program;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/d/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">beginning not later than 2 years after the date on which the Administrator publishes criteria for hazard mitigation plans under paragraph (3), demonstrate that the Tribal or local government with jurisdiction over the area in which the dam is located has in place a hazard mitigation plan that—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s8A/d/2/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">includes all dam risks; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8A/d/2/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">complies with the Disaster Mitigation Act of 2000 (Public Law 106–390; 114 Stat. 1552);</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/d/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">for a project not including removal, obtain a commitment from the dam owner to provide operation and maintenance of the project for the expected life of the dam following completion of rehabilitation;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/d/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">comply with such minimum eligibility requirements as the Administrator may establish to ensure that each owner and operator of a dam under a participating State dam safety program and that receives assistance under this section—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s8A/d/2/D/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">acts in accordance with the State dam safety program; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8A/d/2/D/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">carries out activities relating to the public in the area around the dam in accordance with the hazard mitigation plan described in subparagraph (B); and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/d/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">comply with section 611(j)(9) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5196(j)(9)) (as in effect on the date of enactment of this section) with respect to projects receiving assistance under this section in the same manner as recipients are required to comply in order to receive financial contributions from the Administrator for emergency preparedness purposes.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Hazard mitigation plan criteria.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this paragraph, the Administrator, in consultation with the Board, shall publish criteria for hazard mitigation plans required under paragraph (2)(B).</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8A/e" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Floodplain Management Plans.—</heading>
+                <paragraph identifier="/us/sComp/92/367/s8A/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">As a condition of receipt of assistance under this section, an eligible subrecipient shall demonstrate that a floodplain management plan to reduce the impacts of future flood events from a controlled or uncontrolled release from the dam or management of water levels in the area impacted by the dam—</chapeau>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/e/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">for a removal—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s8A/e/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">is in place; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8A/e/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">identifies areas that would be impacted by the removal of the dam and includes a communication and outreach plan for the project and the impact of the project on the affected communities; or</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/e/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">for a project not including removal—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s8A/e/1/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">is in place; or</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8A/e/1/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">will be—</chapeau>
+                            <subclause identifier="/us/sComp/92/367/s8A/e/1/B/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">developed not later than 2 years after the date of execution of a project agreement for assistance under this section; and</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/92/367/s8A/e/1/B/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">implemented not later than 2 years after the date of completion of construction of the project.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirement.—</heading><content style="-uslm-dtd:text">In the case of a plan for a removal, the Administrator may not impose any additional requirements or conditions other than the requirements in paragraph (1)(A).</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Inclusions.—</heading><chapeau style="-uslm-dtd:text">A plan under paragraph (1)(B) shall address—</chapeau>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/e/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">potential measures, practices, and policies to reduce loss of life, injuries, damage to property and facilities, public expenditures, and other adverse impacts of flooding in the area protected or impacted by the dam;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/e/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">plans for flood fighting and evacuation; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/e/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">public education and awareness of flood risks.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/e/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Plan criteria and technical support.—</heading><content style="-uslm-dtd:text">The Administrator, in consultation with the Board, shall provide criteria, and may provide technical support, for the development and implementation of floodplain management plans prepared under this subsection.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8A/f" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Priority System.—</heading><content style="-uslm-dtd:text">The Administrator, in consultation with the Board, shall develop a risk-based priority system for use in identifying eligible high hazard potential dams for which grants may be made under this section.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8A/g" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Funding.—</heading>
+                <paragraph identifier="/us/sComp/92/367/s8A/g/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Cost sharing.—</heading>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/g/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in subparagraph (C), any assistance provided under this section for a project shall be subject to a non-Federal cost-sharing requirement of not less than 35 percent.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/g/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">In-kind contributions.—</heading><content style="-uslm-dtd:text">The non-Federal share under subparagraph (A) may be provided in the form of in-kind contributions.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/g/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Underserved communities.—</heading><content style="-uslm-dtd:text">Subparagraph (A) shall not apply to a project carried out by or for the benefit of an underserved community.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/g/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Allocation of funds.—</heading><chapeau style="-uslm-dtd:text">The total amount of funds made available to carry out this section for each fiscal year shall be distributed as follows:</chapeau>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/g/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Equal distribution.—</heading><content style="-uslm-dtd:text">
+⅓ shall be distributed equally among the States in which the projects for which applications are submitted under subsection (c)(1) are located.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/g/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Need-based.—</heading><chapeau style="-uslm-dtd:text">
+⅔ shall be distributed among the States in which the projects for which applications are submitted under subsection (c)(1) are located based on the proportion that—</chapeau>
+                        <clause identifier="/us/sComp/92/367/s8A/g/2/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the number of eligible high hazard potential dams in the State; bears to</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s8A/g/2/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the number of eligible high hazard potential dams in all such States.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8A/h" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Use of Funds.—</heading><chapeau style="-uslm-dtd:text">None of the funds provided in the form of a grant or otherwise made available under this section shall be used—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s8A/h/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">to rehabilitate a Federal dam;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/h/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">to perform routine operation or maintenance of a dam;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/h/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">to modify a dam to produce hydroelectric power;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/h/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">to increase water supply storage capacity; or</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/h/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">to make any other modification to a dam that does not also improve the safety of the dam.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8A/i" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Contractual Requirements.—</heading>
+                <paragraph identifier="/us/sComp/92/367/s8A/i/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Subject to paragraph (2), as a condition on the receipt of a grant under this section of an amount greater than $1,000,000, an eligible subrecipient that receives the grant shall require that each contract and subcontract for program management, construction management, planning studies, feasibility studies, architectural services, preliminary engineering, design, engineering, surveying, mapping, and related services entered into using funds from the grant be awarded in the same manner as a contract for architectural and engineering services is awarded under—</chapeau>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/i/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">chapter 11 of title 40, United States Code; or</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s8A/i/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">an equivalent qualifications-based requirement prescribed by the relevant State.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/i/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">No proprietary interest.—</heading><content style="-uslm-dtd:text">A contract awarded in accordance with paragraph (1) shall not be considered to confer a proprietary interest upon the United States.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s8A/j" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="j">(j) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><chapeau style="-uslm-dtd:text">There are authorized to be appropriated to carry out this section—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s8A/j/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">$10,000,000 for fiscal years 2017 and 2018;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/j/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">$25,000,000 for fiscal year 2019;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/j/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">$40,000,000 for fiscal year 2020; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s8A/j/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">$60,000,000 for each of fiscal years 2021 through 2026.</content>
+                </paragraph>
+            </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467f–2">33 U.S.C. 467f–2</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s9" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="9">SEC. 9. </num><heading style="-uslm-dtd:header">RESEARCH. </heading>
+            <subsection identifier="/us/sComp/92/367/s9/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Administrator, in cooperation with the Board, shall carry out a program of technical and archival research to develop and support—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s9/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">improved techniques, historical experience, and equipment for rapid and effective dam construction, rehabilitation, and inspection;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s9/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">devices for the continued monitoring of the safety of dams;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s9/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">development and maintenance of information resources systems needed to support managing the safety of dams; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s9/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">initiatives to guide the formulation of effective public policy and advance improvements in dam safety engineering, security, and management.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s9/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">The Administrator shall provide for State participation in research under subsection (a) and periodically advise all States and Congress of the results of the research.</content>
+            </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467g">33 U.S.C. 467g</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s10" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="10">SEC. 10. </num><heading style="-uslm-dtd:header">DAM SAFETY TRAINING. </heading>
+            <content class="block" style="-uslm-dtd:text">At the request of any State that has or intends to develop a State dam safety program, the Administrator shall provide training for State dam safety staff and inspectors.</content><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467g–1">33 U.S.C. 467g–1</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s11" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="11">SEC. 11. </num><heading style="-uslm-dtd:header">PUBLIC AWARENESS AND OUTREACH FOR DAM SAFETY. </heading>
+            <content class="block" style="-uslm-dtd:text">The Administrator, in consultation with other Federal agencies, State and local governments, dam owners, the emergency management community, the private sector, nongovernmental organizations and associations, institutions of higher education, and any other appropriate entities shall, subject to the availability of appropriations, carry out a nationwide public awareness and outreach initiative to assist the public in preparing for, mitigating, responding to, and recovering from dam incidents.</content><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467g–2">33 U.S.C. 467g–2</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s12" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="12">SEC. 12. </num><heading style="-uslm-dtd:header">REPORTS. </heading>
+            <subsection role="undesignated-level" style="-uslm-dtd:subsection" styleType="OLC"><chapeau style="-uslm-dtd:text">Not later than 90 days after the end of each odd-numbered fiscal year, the Administrator shall submit a report to Congress that—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s12/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">describes the status of the Program;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s12/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">describes the progress achieved by Federal agencies during the 2 preceding fiscal years in implementing the Federal Guidelines for Dam Safety;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s12/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">describes the progress achieved in dam safety by States participating in the Program; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s12/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">includes any recommendations for legislative and other action that the Administrator considers necessary.</content>
+                </paragraph>
+            </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467h">33 U.S.C. 467h</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s13" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="13">SEC. 13. </num><heading style="-uslm-dtd:header">STATUTORY CONSTRUCTION. </heading>
+            <subsection role="undesignated-level" style="-uslm-dtd:subsection" styleType="OLC"><chapeau style="-uslm-dtd:text">Nothing in this Act and no action or failure to act under this Act shall—</chapeau>
+                <paragraph identifier="/us/sComp/92/367/s13/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">create any liability in the United States or its officers or employees for the recovery of damages caused by such action or failure to act;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s13/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">relieve an owner or operator of a dam of the legal duties, obligations, or liabilities incident to the ownership or operation of the dam; or</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s13/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">preempt any other Federal or State law.</content>
+                </paragraph>
+            </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467i">33 U.S.C. 467i</ref><b>]</b> </editorialNote>
+        </section>
+        <section identifier="/us/sComp/92/367/s14" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="14">SEC. 14. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+            <subsection identifier="/us/sComp/92/367/s14/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">National Dam Safety Program.—</heading>
+                <paragraph identifier="/us/sComp/92/367/s14/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Annual amounts.—</heading><content style="-uslm-dtd:text">There are authorized to be appropriated to FEMA to carry out sections 7, 8, and 12 (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e)), $9,200,000 for each of fiscal years 2019 through 2028, to remain available until expended.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/92/367/s14/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Allocation.—</heading>
+                    <subparagraph identifier="/us/sComp/92/367/s14/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Subject to subparagraphs (B) and (C), for each fiscal year, amounts made available under this subsection to carry out section 8 shall be allocated among the States as follows:</chapeau>
+                        <clause identifier="/us/sComp/92/367/s14/a/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">One-third among States that qualify for assistance under section 8(e).</content>
+                        </clause>
+                        <clause identifier="/us/sComp/92/367/s14/a/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">Two-thirds among States that qualify for assistance under section 8(e), to each such State in proportion to—</chapeau>
+                            <subclause identifier="/us/sComp/92/367/s14/a/2/A/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the number of dams in the State that are listed as State-regulated dams on the inventory of dams and low-head dams maintained under section 6; as compared to</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/92/367/s14/a/2/A/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the number of dams in all States that are listed as State-regulated dams on the inventory of dams and low-head dams maintained under section 6.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s14/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Maximum amount of allocation.—</heading><content style="-uslm-dtd:text">The amount of funds allocated to a State under this paragraph for a fiscal year may not exceed the amount that is equal to 4 times the amount of funds committed by the State to implement dam safety activities for that fiscal year.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/92/367/s14/a/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Determination.—</heading><content style="-uslm-dtd:text">The Administrator and the Board shall determine the amount allocated to States.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s14/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">National Inventory of Dams and Low-Head Dams.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated to carry out section 6 $500,000 for each of fiscal years 2019 through 2028.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s14/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Public Awareness.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated to carry out section 11 $1,000,000 for each of fiscal years 2019 through 2028.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s14/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Research.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated to carry out section 9 $1,450,000 for each of fiscal years 2019 through 2028, to remain until expended.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s14/e" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Dam Safety Training.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated to carry out section 10 $750,000 for each of fiscal years 2019 through 2028.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s14/f" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Staff.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 8 through 10 $1,000,000 for each of fiscal years 2019 through 2028.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/92/367/s14/g" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Limitation on Use of Amounts.—</heading><content style="-uslm-dtd:text">Amounts made available under this Act may not be used to construct or repair any Federal or non-Federal dam.</content>
+            </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s467j">33 U.S.C. 467j</ref><b>]</b> </editorialNote>
+        </section>
+    </main>
+</statuteCompilation>

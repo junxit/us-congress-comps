@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>National Historic Preservation Amendments Act</dc:title>
+        <citableAs>Public Law 114–289</citableAs>
+        <citableAsShortTitle>National Historic Preservation Amendments Act</citableAsShortTitle>
+        <docNumber>289</docNumber>
+        <currentThroughPublicLaw>114–289</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>National Historic Preservation Amendments Act</containsShortTitle>
+        <containsShortTitle>National Park Foundation Endowment Act</containsShortTitle>
+        <containsShortTitle>National Park Service Centennial Act</containsShortTitle>
+        <property role="fileId">12666</property>
+        <congress>114</congress>
+        <approvedDate>2016-12-16</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">National Historic Preservation Amendments Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 114–289</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 114-289. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To prepare the National Park Service for its Centennial in 2016 and for a second century of promoting and protecting the natural, historic, and cultural resources of our National Parks for the enjoyment of present and future generations, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s100101">54 U.S.C. 100101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">National Park Service Centennial Act</shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents of this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 2.</designator><label> Definitions.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>NATIONAL PARK CENTENNIAL CHALLENGE FUND</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> National Park Centennial Challenge Fund.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Comparable pass cost for seniors.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>NATIONAL PARK FOUNDATION ENDOWMENT</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Short title.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> Second Century Endowment for the National Park Service.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>NATIONAL PARK NEXT GENERATION STEWARDS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> National Park Service interpretation and education.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Public Land Corps amendments.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 303.</designator><label> Volunteers in the parks.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE IV—</designator><label>NATIONAL PARK FOUNDATION AUTHORITIES</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 401.</designator><label> Board of directors.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 402.</designator><label> Authorization of appropriations; use of funds.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE V—</designator><label>MISCELLANEOUS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 501.</designator><label> National Historic Preservation Act.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 502.</designator><label> Award of concession contracts.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE VI—</designator><label>TECHNICAL CORRECTIONS TO NATIONAL PARK AND PROGRAM LAWS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 601.</designator><label> Technical corrections to national park and program laws.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE VII—</designator><label>VISITOR EXPERIENCE IMPROVEMENTS AUTHORITY</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 701.</designator><label> Visitor experience improvements authority.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE VIII—</designator><label>NATIONAL HISTORIC PRESERVATION AMENDMENTS ACT</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 801.</designator><label> Short title.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 802.</designator><label> Reauthorization of the Historic Preservation Fund.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/s2" styleType="OLC" role="definitions">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s100102">54 U.S.C. 100102 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">In this Act:</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/s2/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Challenge fund.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Challenge Fund</term>” means the National Park Centennial Challenge Fund established in title I.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/s2/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Director.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Director</term>” means the Director of the National Park Service.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/s2/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Endowment.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Endowment</term>” means the Second Century Endowment for the National Park Service established by title II.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/s2/4" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Secretary</term>” means the Secretary of the Interior.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/s2/5" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Signature project or program.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">signature project or program</term>” means any project or program identified by the Secretary as one that will help prepare the national parks for another century of conservation, preservation, and visitor enjoyment.</content>
+            </paragraph>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/289/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">NATIONAL PARK CENTENNIAL CHALLENGE FUND </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">NATIONAL PARK CENTENNIAL CHALLENGE FUND. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tI/s101/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Title 54, United States Code, is amended by inserting after chapter 1033 the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <chapter style="-uslm-dtd:chapter" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="1035">“CHAPTER 1035—</num><heading style="-uslm-dtd:header">NATIONAL PARK CENTENNIAL CHALLENGE FUND </heading>
+                        <toc style="-uslm-dtd:toc">
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“103501.</designator><label> Establishment.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“103502.</designator><label> Signature projects and programs.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“103503.</designator><label> Summary to Congress.</label></referenceItem>
+                        </toc>
+                        <section style="-uslm-dtd:section" styleType="USC">
+                            <num style="-uslm-dtd:enum" value="103501">“§ 103501. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s103501">54 U.S.C. 103501</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Establishment </heading>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">There is established in the Treasury an account to be known as the National Park Centennial Challenge Fund.</content>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Deposits.—</heading><content style="-uslm-dtd:text">All amounts received by the United States each fiscal year from sales by the National Park Service of National Parks and Federal Recreational Lands Passes under section 805(b)(1) of the Federal Lands Recreation Enhancement Act that are in excess of $10,000,000 shall be deposited into the National Park Centennial Challenge Fund as offsetting collections and shall remain available to the Secretary until expended.</content>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Use of Funds.—</heading><chapeau style="-uslm-dtd:text">Funds collected and deposited into the National Park Centennial Challenge Fund—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">shall be used for projects or programs approved by the Secretary to further the mission of the Service and to enhance the visitor experience in System units;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">may not be used to acquire lands or interest in lands; and</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">may only be used if matched, on at least a 1-to-1 basis, by non-Federal donations (including funds and fairly valued durable goods and materials) to the Service for signature projects or programs.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Limitation on Source of Funds for Matching.—</heading><content style="-uslm-dtd:text">Amounts derived from the Second Century Endowment for the National Park Service shall not be treated as non-Federal donations for purposes of subsection (c)(3).</content>
+                            </subsection>
+                        </section>
+                        <section style="-uslm-dtd:section" styleType="USC">
+                            <num style="-uslm-dtd:enum" value="103502">“§ 103502. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s103502">54 U.S.C. 103502</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Signature projects and programs </heading>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">List.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">develop a list of signature projects and programs eligible for funding from the National Park Centennial Challenge Fund;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">submit the list developed pursuant to paragraph (1) to the Committees on Appropriations and Energy and Natural Resources in the United States Senate, and to the Committees on Appropriations and Natural Resources in the House of Representatives; and</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">prioritize deferred maintenance projects, physical improvements to visitor services facilities and trail maintenance.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Updates.—</heading><content style="-uslm-dtd:text">The Secretary may, from time to time, as the Secretary finds appropriate, add any signature project or program to the list and provide notice of such addition as required by subsection (a).</content>
+                            </subsection>
+                        </section>
+                        <section style="-uslm-dtd:section" styleType="USC">
+                            <num style="-uslm-dtd:enum" value="103503">“§ 103503. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s103503">54 U.S.C. 103503</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Summary to Congress </heading>
+                            <content style="-uslm-dtd:text" class="block">“The Secretary shall provide with the submission of the President’s annual budget a summary of the status and funding of signature projects and programs.”</content>
+                        </section>
+                    </chapter></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tI/s101/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conforming Amendment.—</heading><content style="-uslm-dtd:text">The table of sections of title 54, United States Code, is amended by inserting after chapter 1033 the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“1035.</designator><label> National Park Centennial Challenge Fund”</label></referenceItem>
+                    </toc></quotedContent>.<toc style="-uslm-dtd:toc">
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>103501</label></referenceItem></toc></content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tI/s102" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s6804">16 U.S.C. 6804</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">COMPARABLE PASS COST FOR SENIORS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">The Federal Lands Recreation Enhancement Act (16 U.S.C. 6801, Public Law 108-447, division J, title VIII) is amended in section 805(b)(1)—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tI/s102/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">The Secretary</quotedText>” and inserting:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">The Secretary”</content>
+                    </subparagraph></quotedContent>;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tI/s102/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, at a cost of $10.00,</quotedText>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tI/s102/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">shall be valid for the lifetime of the pass holder.</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block" class="inline"><chapeau style="-uslm-dtd:text">“shall be available—</chapeau>
+                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">for a period of 12 months from the date of the issuance, at a cost of $20; and</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">for the lifetime of the passholder, at a cost equal to the cost of the National Parks and Federal Recreational Lands Pass purchased under subsection (a).”</content>
+                    </clause></quotedContent>; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tI/s102/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">The Secretary shall issue a pass under subparagraph (A)(ii), for no additional cost, to any individual who provides evidence, under policies and guidelines determined by the Secretary, that the individual has purchased a pass under subparagraph (A)(i) for each of the 4 years prior to being issued a pass under this subparagraph.”</content>
+                    </subparagraph></quotedContent>.</content>
+                </paragraph>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/289/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">NATIONAL PARK FOUNDATION ENDOWMENT </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s100101">54 U.S.C. 100101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title may be cited as the “<shortTitle style="-uslm-dtd:quote">National Park Foundation Endowment Act</shortTitle>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tII/s202" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">SECOND CENTURY ENDOWMENT FOR THE NATIONAL PARK SERVICE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tII/s202/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Second Century Endowment.—</heading><content style="-uslm-dtd:text">Chapter 1011 of title 54, United States Code, is amended by inserting at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="101121">“§ 101121. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s101121">54 U.S.C. 101121</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Second Century Endowment for the National Park Service </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Second Century Endowment.—</heading><chapeau style="-uslm-dtd:text">To further the mission of the Service, the National Park Foundation shall establish a special account to be known as the ‘<quotedText style="-uslm-dtd:quote">Second Century Endowment for the National Park Service</quotedText>’.</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Funds for the endowment.—</heading><chapeau style="-uslm-dtd:text">The following shall apply to the Endowment:</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">From amounts received by the United States each fiscal year from sales by the National Park Service of Federal Recreational Lands Passes under section 805(b)(1) of the Federal Lands Recreational Enhancement Act, $10,000,000 shall be deposited into the Endowment.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">In addition to deposits otherwise authorized, the Endowment shall consist of any gifts, devises, or bequests that are provided to the National Park Foundation for such purpose.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">The National Park Foundation shall deposit any funds received for the Endowment in a federally insured interest-bearing account or may invest funds in appropriate security obligations, as directed by the Board of Directors.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">Any accrued interest or dividends earned on funds received for the Endowment shall be added to the principal and form a part of the Endowment.</content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Use of Funds.—</heading>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">Except as provided in subparagraph (B), funds in the Endowment shall be available to the National Park Foundation as offsetting collections for projects and activities approved by the Secretary that further the mission and purposes of the Service.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">Gifts, devises, or bequests in the endowment under paragraph (1)(A), and any accrued interest or dividends earned thereon, shall be available to the National Park Foundation for projects and activities approved by the Secretary that further the mission and purposes of the Service.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">In administering the Endowment each fiscal year, the National Park Foundation shall be guided by the District of Columbia Uniform Prudent Management of Institutional Funds Act of 2007 (D.C. Code § 44-1631 et seq.), including section 44-1633 on expenditures.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">No Federal funds received for the Endowment may be used by the National Park Foundation for administrative expenses of the Foundation, including for salaries,  travel and transportation expenses, and other overhead expenses.</content>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Summary.—</heading><chapeau style="-uslm-dtd:text">Beginning 2 years after the date of the enactment of this section, the National Park Foundation shall include with its annual report a summary of the status of the Endowment. The summary shall include—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">a statement of the amounts deposited in the Endowment during the fiscal year;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">the amount of the balance remaining in the Endowment at the end of the fiscal year; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">a description of the sums and purposes of the expenditures made from the Endowment for the fiscal year.”</content>
+                            </paragraph>
+                        </subsection>
+                    </section></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tII/s202/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conforming Amendment.—</heading><content style="-uslm-dtd:text">The table of sections for chapter 1011 of title 54, United States Code, is amended by inserting at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“101121.</designator><label> Second Century Endowment for the National Park Service.”</label></referenceItem>
+                    </toc></quotedContent>.</content>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/289/tIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">NATIONAL PARK NEXT GENERATION STEWARDS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tIII/s301" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><heading style="-uslm-dtd:header">NATIONAL PARK SERVICE INTERPRETATION AND EDUCATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tIII/s301/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Title 54, United States Code, is amended by inserting after chapter 1007 the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <chapter style="-uslm-dtd:chapter" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="1008">“CHAPTER 1008—</num><heading style="-uslm-dtd:header">EDUCATION AND INTERPRETATION </heading>
+                        <toc style="-uslm-dtd:toc">
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“100801.</designator><label> Definitions.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“100802.</designator><label> Interpretation and education authority.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“100803.</designator><label> Interpretation and education evaluation and quality improvement.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“100804.</designator><label> Improved use of partners and volunteers in interpretation and education.</label></referenceItem>
+                        </toc>
+                        <section style="-uslm-dtd:section" styleType="USC" role="definitions">
+                            <num style="-uslm-dtd:enum" value="100801">“§ 100801. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s100801">54 U.S.C. 100801</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Definitions </heading>
+                            <chapeau style="-uslm-dtd:text" class="block">“As used in this chapter:</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Interpretation.—</heading><chapeau style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">interpretation</term>’—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">means providing opportunities for people to form intellectual and emotional connections to gain awareness, appreciation, and understanding of the resources of the System; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">may refer to the professional career field of Service employees, volunteers, and partners who interpret the resources of the System.</content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Education.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">education</term>’ means enhancing public awareness, understanding, and appreciation of the resources of the System through learner-centered, place-based materials, programs, and activities that achieve specific learning objectives as identified in a curriculum.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Related areas.—</heading><chapeau style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">related areas</term>’ means—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">national wild and scenic rivers and national trails;</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">national heritage areas; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">affiliated areas administered in connection with the System.</content>
+                                </subparagraph>
+                            </paragraph>
+                        </section>
+                        <section style="-uslm-dtd:section" styleType="USC">
+                            <num style="-uslm-dtd:enum" value="100802">“§ 100802. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s100802">54 U.S.C. 100802</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Interpretation and education authority </heading>
+                            <content style="-uslm-dtd:text" class="block">“The Secretary shall ensure that management of System units and related areas is enhanced by the availability and use of a broad program of the highest quality interpretation and education.</content>
+                        </section>
+                        <section style="-uslm-dtd:section" styleType="USC">
+                            <num style="-uslm-dtd:enum" value="100803">“§ 100803. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s100803">54 U.S.C. 100803</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Interpretation and education evaluation and quality improvement </heading>
+                            <chapeau style="-uslm-dtd:text" class="block">“The Secretary may undertake a program of regular evaluation of interpretation and education programs to ensure that they—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">adjust to how people learn and engage with the natural world and shared heritage as embodied in the System;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">reflect different cultural backgrounds, ages, education, gender, abilities, ethnicity, and needs;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">demonstrate innovative approaches to management and appropriately incorporate emerging learning and communications technology; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">reflect current scientific and academic research, content, methods, and audience analysis.</content>
+                            </paragraph>
+                        </section>
+                        <section style="-uslm-dtd:section" styleType="USC">
+                            <num style="-uslm-dtd:enum" value="100804">“§ 100804. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s100804">54 U.S.C. 100804</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Improved use of partners and volunteers in interpretation and education </heading>
+                            <chapeau style="-uslm-dtd:text" class="block">“The Secretary may—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">coordinate with park partners and volunteers in the delivery of quality programs and services to supplement those provided by the Service as part of a park’s Long Range Interpretive Plan;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">support interpretive partners by providing opportunities to participate in interpretive training; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">collaborate with other Federal and non-Federal public or private agencies, organizations, or institutions for the purposes of developing, promoting, and making available educational opportunities related to resources of the System and programs.”</content>
+                            </paragraph>
+                        </section>
+                    </chapter></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tIII/s301/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conforming Amendment.—</heading><content style="-uslm-dtd:text">The table of chapters at the beginning of title 54, United States Code, is amended by inserting after the item relating to chapter 1007 the following new item:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“1008.</designator><label> Education and Interpretation”</label></referenceItem>
+                    </toc></quotedContent>.<toc style="-uslm-dtd:toc">
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>100801</label></referenceItem></toc></content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tIII/s302" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><heading style="-uslm-dtd:header">PUBLIC LAND CORPS AMENDMENTS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">The Public Lands Corps Act of 1993 (Public Law 91-378, as amended; 16 U.S.C. 1721 et seq.) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tIII/s302/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in section 203(10)(A) (16 U.S.C. 1722(10)(A)), by striking “<quotedText style="-uslm-dtd:quote">25</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">30</quotedText>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tIII/s302/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in section 204(b) (16 U.S.C. 1723(b)), by striking “<quotedText style="-uslm-dtd:quote">25</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">30</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tIII/s302/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in section 207(c)(2) (16 U.S.C. 1726(c)(2)), by striking “<quotedText style="-uslm-dtd:quote">120 days</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2 years</quotedText>”.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tIII/s303" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="303">SEC. 303. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s102301">54 U.S.C. 102301 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">VOLUNTEERS IN THE PARKS. </heading>
+                <content style="-uslm-dtd:text" class="block">Subject to the availability of appropriations, section 102301(d) of title 54, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">not more than $7,000,000</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">not more than $9,000,000</quotedText>”.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/289/tIV" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">NATIONAL PARK FOUNDATION AUTHORITIES </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tIV/s401" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><heading style="-uslm-dtd:header">BOARD OF DIRECTORS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Chapter 1011 of title 54, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tIV/s401/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in section 101112—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/289/tIV/s401/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by amending subsection (a) to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Membership.—</heading><content style="-uslm-dtd:text">The National Park Foundation shall consist of a Board having as members no fewer than six private citizens of the United States appointed by the Secretary. The Secretary and the Director shall be non-voting members of the Board, ex officio.”</content>
+                        </subsection></quotedContent>; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/289/tIV/s401/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by amending subsection (c) to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Chairman.—</heading><content style="-uslm-dtd:text">The Chairman shall be elected by the Board from its members for a 2-year term.”</content>
+                        </subsection></quotedContent>; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tIV/s401/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in section 101113(a)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/289/tIV/s401/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by redesignating paragraph (2) as paragraph (3); and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/289/tIV/s401/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by inserting after paragraph (1) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Coordination with service.—</heading><content style="-uslm-dtd:text">Activities of the National Park Foundation under paragraph (1) shall be undertaken after consultation with the Director to ensure that those activities are consistent with the programs and policies of the Service.”</content>
+                        </paragraph></quotedContent>.</content>
+                    </subparagraph>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tIV/s402" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="402">SEC. 402. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS; USE OF FUNDS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tIV/s402/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Authorization of Appropriations; Use of Funds.—</heading><content style="-uslm-dtd:text">Chapter 1011 of title 54, United States Code, is further amended by adding after section 101121 the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="101122">“§ 101122. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s101122">54 U.S.C. 101122</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Authorization of appropriations; use of funds </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There are authorized to be appropriated to carry out this subchapter $5,000,000 for each of fiscal years 2017 through 2023.</content>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Use of Funds.—</heading><chapeau style="-uslm-dtd:text">Funds made available under subsection (a)—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">may be advanced each fiscal year to the National Park Foundation in a lump sum without regard to when expenses are incurred;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">shall be provided to the National Park Foundation for use to match contributions (whether in currency, services, or property) made to the Foundation;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">may not be used by the National Park Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">may not be deposited by the National Park Foundation into any fund that will be invested or earn interest in any way.”</content>
+                            </paragraph>
+                        </subsection>
+                    </section></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tIV/s402/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conforming Amendment.—</heading><content style="-uslm-dtd:text">The table of sections for chapter 1011 of title 54, United States Code, is amended by inserting at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“101122.</designator><label> Authorization of appropriations; use of funds.”</label></referenceItem>
+                    </toc></quotedContent>.</content>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/289/tV" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="V">TITLE V—</num><heading style="-uslm-dtd:header">MISCELLANEOUS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tV/s501" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="501">SEC. 501. </num><heading style="-uslm-dtd:header">NATIONAL HISTORIC PRESERVATION ACT. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tV/s501/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Additional Member.—</heading><chapeau style="-uslm-dtd:text">Section 304101(a) of title 54, United States Code, is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tV/s501/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating paragraphs (8), (9), (10), and (11) as paragraphs (9), (10), (11), and (12), respectively; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tV/s501/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after paragraph (7) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="8">“(8) </num><content style="-uslm-dtd:text">The General Chairman of the National Association of Tribal Historic Preservation Officers.”</content>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tV/s501/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Full-Time Chairman.—</heading><chapeau style="-uslm-dtd:text">Section 304101 of title 54, United States Code, is further amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tV/s501/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tV/s501/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after subsection (d) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Chairman.—</heading><paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">After January 20, 2017, the Chairman shall—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">be appointed by the President, by and with the advice and consent of the Senate;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">serve at the will of the President;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">serve full time; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">be compensated at the rate provided for Level V of the Executive Schedule Pay Rates under section 5316 of title 5.</content>
+                            </subparagraph></paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">The Chairman shall serve for a term of 4 years and may be reappointed once, for a total of not more than 8 years of service as Chairman, except that a Chairman whose appointment has expired under this paragraph shall serve until his or her successor has been appointed. The term of a Chairman shall start (regardless of actual appointment date) on January 20 after each general Presidential election. The first Chairman appointed after the date of enactment of this paragraph shall have a first term commencing on January 20, 2017, and ending on January 19, 2021.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">The Chairmen before the first appointment of a Chairman in accordance with paragraph (1) of this subsection shall receive $100 per diem when engaged in the performance of the duties of the Council, and shall receive reimbursement for necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Council.”</content>
+                            </paragraph>
+                        </subsection></quotedContent>; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tV/s501/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in subsection (f) (as so redesignated), by striking “<quotedText style="-uslm-dtd:quote">may act in place</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">shall perform the functions</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tV/s501/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Conforming Changes.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tV/s501/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Section 304101 of title 54, United States Code, is further amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/289/tV/s501/c/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subsection (b), by striking “<quotedText style="-uslm-dtd:quote">, (7), and (8)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">and (7) through (9)</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/289/tV/s501/c/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in subsection (c)—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/289/tV/s501/c/1/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">under paragraphs (1) and (9) to (11)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">under paragraphs (10) through (12)</quotedText>”; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/289/tV/s501/c/1/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">An appointed member may not serve more than 2 terms.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">An appointed member, other than the Chairman of the Council, may not serve more than 2 terms.</quotedText>”;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/289/tV/s501/c/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in subsection (f) (as so redesignated), by striking “<quotedText style="-uslm-dtd:quote">paragraph (5), (6), (9), or (10)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">paragraph (5), (6), (10), or (11)</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/289/tV/s501/c/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">in subsection (g) (as so redesignated), by striking “<quotedText style="-uslm-dtd:quote">Twelve members</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Thirteen members</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tV/s501/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Section 304104 of title 54, United States Code, is amended by inserting after the first sentence the following: “<quotedText style="-uslm-dtd:quote">The Chairman of the Council shall be compensated as provided in subsection (e) of section 304101.</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tV/s501/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">Section 304105(a) of title 54, United States Code, is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/289/tV/s501/c/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">report directly to the Council</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">report directly to the Chairman</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/289/tV/s501/c/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">duties as the Council may prescribe</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">duties as the Chairman may prescribe</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tV/s501/c/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Section 5316 of title 5, United States Code, is amended by adding at the end the following new item:<quotedContent style="-uslm-dtd:quoted-block">
+                        <content style="-uslm-dtd:text" class="block">“Chairman of the Advisory Council on Historic Preservation.”</content></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tV/s501/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Clarification.—</heading><content style="-uslm-dtd:text">Subsection (b) and subsection (d) of section 311103 of title 54, United States Code, are amended by striking “<quotedText style="-uslm-dtd:quote">Council</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">Chairman of the Council</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tV/s502" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="502">SEC. 502. </num><heading style="-uslm-dtd:header">AWARD OF CONCESSION CONTRACTS. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 101913(9) of title 54, United States Code, is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">“(9) </num><heading style="-uslm-dtd:header">New or additional services.—</heading><content style="-uslm-dtd:text">The Secretary may propose to amend the applicable terms of an existing concessions contract to provide new and additional services where the Secretary determines the services are necessary and appropriate for public use and enjoyment of the unit of the National Park System in which they are located and are consistent to the highest practicable degree with the preservation and conservation of the resources and values of the unit. Such new and additional services shall not represent a material change to the required and authorized services as set forth in the applicable prospectus or contract.”</content>
+                </paragraph></quotedContent>.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/289/tVI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="VI">TITLE VI—</num><heading style="-uslm-dtd:header">TECHNICAL CORRECTIONS TO NATIONAL PARK AND PROGRAM LAWS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tVI/s601" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="601">SEC. 601. </num><heading style="-uslm-dtd:header">TECHNICAL CORRECTIONS TO NATIONAL PARK AND PROGRAM LAWS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Apostle Islands National Lakeshore.—</heading><content style="-uslm-dtd:text">Section 3030 of title XXX of the Carl Levin and Howard P. “<quotedText style="-uslm-dtd:quote">Buck</quotedText>”McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113-291; 128 Stat. 3766) is amended in the section heading by striking “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">national seashore.</headingText></quotedText>” and inserting “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">national lakeshore.</headingText></quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s320101">54 U.S.C. 320101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Baltimore National Heritage Area.—</heading><chapeau style="-uslm-dtd:text">Title VIII of the Omnibus Public Land Management Act of 2009 (Public Law 111-11, 16 U.S.C. 461 note) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tVI/s601/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in sections 8005(b)(3) and 8005(b)(4) by striking “<quotedText style="-uslm-dtd:quote">Baltimore Heritage Area Association</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Baltimore City Heritage Area Association</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tVI/s601/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in section 8005(i) by striking “<quotedText style="-uslm-dtd:quote">Effectiveness</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Financial Assistance</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Cumberland Island National Seashore.—</heading><content style="-uslm-dtd:text">Section 6(b) of the Act entitled “<quotedText style="-uslm-dtd:quote">An Act to establish the Cumberland Island National Seashore in the State of Georgia, and for other purposes</quotedText>” (Public Law 92-536; 16 U.S.C. 459i-5) is amended by striking “<quotedText style="-uslm-dtd:quote">physiographic conditions not prevailing</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">physiographic conditions now prevailing</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s410ttt">16 U.S.C. 410ttt</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Harriet Tubman National Historical Park, New York.—</heading><content style="-uslm-dtd:text">Section 3036(d)(4)(B) of title XXX of the Carl Levin and Howard P. “<quotedText style="-uslm-dtd:quote">Buck</quotedText>”McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113-291; 128 Stat. 3780) is amended by striking “<quotedText style="-uslm-dtd:quote">section 2(b)(1)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 3035</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s410sss">16 U.S.C. 410sss</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Harriet Tubman Underground Railroad National Historical Park, Maryland.—</heading><content style="-uslm-dtd:text">Section 3035(d)(4)(B) of title XXX of the Carl Levin and Howard P. “<quotedText style="-uslm-dtd:quote">Buck</quotedText>”McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113-291; 128 Stat. 3778) is amended by striking “<quotedText style="-uslm-dtd:quote">section 3(b)(1)(A)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 3036</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Historic Preservation Standards and Guidelines.—</heading><content style="-uslm-dtd:text">Section 306131(a)(3) of title 54, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">Office of Management and Budget</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Office of Personnel Management</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s1132">16 U.S.C. 1132 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Lava Beds National Monument.—</heading><chapeau style="-uslm-dtd:text">The first section of the Act of October 13, 1972 (Public Law 92-493; 86 Stat. 811) is amended in the first sentence—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tVI/s601/g/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">That, in</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Section 1. In</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tVI/s601/g/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">ten thousand acres</quotedText>” and all that follows through the remainder of the sentence and inserting “<quotedText style="-uslm-dtd:quote">10,431 acres, as depicted within the proposed wilderness boundary on the map entitled ‘<quotedText style="-uslm-dtd:quote">Lava Beds National Monument, Proposed Wilderness Boundary Adjustment</quotedText>’, numbered 147/80,015, and dated September 2005, and those lands within the area generally known as the Schonchin Lava Flow comprising about 18,029 acres, as depicted within the proposed wilderness boundary on the map, are designated as wilderness.</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/h" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s320101">54 U.S.C. 320101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Muscle Shoals National Heritage Area.—</heading><content style="-uslm-dtd:text">Section 8009(j) of title VIII of the Omnibus Public Land Management Act of 2009 (Public Law 111-11, 16 U.S.C. 461 note) is amended by striking “<quotedText style="-uslm-dtd:quote">Effectiveness</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Financial Assistance</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/i" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s410lll">16 U.S.C. 410lll</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Paterson Great Falls National Historical Park.—</heading><content style="-uslm-dtd:text">Section 3037(a)(1)(c) of title XXX of the Carl Levin and Howard P. “<quotedText style="-uslm-dtd:quote">Buck</quotedText>”McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113-291; 128 Stat. 3780) is amended by striking “<quotedText style="-uslm-dtd:quote">numbered T03/120,155, and dated April 2014</quotedText>” and insert “<quotedText style="-uslm-dtd:quote">numbered T03/120,155A, and dated August 2015</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/j" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="j">(j) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s1274">16 U.S.C. 1274 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Snake River Headwaters.—</heading><content style="-uslm-dtd:text">Section 5002(c)(1) of the Omnibus Public Land Management Act of 2009 (Public Law 111-11, 123 Stat. 1148, 1149) is amended by striking “<quotedText style="-uslm-dtd:quote">paragraph (205) of section 3(a)</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">paragraph (206) of section 3(a)</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/k" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="k">(k) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s1274">16 U.S.C. 1274 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Taunton River.—</heading><content style="-uslm-dtd:text">Section 5003(b) of the Omnibus Public Land Management Act of 2009 (Public Law 111-11, 123 Stat.    1152, 1153) is amended by striking “<quotedText style="-uslm-dtd:quote">section 3(a)(206)</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">section 3(a)(207)</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVI/s601/l" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="l">(l) </num><heading style="-uslm-dtd:header">World War I Centennial Commission Act.—</heading><content style="-uslm-dtd:text">Section 4(e)(3)(c) of the World War I Centennial Commission Act (Public Law 112-272; 126 Stat. 2449) is amended by striking “<quotedText style="-uslm-dtd:quote">National Parks Service.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">National Park Service.</quotedText>”.</content>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/289/tVII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="VII">TITLE VII—</num><heading style="-uslm-dtd:header">VISITOR EXPERIENCE IMPROVEMENTS AUTHORITY </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tVII/s701" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="701">SEC. 701. </num><heading style="-uslm-dtd:header">VISITOR EXPERIENCE IMPROVEMENTS AUTHORITY. </heading>
+                <content style="-uslm-dtd:text" class="block">Chapter 1019 of title 54, United States Code, is amended by inserting at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <subchapter style="-uslm-dtd:subchapter" styleType="USC">
+                    <num style="-uslm-dtd:enum" value="III">“SUBCHAPTER III—</num><heading style="-uslm-dtd:header">COMMERCIAL SERVICES AUTHORIZATION </heading>
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“101931.</designator><label> Contract authority.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“101932.</designator><label> Award of commercial services contracts.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“101933.</designator><label> Term of commercial services contracts.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“101934.</designator><label> Capital improvements.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“101935.</designator><label> Financial management.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“101936.</designator><label> Regulations.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“101937.</designator><label> Savings provision.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“101938.</designator><label> Sunset.</label></referenceItem>
+                    </toc>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="101931">“§ 101931. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s101931">54 U.S.C. 101931</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Contract authority </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">General Authority.—</heading><content style="-uslm-dtd:text">Notwithstanding subchapter II, the Secretary may award and administer commercial services contracts (and related professional services contracts) for the operation and expansion of commercial visitor facilities and visitor services programs in System units. The commercial services contracts that may be awarded shall be limited to those that are necessary and appropriate for public use and enjoyment of the unit of the System in which they are located, and, that are consistent with the preservation and conservation of the resources and values of the unit.</content>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Additional Authority.—</heading><content style="-uslm-dtd:text">Contracts may be awarded under subsection (a) without regard to Federal laws and regulations governing procurement by Federal agencies, with the exception of laws and regulations related to Federal government contracts governing working conditions and wage rates, including the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101 et seq.), sections 3141-3144, 3146, and 3147 of title 40, United States Code (commonly known as the ‘<quotedText style="-uslm-dtd:quote">Davis-Bacon Act</quotedText>’), and any civil rights provisions otherwise applicable thereto.</content>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Use of Commercial Services Contracts.—</heading>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary may issue a commercial services contract under this subchapter when the Secretary determines that the contract meets the objectives of expanding, modernizing, and improving the condition of commercial visitor facilities and the services provided to visitors.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Exceptions.—</heading><chapeau style="-uslm-dtd:text">No contracts may be awarded under this subchapter—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">for the provision of outfitter and guide services described in section 101913(8); or</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">to authorize the provision of facilities or services for which the Secretary has granted to an existing concessioner a preferential right of renewal as defined in sections 101911 and 101913.</content>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="101932">“§ 101932. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s101932">54 U.S.C. 101932</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Award of commercial services contracts </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Competitive Selection Process.—</heading><content style="-uslm-dtd:text">Except as provided in subsection (c), commercial services contracts shall be awarded by the Secretary through a competitive selection process.</content>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Solicitation of Proposals.—</heading><content style="-uslm-dtd:text">Before awarding a new commercial services contract, the Secretary shall publicly solicit proposals for the contract, except as provided in subsection (c). In connection with such solicitation, the Secretary shall prepare a request for proposals and shall publish notice of its availability.</content>
+                        </subsection>
+                    </section>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="101933">“§ 101933. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s101933">54 U.S.C. 101933</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Term of commercial services contracts </heading>
+                        <content style="-uslm-dtd:text" class="block">“A commercial services contract entered into pursuant to this title shall be awarded for a term not to exceed 10 years.</content>
+                    </section>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="101934">“§ 101934. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s101934">54 U.S.C. 101934</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Capital improvements </heading>
+                        <content style="-uslm-dtd:text" class="block">“A person or entity awarded a contract under this subchapter shall receive no leasehold surrender interest, as defined in section 101915, in capital improvements constructed under the terms of the contract.</content>
+                    </section>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="101935">“§ 101935. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s101935">54 U.S.C. 101935</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Financial management </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Revolving Fund.—</heading><chapeau style="-uslm-dtd:text">There is established a revolving fund that shall be available to the Secretary without fiscal year limitation for—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">expenses necessary for the management, improvement, enhancement, operation, construction, and maintenance of commercial visitor services and facilities; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">payment of possessory interest and leasehold surrender interest.</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Collection of Funds.—</heading>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">Funds collected by the Secretary pursuant to the contracts awarded under this subchapter shall be credited to the revolving fund.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">The Secretary is authorized to transfer to the revolving fund, without reimbursement, any additional funds or revenue in connection with the functions to be carried out under this subchapter.</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Use of Funds.—</heading><content style="-uslm-dtd:text">Amounts in the revolving fund shall be used by the Secretary in furtherance of the purposes of this title. No funds from this account may be used to decrease the availability of services and programs to the public.</content>
+                        </subsection>
+                    </section>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="101936">“§ 101936. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s101936">54 U.S.C. 101936</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Regulations </heading>
+                        <content style="-uslm-dtd:text" class="block">“As soon as practicable after the effective date of this subchapter, the Secretary shall promulgate regulations appropriate for its implementation.</content>
+                    </section>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="101937">“§ 101937. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s101937">54 U.S.C. 101937</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Savings provision </heading>
+                        <content style="-uslm-dtd:text" class="block">“Nothing in this subchapter shall modify the terms or conditions of any concessions contracts awarded under subchapter II or the ability of the National Park Service to enter into concessions contracts under the National Park Service Concessions Management  Improvement Act of 1998 (title IV of Public Law 105-391) including the use of leaseholder surrender interest.</content>
+                    </section>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="101938">“§ 101938. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s101938">54 U.S.C. 101938</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Sunset </heading>
+                        <content style="-uslm-dtd:text" class="block">“The authority given to the Secretary under this subchapter shall expire 7 years after the date of the enactment of this subchapter.”</content>
+                    </section>
+                </subchapter></quotedContent>.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/289/tVIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="VIII">TITLE VIII—</num><heading style="-uslm-dtd:header">NATIONAL HISTORIC PRESERVATION AMENDMENTS ACT </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tVIII/s801" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="801">SEC. 801. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t54/s100101">54 U.S.C. 100101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title may be cited as the “<shortTitle style="-uslm-dtd:quote">National Historic Preservation Amendments Act</shortTitle>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/289/tVIII/s802" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="802">SEC. 802. </num><heading style="-uslm-dtd:header">REAUTHORIZATION OF THE HISTORIC PRESERVATION FUND. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVIII/s802/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 303102 of title 54, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">2015</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2023</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVIII/s802/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Federal Nominations.—</heading><chapeau style="-uslm-dtd:text">Section 302104 of such title is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tVIII/s802/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsections (a) and (b), by striking “<quotedText style="-uslm-dtd:quote">subsection (c)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subsection (d)</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tVIII/s802/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after subsection (b), the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Nomination by Federal Agency.—</heading><chapeau style="-uslm-dtd:text">Subject to the requirements of section 302107 of this title, the regulations promulgated under section 302103 of this title, and appeal under subsection (d) of this section, the Secretary may accept a nomination directly by a Federal agency for inclusion of property on the National Register only if—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">completed nominations are sent to the State Historic Preservation Officer for review and comment regarding the adequacy of the nomination, the significance of the property and its eligibility for the National Register;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">within 45 days of receiving the completed nomination, the State Historic Preservation Officer has made a recommendation regarding the nomination to the Federal Preservation Officer, except that failure to meet this deadline shall constitute a recommendation to not support the nomination;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">the chief elected officials of the county (or equivalent governmental unit) and municipal political jurisdiction in which the property is located are notified and given 45 days in which to comment;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">the Federal Preservation Officer forwards it to the Keeper of the National Register of Historic Places after determining that all procedural requirements have been met, including those in paragraphs (1) through (3) above; the nomination is adequately documented; the nomination is technically and professionally correct and sufficient; and may include an opinion as to whether the property meets the National Register criteria for evaluation;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">notice is provided in the Federal Register that the nominated property is being considered for listing on the National Register that includes any comments and the recommendation of the State Historic Preservation Officer and  a declaration whether the State Historic Preservation Officer has responded within the 45 day-period of review provided in paragraph (2); and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="6">“(6) </num><content style="-uslm-dtd:text">the Secretary addresses in the Federal Register any comments from the State Historic Preservation Officer that do not support the nomination of the property on the National Register before the property is included in the National Register.”</content>
+                            </paragraph>
+                        </subsection></quotedContent>; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tVIII/s802/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by redesignating subsection (c) as subsection (d).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/289/tVIII/s802/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Technical Amendments.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tVIII/s802/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Section 303102 of such title is amended by striking “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">CONTENTS</headingText></quotedText>” in the heading thereof and inserting “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">FUNDING</headingText></quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/289/tVIII/s802/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The table of sections for chapter 3031 of such title is amended by striking the item relating to section 303102 and inserting the following new item:<quotedContent style="-uslm-dtd:quoted-block">
+                        <toc style="-uslm-dtd:toc">
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“303102.</designator><label> Funding.”</label></referenceItem>
+                        </toc></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

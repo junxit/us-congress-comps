@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>SOCIAL SECURITY ACT</dc:title>
+        <containsShortTitle>TITLE VIII OF THE SOCIAL SECURITY ACT</containsShortTitle>
+        <citableAs>Chapter 531 of the 74th Congress, as amended</citableAs>
+        <citableAs>49 Stat. 620, as amended</citableAs>
+        <citableAsShortTitle>SOCIAL SECURITY ACT</citableAsShortTitle>
+        <docNumber>ch531</docNumber>
+        <currentThroughPublicLaw>115–165</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Social Security Act-TITLE VIII (Special Benefits for Certain World War Ii Veterans)</containsShortTitle>
+        <containsShortTitle>Federal Employees Unemployment Compensation Act</containsShortTitle>
+        <containsShortTitle>Health Insurance for the Aged Act</containsShortTitle>
+        <containsShortTitle>Medicaid Act</containsShortTitle>
+        <containsShortTitle>Medicare Act</containsShortTitle>
+        <containsShortTitle>Social Security Act</containsShortTitle>
+        <property role="fileId">8762</property>
+        <congress>74</congress>
+        <approvedDate>1935-08-14</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">SOCIAL SECURITY ACT</property>
+        <citationNote style="-uslm-dtd:public-law">[<citableAs>Chapter 531 of the 74th Congress</citableAs>, approved <date date="1935-08-14">August 14, 1935</date>, <citableAs>49 Stat. 620</citableAs>.]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 115–165</currentThroughPublicLaw>, Enacted <date date="2018-04-13">April 13, 2018</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of title VIII of Chapter 531 of the 74th Congress. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body">
+        <title style="-uslm-dtd:title" identifier="/us/sComp/74/271/tVIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="VIII">TITLE VIII—</num><heading style="-uslm-dtd:header">SPECIAL BENEFITS FOR CERTAIN WORLD WAR II VETERANS </heading>
+            <toc style="-uslm-dtd:toc">
+                <heading style="-uslm-dtd:toc-entry" class="centered">Table of Contents</heading>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 801.</designator><label> Basic entitlement to benefits.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 802.</designator><label> Qualified individuals.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 803.</designator><label> Residence outside the United States.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 804.</designator><label> Disqualifications.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 805.</designator><label> Benefit amount.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 806.</designator><label> Applications and furnishing of information.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 807.</designator><label> Representative payees.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 808.</designator><label> Overpayments and underpayments.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 809.</designator><label> Hearings and review.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 810.</designator><label> Other administrative provisions.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 810A.</designator><label> Optional Federal administration of State recognition payments.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 811.</designator><label> Penalties for fraud.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 812.</designator><label> Definitions.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 813.</designator><label> Appropriations.</label></referenceItem>
+            </toc>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s801" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="801">SEC. 801. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1001">42 U.S.C. 1001</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">BASIC ENTITLEMENT TO BENEFITS. </heading>
+                <content style="-uslm-dtd:text" class="block">Every individual who is a qualified individual under section 802 shall, in accordance with and subject to the provisions of this title, be entitled to a monthly benefit paid by the Commissioner of Social Security for each month after September 2000 (or such earlier month, if the Commissioner determines is administratively feasible) the individual resides outside the United States.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s802" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="802">SEC. 802. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1002">42 U.S.C. 1002</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">QUALIFIED INDIVIDUALS. </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">Except as otherwise provided in this title, an individual—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s802/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">who has attained the age of 65 on or before the date of the enactment of this title;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s802/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">who is a World War II veteran;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s802/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">who is eligible for a supplemental security income benefit under title XVI for—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s802/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the month in which this title is enacted; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s802/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the month in which the individual files an application for benefits under this title;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s802/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">whose total benefit income is less than 75 percent of the Federal benefit rate under title XVI;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s802/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">who has filed an application for benefits under this title; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s802/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">who is in compliance with all requirements imposed by the Commissioner of Social Security under this title,</content>
+                    </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">shall be a qualified individual for purposes of this title.</continuation>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s803" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="803">SEC. 803. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1003">42 U.S.C. 1003</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">RESIDENCE OUTSIDE THE UNITED STATES. </heading>
+                <content style="-uslm-dtd:text" class="block">For purposes of section 801, with respect to any month, an individual shall be regarded as residing outside the United States if, on the first day of the month, the individual so resides outside the United States.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s804" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="804">SEC. 804. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1004">42 U.S.C. 1004</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DISQUALIFICATIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s804/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding section 802, an individual may not be a qualified individual for any month—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s804/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">that begins after the month in which the Commissioner of Social Security is notified by the Attorney General that the individual has been removed from the United States pursuant to section 237(a) or 212(a)(6)(A) of the Immigration and Nationality Act and before the month in which the individual is lawfully admitted to the United States for permanent residence;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s804/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">during any part of which the individual is fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the United States or the jurisdiction within the United States from which the person has fled, for a crime, or an attempt to commit a crime, that is a felony under the laws of the place from which the individual has fled, or, in jurisdictions that do not define crimes as felonies, is punishable by death or imprisonment for a term exceeding 1 year regardless of the actual sentence imposed;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s804/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">during any part of which the individual violates a condition of probation or parole imposed under Federal or State law; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s804/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">during which the individual resides in a foreign country and is not a citizen or national of the United States if payments for such month to individuals residing in such country are withheld by the Treasury Department under section 3329 of title 31, United States Code.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s804/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Requirement for Attorney General.—</heading><content style="-uslm-dtd:text">For the purpose of carrying out subsection (a)(1), the Attorney General shall notify the Commissioner of Social Security as soon as practicable after the removal of any individual under section 237(a) or 212(a)(6)(A) of the Immigration and Nationality Act.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s805" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="805">SEC. 805. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1005">42 U.S.C. 1005</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">BENEFIT AMOUNT. </heading>
+                <content style="-uslm-dtd:text" class="block">The benefit under this title payable to a qualified individual for any month shall be in an amount equal to 75 percent of the Federal benefit rate under title XVI for the month, reduced by the amount of the qualified individual's benefit income for the month.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s806" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="806">SEC. 806. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1006">42 U.S.C. 1006</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">APPLICATIONS AND FURNISHING OF INFORMATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s806/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Commissioner of Social Security shall, subject to subsection (b), prescribe such requirements with respect to the filing of applications, the furnishing of information and other material, and the reporting of events and changes in circumstances, as may be necessary for the effective and efficient administration of this title.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s806/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Verification Requirement.—</heading><content style="-uslm-dtd:text">The requirements prescribed by the Commissioner of Social Security under subsection (a) shall preclude any determination of entitlement to benefits under this title solely on the basis of declarations by the individual concerning qualifications or other material facts, and shall provide for verification of material information from independent or collateral sources, and the procurement of additional information as necessary in order to ensure that the benefits are provided only to qualified individuals (or their representative payees) in correct amounts.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s807" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="807">SEC. 807. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1007">42 U.S.C. 1007</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REPRESENTATIVE PAYEES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">If the Commissioner of Social Security determines that the interest of any qualified individual under this title would be served thereby, payment of the qualified individual's benefit under this title may be made, regardless of the legal competency or incompetency of the qualified individual, either directly to the qualified individual, or for his or her use and benefit, to another person (the meaning of which term, for purposes of this section, includes an organization) with respect to whom the requirements of subsection (b) have been met (in this section referred to as the qualified individual's “<quotedText style="-uslm-dtd:quote">representative payee</quotedText>”). If the Commissioner of Social Security determines that a representative payee has misused any benefit paid to the representative payee pursuant to this section, section 205(j), or section 1631(a)(2), the Commissioner of Social Security shall promptly revoke the person's designation as the qualified individual's representative payee under this subsection, and shall make payment to an alternative representative payee or, if the interest of the qualified individual under this title would be served thereby, to the qualified individual.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Examination of Fitness of Prospective Representative Payee.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Any determination under subsection (a) to pay the benefits of a qualified individual to a representative payee shall be made on the basis of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">an investigation by the Commissioner of Social Security of the person to serve as representative payee, which shall be conducted in advance of the determination and shall, to the extent practicable, include a face-to-face interview with the person (or, in the case of an organization, a representative of the organization); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">adequate evidence that the arrangement is in the interest of the qualified individual.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">As part of the investigation referred to in paragraph (1), the Commissioner of Social Security shall—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">require the person being investigated to submit documented proof of the identity of the person;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the case of a person who has a social security account number issued for purposes of the program under title II or an employer identification number issued for purposes of the Internal Revenue Code of 1986, verify the number;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">determine whether the person has been convicted of a violation of section 208, 811, or 1632;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">obtain information concerning whether such person has been convicted of any other offense under Federal or State law which resulted in imprisonment for more than 1 year;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/2/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">obtain information concerning whether such person is a person described in section 804(a)(2); </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/2/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">determine whether payment of benefits to the person in the capacity as representative payee has been revoked or terminated pursuant to this section, section 205(j), or section 1631(a)(2)(A)(iii) by reason of misuse of funds paid as benefits under this title, title II, or XVI, respectively, and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/2/G" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">determine whether such person has been convicted (and not subsequently exonerated), under Federal or State law, of a felony provided under paragraph (4), or of an attempt or a conspiracy to commit such a felony.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">Notwithstanding the provisions of section 552a of title 5, United States Code, or any other provision of Federal or State law (other than section 6103 of the Internal Revenue Code of 1986 and section 1106(c) of this Act), the Commissioner shall furnish any Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, social security account number, and photograph (if applicable) of any person investigated under this subsection, if the officer furnishes the Commissioner with the name of such person and such other identifying information as may reasonably be required by the Commissioner to establish the unique identity of such person, and notifies the Commissioner that—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">such person is described in section 804(a)(2),</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">such person has information that is necessary for the officer to conduct the officer's official duties, and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/3/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the location or apprehension of such person is within the officer's official duties.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">The felony crimes provided under this paragraph, whether an offense under State or Federal law, are the following:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Human trafficking, including as prohibited under sections 1590 and 1591 of title 18, United States Code.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">False imprisonment, including as prohibited under section 1201 of title 18, United States Code.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Kidnapping, including as prohibited under section 1201 of title 18, United States Code.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">Rape and sexual assault, including as prohibited under sections 2241, 2242, 2243, and 2244 of title 18, United States Code.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">First-degree homicide, including as prohibited under section 1111 of title 18, United States Code. </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">Robbery, including as prohibited under section 2111 of title 18, United States Code.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/G" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">Fraud to obtain access to government assistance, including as prohibited under sections 287, 1001, and 1343 of title 18, United States Code.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/H" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">Fraud by scheme, including as prohibited under section 1343 of title 18, United States Code.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/I" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">Theft of government funds or property, including as prohibited under section 641 of title 18, United States Code.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/J" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="J">(J) </num><content style="-uslm-dtd:text">Abuse or neglect, including as prohibited under sections 111, 113, 114, 115, 116, or 117 of title 18, United States Code. </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/K" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="K">(K) </num><content style="-uslm-dtd:text">Forgery, including as prohibited under section 642 and chapter 25 (except section 512) of title 18, United States Code.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/4/L" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="L">(L) </num><content style="-uslm-dtd:text">Identity theft or identity fraud, including as prohibited under sections 1028 and 1028A of title 18, United States Code.</content>
+                        </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">The Commissioner of Social Security may promulgate regulations to provide for additional felony crimes under this clause.</continuation>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/5/A" styleType="OLC" class="inline leftIndentDecrease2"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">For the purpose of carrying out the activities required under paragraph (2) as part of the investigation under paragraph (1)(A), the Commissioner may conduct a background check of any individual seeking to serve as a representative payee under this subsection and may disqualify from service as a representative payee any such individual who fails to grant permission for the Commissioner to conduct such a background check.</content></subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/b/5/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The Commissioner may revoke certification of payment of benefits under this subsection to any individual serving as a representative payee on or after January 1, 2019 who fails to grant permission for the Commissioner to conduct such a background check.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Requirement for Maintaining Lists of Undesirable Payees.—</heading><chapeau style="-uslm-dtd:text">The Commissioner of Social Security shall establish and maintain lists which shall be updated periodically and which shall be in a form that renders such lists available to the servicing offices of the Social Security Administration. The lists shall consist of—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the names and (if issued) social security account numbers or employer identification numbers of all persons with respect to whom, in the capacity of representative payee, the payment of benefits has been revoked or terminated under this section, section 205(j), or section 1631(a)(2)(A)(iii) by reason of misuse of funds paid as benefits under this title, title II, or XVI, respectively; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the names and (if issued) social security account numbers or employer identification numbers  of all persons who have been convicted of a violation of section 208, 811, or 1632.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Persons Ineligible To Serve as Representative Payees.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The benefits of a qualified individual may not be paid to any other person pursuant to this section if—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/d/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the person has been convicted of a violation of section 208, 811, or 1632;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/d/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 205(j), or section 1631(a)(2)(A)(ii) by reason of misuse of funds paid as benefits under this title, title II, or title XVI, respectively;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/d/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">except as provided in paragraph (2)(B), the person is a creditor of the qualified individual and provides the qualified individual with goods or services for consideration;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/d/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">such person has previously been convicted as described in subsection (b)(2)(D), unless the Commissioner determines that such payment would be appropriate notwithstanding such conviction; </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/d/1/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">such person is a person described in section 804(a)(2), </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/d/1/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">except as provided in paragraph (2)(D), such person has previously been convicted (and not subsequently exonerated) as described in subsection (b)(2)(G), or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/d/1/G" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">such person’s benefits under this title, title II, or title XVI are certified for payment to a representative payee during the period for which the individual’s benefits would be certified for payment to another person.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Exemptions.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/d/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The Commissioner of Social Security may prescribe circumstances under which the Commissioner of Social Security may grant an exemption from paragraph (1) to any person on a case-by-case basis if the exemption is in the best interest of the qualified individual whose benefits would be paid to the person pursuant to this section.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/d/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">Paragraph (1)(C) shall not apply with respect to any person who is a creditor referred to in such paragraph if the creditor is—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s807/d/2/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a relative of the qualified individual and the relative resides in the same household as the qualified individual;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s807/d/2/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a legal guardian or legal representative of the individual;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s807/d/2/B/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">a facility that is licensed or certified as a care facility under the law of the political jurisdiction in which the qualified individual resides;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s807/d/2/B/iv" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">a person who is an administrator, owner, or employee of a facility referred to in clause (iii), if the qualified individual resides in the facility, and the payment to the facility or the person is made only after the Commissioner of Social Security has made a good faith effort to locate an alternative representative payee to whom payment would serve the best interests of the qualified individual; or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s807/d/2/B/v" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">a person who is determined by the Commissioner of Social Security, on the basis of written findings and pursuant to procedures prescribed by the Commissioner of Social Security, to be acceptable to serve as a representative payee.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/d/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">The procedures referred to in subparagraph (B)(v) shall require the person who will serve as representative payee to establish, to the satisfaction of the Commissioner of Social Security, that—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s807/d/2/C/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the person poses no risk to the qualified individual;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s807/d/2/C/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the financial relationship of the person to the qualified individual poses no substantial conflict of interest; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s807/d/2/C/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">no other more suitable representative payee can be found.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/d/2/D" styleType="OLC" class="leftIndentDecrease2">
+                            <num style="-uslm-dtd:enum" value="D">(D)<ref style="-uslm-dtd:footnote-ref" idref="ID49798FA883A64C8D99AAAA7F9C4320BC" class="footnoteRef">1</ref></num><clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s807/d/2/D/i" styleType="OLC" class="inline leftIndentDecrease3"><num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">With respect to any person described in clause (II)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/74/271/tVIII/s807/d/2/D/i/I" styleType="OLC" class="leftIndentDecrease4">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">subsection (b)(2)(G) shall not apply; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/74/271/tVIII/s807/d/2/D/i/II" styleType="OLC" class="leftIndentDecrease4">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the Commissioner may grant an exemption from the provisions of paragraph (1)(F) if the Commissioner determines that such exemption is in the best interest of the individual entitled to benefits.</content>
+                            </subclause></clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s807/d/2/D/ii" styleType="OLC" class="leftIndentDecrease3">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">A person is described in this clause if the person—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/74/271/tVIII/s807/d/2/D/ii/I" styleType="OLC" class="leftIndentDecrease4">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">is the custodial spouse of the beneficiary for whom the person applies to serve;</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/74/271/tVIII/s807/d/2/D/ii/II" styleType="OLC" class="leftIndentDecrease4">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">is the custodial court appointed guardian of the beneficiary for whom the person applies to serve; or</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/74/271/tVIII/s807/d/2/D/ii/III" styleType="OLC" class="leftIndentDecrease4">
+                                    <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">received a presidential or gubernatorial pardon for the relevant conviction.</content>
+                                </subclause>
+                            </clause><footnote id="ID49798FA883A64C8D99AAAA7F9C4320BC" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Margins for new subparagraph (D), including the subclauses, are so in law.</p></footnote>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Deferral of Payment Pending Appointment of Representative Payee.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to paragraph (2), if the Commissioner of Social Security makes a determination described in the first sentence of subsection (a) with respect to any qualified individual's benefit and determines that direct payment of the benefit to the qualified individual would cause substantial harm to the qualified individual, the Commissioner of Social Security may defer (in the case of initial entitlement) or suspend (in the case of existing entitlement) direct payment of the benefit to the qualified individual, until such time as the selection of a representative payee is made pursuant to this section.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Time limitation.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/e/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in subparagraph (B), any deferral or suspension of direct payment of a benefit pursuant to paragraph (1) shall be for a period of not more than 1 month.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/e/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Exception in the case of incompetency.—</heading><content style="-uslm-dtd:text">Subparagraph (A) shall not apply in any case in which the qualified individual is, as of the date of the Commissioner of Social Security's determination, legally incompetent under the laws of the jurisdiction in which the individual resides.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/e/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Payment of retroactive benefits.—</heading><content style="-uslm-dtd:text">Payment of any benefits which are deferred or suspended pending the selection of a representative payee shall be made to the qualified individual or the representative payee as a single sum or over such period of time as the Commissioner of Social Security determines is in the best interest of the qualified individual.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Hearing.—</heading><content style="-uslm-dtd:text">Any qualified individual who is dissatisfied with a determination by the Commissioner of Social Security to make payment of the qualified individual's benefit to a representative payee under subsection (a) of this section or with the designation of a particular person to serve as representative payee shall be entitled to a hearing by the Commissioner of Social Security to the same extent as is provided in section 809(a), and to judicial review of the Commissioner of Social Security's final decision as is provided in section 809(b).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Notice Requirements.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/g/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">In advance, to the extent practicable, of the payment of a qualified individual's benefit to a representative payee under subsection (a), the Commissioner of Social Security shall provide written notice of the Commissioner's initial determination to so make the payment. The notice shall be provided to the qualified individual, except that, if the qualified individual is legally incompetent, then the notice shall be provided solely to the legal guardian or legal representative of the qualified individual.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/g/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Specific requirements.—</heading><chapeau style="-uslm-dtd:text">Any notice required by paragraph (1) shall be clearly written in language that is easily understandable to the reader, shall identify the person to be designated as the qualified individual's representative payee, and shall explain to the reader the right under subsection (f) of the qualified individual or of the qualified individual's legal guardian or legal representative—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/g/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to appeal a determination that a representative payee is necessary for the qualified individual;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/g/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to appeal the designation of a particular person to serve as the representative payee of the qualified individual; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/g/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to review the evidence upon which the designation is based and to submit additional evidence.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/h" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Accountability Monitoring.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/h/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">In any case where payment under this title is made to a person other than the qualified individual entitled to the payment, the Commissioner of Social Security shall establish a system of accountability monitoring under which the person shall report not less often than annually with respect to the use of the payments. The Commissioner of Social Security shall establish and implement statistically valid procedures for reviewing the reports in order to identify instances in which persons are not properly using the payments.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/h/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Special reports.—</heading><content style="-uslm-dtd:text">Notwithstanding paragraph (1), the Commissioner of Social Security may require a report at any time from any person receiving payments on behalf of a qualified individual, if the Commissioner of Social Security has reason to believe that the person receiving the payments is misusing the payments.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/h/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/h/3/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Paragraph (1) shall not apply in any case where the other person to whom such payment is made is the spouse of the individual entitled to such payment. </content></subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/h/3/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The Commissioner of Social Security shall establish and implement procedures as necessary for the Commissioner to determine the eligibility of such parties for the exemption provided in subparagraph (A). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/h/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Authority to redirect delivery of benefit payments when a representative payee fails to provide required accounting.—</heading><content style="-uslm-dtd:text">In any case in which the person described in paragraph (1) or (2) receiving benefit payments on behalf of a qualified individual fails to submit a report required by the Commissioner of Social Security under paragraph (1) or (2), the Commissioner may, after furnishing notice to such person and the qualified individual, require that such person appear in person at a United States Government facility designated by the Social Security Administration as serving the area in which the qualified individual resides in order to receive such benefit payments.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/h/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Maintaining lists of payees.—</heading><chapeau style="-uslm-dtd:text">The Commissioner of Social Security shall maintain lists which shall be updated periodically of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/h/5/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the name, address, and (if issued) the social security account number or employer identification number of each representative payee who is receiving benefit payments pursuant to this section, section 205(j), or section 1631(a)(2); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/h/5/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the name, address, and social security account number of each individual for whom each representative payee is reported to be providing services as representative payee pursuant to this section, section 205(j), or section 1631(a)(2).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/h/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Maintaining lists of agencies.—</heading><content style="-uslm-dtd:text">The Commissioner of Social Security shall maintain lists, which shall be updated periodically, of public agencies and community-based nonprofit social service agencies which are qualified to serve as representative payees pursuant to this section and which are located in the jurisdiction in which any qualified individual resides.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/i" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Restitution.—</heading><chapeau style="-uslm-dtd:text">In any case where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall make payment to the qualified individual or the individual's alternative representative payee of an amount equal to the misused benefits. In any case in which a representative payee that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC" role="undesignated-level">
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/i/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A)<ref style="-uslm-dtd:footnote-ref" idref="ID2A49ABB053E64F80B45381002CB66452" class="footnoteRef">2</ref> </num><content style="-uslm-dtd:text">is not an individual; or</content><footnote id="ID2A49ABB053E64F80B45381002CB66452" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">2</sup><p style="-uslm-dtd:para; margin-left:1em">So in original. Paragraph is designated incorrectly as a subparagraph.</p></footnote>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/i/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B)<ref style="-uslm-dtd:dangling-footnote-ref" class="footnoteRef">2</ref> </num><content style="-uslm-dtd:text">is an individual who, for any month during a period when misuse occurs, serves 15 or more individuals who are beneficiaries under this title, title II, title XVI, or any combination of such titles;</content>
+                        </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">misuses all or part of an individual's benefit paid to such representative payee, the Commissioner of Social Security shall pay to the beneficiary or the beneficiary's alternative representative payee an amount equal to the amount of such benefit so misused. The provisions of this paragraph are subject to the limitations of subsection (l)(2). The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.</continuation>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/j" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="j">(j) </num><heading style="-uslm-dtd:header">Misuse of Benefits.—</heading><content style="-uslm-dtd:text">For purposes of this title, misuse of benefits by a representative payee occurs in any case in which the representative payee receives payment under this title for the use and benefit of another person under this title and converts such payment, or any part thereof, to a use other than for the use and benefit of such person. The Commissioner of Social Security may prescribe by regulation the meaning of the term “<term style="-uslm-dtd:term">use and benefit</term>” for purposes of this subsection.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/k" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="k">(k) </num><heading style="-uslm-dtd:header">Periodic Onsite Review.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/k/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">In addition to such other reviews of representative payees as the Commissioner of Social Security may otherwise conduct, the Commissioner may provide for the periodic onsite review of any person or agency that receives the benefits payable under this title (alone or in combination with benefits payable under title II or title XVI) to another individual pursuant to the appointment of such person or agency as a representative payee under this section, section 205(j), or section 1631(a)(2) in any case in which—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/k/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the representative payee is a person who serves in that capacity with respect to 15 or more such individuals; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/k/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the representative payee is an agency that serves in that capacity with respect to 50 or more such individuals.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/k/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Within 120 days after the end of each fiscal year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of periodic onsite reviews conducted during the fiscal year pursuant to paragraph (1) and of any other reviews of representative payees conducted during such fiscal year in connection with benefits under this title. Each such report shall describe in detail all problems identified in such reviews and any corrective action taken or planned to be taken to correct such problems, and shall include—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/k/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the number of such reviews;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/k/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the results of such reviews;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/k/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the number of cases in which the representative payee was changed and why;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/k/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the number of cases involving the exercise of expedited, targeted oversight of the representative payee by the Commissioner conducted upon receipt of an allegation of misuse of funds, failure to pay a vendor, or a similar irregularity;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/k/2/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the number of cases discovered in which there was a misuse of funds;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/k/2/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">how any such cases of misuse of funds were dealt with by the Commissioner;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/k/2/G" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">the final disposition of such cases of misuse of funds, including any criminal penalties imposed; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s807/k/2/H" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">such other information as the Commissioner deems appropriate.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s807/l" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="l">(l) </num><heading style="-uslm-dtd:header">Liability for Misused Amounts.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/l/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">If the Commissioner of Social Security or a court of competent jurisdiction determines that a representative payee that is not a Federal, State, or local government agency has misused all or part of a qualified individual's benefit that was paid to such representative payee under this section, the representative payee shall be liable for the amount misused, and such amount (to the extent not repaid by the representative payee) shall be treated as an overpayment of benefits under this title to the representative payee for all purposes of this Act and related laws pertaining to the recovery of such overpayments. Subject to paragraph (2), upon recovering all or any part of such amount, the Commissioner shall make payment of an amount equal to the recovered amount to such qualified individual or such qualified individual's alternative representative payee.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s807/l/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Limitation.—</heading><content style="-uslm-dtd:text">The total of the amount paid to such individual or such individual's alternative representative payee under paragraph (1) and the amount paid under subsection (i) may not exceed the total benefit amount misused by the representative payee with respect to such individual.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s808" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="808">SEC. 808. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1008">42 U.S.C. 1008</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">OVERPAYMENTS AND UNDERPAYMENTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s808/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Whenever the Commissioner of Social Security finds that more or less than the correct amount of payment has been made to any person under this title, proper adjustment or recovery shall be made, as follows:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s808/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">With respect to payment to a person of more than the correct amount, the Commissioner of Social Security shall decrease any payment under this title to which the overpaid person (if a qualified individual) is entitled, or shall require the overpaid person or his or her estate to refund the amount in excess of the correct amount, or, if recovery is not obtained under these two methods, shall seek or pursue recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury, as authorized under section 3720A of title 31, United States Code.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s808/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">With respect to payment of less than the correct amount to a qualified individual who, at the time the Commissioner of Social Security is prepared to take action with respect to the underpayment—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s808/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">is living, the Commissioner of Social Security shall make payment to the qualified individual (or the qualified individual's representative payee designated under section 807) of the balance of the amount due the underpaid qualified individual; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s808/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">is deceased, the balance of the amount due shall revert to the general fund of the Treasury.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s808/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Waiver of Recovery of Overpayment.—</heading><content style="-uslm-dtd:text">In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if the Commissioner of Social Security determines that the adjustment or recovery would defeat the purpose of this title or would be against equity and good conscience.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s808/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Limited Immunity for Disbursing Officers.—</heading><content style="-uslm-dtd:text">A disbursing officer may not be held liable for any amount paid by the officer if the adjustment or recovery of the amount is waived under subsection (b), or adjustment under subsection (a) is not completed before the death of the qualified individual against whose benefits deductions are authorized.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s808/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Authorized Collection Practices.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s808/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(e), 3716, and 3718 of title 31, United States Code, as in effect on October 1, 1994.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s808/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Definition.—</heading><chapeau style="-uslm-dtd:text">For purposes of paragraph (1), the term “<term style="-uslm-dtd:term">delinquent amount</term>” means an amount—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s808/d/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in excess of the correct amount of the payment under this title; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s808/d/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">determined by the Commissioner of Social Security to be otherwise unrecoverable under this section from a person who is not a qualified individual under this title.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s808/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Cross-Program Recovery of Overpayments.—</heading><content style="-uslm-dtd:text">For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see section 1147.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s809" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="809">SEC. 809. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1009">42 U.S.C. 1009</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">HEARINGS AND REVIEW. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s809/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Hearings.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s809/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Commissioner of Social Security shall make findings of fact and decisions as to the rights of any individual applying for payment under this title. The Commissioner of Social Security shall provide reasonable notice and opportunity for a hearing to any individual who is or claims to be a qualified individual and is in disagreement with any determination under this title with respect to entitlement to, or the amount of, benefits under this title, if the individual requests a hearing on the matter in disagreement within 60 days after notice of the determination is received, and, if a hearing is held, shall, on the basis of evidence adduced at the hearing affirm, modify, or reverse the Commissioner of Social Security's findings of fact and the decision. The Commissioner of Social Security may, on the Commissioner of Social Security's own motion, hold such hearings and conduct such investigations and other proceedings as the Commissioner of Social Security deems necessary or proper for the administration of this title. In the course of any hearing, investigation, or other proceeding, the Commissioner may administer oaths and affirmations, examine witnesses, and receive evidence. Evidence may be received at any hearing before the Commissioner of Social Security even though inadmissible under the rules of evidence applicable to court procedure. The Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation of the individual (including any lack of facility with the English language) in determining, with respect to the entitlement of the individual for benefits under this title, whether the individual acted in good faith or was at fault, and in determining fraud, deception, or intent.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s809/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Effect of failure to timely request review.—</heading><content style="-uslm-dtd:text">A failure to timely request review of an initial adverse determination with respect to an application for any payment under this title or an adverse determination on reconsideration of such an initial determination shall not serve as a basis for denial of a subsequent application for any payment under this title if the applicant demonstrates that the applicant failed to so request such a review acting in good faith reliance upon incorrect, incomplete, or misleading information, relating to the consequences of reapplying for payments in lieu of seeking review of an adverse determination, provided by any officer or employee of the Social Security Administration.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s809/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Notice requirements.—</heading><content style="-uslm-dtd:text">In any notice of an adverse determination with respect to which a review may be requested under paragraph (1), the Commissioner of Social Security shall describe in clear and specific language the effect on possible entitlement to benefits under this title of choosing to reapply in lieu of requesting review of the determination.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s809/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Judicial Review.—</heading><content style="-uslm-dtd:text">The final determination of the Commissioner of Social Security after a hearing under subsection (a)(1) shall be subject to judicial review as provided in section 205(g) to the same extent as the Commissioner of Social Security's final determinations under section 205.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s810" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="810">SEC. 810. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1010">42 U.S.C. 1010</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">OTHER ADMINISTRATIVE PROVISIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s810/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Regulations and Administrative Arrangements.—</heading><content style="-uslm-dtd:text">The Commissioner of Social Security may prescribe such regulations, and make such administrative and other arrangements, as may be necessary or appropriate to carry out this title.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s810/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Payment of Benefits.—</heading><content style="-uslm-dtd:text">Benefits under this title shall be paid at such time or times and in such installments as the Commissioner of Social Security determines are in the interests of economy and efficiency.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s810/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Entitlement Redeterminations.—</heading><content style="-uslm-dtd:text">An individual's entitlement to benefits under this title, and the amount of the benefits, may be redetermined at such time or times as the Commissioner of Social Security determines to be appropriate.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s810/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Suspension and Termination of Benefits.—</heading><content style="-uslm-dtd:text">Regulations prescribed by the Commissioner of Social Security under subsection (a) may provide for the suspension and termination of entitlement to benefits under this title as the Commissioner determines is appropriate.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s810A" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="810A">SEC. 810A. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1010a">42 U.S.C. 1010a</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">OPTIONAL FEDERAL ADMINISTRATION OF STATE RECOGNITION PAYMENTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s810A/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Commissioner of Social Security may enter into an agreement with any State (or political subdivision thereof) that provides cash payments on a regular basis to individuals entitled to benefits under this title under which the Commissioner of Social Security shall make such payments on behalf of such State (or subdivision).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s810A/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Agreement Terms.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s810A/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Such agreement shall include such terms as the Commissioner of Social Security finds necessary to achieve efficient and effective administration of both this title and the State program.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s810A/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Financial terms.—</heading><chapeau style="-uslm-dtd:text">Such agreement shall provide for the State to pay the Commissioner of Social Security, at such times and in such installments as the parties may specify—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s810A/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">an amount equal to the expenditures made by the Commissioner of Social Security pursuant to such agreement as payments to individuals on behalf of such State; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s810A/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">an administration fee to reimburse the administrative expenses incurred by the Commissioner of Social Security in making payments to individuals on behalf of the State.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s810A/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Special Disposition of Administration Fees.—</heading><content style="-uslm-dtd:text">Administration fees, upon collection, shall be credited to a special fund established in the Treasury of the United States for State recognition payments for certain World War II veterans. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this title.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s811" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="811">SEC. 811. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1011">42 U.S.C. 1011</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PENALTIES FOR FRAUD. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s811/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Whoever—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s811/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">knowingly and willfully makes or causes to be made any false statement or representation of a material fact in an application for benefits under this title;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s811/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">at any time knowingly and willfully makes or causes to be made any false statement or representation of a material fact for use in determining any right to the benefits;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s811/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">having knowledge of the occurrence of any event affecting—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s811/a/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">his or her initial or continued right to the benefits; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s811/a/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the initial or continued right to the benefits of any other individual in whose behalf he or she has applied for or is receiving the benefit,</content>
+                        </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">conceals or fails to disclose the event with an intent fraudulently to secure the benefit either in a greater amount or quantity than is due or when no such benefit is authorized; </continuation>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s811/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts the benefit or any part thereof to a use other than for the use and benefit of the other individual; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s811/a/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">conspires to commit any offense described in any of paragraphs (1) through (3),</content>
+                    </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">shall be fined under title 18, United States Code, imprisoned not more than 5 years, or both, except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this title (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, United States Code, or imprisoned for not more than ten years, or both.</continuation>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/74/271/tVIII/s811/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Court Order for Restitution.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s811/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Any Federal court, when sentencing a defendant convicted of an offense under subsection (a), may order, in addition to or in lieu of any other penalty authorized by law, that the defendant make restitution to the Commissioner of Social Security, in any case in which such offense results in—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s811/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Commissioner of Social Security making a benefit payment that should not have been made, or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s811/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">an individual suffering a financial loss due to the defendant's violation of subsection (a) in his or her capacity as the individual's representative payee appointed pursuant to section 807(i).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s811/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Related provisions.—</heading><content style="-uslm-dtd:text">Sections 3612, 3663, and 3664 of title 18, United States Code, shall apply with respect to the issuance and enforcement of orders of restitution under this subsection. In so applying such sections, the Commissioner of Social Security shall be considered the victim.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s811/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Stated reasons for not ordering restitution.—</heading><content style="-uslm-dtd:text">If the court does not order restitution, or orders only partial restitution, under this subsection, the court shall state on the record the reasons therefor.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s811/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Receipt of restitution payments.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s811/b/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in subparagraph (B), funds paid to the Commissioner of Social Security as restitution pursuant to a court order shall be deposited as miscellaneous receipts in the general fund of the Treasury.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s811/b/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Payment to the individual.—</heading><content style="-uslm-dtd:text">In the case of funds paid to the Commissioner of Social Security pursuant to paragraph (1)(B), the Commissioner of Social Security shall certify for payment to the individual described in such paragraph an amount equal to the lesser of the amount of the funds so paid or the individual's outstanding financial loss as described in such paragraph, except that such amount may be reduced by any overpayment of benefits owed under this title, title II, or title XVI by the individual.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s812" styleType="OLC" role="definitions">
+                <num style="-uslm-dtd:enum" value="812">SEC. 812. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1012">42 U.S.C. 1012</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">In this title:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s812/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">World war ii veteran.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">World War II veteran</term>” means a person who—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s812/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">served during World War II—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s812/1/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in the active military, naval, or air service of the United States during World War II; or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s812/1/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in the organized military forces of the Government of the Commonwealth of the Philippines, while the forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among the military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, in any case in which the service was rendered before December 31, 1946; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/74/271/tVIII/s812/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">was discharged or released therefrom under conditions other than dishonorable—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s812/1/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">after service of 90 days or more; or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/74/271/tVIII/s812/1/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">because of a disability or injury incurred or aggravated in the line of active duty.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s812/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">World war ii.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">World War II</term>” means the period beginning on September 16, 1940, and ending on July 24, 1947.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s812/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Supplemental security income benefit under title xvi.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">supplemental security income benefit under title XVI</term>”, except as otherwise provided, includes State supplementary payments which are paid by the Commissioner of Social Security pursuant to an agreement under section 1616(a) of this Act or section 212(b) of Public Law 93–66.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s812/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Federal benefit rate under title xvi.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Federal benefit rate under title XVI</term>” means, with respect to any month, the amount of the supplemental security income cash benefit (not including any State supplementary payment which is paid by the Commissioner of Social Security pursuant to an agreement under section 1616(a) of this Act or section 212(b) of Public Law 93–66) payable under title XVI for the month to an eligible individual with no income.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s812/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">United states.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">United States</term>” means, notwithstanding section 1101(a)(1), only the 50 States, the District of Columbia, and the Commonwealth of the Northern Mariana Islands.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/74/271/tVIII/s812/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Benefit income.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">benefit income</term>” means any recurring payment received by a qualified individual as an annuity, pension, retirement, or disability benefit (including any veterans' compensation or pension, workmen's compensation payment, old-age, survivors, or disability insurance benefit, railroad retirement annuity or pension, and unemployment insurance benefit), but only if a similar payment was received by the individual from the same (or a related) source during the 12-month period preceding the month in which the individual files an application for benefits under this title.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/74/271/tVIII/s813" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="813">SEC. 813. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1013">42 U.S.C. 1013</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">APPROPRIATIONS. </heading>
+                <content style="-uslm-dtd:text" class="block">There are hereby appropriated for fiscal year 2000 and subsequent fiscal years, out of any funds in the Treasury not otherwise appropriated,  such sums as may be necessary to carry out this title.</content>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

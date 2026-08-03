@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE ACT</dc:title>
+        <containsShortTitle>ESIGN COMMERCE ACT</containsShortTitle>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Electronic Signatures in Global and National Commerce Act</containsShortTitle>
+        <property role="fileId">940</property>
+        <congress>106</congress>
+        <approvedDate>2000-06-30</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE ACT</property>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 106–229. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To facilitate the use of electronic records and signatures in interstate or foreign commerce.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United  States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7001">15 U.S.C. 7001 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content style="-uslm-dtd:text" class="block">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Electronic Signatures in Global and National Commerce Act</inline></shortTitle>”.</content>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/106/229/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">ELECTRONIC RECORDS AND SIGNATURES IN COMMERCE </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7001">15 U.S.C. 7001</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">GENERAL RULE OF VALIDITY. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s101/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding any statute, regulation, or other rule of law (other than this title and title II), with respect to any transaction in or affecting interstate or foreign commerce—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a signature, contract, or other record relating to such transaction may not be denied legal effect, validity, or enforceability solely because it is in electronic form; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a contract relating to such transaction may not be denied legal effect, validity, or enforceability solely because an electronic signature or electronic record was used in its <br style="-uslm-dtd:linebreak" />formation.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s101/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Preservation of Rights and Obligations.—</heading><chapeau style="-uslm-dtd:text">This title does not—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">limit, alter, or otherwise affect any requirement imposed by a statute, regulation, or rule of law relating to the rights and obligations of persons under such statute, regulation, or rule of law other than a requirement that contracts or other records be written, signed, or in nonelectronic form; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">require any person to agree to use or accept electronic records or electronic signatures, other than a governmental agency with respect to a record other than a contract to which it is a party.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s101/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Consumer Disclosures.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Consent to electronic records.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding subsection (a), if a statute, regulation, or other rule of law requires that information relating to a transaction or transactions in or affecting interstate or foreign commerce be provided or made available to a consumer in writing, the use of an electronic record to provide or make available (whichever is required) such information satisfies the requirement that such information be in writing if—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s101/c/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the consumer has affirmatively consented to such use and has not withdrawn such consent;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s101/c/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">the consumer, prior to consenting, is provided with a clear and conspicuous statement—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s101/c/1/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">informing the consumer of (I) any right or option of the consumer to have the record provided or made available on paper or in nonelectronic form, and (II) the right of the consumer to withdraw the consent to have the record provided or made available in an electronic form and of any conditions, consequences (which may include termination of the parties' relationship), or fees in the event of such withdrawal;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s101/c/1/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">informing the consumer of whether the consent applies (I) only to the particular transaction which gave rise to the obligation to provide the record, or (II) to identified categories of records that may be provided or made available during the course of the parties' relationship;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s101/c/1/B/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">describing the procedures the consumer must use to withdraw consent as provided in clause (i) and to update information needed to contact the consumer electronically; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s101/c/1/B/iv" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">informing the consumer (I) how, after the consent, the consumer may, upon request, obtain a paper copy of an electronic record, and (II) whether any fee will be charged for such copy;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s101/c/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">the consumer—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s101/c/1/C/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">prior to consenting, is provided with a statement of the hardware and software requirements for access to and retention of the electronic records; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s101/c/1/C/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">consents electronically, or confirms his or her consent electronically, in a manner that reasonably demonstrates that the consumer can access information in the electronic form that will be used to provide the information that is the subject of the consent; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s101/c/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">after the consent of a consumer in accordance with subparagraph (A), if a change in the hardware or software requirements needed to access or retain electronic records creates a material risk that the consumer will not be able to access or retain a subsequent electronic record that was the subject of the consent, the person providing the electronic record—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s101/c/1/D/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">provides the consumer with a statement of (I) the revised hardware and software requirements for access to and retention of the electronic records, and (II) the right to withdraw consent without the imposition of any fees for such withdrawal and without the imposition of any condition or consequence that was not disclosed under subparagraph (B)(i); and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s101/c/1/D/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">again complies with subparagraph (C).</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Other rights.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s101/c/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Preservation of consumer protections.—</heading><content style="-uslm-dtd:text">Nothing in this title affects the content or timing of any disclosure or other record required to be provided or made available to any consumer under any statute, regulation, or other rule of law.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s101/c/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Verification or acknowledgment.—</heading><content style="-uslm-dtd:text">If a law that was enacted prior to this Act expressly requires a record to be provided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Effect of failure to obtain electronic consent or confirmation of consent.—</heading><content style="-uslm-dtd:text">The legal effectiveness, validity, or enforceability of any contract executed by a consumer shall not be denied solely because of the failure to obtain electronic consent or confirmation of consent by that consumer in accordance with paragraph (1)(C)(ii).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/c/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Prospective effect.—</heading><content style="-uslm-dtd:text">Withdrawal of consent by a consumer shall not affect the legal effectiveness, validity, or enforceability of electronic records provided or made available to that consumer in accordance with paragraph (1) prior to implementation of the consumer's withdrawal of consent. A consumer's withdrawal of consent shall be effective within a reasonable period of time after receipt of the withdrawal by the provider of the record. Failure to comply with paragraph (1)(D) may, at the election of the consumer, be treated as a withdrawal of consent for purposes of this paragraph.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/c/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Prior consent.—</heading><content style="-uslm-dtd:text">This subsection does not apply to any records that are provided or made available to a consumer who has consented prior to the effective date of this title to receive such records in electronic form as permitted by any statute, regulation, or other rule of law.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/c/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Oral communications.—</heading><content style="-uslm-dtd:text">An oral communication or a recording of an oral communication shall not qualify as an electronic record for purposes of this subsection except as otherwise provided under applicable law.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s101/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Retention of Contracts and Records.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Accuracy and accessibility.—</heading><chapeau style="-uslm-dtd:text">If a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstate or foreign commerce be retained, that requirement is met by retaining an electronic record of the information in the contract or other record that—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s101/d/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">accurately reflects the information set forth in the contract or other record; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s101/d/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">remains accessible to all persons who are entitled to access by statute, regulation, or rule of law, for the period required by such statute, regulation, or rule of law, in a form that is capable of being accurately reproduced for later reference, whether by transmission, printing, or otherwise.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Exception.—</heading><content style="-uslm-dtd:text">A requirement to retain a contract or other record in accordance with paragraph (1) does not apply to any information whose sole purpose is to enable the contract or other record to be sent, communicated, or received.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/d/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Originals.—</heading><content style="-uslm-dtd:text">If a statute, regulation, or other rule of law requires a contract or other record relating to a transaction in or affecting interstate or foreign commerce to be provided, available, or retained in its original form, or provides consequences if the contract or other record is not provided, available, or retained in its original form, that statute, regulation, or rule of law is satisfied by an electronic record that complies with paragraph (1).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/d/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Checks.—</heading><content style="-uslm-dtd:text">If a statute, regulation, or other rule of law requires the retention of a check, that requirement is satisfied by retention of an electronic record of the information on the front and back of the check in accordance with paragraph (1).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s101/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Accuracy and Ability To Retain Contracts and Other Records.—</heading><content style="-uslm-dtd:text">Notwithstanding subsection (a), if a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstate or foreign commerce be in writing, the legal effect, validity, or enforceability of an electronic record of such contract or other record may be denied if such electronic record is not in a form that is capable of being retained and accurately reproduced for later reference by all parties or persons who are entitled to retain the contract or other record.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s101/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Proximity.—</heading><content style="-uslm-dtd:text">Nothing in this title affects the proximity required by any statute, regulation, or other rule of law with respect to any warning, notice, disclosure, or other record required to be posted, displayed, or publicly affixed.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s101/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Notarization and Acknowledgment.—</heading><content style="-uslm-dtd:text">If a statute, regulation, or other rule of law requires a signature or record relating to a transaction in or affecting interstate or foreign commerce to be notarized, acknowledged, verified, or made under oath, that requirement is satisfied if the electronic signature of the person authorized to perform those acts, together with all other information required to be included by other applicable statute, regulation, or rule of law, is attached to or logically associated with the signature or record.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s101/h" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Electronic Agents.—</heading><content style="-uslm-dtd:text">A contract or other record relating to a transaction in or affecting interstate or foreign commerce may not be denied legal effect, validity, or enforceability solely because its formation, creation, or delivery involved the action of one or more electronic agents so long as the action of any such electronic agent is legally attributable to the person to be bound.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s101/i" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Insurance.—</heading><content style="-uslm-dtd:text">It is the specific intent of the Congress that this title and title II apply to the business of insurance.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s101/j" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="j">(j) </num><heading style="-uslm-dtd:header">Insurance Agents and Brokers.—</heading><chapeau style="-uslm-dtd:text">An insurance agent or broker acting under the direction of a party that enters into a contract by means of an electronic record or electronic signature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/j/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the agent or broker has not engaged in negligent, reckless, or intentional tortious conduct;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/j/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the agent or broker was not involved in the development or establishment of such electronic procedures; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s101/j/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the agent or broker did not deviate from such procedures.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/tI/s102" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7002">15 U.S.C. 7002</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EXEMPTION TO PREEMPTION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s102/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">A State statute, regulation, or other rule of law may modify, limit, or supersede the provisions of section 101 with respect to State law only if such statute, regulation, or rule of law—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s102/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">constitutes an enactment or adoption of the Uniform Electronic Transactions Act as approved and recommended for enactment in all the States by the National Conference of Commissioners on Uniform State Laws in 1999, except that any exception to the scope of such Act enacted by a State under section 3(b)(4) of such Act shall be preempted to the extent such exception is inconsistent with this title or title II, or would not be permitted under paragraph (2)(A)(ii) of this subsection; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s102/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s102/a/2/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">specifies the alternative procedures or requirements for the use or acceptance (or both) of electronic records or electronic signatures to establish the legal effect, validity, or enforceability of contracts or other records, if—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s102/a/2/A/i" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">such alternative procedures or requirements are consistent with this title and title II; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s102/a/2/A/ii" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">such alternative procedures or requirements do not require, or accord greater legal status or effect to, the implementation or application of a specific technology or technical specification for performing the functions of creating, storing, generating, receiving, communicating, or authenticating electronic records or electronic signatures; and</content>
+                        </clause></subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s102/a/2/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">if enacted or adopted after the date of the enactment of this Act, makes specific reference to this Act.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s102/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Exceptions for Actions by States as Market Participants.—</heading><content style="-uslm-dtd:text">Subsection (a)(2)(A)(ii) shall not apply to the statutes, regulations, or other rules of law governing procurement by any State, or any agency or instrumentality thereof.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s102/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Prevention of Circumvention.—</heading><content style="-uslm-dtd:text">Subsection (a) does not permit a State to circumvent this title or title II through the imposition of nonelectronic delivery methods under section 8(b)(2) of the Uniform Electronic Transactions Act.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/tI/s103" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7003">15 U.S.C. 7003</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SPECIFIC EXCEPTIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s103/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Excepted Requirements.—</heading><chapeau style="-uslm-dtd:text">The provisions of section 101 shall not apply to a contract or other record to the extent it is governed by—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s103/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a statute, regulation, or other rule of law governing the creation and execution of wills, codicils, or testamentary trusts;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s103/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a State statute, regulation, or other rule of law governing adoption, divorce, or other matters of family law; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s103/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the Uniform Commercial Code, as in effect in any State, other than sections 1–107 and 1–206 and Articles 2 and 2A.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s103/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Additional Exceptions.—</heading><chapeau style="-uslm-dtd:text">The provisions of section 101 shall not apply to—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s103/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">court orders or notices, or official court documents (including briefs, pleadings, and other writings) required to be executed in connection with court proceedings;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s103/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">any notice of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s103/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the cancellation or termination of utility services (including water, heat, and power);</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s103/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">default, acceleration, repossession, foreclosure, or eviction, or the right to cure, under a credit agreement secured by, or a rental agreement for, a primary residence of an individual;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s103/b/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the cancellation or termination of health insurance or benefits or life insurance benefits (excluding annuities); or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s103/b/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">recall of a product, or material failure of a product, that risks endangering health or safety; or</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s103/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">any document required to accompany any transportation or handling of hazardous materials, pesticides, or other toxic or dangerous materials.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s103/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Review of Exceptions.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s103/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Evaluation required.—</heading><content style="-uslm-dtd:text">The Secretary of Commerce, acting through the Assistant Secretary for Communications and Information, shall review the operation of the exceptions in subsections (a) and (b) to evaluate, over a period of 3 years, whether such exceptions continue to be necessary for the protection of consumers. Within 3 years after the date of enactment of this Act, the Assistant Secretary shall submit a report to the Congress on the results of such evaluation.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s103/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Determinations.—</heading><content style="-uslm-dtd:text">If a Federal regulatory agency, with respect to matter within its jurisdiction, determines after notice and an opportunity for public comment, and publishes a finding, that one or more such exceptions are no longer necessary for the protection of consumers and eliminating such exceptions will not increase the material risk of harm to consumers, such agency may extend the application of section 101 to the exceptions identified in such finding.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/tI/s104" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7004">15 U.S.C. 7004</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">APPLICABILITY TO FEDERAL AND STATE GOVERNMENTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s104/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Filing and Access Requirements.—</heading><content style="-uslm-dtd:text">Subject to subsection (c)(2), nothing in this title limits or supersedes any requirement by a Federal regulatory agency, self-regulatory organization, or State regulatory agency that records be filed with such agency or organization in accordance with specified standards or formats.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s104/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Preservation of Existing Rulemaking Authority.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s104/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Use of authority to interpret.—</heading><chapeau style="-uslm-dtd:text">Subject to paragraph (2) and subsection (c), a Federal regulatory agency or State regulatory agency that is responsible for rulemaking under any other statute may interpret section 101 with respect to such statute through—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s104/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the issuance of regulations pursuant to a statute; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s104/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to the extent such agency is authorized by statute to issue orders or guidance, the issuance of orders or guidance of general applicability that are publicly available and published (in the Federal Register in the case of an order or guidance issued by a Federal regulatory agency).</content>
+                        </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">This paragraph does not grant any Federal regulatory agency or State regulatory agency authority to issue regulations, orders, or guidance pursuant to any statute that does not authorize such issuance.</continuation>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s104/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Limitations on interpretation authority.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding paragraph (1), a Federal regulatory agency shall not adopt any regulation, order, or guidance described in paragraph (1), and a State regulatory agency is preempted by section 101 from adopting any regulation, order, or guidance described in paragraph (1), unless—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s104/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">such regulation, order, or guidance is consistent with section 101;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s104/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">such regulation, order, or guidance does not add to the requirements of such section; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s104/b/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">such agency finds, in connection with the issuance of such regulation, order, or guidance, that—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s104/b/2/C/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">there is a substantial justification for the regulation, order, or guidance;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s104/b/2/C/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">the methods selected to carry out that purpose—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/106/229/tI/s104/b/2/C/ii/I" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">are substantially equivalent to the requirements imposed on records that are not electronic records; and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/106/229/tI/s104/b/2/C/ii/II" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">will not impose unreasonable costs on the acceptance and use of electronic records; and</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s104/b/2/C/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the methods selected to carry out that purpose do not require, or accord greater legal status or effect to, the implementation or application of a specific technology or technical specification for performing the functions of creating, storing, generating, receiving, communicating, or authenticating electronic records or electronic signatures.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s104/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Performance standards.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s104/b/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Accuracy, record integrity, accessibility.—</heading><content style="-uslm-dtd:text">Notwithstanding paragraph (2)(C)(iii), a Federal regulatory agency or State regulatory agency may interpret section 101(d) to specify performance standards to assure accuracy, record integrity, and accessibility of records that are required to be retained. Such performance standards may be specified in a manner that imposes a requirement in violation of paragraph (2)(C)(iii) if the requirement (i) serves an important governmental objective; and (ii) is substantially related to the achievement of that objective. Nothing in this paragraph shall be construed to grant any Federal regulatory agency or State regulatory agency authority to require use of a particular type of software or hardware in order to comply with section 101(d).</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s104/b/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Paper or printed form.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding subsection (c)(1), a Federal regulatory agency or State regulatory agency may interpret section 101(d) to require <br style="-uslm-dtd:linebreak" />retention of a record in a tangible printed or paper form if—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s104/b/3/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">there is a compelling governmental interest relating to law enforcement or national security for imposing such requirement; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s104/b/3/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">imposing such requirement is essential to attaining such interest.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s104/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Exceptions for actions by government as market participant.—</heading><content style="-uslm-dtd:text">Paragraph (2)(C)(iii) shall not apply to the statutes, regulations, or other rules of law governing procurement by the Federal or any State government, or any agency or instrumentality thereof.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s104/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Additional Limitations.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s104/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Reimposing paper prohibited.—</heading><content style="-uslm-dtd:text">Nothing in subsection (b) (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s104/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Continuing obligation under government paperwork elimination act.—</heading><content style="-uslm-dtd:text">Nothing in subsection (a) or (b) relieves any Federal regulatory agency of its obligations under the Government Paperwork Elimination Act (title XVII of Public Law 105–277).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s104/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Authority To Exempt From Consent Provision.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s104/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">A Federal regulatory agency may, with respect to matter within its jurisdiction, by regulation or order issued after notice and an opportunity for public comment, exempt without condition a specified category or type of record from the requirements relating to consent in section 101(c) if such exemption is necessary to eliminate a substantial burden on electronic commerce and will not increase the material risk of harm to consumers.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s104/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Prospectuses.—</heading><content style="-uslm-dtd:text">Within 30 days after the date of enactment of this Act, the Securities and Exchange Commission shall issue a regulation or order pursuant to paragraph (1) exempting from section 101(c) any records that are required to be provided in order to allow advertising, sales literature, or other information concerning a security issued by an investment company that is registered under the Investment Company Act of 1940, or concerning the issuer thereof, to be excluded from the definition of a prospectus under section 2(a)(10)(A) of the Securities Act of 1933.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s104/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Electronic Letters of Agency.—</heading><content style="-uslm-dtd:text">The Federal Communications Commission shall not hold any contract for telecommunications service or letter of agency for a preferred carrier change, that otherwise complies with the Commission's rules, to be legally ineffective, invalid, or unenforceable solely because an electronic record or electronic signature was used in its formation or authorization.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/tI/s105" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7005">15 U.S.C. 7005</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">STUDIES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s105/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Delivery.—</heading><content style="-uslm-dtd:text">Within 12 months after the date of the enactment of this Act, the Secretary of Commerce shall conduct an inquiry regarding the effectiveness of the delivery of electronic records to consumers using electronic mail as compared with delivery of written records via the United States Postal Service and private express mail services. The Secretary shall submit a report to the Congress regarding the results of such inquiry by the <br style="-uslm-dtd:linebreak" />conclusion of such 12-month period.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s105/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Study of Electronic Consent.—</heading><content style="-uslm-dtd:text">Within 12 months after the date of the enactment of this Act, the Secretary of Commerce and the Federal Trade Commission shall submit a report to the Congress evaluating any benefits provided to consumers by the procedure required by section 101(c)(1)(C)(ii); any burdens imposed on electronic commerce by that provision; whether the benefits outweigh the burdens; whether the absence of the procedure required by section 101(c)(1)(C)(ii) would increase the incidence of fraud directed against consumers; and suggesting any revisions to the provision deemed appropriate by the Secretary and the Commission. In conducting this evaluation, the Secretary and the Commission shall solicit comment from the general public, consumer representatives, and electronic commerce businesses.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/tI/s106" styleType="OLC" role="definitions">
+                <num style="-uslm-dtd:enum" value="106">SEC. 106. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7006">15 U.S.C. 7006</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">For purposes of this title:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Consumer.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">consumer</term>” means an individual who obtains, through a transaction, products or services which are used primarily for personal, family, or household purposes, and also means the legal representative of such an individual.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Electronic.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">electronic</term>” means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Electronic agent.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">electronic agent</term>” means a computer program or an electronic or other automated means used independently to initiate an action or respond to electronic records or performances in whole or in part without review or action by an individual at the time of the action or response.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Electronic record.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">electronic record</term>” means a contract or other record created, generated, sent, communicated, received, or stored by electronic means.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Electronic signature.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">electronic signature</term>” means an electronic sound, symbol, or process, attached to or logically associated with a contract  or other record and executed or adopted by a person with the intent to sign the record.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Federal regulatory agency.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Federal regulatory agency</term>” means an agency, as that term is defined in section 552(f) of title 5, United States Code.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Information.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">information</term>” means data, text, images, sounds, codes, computer programs, software, databases, or the like.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/8" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Person.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">person</term>” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, governmental agency, public corporation, or any other legal or commercial entity.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/9" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Record.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">record</term>” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/10" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="10">(10) </num><heading style="-uslm-dtd:header">Requirement.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">requirement</term>” includes a prohibition.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/11" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="11">(11) </num><heading style="-uslm-dtd:header">Self-regulatory organization.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">self-regulatory organization</term>” means an organization or entity that is not a Federal regulatory agency or a State, but that is under the supervision of a Federal regulatory agency and is authorized under Federal law to adopt and administer rules applicable to its members that are enforced by such organization or entity, by a Federal regulatory agency, or by another self-regulatory organization.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/12" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="12">(12) </num><heading style="-uslm-dtd:header">State.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State</term>” includes the District of Columbia and the territories and possessions of the United States.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s106/13" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="13">(13) </num><heading style="-uslm-dtd:header">Transaction.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">transaction</term>” means an action or set of actions relating to the conduct of business, consumer, or commercial affairs between two or more persons, including any of the following types of conduct—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s106/13/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the sale, lease, exchange, licensing, or other disposition of (i) personal property, including goods and intangibles, (ii) services, and (iii) any combination thereof; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s106/13/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the sale, lease, exchange, or other disposition of any interest in real property, or any combination thereof.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/tI/s107" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="107">SEC. 107. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7001">15 U.S.C. 7001</ref>, note<b>]</b> </editorialNote><heading style="-uslm-dtd:header">EFFECTIVE DATE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s107/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Except as provided in subsection (b), this title shall be effective on October 1, 2000.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tI/s107/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Exceptions.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s107/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Record retention.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s107/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Subject to subparagraph (B), this title shall be effective on March 1, 2001, with respect to a requirement that a record be retained imposed by—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s107/b/1/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a Federal statute, regulation, or other rule of law, or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/106/229/tI/s107/b/1/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a State statute, regulation, or other rule of law administered or promulgated by a State regulatory agency.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s107/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Delayed effect for pending rulemakings.—</heading><content style="-uslm-dtd:text">If on March 1, 2001, a Federal regulatory agency or State regulatory agency has announced, proposed, or initiated, but not completed, a rulemaking proceeding to prescribe a regulation under section 104(b)(3) with respect to a requirement described in subparagraph (A), this title shall be effective on June 1, 2001, with respect to such requirement.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s107/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Certain guaranteed and insured loans.—</heading><content style="-uslm-dtd:text">With regard to any transaction involving a loan guarantee or loan guarantee commitment (as those terms are defined in section 502 of the Federal Credit Reform Act of 1990), or involving a program listed in the Federal Credit Supplement, Budget of the United States, FY 2001, this title applies only to such transactions entered into, and to any loan or mortgage made, insured, or guaranteed by the United States Government thereunder, on and after one year after the date of enactment of this Act.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tI/s107/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Student loans.—</heading><chapeau style="-uslm-dtd:text">With respect to any records that are provided or made available to a consumer pursuant to an application for a loan, or a loan made, pursuant to title IV of the Higher Education Act of 1965, section 101(c) of this Act shall not apply until the earlier of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s107/b/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">such time as the Secretary of Education publishes revised promissory notes under section 432(m) of the Higher Education Act of 1965; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tI/s107/b/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">one year after the date of enactment of this Act.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/106/229/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">TRANSFERABLE RECORDS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7021">15 U.S.C. 7021</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">TRANSFERABLE RECORDS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tII/s201/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">For purposes of this section:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tII/s201/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Transferable record.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">transferable record</term>” means an electronic record that—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tII/s201/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">would be a note under Article 3 of the Uniform Commercial Code if the electronic record were in writing;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tII/s201/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the issuer of the electronic record expressly has agreed is a transferable record; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tII/s201/a/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">relates to a loan secured by real property.</content>
+                        </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">A transferable record may be executed using an electronic signature.</continuation>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tII/s201/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Other definitions.—</heading><content style="-uslm-dtd:text">The terms “<term style="-uslm-dtd:term">electronic record</term>”, “<quotedText style="-uslm-dtd:quote">electronic signature</quotedText>”, and “<quotedText style="-uslm-dtd:quote">person</quotedText>” have the same meanings provided in section 106 of this Act.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tII/s201/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Control.—</heading><content style="-uslm-dtd:text">A person has control of a transferable record if a system employed for evidencing the transfer of interests in the transferable record reliably establishes that person as the person to which the transferable record was issued or transferred.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tII/s201/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Conditions.—</heading><chapeau style="-uslm-dtd:text">A system satisfies subsection (b), and a person is deemed to have control of a transferable record, if the transferable record is created, stored, and assigned in such a manner that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tII/s201/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a single authoritative copy of the transferable record exists which is unique, identifiable, and, except as otherwise provided in paragraphs (4), (5), and (6), unalterable;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tII/s201/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">the authoritative copy identifies the person asserting control as—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tII/s201/c/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the person to which the transferable record was issued; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tII/s201/c/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">if the authoritative copy indicates that the transferable record has been transferred, the person to which the transferable record was most recently transferred;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tII/s201/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the authoritative copy is communicated to and maintained by the person asserting control or its designated custodian;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tII/s201/c/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">copies or revisions that add or change an identified assignee of the authoritative copy can be made only with the consent of the person asserting control;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tII/s201/c/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">each copy of the authoritative copy and any copy of a copy is readily identifiable as a copy that is not the authoritative copy; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tII/s201/c/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">any revision of the authoritative copy is readily identifiable as authorized or unauthorized.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tII/s201/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Status as Holder.—</heading><content style="-uslm-dtd:text">Except as otherwise agreed, a person having control of a transferable record is the holder, as defined in section 1–201(20) of the Uniform Commercial Code, of the transferable record and has the same rights and defenses as a holder of an equivalent record or writing under the Uniform Commercial Code, including, if the applicable statutory requirements under section 3–302(a), 9–308, or revised section 9–330 of the Uniform Commercial Code are satisfied, the rights and defenses of a holder in due course or a purchaser, respectively. Delivery, possession, and endorsement are not required to obtain or exercise any of the rights under this subsection.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tII/s201/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Obligor Rights.—</heading><content style="-uslm-dtd:text">Except as otherwise agreed, an obligor under a transferable record has the same rights and defenses as an equivalent obligor under equivalent records or writings under the Uniform Commercial Code.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tII/s201/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Proof of Control.—</heading><content style="-uslm-dtd:text">If requested by a person against which enforcement is sought, the person seeking to enforce the transferable record shall provide reasonable proof that the person is in control of the transferable record. Proof may include access to the authoritative copy of the transferable record and related business records sufficient to review the terms of the transferable record and to establish the identity of the person having control of the transferable record.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tII/s201/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">UCC References.—</heading><content style="-uslm-dtd:text">For purposes of this subsection, all references to the Uniform Commercial Code are to the Uniform Commercial Code as in effect in the jurisdiction the law of which governs the transferable record.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/tII/s202" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7021">15 U.S.C. 7021 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EFFECTIVE DATE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title shall be effective 90 days after the date of enactment of this Act.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/106/229/tIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">PROMOTION OF INTERNATIONAL ELECTRONIC COMMERCE </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/tIII/s301" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s7031">15 U.S.C. 7031</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PRINCIPLES GOVERNING THE USE OF ELECTRONIC SIGNATURES IN INTERNATIONAL TRANSACTIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tIII/s301/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Promotion of Electronic Signatures.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tIII/s301/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Required actions.—</heading><content style="-uslm-dtd:text">The Secretary of Commerce shall promote the acceptance and use, on an international basis, of electronic signatures in accordance with the principles specified in paragraph (2) and in a manner consistent with section 101 of this Act. The Secretary of Commerce shall take all actions necessary in a manner consistent with such principles to eliminate or reduce, to the maximum extent possible, the impediments to commerce in electronic signatures, for the purpose of facilitating the development of interstate and foreign commerce.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/106/229/tIII/s301/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Principles.—</heading><chapeau style="-uslm-dtd:text">The principles specified in this paragraph are the following:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tIII/s301/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Remove paper-based obstacles to electronic transactions by adopting relevant principles from the Model Law on Electronic Commerce adopted in 1996 by the United Nations Commission on International Trade Law.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tIII/s301/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Permit parties to a transaction to determine the appropriate authentication technologies and implementation models for their transactions, with assurance that those technologies and implementation models will be recognized and enforced.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tIII/s301/a/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Permit parties to a transaction to have the opportunity to prove in court or other proceedings that their authentication approaches and their transactions are valid.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/106/229/tIII/s301/a/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">Take a nondiscriminatory approach to electronic signatures and authentication methods from other jurisdictions.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tIII/s301/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">In conducting the activities required by this section, the Secretary shall consult with users and providers of electronic signature products and services and other interested persons.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/106/229/tIII/s301/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Definitions.—</heading><content style="-uslm-dtd:text">As used in this section, the terms “<term style="-uslm-dtd:term">electronic record</term>” and “<quotedText style="-uslm-dtd:quote">electronic signature</quotedText>” have the same meanings provided in section 106 of this Act.</content>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/106/229/tIV" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">COMMISSION ON ONLINE CHILD PROTECTION </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/106/229/tIV/s401" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><heading style="-uslm-dtd:header">AUTHORITY TO ACCEPT GIFTS. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 401 amended section 1405 of the Child Online Protection Act (47 U.S.C. 231 note). See footnote to section 231 of the Communications Act of 1934.<b>]</b> </editorialNote>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

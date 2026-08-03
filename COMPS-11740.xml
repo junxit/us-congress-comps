@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Agriculture Reauthorizations Act of 2015</dc:title>
+        <citableAs>Public Law 114–54</citableAs>
+        <citableAsShortTitle>Agriculture Reauthorizations Act of 2015</citableAsShortTitle>
+        <docNumber>54</docNumber>
+        <currentThroughPublicLaw>114–54</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Agriculture Reauthorizations Act of 2015</containsShortTitle>
+        <property role="fileId">11740</property>
+        <congress>114</congress>
+        <approvedDate>2015-09-30</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Agriculture Reauthorizations Act of 2015</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 114–54</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 114-54. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend the Agricultural Marketing Act of 1946 to extend the livestock mandatory price reporting requirements, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/54/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t7/s71">7 U.S.C. 71 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Agriculture Reauthorizations Act of 2015</shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>MANDATORY PRICE REPORTING</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Extension of livestock mandatory reporting.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Swine reporting.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Lamb reporting.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Study on livestock mandatory reporting.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>NATIONAL FOREST FOUNDATION ACT REAUTHORIZATION</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> National Forest Foundation Act reauthorization.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>UNITED STATES GRAIN STANDARDS ACT REAUTHORIZATION</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Reauthorization of United States Grain Standards Act.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Report on disruption in Federal inspection of grain exports.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 303.</designator><label> Report on policy barriers to grain producers.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/54/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">MANDATORY PRICE REPORTING </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/54/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">EXTENSION OF LIVESTOCK MANDATORY REPORTING. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tI/s101/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Extension of Authority.—</heading><content style="-uslm-dtd:text">Section 260 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1636i) is amended by striking “<quotedText style="-uslm-dtd:quote">September 30, 2015</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2020</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tI/s101/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conforming Amendment.—</heading><content style="-uslm-dtd:text">Section 942 of the Livestock Mandatory Reporting Act of 1999 (7 U.S.C. 1635 note; Public Law 106-78) is amended by striking “<quotedText style="-uslm-dtd:quote">September 30, 2015</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2020</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/54/tI/s102" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">SWINE REPORTING. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tI/s102/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">Section 231 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1635i) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tI/s102/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating paragraphs (9) through (22) as paragraphs (10) through (23), respectively;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tI/s102/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after paragraph (8) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="9">“(9) </num><heading style="-uslm-dtd:header">Negotiated formula purchase.—</heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">negotiated formula purchase</quotedText>’ means a swine or pork market formula purchase under which—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the formula is determined by negotiation on a lot-by-lot basis; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the swine are scheduled for delivery to the packer not later than 14 days after the date on which the formula is negotiated and swine are committed to the packer.”</content>
+                            </subparagraph>
+                        </paragraph></quotedContent>;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tI/s102/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in paragraph (12)(A) (as so redesignated), by inserting “<quotedText style="-uslm-dtd:quote">negotiated formula purchase,</quotedText>” after “<quotedText style="-uslm-dtd:quote">pork market formula purchase,</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tI/s102/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">in paragraph (23) (as so redesignated)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s102/a/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subparagraph (C), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s102/a/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by redesignating subparagraph (D) as subparagraph (E); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s102/a/4/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by inserting after subparagraph (C) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">a negotiated formula purchase; and”</content>
+                            </subparagraph></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tI/s102/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Daily Reporting.—</heading><chapeau style="-uslm-dtd:text">Section 232(c) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1635j(c)) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tI/s102/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (1)(D), by striking clause (ii) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Price distributions.—</heading><chapeau style="-uslm-dtd:text">The information published by the Secretary under clause (i) shall include—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">a distribution of net prices in the range between and including the lowest net price and the highest net price reported;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">the total number and weighted average price of barrows and gilts purchased through negotiated purchases and negotiated formula purchases.”</content>
+                            </subclause>
+                        </clause></quotedContent>; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tI/s102/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (3), by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Late in the day report information.—</heading><content style="-uslm-dtd:text">The Secretary shall include in the morning report and the afternoon report for the following day any information required to be reported under subparagraph (A) that is obtained after the time of the reporting day specified in that subparagraph.”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/54/tI/s103" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t7/s1635m">7 U.S.C. 1635m note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">LAMB REPORTING. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Not later than 180 days after the date of enactment of this Act, the Secretary of Agriculture shall revise section 59.300 of title 7, Code of Federal Regulations, so that—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tI/s103/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">the definition of the term “<quotedText style="-uslm-dtd:quote">importer</quotedText>”—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s103/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">includes only those importers that imported an average of 1,000 metric tons of lamb meat products per year during the immediately preceding 4 calendar years; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s103/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">may include any person that does not meet the requirement referred to in subparagraph (A), if the Secretary determines that the person should be considered an importer based on their volume of lamb imports; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tI/s103/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">the definition of the term “<quotedText style="-uslm-dtd:quote">packer</quotedText>”—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s103/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">applies to any entity with 50 percent or more ownership in a facility;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s103/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">includes a federally inspected lamb processing plant which slaughtered or processed the equivalent of an average of 35,000 head of lambs per year during the immediately preceding 5 calendar years; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s103/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">may include any other lamb processing plant that does not meet the requirement referred to in subparagraph (B), if the Secretary determines that the processing plant should be considered a packer after considering the capacity of the processing plant.</content>
+                    </subparagraph>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/54/tI/s104" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">STUDY ON LIVESTOCK MANDATORY REPORTING. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tI/s104/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Study Required.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tI/s104/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary of Agriculture, acting through the Agricultural Marketing Service in conjunction with the Office of the Chief Economist and in consultation with cattle, swine, and lamb producers, packers, and other market participants, shall conduct a study on the program of information regarding the marketing of cattle, swine, lambs, and products of such livestock under subtitle B of the Agricultural Marketing Act of 1946 (7 U.S.C. 1635 et seq.).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tI/s104/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">The study shall—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s104/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">analyze current marketing practices in the cattle, swine, and lamb markets;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s104/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">identify legislative or regulatory recommendations made by cattle, swine, and lamb producers, packers, and other market participants to ensure that information provided under the program—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tI/s104/a/2/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">can be readily understood by producers, packers, and other market participants;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tI/s104/a/2/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">reflects current marketing practices; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tI/s104/a/2/B/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">is relevant and useful to producers, packers, and other market participants;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s104/a/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">analyze the price and supply information reporting services of the Department of Agriculture related to cattle, swine, and lamb; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tI/s104/a/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">address any other issues that the Secretary considers appropriate.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tI/s104/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than March 1, 2018, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the findings of the study conducted under subsection (a).</content>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/54/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">NATIONAL FOREST FOUNDATION ACT REAUTHORIZATION </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/54/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">NATIONAL FOREST FOUNDATION ACT REAUTHORIZATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tII/s201/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Extension of Authority To Provide Matching Funds for Administrative and Project Expenses.—</heading><content style="-uslm-dtd:text">Section 405(b) of the National Forest Foundation Act (16 U.S.C. 583j-3(b)) is amended by striking “<quotedText style="-uslm-dtd:quote">for a period of five years beginning October 1, 1992</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">during fiscal years 2016 through 2018</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tII/s201/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">Section 410(b) of the National Forest Foundation Act (16 U.S.C. 583j-8(b)) is amended    by striking “<quotedText style="-uslm-dtd:quote">during the five-year period</quotedText>” and all that follows through “<quotedText style="-uslm-dtd:quote">$1,000,000 annually</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">there are authorized to be appropriated $3,000,000 for each of fiscal years 2016 through 2018</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tII/s201/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Technical Corrections.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tII/s201/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Agent.—</heading><chapeau style="-uslm-dtd:text">Section 404 of the National Forest Foundation Act (16 U.S.C. 583j-2) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tII/s201/c/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subsection (a)(4), by inserting “<quotedText style="-uslm-dtd:quote">notice or</quotedText>” after “<quotedText style="-uslm-dtd:quote">authorized to accept</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tII/s201/c/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subsection (b), by striking “<quotedText style="-uslm-dtd:quote">under this paragraph</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">by subsection (a)(4)</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tII/s201/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Annual report.—</heading><content style="-uslm-dtd:text">Section 407(b) of the National Forest Foundation Act (16 U.S.C. 583j-5(b)) is amended by striking the comma after “<quotedText style="-uslm-dtd:quote">The Foundation shall</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/54/tIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">UNITED STATES GRAIN STANDARDS ACT REAUTHORIZATION </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/54/tIII/s301" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><heading style="-uslm-dtd:header">REAUTHORIZATION OF UNITED STATES GRAIN STANDARDS ACT. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tIII/s301/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Official Inspection and Weighing Requirements.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s301/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Discretionary waiver authority.—</heading><content style="-uslm-dtd:text">Section 5(a)(1) of the United States Grain Standards Act (7 U.S.C. 77(a)(1)) is amended in the first proviso by striking “<quotedText style="-uslm-dtd:quote">may waive the foregoing requirement in emergency or other circumstances which would not impair the objectives of this Act</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">shall waive the foregoing requirement in emergency or other circumstances that would not impair the objectives of this Act whenever the parties to a contract for such shipment mutually agree to the waiver and documentation of such agreement is provided to the Secretary prior to shipment</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s301/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Weighing requirements at export elevators.—</heading><content style="-uslm-dtd:text">Section 5(a)(2) of the United States Grain Standards Act (7 U.S.C. 77(a)(2)) is amended in the proviso by striking “<quotedText style="-uslm-dtd:quote">intracompany shipments of grain into an export elevator by any mode of transportation, grain transferred into an export elevator by transportation modes other than barge,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">shipments of grain into an export elevator by any mode of transportation</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s301/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Disruption in Grain Inspection or Weighing.—</heading><content style="-uslm-dtd:text">Section 5 of the United States Grain Standards Act (7 U.S.C. 77) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Disruption in grain inspection or weighing.—</heading><chapeau style="-uslm-dtd:text">In the case of a disruption in official grain inspections or weighings, including if the Secretary waives the requirement for official inspection due to an emergency under subsection (a)(1), the Secretary shall—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">immediately take such actions as are necessary to address the disruption and resume inspections or weighings;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><chapeau style="-uslm-dtd:text">not later than 24 hours after the start of the disruption in inspection or weighing, submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the disruption; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">any actions necessary to address the concerns of the Secretary relating to the disruption so that inspections or weighings may resume; and</content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">once the initial report in paragraph (2) has been made, provide daily updates until official inspection or weighing services at the site of disruption have resumed.”</content>
+                            </paragraph>
+                        </subsection></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tIII/s301/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Official Inspection Authority and Funding.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s301/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Delegation of official inspection authority.—</heading><chapeau style="-uslm-dtd:text">Section 7(e)(2) of the United States Grain Standards Act (7 U.S.C. 79(e)(2)) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">(2) If the Secretary</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Delegation of authority to state agencies.—</heading>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">If the Secretary”</content>
+                                </subparagraph>
+                            </paragraph></quotedContent>;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in the first sentence—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tIII/s301/b/1/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and (A)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">and (i)</quotedText>”;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tIII/s301/b/1/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">or (B)(i)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">or (ii)(I)</quotedText>”;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tIII/s301/b/1/B/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">(ii)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">(II)</quotedText>”; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tIII/s301/b/1/B/iv" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">(iii)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">(III)</quotedText>”; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Certification.—</heading>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Every 5 years, the Secretary shall certify that each State agency with a delegation of authority is meeting the criteria described in subsection (f)(1)(A).</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Process.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date of enactment of the Agriculture Reauthorizations Act of 2015, the Secretary shall establish a process for certification under which the Secretary shall—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">publish in the Federal Register notice of intent to certify a State agency and provide a 30-day period for public comment;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">evaluate the public comments received and, in accordance with paragraph (3), conduct an investigation to determine whether the State agency is qualified;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">make findings based on the public comments received and investigation conducted; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="IV">“(IV) </num><content style="-uslm-dtd:text">publish in the Federal Register a notice announcing whether the certification has been granted and describing the basis on which the Secretary made the decision.</content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">State agency requirements.—</heading>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">If a State agency that has been delegated authority under this paragraph intends to temporarily discontinue official inspection or weighing services for any reason, except in the case of a major disaster, the State agency shall notify the Secretary in writing of the intention of the State agency to do so at least 72 hours in advance of the discontinuation date.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Secretarial consideration.—</heading><content style="-uslm-dtd:text">The Secretary shall consider receipt of a notice described in clause (i) as a factor in administering the delegation of authority under this paragraph.”</content>
+                                </clause>
+                            </subparagraph></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s301/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Consultation.—</heading><chapeau style="-uslm-dtd:text">Section 7(f)(1) of the United States Grain Standards Act (7 U.S.C. 79(f)(1)) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subparagraph (A)(xi), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subparagraph (B), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><chapeau style="-uslm-dtd:text">the Secretary—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">periodically conducts a consultation with the customers of the applicant, in a manner that provides opportunity for protection of the identity of the customer if desired by the customer, to review the performance of the applicant with regard to the provision of official inspection services and other requirements of this Act; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">works with the applicant to address any concerns identified during the consultation process.”</content>
+                                </clause>
+                            </subparagraph></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s301/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Geographic boundaries for official agencies.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Official inspection authority.—</heading><content style="-uslm-dtd:text">Section 7(f)(2) of the United States Grain Standards Act (7 U.S.C. 79(f)(2)) is amended by striking “<quotedText style="-uslm-dtd:quote">the Secretary may</quotedText>” and all that follows through the end of the paragraph and inserting the following:<quotedContent style="-uslm-dtd:quoted-block" class="inline"><chapeau style="-uslm-dtd:text">“the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the current designated official agency for that geographic area is unable to provide inspection services in a timely manner;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">a person requesting inspection services in that geographic area requests a probe inspection on a barge-lot basis; or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.”</content>
+                            </subparagraph></quotedContent>.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Weighing Authority.—</heading><content style="-uslm-dtd:text">Section 7A(i)(2) of the United States Grain Standards Act (7 U.S.C. 79a(i)(2)) is amended by striking “<quotedText style="-uslm-dtd:quote">the Secretary may</quotedText>” and all that follows through the end of the paragraph and inserting the following:<quotedContent style="-uslm-dtd:quoted-block" class="inline"><chapeau style="-uslm-dtd:text">“the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the current designated official agency for that geographic area is unable to provide weighing services in a timely manner; or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.”</content>
+                            </subparagraph></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s301/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Duration of designation authority.—</heading><content style="-uslm-dtd:text">Section 7(g)(1) of the United States Grain Standards Act (7 U.S.C. 79(g)(1)) is amended by striking “<quotedText style="-uslm-dtd:quote">triennially</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">every 5 years</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s301/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Fees.—</heading><chapeau style="-uslm-dtd:text">Section 7(j) of the United States Grain Standards Act (7 U.S.C. 79(j)(1)) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/5/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">(j)(1) The Secretary</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="j">“(j) </num><heading style="-uslm-dtd:header">Fees.—</heading>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Inspection fees.—</heading>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary”</content>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection></quotedContent>;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/5/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in paragraph (1)—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tIII/s301/b/5/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the second sentence, by striking “<quotedText style="-uslm-dtd:quote">The fees</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Amount of fees.—</heading><content style="-uslm-dtd:text">The fees”</content>
+                                </subparagraph></quotedContent>;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tIII/s301/b/5/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in the third sentence, by striking “<quotedText style="-uslm-dtd:quote">Such fees</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Use of fees.—</heading><content style="-uslm-dtd:text">Fees described in this paragraph”</content>
+                                </subparagraph></quotedContent>; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tIII/s301/b/5/B/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="D">“(D) </num><heading style="-uslm-dtd:header">Export tonnage fees.—</heading><content style="-uslm-dtd:text">For an official inspection at an export facility performed by the Secretary, the portion of the fees based on export tonnage shall be based on the rolling 5-year average of export tonnage volumes.”</content>
+                                </subparagraph></quotedContent>;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/5/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by redesignating paragraph (4) as paragraph (5);</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/5/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">by inserting after paragraph (3) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Adjustment of fees.—</heading><content style="-uslm-dtd:text">In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.”</content>
+                            </paragraph></quotedContent>; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/b/5/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">in paragraph (5) (as redesignated by subparagraph (C)), in the first sentence, by striking “<quotedText style="-uslm-dtd:quote">2015</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2020</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tIII/s301/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Weighing authority.—</heading><chapeau style="-uslm-dtd:text">Section 7A of the United States Grain Standards Act (7 U.S.C. 79a) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s301/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (c)(2), in the last sentence, by striking “<quotedText style="-uslm-dtd:quote">subsection (g) of section 7</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subsections (e) and (g) of section 7</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s301/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subsection (<i style="-uslm-dtd:italic">l</i>)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/c/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">(l)(1) The Secretary</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="l">“(l) </num><heading style="-uslm-dtd:header">Fees.—</heading>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Weighing fees.—</heading>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary”</content>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection></quotedContent>;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/c/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in paragraph (1)—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tIII/s301/c/2/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the second sentence, by striking “<quotedText style="-uslm-dtd:quote">The fees</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Amount of fees.—</heading><content style="-uslm-dtd:text">The fees”</content>
+                                </subparagraph></quotedContent>;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tIII/s301/c/2/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in the third sentence, by striking “<quotedText style="-uslm-dtd:quote">Such fees</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Use of fees.—</heading><content style="-uslm-dtd:text">Fees described in this paragraph”</content>
+                                </subparagraph></quotedContent>; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/54/tIII/s301/c/2/B/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="D">“(D) </num><heading style="-uslm-dtd:header">Export tonnage fees.—</heading><content style="-uslm-dtd:text">For an official weighing at an export facility performed by the Secretary, the portion of the fees based on export tonnage shall be based on the rolling 5-year average of export tonnage volumes.”</content>
+                                </subparagraph></quotedContent>;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/c/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by redesignating paragraph (3) as paragraph (4);</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/c/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">by inserting after paragraph (2) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Adjustment of fees.—</heading><content style="-uslm-dtd:text">In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.”</content>
+                            </paragraph></quotedContent>; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/54/tIII/s301/c/2/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">in paragraph (4) (as redesignated by subparagraph (C)), in the first sentence, by striking “<quotedText style="-uslm-dtd:quote">2015</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2020</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tIII/s301/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Limitation and Administrative and Supervisory Costs.—</heading><content style="-uslm-dtd:text">Section 7D of the United States Grain Standards Act (7 U.S.C. 79d) is amended by striking “<quotedText style="-uslm-dtd:quote">2015</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2020</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tIII/s301/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Issuance of Authorization.—</heading><content style="-uslm-dtd:text">Section 8(b) of the United States Grain Standards Act (7 U.S.C. 84(b)) is amended by striking “<quotedText style="-uslm-dtd:quote">triennially</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">every 5 years</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tIII/s301/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Appropriations.—</heading><content style="-uslm-dtd:text">Section 19 of the United States Grain Standards Act (7 U.S.C. 87h) is amended by striking “<quotedText style="-uslm-dtd:quote">2015</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2020</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/54/tIII/s301/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Advisory Committee.—</heading><content style="-uslm-dtd:text">Section 21(e) of the United States Grain Standards Act (7 U.S.C. 87j(e)) is amended by striking “<quotedText style="-uslm-dtd:quote">2015</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2020</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/54/tIII/s302" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><heading style="-uslm-dtd:header">REPORT ON DISRUPTION IN FEDERAL INSPECTION OF GRAIN EXPORTS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Not later than 180 days after the date of enactment of this Act, the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Committee on Agriculture of the House of Representatives, the Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies of the Committee on Appropriations of the Senate, and the Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies of the Committee on Appropriations of the House of Representatives a report that describes—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s302/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the specific factors that led to disruption in Federal inspection of grain exports at the Port of Vancouver in the summer of 2014;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s302/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">any factors that contributed to the disruption referred to in paragraph (1) that were unique to the Port of Vancouver, including a description of the port facility, security needs and available resources for that purpose, and any other significant factors as determined by the Secretary; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s302/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">any changes in policy that the Secretary has implemented to ensure that a similar disruption in Federal inspection of grain exports at the Port of Vancouver or any other location does not occur in the future.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/54/tIII/s303" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="303">SEC. 303. </num><heading style="-uslm-dtd:header">REPORT ON POLICY BARRIERS TO GRAIN PRODUCERS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Not later than 180 days after the date of enactment of this Act, the Secretary of Agriculture, in consultation with the United States Trade Representative, shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report that describes—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s303/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the policy barriers to United States grain producers in countries the grain of which receives official grading in the United States but which do not offer official grading for United States grain or provide only the lowest designation for United States grain, including an analysis of possible inconsistencies with trade obligations; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/54/tIII/s303/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">any actions the Executive Branch is taking to remedy the policy barriers so as to put United States grain producers  on equal footing with grain producers in countries imposing the barriers.</content>
+                </paragraph>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

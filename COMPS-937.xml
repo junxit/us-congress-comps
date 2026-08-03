@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>COMMUNICATIONS ASSISTANCE FOR LAW ENFORCEMENT ACT</dc:title>
+        <citableAs>Public Law 103–414, as amended</citableAs>
+        <citableAsShortTitle>COMMUNICATIONS ASSISTANCE FOR LAW ENFORCEMENT ACT</citableAsShortTitle>
+        <docNumber>414</docNumber>
+        <currentThroughPublicLaw>104–316</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Communications Assistance for Law Enforcement Act</containsShortTitle>
+        <property role="fileId">937</property>
+        <congress>103</congress>
+        <approvedDate>1994-10-25</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">COMMUNICATIONS ASSISTANCE FOR LAW ENFORCEMENT ACT</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>P.L. 103–414</citableAs>, Enacted <date date="1994-10-25">October 25, 1994</date>]]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 104–316</currentThroughPublicLaw>, Enacted <date date="1996-10-19">October 19, 1996</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 103–414. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend title 18, United States Code, to make clear a telecommunications carrier's duty to cooperate in the interception of communications for law enforcement purposes, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/103/414/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">INTERCEPTION OF DIGITAL AND OTHER COMMUNICATIONS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1001">47 U.S.C. 1001 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Communications Assistance for Law Enforcement Act</inline></shortTitle>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s102" styleType="OLC" role="definitions">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1001">47 U.S.C. 1001</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">For purposes of this title—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s102/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The terms defined in section 2510 of title 18, United States Code, have, respectively, the meanings stated in that section.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s102/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">call-identifying information</term>” means dialing or signaling information that identifies the origin, direction, destination, or termination of each communication generated or received by a subscriber by means of any equipment, facility, or service of a telecommunications carrier.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s102/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Commission</term>” means the Federal Communications Commission.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s102/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">electronic messaging services</term>” means software-based services that enable the sharing of data, images, sound, writing, or other information among computing devices controlled by the senders or recipients of the messages.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s102/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">government</term>” means the government of the United States and any agency or instrumentality thereof, the District of Columbia, any commonwealth, territory, or possession of the United States, and any State or political subdivision thereof authorized by law to conduct electronic surveillance.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s102/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">information services</term>”—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s102/6/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">means the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s102/6/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">includes—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/414/tI/s102/6/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a service that permits a customer to retrieve stored information from, or file information for storage in, information storage facilities;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/414/tI/s102/6/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">electronic publishing; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/414/tI/s102/6/B/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">electronic messaging services; but</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s102/6/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">does not include any capability for a telecommunications carrier's internal management, control, or operation of its telecommunications network.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s102/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">telecommunications support services</term>” means a product, software, or service used by a telecommunications carrier for the internal signaling or switching functions of its telecommunications network.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s102/8" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">telecommunications carrier</term>”—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s102/8/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">means a person or entity engaged in the transmission or switching of wire or electronic communications as a common carrier for hire; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s102/8/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">includes—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/414/tI/s102/8/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a person or entity engaged in providing commercial mobile service (as defined in section 332(d) of the Communications Act of 1934 (47 U.S.C. 332(d))); or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/414/tI/s102/8/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a person or entity engaged in providing wire or electronic communication switching or transmission service to the extent that the Commission finds that such service is a replacement for a substantial portion of the local telephone exchange service and that it is in the public interest to deem such a person or entity to be a telecommunications carrier for purposes of this title; but</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s102/8/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">does not include—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/414/tI/s102/8/C/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">persons or entities insofar as they are engaged in providing information services; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/414/tI/s102/8/C/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">any class or category of telecommunications carriers that the Commission exempts by rule after consultation with the Attorney General.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s103" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1002">47 U.S.C. 1002</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ASSISTANCE CAPABILITY REQUIREMENTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s103/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Capability Requirements.—</heading><chapeau style="-uslm-dtd:text">Except as provided in subsections (b), (c), and (d) of this section and sections 108(a)  and 109(b) and (d), a telecommunications carrier shall ensure that its equipment, facilities, or services that provide a customer or subscriber with the ability to originate, terminate, or direct communications are capable of—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s103/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">expeditiously isolating and enabling the government, pursuant to a court order or other lawful authorization, to intercept, to the exclusion of any other communications, all wire and electronic communications carried by the carrier within a service area to or from equipment, facilities, or services of a subscriber of such carrier concurrently with their transmission to or from the subscriber's equipment, facility, or service, or at such later time as may be acceptable to the <br style="-uslm-dtd:linebreak" />government;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s103/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">expeditiously isolating and enabling the government, pursuant to a court order or other lawful authorization, to access call-identifying information that is reasonably available to the carrier—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s103/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">before, during, or immediately after the transmission of a wire or electronic communication (or at such later time as may be acceptable to the government); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s103/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in a manner that allows it to be associated with the communication to which it pertains,</content>
+                        </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">except that, with regard to information acquired solely pursuant to the authority for pen registers and trap and trace devices (as defined in section 3127 of title 18, United States Code), such call-identifying information shall not include any information that may disclose the physical location of the subscriber (except to the extent that the location may be determined from the telephone number);</continuation>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s103/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">delivering intercepted communications and call-identifying information to the government, pursuant to a court order or other lawful authorization, in a format such that they may be transmitted by means of equipment, facilities, or services procured by the government to a location other than the premises of the carrier; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s103/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">facilitating authorized communications interceptions and access to call-identifying information unobtrusively and with a minimum of interference with any subscriber's telecommunications service and in a manner that protects—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s103/a/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the privacy and security of communications and call-identifying information not authorized to be intercepted; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s103/a/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">information regarding the government's interception of communications and access to call-identifying information.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s103/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Limitations.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s103/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Design of features and systems configurations.—</heading><chapeau style="-uslm-dtd:text">This title does not authorize any law enforcement agency or officer—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s103/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to require any specific design of equipment, facilities, services, features, or system configurations to be adopted by any provider of a wire or electronic communication service, any manufacturer of telecommunications equipment, or any provider of telecommunications support services; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s103/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to prohibit the adoption of any equipment, facility, service, or feature by any provider of a wire or electronic communication service, any manufacturer of telecommunications equipment, or any provider of telecommunications support services.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s103/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Information services; private networks and interconnection services and facilities.—</heading><chapeau style="-uslm-dtd:text">The requirements of subsection (a) do not apply to—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s103/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">information services; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s103/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">equipment, facilities, or services that support the transport or switching of communications for private networks or for the sole purpose of interconnecting telecommunications carriers.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s103/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Encryption.—</heading><content style="-uslm-dtd:text">A telecommunications carrier shall not be responsible for decrypting, or ensuring the government's ability to decrypt, any communication encrypted by a subscriber or customer, unless the encryption was provided by the carrier and the carrier possesses the information necessary to decrypt the communication.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s103/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Emergency or Exigent Circumstances.—</heading><content style="-uslm-dtd:text">In emergency or exigent circumstances (including those described in sections 2518 (7) or (11)(b) and 3125 of title 18, United States Code, and section 1805(e) of title 50 of such Code), a carrier at its discretion may comply with subsection (a)(3) by allowing monitoring at its premises if that is the only means of accomplishing the interception or access.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s103/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Mobile Service Assistance Requirements.—</heading><content style="-uslm-dtd:text">A telecommunications carrier that is a provider of commercial mobile service (as defined in section 332(d) of the Communications Act of 1934) offering a feature or service that allows subscribers to redirect, hand off, or assign their wire or electronic communications to another service area or another service provider or to utilize facilities in another service area or of another service provider shall ensure that, when the carrier that had been providing assistance for the interception of wire or electronic communications or access to call-identifying information pursuant to a court order or lawful authorization no longer has access to the content of such communications or call-identifying information within the service area in which interception has been occurring as a result of the subscriber's use of such a feature or service, information is made available to the government (before, during, or immediately after the transfer of such communications) identifying the provider of a wire or electronic communication service that has acquired access to the communications.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s104" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1003">47 U.S.C. 1003</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NOTICES OF CAPACITY REQUIREMENTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s104/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Notices of Maximum and Actual Capacity Requirements.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s104/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this title, after consulting with State and local law enforcement agencies, telecommunications carriers, providers of telecommunications support services, and manufacturers of telecommunications equipment, and after notice and comment, the Attorney General shall publish in the Federal Register and provide to appropriate telecommunications industry associations and standard-setting organizations—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s104/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">notice of the actual number of communication interceptions, pen registers, and trap and trace devices, representing a portion of the maximum capacity set forth under subparagraph (B), that the Attorney General estimates that government agencies authorized to conduct electronic surveillance may conduct and use simultaneously by the date that is 4 years after the date of enactment of this title; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s104/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">notice of the maximum capacity required to accommodate all of the communication interceptions, pen registers, and trap and trace devices that the Attorney General estimates that government agencies authorized to conduct electronic surveillance may conduct and use simultaneously after the date that is 4 years after the date of enactment of this title.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s104/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Basis of notices.—</heading><chapeau style="-uslm-dtd:text">The notices issued under paragraph (1)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s104/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">may be based upon the type of equipment, type of service, number of subscribers, type or size or<ref style="-uslm-dtd:footnote-ref" idref="IDFE97E8C68CD84A6D9298CB6D49CBEAC2" class="footnoteRef">1</ref> carrier, nature of service area, or any other measure; and</content><footnote id="IDFE97E8C68CD84A6D9298CB6D49CBEAC2" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">So in law. Probably should read “<quotedText style="-uslm-dtd:quote">of</quotedText>”.</p></footnote>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s104/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">shall identify, to the maximum extent practicable, the capacity required at specific geographic locations.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s104/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Compliance With Capacity Notices.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s104/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Initial capacity.—</heading><chapeau style="-uslm-dtd:text">Within 3 years after the publication by the Attorney General of a notice of capacity requirements or within 4 years after the date of enactment of this title, whichever is longer, a telecommunications carrier shall, subject to subsection (e), ensure that its systems are capable of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s104/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">accommodating simultaneously the number of interceptions, pen registers, and trap and trace devices set forth in the notice under subsection (a)(1)(A); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s104/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">expanding to the maximum capacity set forth in the notice under subsection (a)(1)(B).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s104/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Expansion to maximum capacity.—</heading><content style="-uslm-dtd:text">After the date described in paragraph (1), a telecommunications carrier shall, subject to subsection (e), ensure that it can accommodate expeditiously any increase in the actual number of communication interceptions, pen registers, and trap and trace devices that authorized agencies may seek to conduct and use, up to the maximum capacity requirement set forth in the notice under subsection (a)(1)(B).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s104/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Notices of Increased Maximum Capacity Requirements.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s104/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Notice.—</heading><content style="-uslm-dtd:text">The Attorney General shall periodically publish in the Federal Register, after notice and comment, notice of any necessary increases in the maximum capacity requirement set forth in the notice under subsection (a)(1)(B).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s104/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Compliance.—</heading><content style="-uslm-dtd:text">Within 3 years after notice of increased maximum capacity requirements is published under paragraph (1), or within such longer time period as  the Attorney General may specify, a telecommunications carrier shall, subject to subsection (e), ensure that its systems are capable of expanding to the increased maximum capacity set forth in the notice.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s104/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Carrier Statement.—</heading><content style="-uslm-dtd:text">Within 180 days after the publication by the Attorney General of a notice of capacity requirements pursuant to subsection (a) or (c), a telecommunications carrier shall submit to the Attorney General a statement identifying any of its systems or services that do not have the capacity to accommodate simultaneously the number of interceptions, pen registers, and trap and trace devices set forth in the notice under such subsection.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s104/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Reimbursement Required for Compliance.—</heading><content style="-uslm-dtd:text">The Attorney General shall review the statements submitted under subsection (d) and may, subject to the availability of appropriations, agree to reimburse a telecommunications carrier for costs directly associated with modifications to attain such capacity requirement that are determined to be reasonable in accordance with section 109(e). Until the Attorney General agrees to reimburse such carrier for such modification, such carrier shall be considered to be in compliance with the capacity notices under subsection (a) or (c).</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s105" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1004">47 U.S.C. 1004</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SYSTEMS SECURITY AND INTEGRITY. </heading>
+                <content style="-uslm-dtd:text" class="block">A telecommunications carrier shall ensure that any interception of communications or access to call-identifying information effected within its switching premises can be activated only in accordance with a court order or other lawful authorization and with the affirmative intervention of an individual officer or employee of the carrier acting in accordance with regulations prescribed by the Commission.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s106" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="106">SEC. 106. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1005">47 U.S.C. 1005</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">COOPERATION OF EQUIPMENT MANUFACTURERS AND PROVIDERS OF TELECOMMUNICATIONS SUPPORT SERVICES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s106/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">A telecommunications carrier shall consult, as necessary, in a timely fashion with manufacturers of its telecommunications transmission and switching equipment and its providers of telecommunications support services for the purpose of ensuring that current and planned equipment, facilities, and services comply with the capability requirements of section 103 and the capacity requirements identified by the Attorney General under section 104.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s106/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Cooperation.—</heading><content style="-uslm-dtd:text">Subject to sections 104(e), 108(a), and 109 (b) and (d), a manufacturer of telecommunications transmission or switching equipment and a provider of telecommunications support services shall, on a reasonably timely basis and at a reasonable charge, make available to the telecommunications carriers using its equipment, facilities, or services such features or modifications as are necessary to permit such carriers to comply with the capability requirements of section 103 and the capacity requirements identified by the Attorney General under section 104.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s107" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="107">SEC. 107. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1006">47 U.S.C. 1006</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">TECHNICAL REQUIREMENTS AND STANDARDS; EXTENSION OF COMPLIANCE DATE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s107/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Safe Harbor.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">To ensure the efficient and industry-wide implementation of the assistance capability requirements under section 103, the Attorney General, in coordination with other Federal, State, and local law enforcement agencies, shall consult with appropriate associations and standard-setting organizations of the telecommunications industry, with representatives of users of telecommunications equipment, facilities, and services, and with State utility commissions.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Compliance under accepted standards.—</heading><content style="-uslm-dtd:text">A telecommunications carrier shall be found to be in compliance with the assistance capability requirements under section 103, and a manufacturer of telecommunications transmission or switching equipment or a provider of telecommunications support services shall be found to be in compliance with section 106, if the carrier, manufacturer, or support service provider is in compliance with publicly available technical requirements or standards adopted by an industry association or standard-setting organization, or by the Commission under subsection (b), to meet the requirements of section 103.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Absence of standards.—</heading><chapeau style="-uslm-dtd:text">The absence of technical requirements or standards for implementing the assistance capability requirements of section 103 shall not—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s107/a/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">preclude a telecommunications carrier, manufacturer, or telecommunications support services provider  from deploying a technology or service; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s107/a/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">relieve a carrier, manufacturer, or telecommunications support services provider  of the obligations imposed by section 103 or 106, as applicable.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s107/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Commission Authority.—</heading><chapeau style="-uslm-dtd:text">If industry associations or standard-setting organizations fail to issue technical requirements or standards or if a Government agency or any other person believes that such requirements or standards are deficient, the agency or person may petition the Commission to establish, by rule, technical requirements or standards that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">meet the assistance capability requirements of section 103 by cost-effective methods;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">protect the privacy and security of communications not authorized to be intercepted;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">minimize the cost of such compliance on residential ratepayers;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">serve the policy of the United States to encourage the provision of new technologies and services to the public; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">provide a reasonable time and conditions for compliance with and the transition to any new standard, including defining the obligations of telecommunications carriers under section 103 during any transition period.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s107/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Extension of Compliance Date for Equipment, Facilities, and Services.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Petition.—</heading><content style="-uslm-dtd:text">A telecommunications carrier proposing to install or deploy, or having installed or deployed, any equipment, facility, or service prior to the effective date of section 103 may petition the Commission for 1 or more extensions of the deadline for complying with the assistance capability requirements under section 103.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Grounds for extension.—</heading><content style="-uslm-dtd:text">The Commission may, after consultation with the Attorney General, grant an extension under this subsection, if the Commission determines that compliance with the assistance capability requirements under section 103 is not reasonably achievable through application of technology available within the compliance period.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Length of extension.—</heading><chapeau style="-uslm-dtd:text">An extension under this subsection shall extend for no longer than the earlier of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s107/c/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the date determined by the Commission as necessary for the carrier to comply with the assistance capability requirements under section 103; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s107/c/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the date that is 2 years after the date on which the extension is granted.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s107/c/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Applicability of extension.—</heading><content style="-uslm-dtd:text">An extension under this subsection shall apply to only that part of the carrier's business on which the new equipment, facility, or service is used.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s108" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="108">SEC. 108. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1007">47 U.S.C. 1007</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ENFORCEMENT ORDERS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s108/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Grounds for Issuance.—</heading><chapeau style="-uslm-dtd:text">A court shall issue an order enforcing this title under section 2522 of title 18, United States Code, only if the court finds that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s108/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">alternative technologies or capabilities or the facilities of another carrier are not reasonably available to law enforcement for implementing the interception of communications or access to call-identifying information; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s108/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">compliance with the requirements of this title is reasonably achievable through the application of available technology to the equipment, facility, or service at issue or would have been reasonably achievable if timely action had been taken.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s108/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Time for Compliance.—</heading><content style="-uslm-dtd:text">Upon issuing an order enforcing this title, the court shall specify a reasonable time and conditions for complying with its order, considering the good faith efforts to comply in a timely manner, any effect on the carrier's, manufacturer's, or service provider's ability to continue to do business, the degree of culpability or delay in undertaking efforts to comply, and such other matters as justice may require.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s108/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Limitations.—</heading><chapeau style="-uslm-dtd:text">An order enforcing this title may not—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s108/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">require a telecommunications carrier to meet the Government's demand for interception of communications and acquisition of call-identifying information to any extent in excess of the capacity for which the Attorney General has agreed to reimburse such carrier;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s108/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">require any telecommunications carrier to comply with assistance capability requirement<ref style="-uslm-dtd:footnote-ref" idref="ID2C10CFC9AD6A40528C61F114CF77478D" class="footnoteRef">2</ref> of section 103 if the Commission has determined (pursuant to section 109(b)(1)) that compliance is not reasonably achievable, unless the Attorney General has agreed (pursuant to section 109(b)(2)) to pay the costs described in section 109(b)(2)(A); or</content><footnote id="ID2C10CFC9AD6A40528C61F114CF77478D" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">2</sup><p style="-uslm-dtd:para; margin-left:1em">So in law. Probably should read “<quotedText style="-uslm-dtd:quote">requirements</quotedText>”.</p></footnote>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s108/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">require a telecommunications carrier to modify, for the purpose of complying with the assistance capability requirements of section 103, any equipment, facility, or service deployed on or before January 1, 1995, unless—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s108/c/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Attorney General has agreed to pay the telecommunications carrier for all reasonable costs directly associated with modifications necessary to bring the equipment, facility, or service into compliance with those requirements; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s108/c/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the  equipment, facility, or service has been replaced or significantly upgraded or otherwise undergoes major modification.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s109" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="109">SEC. 109. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1008">47 U.S.C. 1008</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PAYMENT OF COSTS OF TELECOMMUNICATIONS CARRIERS TO COMPLY WITH CAPABILITY REQUIREMENTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s109/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Equipment, Facilities, and Services Deployed on or Before January 1, 1995.—</heading><content style="-uslm-dtd:text">The Attorney General may, subject to the availability of  appropriations, agree to pay telecommunications carriers for all reasonable costs directly associated with the modifications performed by carriers in connection with equipment, facilities, and services installed or deployed on or before January 1, 1995, to establish the capabilities necessary to comply with section 103.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s109/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Equipment, Facilities, and Services Deployed After January 1, 1995.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s109/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Determinations of reasonably achievable.—</heading><chapeau style="-uslm-dtd:text">The Commission, on petition from a telecommunications carrier or any other interested  person, and after notice to the Attorney General, shall determine whether compliance with the assistance capability requirements of section 103 is reasonably achievable with respect to any equipment, facility, or service installed or deployed after January 1, 1995. The Commission shall make such determination within 1 year after the date such petition is filed. In making such determination, the Commission shall determine whether compliance would impose significant difficulty or expense on the carrier or on the users of the carrier's systems and shall consider the following factors:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The effect on public safety and national security.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The effect on rates for basic residential telephone service.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">The need to protect the privacy and security of communications not authorized to be intercepted.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">The need to achieve the capability assistance requirements of section 103 by cost-effective methods.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/1/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">The effect on the nature and cost of the equipment, facility, or service at issue.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/1/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">The effect on the operation of the equipment, facility, or service at issue.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/1/G" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">The policy of the United States to encourage the provision of new technologies and services to the public.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/1/H" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">The financial resources of the telecommunications carrier.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/1/I" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">The effect on competition in the provision of telecommunications services.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/1/J" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="J">(J) </num><content style="-uslm-dtd:text">The extent to which the design and development of the equipment, facility, or service was initiated before January 1, 1995.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/1/K" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="K">(K) </num><content style="-uslm-dtd:text">Such other factors as the Commission determines are appropriate.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s109/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Compensation.—</heading><chapeau style="-uslm-dtd:text">If compliance with the assistance capability requirements of section 103 is not reasonably achievable with respect to equipment, facilities, or services deployed after January 1, 1995—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Attorney General, on application of a telecommunications carrier, may agree, subject to the availability of appropriations, to pay the telecommunications carrier for the additional reasonable costs of making compliance with such assistance capability requirements reasonably achievable; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">if the Attorney General does not agree to pay such costs, the telecommunications carrier shall be deemed to be in compliance with such capability requirements.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s109/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Allocation of Funds for Payment.—</heading><content style="-uslm-dtd:text">The Attorney General shall allocate funds appropriated to carry out this title in accordance with law enforcement priorities determined by the Attorney General.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s109/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Failure To Make Payment With Respect To Equipment, Facilities, and Services Deployed on or Before January 1, 1995.—</heading><content style="-uslm-dtd:text">If a carrier has requested payment in accordance with procedures promulgated pursuant to subsection (e), and the Attorney General has not agreed to pay the telecommunications carrier for all reasonable costs directly associated with modifications necessary to bring any equipment, facility, or service deployed on or before January 1, 1995, into compliance with the assistance capability requirements of section 103, such equipment, facility, or service shall be considered to be in compliance with the assistance capability requirements of section 103 until the equipment, facility, or service is replaced or significantly upgraded or otherwise undergoes major modification.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s109/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Cost Control Regulations.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s109/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Attorney General shall, after notice and comment, establish regulations necessary to effectuate timely and cost-efficient payment to telecommunications carriers under this title, under chapters 119 and 121 of title 18, United States Code, and under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s109/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Contents of regulations.—</heading><chapeau style="-uslm-dtd:text">The Attorney General, after consultation with the Commission, shall prescribe regulations for purposes of determining reasonable costs under this title. Such regulations shall seek to minimize the cost to the Federal Government and shall—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/e/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">permit recovery from the Federal Government of—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/414/tI/s109/e/2/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the direct costs of developing the modifications described in subsection (a), of providing the capabilities requested under subsection (b)(2), or of providing the capacities requested under section 104(e), but only to the extent that such costs have not been recovered from any other governmental or nongovernmental entity;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/414/tI/s109/e/2/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the costs of training personnel in the use of such capabilities or capacities; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/414/tI/s109/e/2/A/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the direct costs of deploying or installing such capabilities or capacities;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/e/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the case of any modification that may be used for any purpose other than lawfully authorized electronic surveillance by a law enforcement agency of a government, permit recovery of only the incremental cost of making the modification suitable for such law enforcement purposes; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s109/e/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">maintain the confidentiality of trade secrets.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s109/e/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Submission of claims.—</heading><content style="-uslm-dtd:text">Such regulations shall require any telecommunications carrier that the Attorney General has agreed to pay for modifications pursuant to this section and that has installed or deployed such modification to submit to the Attorney General a claim for payment that contains or is accompanied by such information as the Attorney General may require.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s110" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="110">SEC. 110. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1009">47 U.S.C. 1009</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+                <content style="-uslm-dtd:text" class="block">There are authorized to be appropriated to carry out this title a total of $500,000,000 for fiscal years 1995, 1996, 1997, and 1998. Such sums are authorized to remain available until expended.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s111" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="111">SEC. 111. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1001">47 U.S.C. 1001 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EFFECTIVE DATE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s111/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Except as provided in subsection (b), this title shall take effect on the date of enactment of this Act.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s111/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Assistance Capability and Systems Security and Integrity Requirements.—</heading><content style="-uslm-dtd:text">Sections 103 and 105 of this title shall take effect on the date that is 4 years after the date of enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tI/s112" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="112">SEC. 112. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1010">47 U.S.C. 1010</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REPORTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s112/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Reports by the Attorney General.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s112/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">On or before November 30, 1995, and on or before November 30 of each year thereafter, the Attorney General shall submit to Congress and make available to the public a report on the amounts paid during the preceding fiscal year to telecommunications carriers under sections 104(e) and 109.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s112/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">A report under paragraph (1) shall include—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s112/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a detailed accounting of the amounts paid to each carrier and the equipment, facility, or service for which the amounts were paid; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s112/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">projections of the amounts expected to be paid in the current fiscal year, the carriers to which payment is expected to be made, and the equipment, facilities, or services for which payment is expected to be made.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tI/s112/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Reports by the Comptroller General.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s112/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">On or before April 1, 1996, the Comptroller General of the United States, and every two years thereafter, the <br style="-uslm-dtd:linebreak" />Inspector General of the Department of Justice, shall submit to the Congress a report, after consultation with the Attorney General and the telecommunications industry—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s112/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">describing the type of equipment, facilities, and services that have been brought into compliance under this title; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/414/tI/s112/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">reflecting its analysis of the reasonableness and cost-effectiveness of the payments made by the Attorney General to telecommunications carriers for modifications necessary to ensure compliance with this title.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tI/s112/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Compliance cost estimates.—</heading><content style="-uslm-dtd:text">A report under paragraph (1) shall include findings and conclusions on the costs to be incurred by telecommunications carriers to comply with the assistance capability requirements of section 103 after the effective date of such section 103, including projections of the amounts expected to be incurred and a description of the equipment, facilities, or services for which they are expected to be incurred.</content><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Title II made amendments to title 18, Unites States Code.<b>]</b> </editorialNote>
+                    </paragraph>
+                </subsection>
+            </section><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Title III made amendments to the Communications Act of 1934.<b>]</b> </editorialNote>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/103/414/tIV" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">TELECOMMUNICATIONS CARRIER COMPLIANCE PAYMENTS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/414/tIV/s401" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s1021">47 U.S.C. 1021</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEPARTMENT OF JUSTICE TELECOMMUNICATIONS CARRIER COMPLIANCE FUND. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tIV/s401/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment of Fund.—</heading><content style="-uslm-dtd:text">There is hereby established in the United States Treasury a fund to be known as the Department of Justice Telecommunications Carrier Compliance Fund (hereafter referred to as “<quotedText style="-uslm-dtd:quote">the Fund</quotedText>”), which shall be available without fiscal year limitation to the Attorney General for making payments to  telecommunications carriers, equipment manufacturers, and providers of telecommunications support services pursuant to section 109 of this Act.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tIV/s401/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Deposits to the Fund.—</heading><content style="-uslm-dtd:text">Notwithstanding any other provision of law, any agency of the United States with law enforcement or intelligence responsibilities may deposit as offsetting collections to the Fund any unobligated balances that are available until expended, upon compliance with any Congressional<ref style="-uslm-dtd:footnote-ref" idref="IDC038B2578CA44FA8968483DD11DBDDE5" class="footnoteRef">3</ref> notification requirements for reprogramming of funds applicable to the appropriation from which the deposit is to be made.</content><footnote id="IDC038B2578CA44FA8968483DD11DBDDE5" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">3</sup><p style="-uslm-dtd:para; margin-left:1em">So in law. Probably should be “<quotedText style="-uslm-dtd:quote">congressional</quotedText>”.</p></footnote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tIV/s401/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Termination.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tIV/s401/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Attorney General may terminate the Fund at such time as the Attorney General determines that the Fund is no longer necessary.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tIV/s401/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Any balance in the Fund at the time of its termination shall be deposited in the General Fund of the Treasury.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tIV/s401/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">A decision of the Attorney General to terminate the Fund shall not be subject to judicial review.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tIV/s401/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Availability of Funds for Expenditure.—</heading><content style="-uslm-dtd:text">Funds shall not be available for obligation unless an implementation plan as set forth in subsection (e) is submitted to each member of the Committees on the Judiciary and Appropriations of both the House of Representatives and the Senate and the Congress does not by law block or prevent the obligation of such funds. Such funds shall be treated as a reprogramming of funds under section 605 of the Department<ref style="-uslm-dtd:footnote-ref" idref="IDFDB8FCBA38594306911885EE2165A597" class="footnoteRef">4</ref> of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and shall not be available for obligation or expenditure except in compliance with the procedures set forth in that section and this section.</content><footnote id="IDFDB8FCBA38594306911885EE2165A597" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">4</sup><p style="-uslm-dtd:para; margin-left:1em">So in law. Probably should be “<quotedText style="-uslm-dtd:quote">Departments</quotedText>”.</p></footnote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tIV/s401/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Implementation Plan.—</heading><chapeau style="-uslm-dtd:text">The implementation plan shall <br style="-uslm-dtd:linebreak" />include:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tIV/s401/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the law enforcement assistance capability requirements and an explanation of law enforcement's recommended interface;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tIV/s401/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the proposed actual and maximum capacity requirements for the number of simultaneous law enforcement communications intercepts, pen registers, and trap and trace devices that authorized law enforcement agencies may seek to conduct, set forth on a county-by-county basis for wireline services and on a market service area basis for wireless services, and the historical baseline of electronic surveillance activity upon which such capacity requirements are based;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tIV/s401/e/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">a prioritized list of carrier equipment, facilities, and services deployed on or before January 1, 1995, to be modified by carriers at the request of law enforcement based on its investigative needs;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/414/tIV/s401/e/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">a projected reimbursement plan that estimates the cost for the coming fiscal year and for each fiscal year thereafter, based on the prioritization of law enforcement needs as outlined in <ref style="-uslm-dtd:footnote-ref" idref="ID4DA3AF094B4845C1858DA4E7C5964FE5" class="footnoteRef">5</ref>(3), of modification by carriers of equipment, facilities and services, installed on or before January 1, 1995.</content><footnote id="ID4DA3AF094B4845C1858DA4E7C5964FE5" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">5</sup><p style="-uslm-dtd:para; margin-left:1em">Probably should have the word “<quotedText style="-uslm-dtd:quote">paragraph</quotedText>” before “<quotedText style="-uslm-dtd:quote">(3)</quotedText>”.</p></footnote>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/414/tIV/s401/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Annual Report to the Congress.—</heading><content style="-uslm-dtd:text">The Attorney General shall submit to the Congress each year a report specifically detailing all deposits and expenditures made pursuant to<ref style="-uslm-dtd:footnote-ref" idref="IDA518490F04F14FD4A42ED70859E38E40" class="footnoteRef">6</ref> this Act in each fiscal year. This report shall be submitted to each member of the Committees on the Judiciary and Appropriations of both the House of Representatives and the Senate, and to the Speaker and minority leader of the House of Representatives and to the majority and minority leaders of the Senate, no later than 60 days after the end of each fiscal year.</content><footnote id="IDA518490F04F14FD4A42ED70859E38E40" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">6</sup><p style="-uslm-dtd:para; margin-left:1em">Probably should read “<quotedText style="-uslm-dtd:quote">to title I of</quotedText>”.</p></footnote>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

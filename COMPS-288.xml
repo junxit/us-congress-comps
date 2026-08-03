@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>RIEGLE-NEAL INTERSTATE BANKING AND BRANCHING EFFICIENCY ACT OF 1994</dc:title>
+        <containsShortTitle>RIEGLE-NEAL INTERSTATE BANKING</containsShortTitle>
+        <citableAsShortTitle>RIEGLE-NEAL INTERSTATE BANKING AND BRANCHING EFFICIENCY ACT OF 1994</citableAsShortTitle>
+        <docNumber />
+        <currentThroughPublicLaw>103–328</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994</containsShortTitle>
+        <property role="fileId">288</property>
+        <congress>103</congress>
+        <approvedDate>1994-09-29</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">RIEGLE-NEAL INTERSTATE BANKING AND BRANCHING EFFICIENCY ACT OF 1994</property>
+        <citationNote style="-uslm-dtd:public-law">[Public Law103-328]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 103–328</currentThroughPublicLaw>, Enacted <date date="1994-09-29">September 29, 1994</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 103-328. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend the Bank Holding Company Act of 1956, the Revised Statutes of the United States, and the Federal Deposit Insurance Act to provide for interstate banking and branching.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/103/328/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994</inline></shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>INTERSTATE BANKING AND BRANCHING</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Interstate banking.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Interstate bank mergers.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> State “<quotedText style="-uslm-dtd:quote">opt-in</quotedText>” election to permit interstate branching through de novo branches.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Branching by foreign banks.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 105.</designator><label> Coordination of examination authority.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 106.</designator><label> Branch closures.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 107.</designator><label> Equalizing competitive opportunities for United States and foreign banks.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 108.</designator><label> Federal Reserve Board study on bank fees.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 109.</designator><label> Prohibition against deposit production offices.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 110.</designator><label> Community Reinvestment Act evaluation of banks with interstate branches.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 111.</designator><label> Restatement of existing law.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 112.</designator><label> GAO report on data collection under interstate branching.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 113.</designator><label> Maximum interest rate on certain FMHA loans.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 114.</designator><label> Notice requirements for banking agency decisions preempting State law.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 115.</designator><label> Moratorium on examination fees under the International Banking Act of 1978.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>GENERAL PROVISIONS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Amendments to Federal Deposit Insurance Act and Federal Home Loan Bank Act.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> Sense of the Senate concerning multilateral export controls.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 203.</designator><label> Amendments relating to silver medals for Persian Gulf veterans.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 204.</designator><label> Commemoration of 1995 Special Olympic World Games.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 205.</designator><label> National Community Service Commemorative Coins.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 206.</designator><label> Robert F. Kennedy Memorial Commemorative Coins.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 207.</designator><label> United States Military Academy Bicentennial Commemorative Coins.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 208.</designator><label> United States Botanic Garden Commemorative Coins.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 209.</designator><label> Mount Rushmore Commemorative Coins.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 210.</designator><label> Study and report on the United States financial services system.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 211.</designator><label> Flexibility in choosing boards of directors.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/103/328/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">INTERSTATE BANKING AND BRANCHING<ref style="-uslm-dtd:footnote-ref" idref="IDEC8A6C950594463A8D5EF031F381B65B" class="footnoteRef">1</ref> </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sections 101 through 108 amended other laws.<b>]</b> </editorialNote>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/328/tI/s109" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="109">SEC. 109. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s1835a">12 U.S.C. 1835a</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PROHIBITION AGAINST DEPOSIT PRODUCTION OFFICES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tI/s109/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Regulations.—</heading><content style="-uslm-dtd:text">The appropriate Federal banking agencies shall prescribe uniform regulations effective June 1, 1997, which prohibit any out-of-State bank from using any authority to engage in interstate branching pursuant to this title, or any amendment made by this title to any other provision of law, primarily for the purpose of deposit production.</content><footnote id="IDEC8A6C950594463A8D5EF031F381B65B" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Note: The Reigle-Neal Interstate Banking and Branching Efficiency Act of 1994 largely amended other Acts.</p></footnote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tI/s109/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Guidelines for Meeting Credit Needs.—</heading><content style="-uslm-dtd:text">Regulations issued under subsection (a) shall include guidelines to ensure that interstate branches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tI/s109/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Limitation on Out-of-State Loans.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s109/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Limitation.—</heading><chapeau style="-uslm-dtd:text">Regulations issued under subsection (a) shall require that, beginning no earlier than 1 year after establishment or acquisition of an interstate branch or branches in a host State by an out-of-State bank, if the appropriate Federal banking agency for the out-of-State bank determines that the bank's level of lending in the host State relative to the deposits from the host State (as reasonably determinable from available information including the agency's sampling of the bank's loan files during an examination or such data as is otherwise available) is less than half the average of total loans in the host State relative to total deposits from the host State (as determinable from relevant sources) for all banks the home State of which is such State—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/c/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the appropriate Federal banking agency for the out-of-State bank shall review the loan portfolio of the bank and determine whether the bank is reasonably helping to meet the credit needs of the communities served by the bank in the host State; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/c/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">if the agency determines that the out-of-State bank is not reasonably helping to meet those needs—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/328/tI/s109/c/1/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the agency may order that an interstate branch or branches of such bank in the host State be closed unless the bank provides reasonable assurances to the satisfaction of the appropriate Federal banking agency that the bank has an acceptable plan that will reasonably help to meet the credit needs of the communities served by the bank in the host State, and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/328/tI/s109/c/1/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the out-of-State bank may not open a new interstate branch in the host State unless the bank provides reasonable assurances to the satisfaction of the appropriate Federal banking agency that the bank will reasonably help to meet the credit needs of the community that the new branch will serve.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s109/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Considerations.—</heading><chapeau style="-uslm-dtd:text">In making a determination under paragraph (1)(A), the appropriate Federal banking agency shall consider—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/c/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">whether the interstate branch or branches of the out-of-State bank were formerly part of a failed or failing depository institution;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/c/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">whether the interstate branch was acquired under circumstances where there was a low loan-to-deposit ratio because of the nature of the acquired institution's business or loan portfolio;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/c/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">whether the interstate branch or branches of the out-of-State bank have a higher concentration of commercial or credit card lending, trust services, or other specialized activities;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/c/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the ratings received by the out-of-State bank under the Community Reinvestment Act of 1977;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/c/2/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">economic conditions, including the level of loan demand, within the communities served by the interstate branch or branches of the out-of-State bank; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/c/2/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the safe and sound operation and condition of the out-of-State bank.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s109/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Branch closing procedure.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/c/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Notice required.—</heading><content style="-uslm-dtd:text">Before exercising any authority under paragraph (1)(B)(i), the appropriate Federal banking agency shall issue to the bank a notice of the agency's intention to close an interstate branch or branches and shall schedule a hearing.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/c/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Hearing.—</heading><content style="-uslm-dtd:text">Section 8(h) of the Federal Deposit Insurance Act shall apply to any proceeding brought under this paragraph.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tI/s109/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Application.—</heading><content style="-uslm-dtd:text">This section shall apply with respect to any interstate branch established or acquired in a host State pursuant to this title or any amendment made by this title to any other provision of law.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tI/s109/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">For the purposes of this section, the following definitions shall apply:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s109/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Appropriate federal banking agency, bank, state, and state bank.—</heading><content style="-uslm-dtd:text">The terms “<term style="-uslm-dtd:term">appropriate Federal banking agency</term>”, “<quotedText style="-uslm-dtd:quote">bank</quotedText>”, “<quotedText style="-uslm-dtd:quote">State</quotedText>”, and “<quotedText style="-uslm-dtd:quote">State bank</quotedText>” have the same meanings as in section 3 of the Federal Deposit Insurance Act.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s109/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Home state.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">home State</term>” means—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/e/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in the case of a national bank, the State in which the main office of the bank is located; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tI/s109/e/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the case of a State bank, the State by which the bank is chartered.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s109/e/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Host state.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">host State</term>” means a State in which a bank establishes a branch other than the home State of the bank.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s109/e/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Interstate branch.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">interstate branch</term>” means a branch established pursuant to this title or any amendment made by this title to any other provision of law and any branch of a bank controlled by an out-of-State bank holding company (as defined in section 2(o)(7) of the Bank Holding Company Act of 1956).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s109/e/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Out-of-state bank.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">out-of-State bank</term>” means, with respect to any State, a bank the home State of which is another State and, for purposes of this section, includes a foreign bank, the home State of which is another State.</content>
+                    </paragraph>
+                </subsection>
+            </section><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 110 amended other laws.<b>]</b> </editorialNote>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/328/tI/s111" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="111">SEC. 111. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s1811">12 U.S.C. 1811</ref> nt<b>]</b> </editorialNote><heading style="-uslm-dtd:header">RESTATEMENT OF EXISTING LAW. </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">No provision of this title and no amendment made by this title to any other provision of law shall be construed as affecting in any way—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s111/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the authority of any State or political subdivision of any State to adopt, apply, or administer any tax or method of taxation to any bank, bank holding company, or foreign bank, or any affiliate of any such bank, bank holding company, or foreign bank, to the extent that such tax or tax method is  otherwise permissible by or under the Constitution of the United States or other Federal law;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s111/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the right of any State, or any political subdivision of any State, to impose or maintain a nondiscriminatory franchise tax or other nonproperty tax instead of a franchise tax in accordance with section 3124 of title 31, United States Code; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s111/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the applicability of section 5197 of the Revised Statutes or section 27 of the Federal Deposit Insurance Act.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/328/tI/s112" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="112">SEC. 112. </num><heading style="-uslm-dtd:header">GAO REPORT ON DATA COLLECTION UNDER INTERSTATE BRANCHING. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tI/s112/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Comptroller General of the United States shall submit to the Congress, not later than 9 months after the date of enactment of this Act, a report that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s112/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">examines statutory and regulatory requirements for insured depository institutions to collect and report deposit and lending data; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tI/s112/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">determines what modifications to such requirements are needed, so that the implementation of the interstate branching provisions contained in this title will result in no material loss of information important to regulatory or congressional oversight of insured depository institutions.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tI/s112/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">The Comptroller General, in preparing the report required by this section, shall consult with individuals representing the appropriate Federal banking agencies, insured depository institutions, consumers, community groups, and other interested parties.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tI/s112/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Definitions.—</heading><content style="-uslm-dtd:text">For purposes of this section, the terms “<term style="-uslm-dtd:term">appropriate Federal banking agency</term>” and “<quotedText style="-uslm-dtd:quote">insured depository institution</quotedText>” have the same meanings as in section 3 of the Federal Deposit Insurance Act.</content>
+                </subsection>
+            </section><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sections 113 and 114 amended other laws.<b>]</b> </editorialNote>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/328/tI/s115" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="115">SEC. 115. </num><heading style="-uslm-dtd:header">MORATORIUM ON EXAMINATION FEES UNDER THE INTERNATIONAL BANKING ACT OF 1978. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tI/s115/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3105">12 U.S.C. 3105</ref> nt<b>]</b> </editorialNote><heading style="-uslm-dtd:header">Branches, Agencies, and Affiliates.—</heading><content style="-uslm-dtd:text">Section 7(c)(1)(D) of the International Banking Act of 1978 shall not apply with respect to any examination under section 7(c)(1)(A) of such Act which begins before or during the 3-year period beginning on July 25, 1994.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tI/s115/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3107">12 U.S.C. 3107</ref> nt<b>]</b> </editorialNote><heading style="-uslm-dtd:header">Representative Offices.—</heading><content style="-uslm-dtd:text">The provision of section 10(c) of the International Banking Act of 1978 relating to the cost of examinations under such section shall not apply with respect to any examination under such section which begins before or during the 3-year period beginning on July 25, 1994.</content>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/103/328/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">GENERAL PROVISIONS </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 201 amended other laws. Section 202 expresses the sense of the Senate regarding multilatural export controls. Section 203 amends another law. Sections 204 through 209 consist of Commemorative Coin Acts.<b>]</b> </editorialNote>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/328/tII/s210" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="210">SEC. 210. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s1811">12 U.S.C. 1811</ref> nt<b>]</b> </editorialNote><heading style="-uslm-dtd:header">STUDY AND REPORT ON THE UNITED STATES FINANCIAL SERVICES SYSTEM. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tII/s210/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Study.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Secretary of the Treasury (hereafter in this section referred to as the “<quotedText style="-uslm-dtd:quote">Secretary</quotedText>”) shall, after consultation with the Advisory Commission on Financial Services established under subsection (b), and consultation in accordance with paragraph (3), conduct a study of matters relating to the strengths and weaknesses of the United States financial services system in meeting the needs of the system's users, including the needs of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">individual consumers and households;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">communities;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">agriculture;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">small-, medium-, and large-sized businesses;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/1/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">governmental and nonprofit entities; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/1/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">exporters and other users of international financial services.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Matters studied.—</heading><chapeau style="-uslm-dtd:text">The study required under paragraph (1) shall include consideration of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the changes underway in the national and international economies and the financial services industry, and how those changes affect the financial services system's ability to efficiently meet the needs of the national economy and the system's users during the next 10 years and beyond; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the adequacy of existing statutes and regulations, and the existing regulatory structure, to meet the needs of the financial services system's users effectively, efficiently, and without unfair, anticompetitive, or discriminatory practices.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Consultation.—</heading><chapeau style="-uslm-dtd:text">Consultation in accordance with this paragraph means consultation with—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Board of Governors of the Federal Reserve System;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Commodity Futures Trading Commission;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/3/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Comptroller of the Currency;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/3/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the Director of the Office of Thrift Supervision;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/3/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the Federal Deposit Insurance Corporation;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/3/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the Secretary of the Department of Housing and Urban Development;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/3/G" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">the Securities and Exchange Commission;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/3/H" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">the Director of the Congressional Budget Office; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/a/3/I" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the Comptroller General of the United States.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tII/s210/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Advisory Commission on Financial Services.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">There is established the Advisory Commission on Financial Services (hereafter in this section referred to as the “<quotedText style="-uslm-dtd:quote">Advisory Commission</quotedText>”).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Membership of commission.—</heading><chapeau style="-uslm-dtd:text">The Advisory Commission—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">shall consist of not less than 9 nor more than 14 members appointed by the Secretary from among individuals—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/328/tII/s210/b/2/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">who are—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/103/328/tII/s210/b/2/A/i/I" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">users of the financial services system; or</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/103/328/tII/s210/b/2/A/i/II" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">experts in finance or on the financial services system; and</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/103/328/tII/s210/b/2/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">who are not employees of the Federal Government; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/328/tII/s210/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">shall include representatives of business, agriculture, and consumers.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Chairperson.—</heading><content style="-uslm-dtd:text">The Secretary or the Secretary's designee shall serve as Chairperson of the Advisory Commission.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Travel expenses.—</heading><content style="-uslm-dtd:text">Members of the Advisory Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in performing services for the Advisory Commission.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Termination.—</heading><content style="-uslm-dtd:text">The Advisory Commission shall terminate 30 days after the date of submission of the report required under subsection (d).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tII/s210/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Recommendations.—</heading><chapeau style="-uslm-dtd:text">Based on the results of the study conducted under subsection (a), the Secretary shall develop such recommendations as may be appropriate for changes in statutes, regulations, and policies to improve the operation of the financial services system, including changes to better—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">meet the needs of, and assure access to the system for, current and potential users;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">promote economic growth;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">protect consumers;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/c/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">promote competition and efficiency;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/c/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">avoid risk to the taxpayers;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/c/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">control systemic risk; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/328/tII/s210/c/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">eliminate discrimination.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/328/tII/s210/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 15 months after the date of enactment of this Act, the Secretary shall submit to the President pro tempore of the Senate and the Speaker of the House of Representatives a report describing the study conducted under subsection (a) and any recommendations developed under subsection (c).</chapeau><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 211 amended another law.<b>]</b> </editorialNote>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

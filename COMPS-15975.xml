@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>U.S. Commercial Space Launch Competitiveness Act</dc:title>
+        <citableAs>Public Law 114–90</citableAs>
+        <citableAsShortTitle>U.S. Commercial Space Launch Competitiveness Act</citableAsShortTitle>
+        <docNumber>90</docNumber>
+        <currentThroughPublicLaw>114–90</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>SPACE Act of 2015</containsShortTitle>
+        <containsShortTitle>Space Resource Exploration and Utilization Act of 2015</containsShortTitle>
+        <containsShortTitle>Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015</containsShortTitle>
+        <containsShortTitle>U.S. Commercial Space Launch Competitiveness Act</containsShortTitle>
+        <property role="fileId">15975</property>
+        <congress>114</congress>
+        <approvedDate>2015-11-25</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">U.S. Commercial Space Launch Competitiveness Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 114–90</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 114-90. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To facilitate a pro-growth environment for the developing commercial space industry by encouraging private sector investment and creating more stable and predictable regulatory conditions, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS; REFERENCES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s10101">51 U.S.C. 10101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">U.S. Commercial Space Launch Competitiveness Act</shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents of this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents; references.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>SPURRING PRIVATE AEROSPACE COMPETITIVENESS AND ENTREPRENEURSHIP</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Short title.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> International launch competitiveness.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Indemnification for space flight participants.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Launch license flexibility.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 105.</designator><label> Licensing report.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 106.</designator><label> Federal jurisdiction.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 107.</designator><label> Cross waivers.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 108.</designator><label> Space authority.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 109.</designator><label> Orbital traffic management.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 110.</designator><label> Space surveillance and situational awareness data.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 111.</designator><label> Consensus standards and extension of certain safety regulation requirements.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 112.</designator><label> Government astronauts.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 113.</designator><label> Streamline commercial space launch activities.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 114.</designator><label> Operation and utilization of the ISS.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 115.</designator><label> State commercial launch facilities.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 116.</designator><label> Space support vehicles study.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 117.</designator><label> Space launch system update.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>COMMERCIAL REMOTE SENSING</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Annual reports.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> Statutory update report.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>OFFICE OF SPACE COMMERCE</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Renaming of office of space commercialization.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Functions of the office of space commerce.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE IV—</designator><label>SPACE RESOURCE EXPLORATION AND UTILIZATION</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 401.</designator><label> Short title.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 402.</designator><label> Title 51 amendment.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 403.</designator><label> Disclaimer of extraterritorial sovereignty.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/s1/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">References to Title 51, United States Code.—</heading><content style="-uslm-dtd:text">Except as otherwise expressly provided, wherever in this Act an amendment or repeal is expressed in terms of an amendment to, or    repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 51, United States Code.</content>
+            </subsection>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/90/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">SPURRING PRIVATE AEROSPACE COMPETITIVENESS AND ENTREPRENEURSHIP </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s10101">51 U.S.C. 10101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title may be cited as the “<shortTitle style="-uslm-dtd:quote">Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015</shortTitle>” or “<shortTitle style="-uslm-dtd:quote">SPACE Act of 2015</shortTitle>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s102" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">INTERNATIONAL LAUNCH COMPETITIVENESS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s102/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Sense of Congress.—</heading><content style="-uslm-dtd:text">It is the sense of Congress that it is in the public interest to update the methodology used to calculate the maximum probable loss from claims under section 50914 of title 51, United States Code, with a validated risk profile approach in order to consistently compute valid and reasonable maximum probable loss values.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s102/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Implementation.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Secretary of Transportation, in consultation with the commercial space sector and insurance providers, shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s102/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">evaluate the methodology used to calculate the maximum probable loss from claims under section 50914 of title 51, United States Code, and, if necessary, develop a plan to update that methodology;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s102/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in evaluating or developing a plan under paragraph (1)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s102/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">ensure that the Federal Government is not exposed to greater costs than intended and that launch companies are not required to purchase more insurance coverage than necessary; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s102/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">consider the impact of the cost to both the industry and the Government of implementing an updated methodology; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s102/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">submit the evaluation, and any plan, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s102/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Independent Assessment.—</heading><chapeau style="-uslm-dtd:text">Not later than 270 days after the date the evaluation is submitted under subsection (b)(3), the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives an assessment of—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s102/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the analysis and conclusions provided by the Secretary of Transportation in the evaluation, and any plan, under subsection (b);</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s102/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the implementation schedule proposed by the Secretary in the plan described in paragraph (1);</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s102/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the suitability of the plan described in paragraph (1) for implementation; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s102/c/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">any further actions needed to implement the plan described in paragraph (1) or otherwise accomplish the purpose of this section.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s102/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50915">51 U.S.C. 50915</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Launch Liability Extension.—</heading><content style="-uslm-dtd:text">Section 50915(f) is amended by striking “<quotedText style="-uslm-dtd:quote">December 31, 2016</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2025</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s103" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">INDEMNIFICATION FOR SPACE FLIGHT PARTICIPANTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s103/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Chapter 509 is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s103/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50914">51 U.S.C. 50914</ref><b>]</b> </editorialNote><chapeau style="-uslm-dtd:text">in section 50914(a)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s103/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (4), by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">space flight participants.”</content>
+                            </subparagraph></quotedContent>; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s103/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">Subparagraph (E) of paragraph (4) ceases to be effective September 30, 2025.”</content>
+                            </paragraph></quotedContent>; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s103/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in section 50915(a)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s103/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, but not against a space flight participant,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">a person described in paragraph (3)(A)</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s103/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3)</num><subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">A person described in this subparagraph is—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">a licensee or transferee under this chapter;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">a contractor, subcontractor, or customer of the licensee or transferee;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">a contractor or subcontractor of a customer; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">a space flight participant.</content>
+                                </clause></subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">Clause (iv) of subparagraph (A) ceases to be effective September 30, 2025.”</content>
+                                </subparagraph>
+                            </paragraph></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s104" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">LAUNCH LICENSE FLEXIBILITY. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 50906 is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s104/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in subsection (d)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s104/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in the matter preceding paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">that will be launched or reentered</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">or reusable launch vehicles that will be launched into a suborbital trajectory or reentered under that permit</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s104/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by amending paragraph (1) to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">research and development to test design concepts, equipment, or operating techniques;”</content>
+                        </paragraph></quotedContent>; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s104/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">in paragraph (3)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/90/tI/s104/1/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">prior to obtaining a license</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/90/tI/s104/1/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">or vehicle</quotedText>” after “<quotedText style="-uslm-dtd:quote">design of the rocket</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s104/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subsection (e)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s104/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">suborbital rocket design</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">suborbital rocket or suborbital rocket design, or for a particular reusable launch vehicle or reusable launch vehicle design,</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s104/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (2), by inserting “<quotedText style="-uslm-dtd:quote">or launch vehicle</quotedText>” after “<quotedText style="-uslm-dtd:quote">the suborbital rocket</quotedText>”;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s104/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by amending subsection (g) to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="g">“(g) </num><content style="-uslm-dtd:text">The Secretary may issue a permit under this section notwithstanding any license issued under this chapter. The issuance of a license under this chapter may not invalidate a permit issued under this section.”</content>
+                    </subsection></quotedContent>; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s104/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in subsection (h), by inserting “<quotedText style="-uslm-dtd:quote">or reusable launch vehicle</quotedText>” after “<quotedText style="-uslm-dtd:quote">suborbital rocket</quotedText>”.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s105" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><heading style="-uslm-dtd:header">LICENSING REPORT. </heading>
+                <content style="-uslm-dtd:text" class="block">Not later than 120 days after the date of enactment of this Act, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on approaches for streamlining the licensing and permitting process of launch vehicles, reentry vehicles, or components of launch or reentry vehicles, to enable non-launch flight operations related to space transportation. The report shall include approaches to improve efficiency, reduce unnecessary costs, resolve inconsistencies, remove duplication, and minimize unwarranted constraints. The report shall also include an assessment of existing private and government infrastructure, as appropriate, in future licensing activities.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s106" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="106">SEC. 106. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50914">51 U.S.C. 50914</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FEDERAL JURISDICTION. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 50914 is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">“(g) </num><heading style="-uslm-dtd:header">Federal Jurisdiction.—</heading><content style="-uslm-dtd:text">Any claim by a third party or space flight participant for death, bodily injury, or property damage or loss resulting from an activity carried out under the license shall be the exclusive jurisdiction of the Federal courts.”</content>
+                </subsection></quotedContent>.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s107" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="107">SEC. 107. </num><heading style="-uslm-dtd:header">CROSS WAIVERS. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 50914(b)(1) is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">“(1)</num><subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with applicable parties involved in launch services or reentry services under which each party to the waiver agrees to be responsible for personal injury to, death of, or property damage or loss sustained by it or its own employees resulting from an activity carried out under the applicable license.</content></subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">In this paragraph, the term ‘<quotedText style="-uslm-dtd:quote">applicable parties</quotedText>’ means—</chapeau>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">contractors, subcontractors, and customers of the licensee or transferee;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">contractors and subcontractors of the customers; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">space flight participants.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">Clause (iii) of subparagraph (B) ceases to be effective September 30, 2025.”</content>
+                    </subparagraph>
+                </paragraph></quotedContent>.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s108" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="108">SEC. 108. </num><heading style="-uslm-dtd:header">SPACE AUTHORITY. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s108/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Not later than 120 days after the date of enactment of this Act, the Director of the Office of Science and Technology Policy, in consultation with the Secretary of State, the Secretary of Transportation, the Administrator of the National Aeronautics and Space Administration, the heads of other relevant Federal agencies, and the commercial space sector, shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s108/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">assess current, and proposed near-term, commercial non-governmental activities conducted in space;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s108/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">identify appropriate authorization and supervision authorities for the activities described in paragraph (1);</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s108/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">recommend an authorization and supervision approach that would prioritize safety, utilize existing authorities, minimize burdens to the industry, promote the U.S. commercial space sector, and meet the United States obligations under international treaties; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s108/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the activities described in paragraphs (1), (2), and (3).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s108/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Exception.—</heading><content style="-uslm-dtd:text">Nothing in this section shall apply to the activities of the ISS national laboratory as described in section 504 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18354), including any research or development projects utilizing the ISS national laboratory.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s109" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="109">SEC. 109. </num><heading style="-uslm-dtd:header">ORBITAL TRAFFIC MANAGEMENT. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s109/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Sense of Congress.—</heading><content style="-uslm-dtd:text">It is the sense of the Congress that an improved framework may be necessary for space traffic management of United States Government assets and United States private sector assets in outer space and orbital debris mitigation.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s109/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Study.—</heading><content style="-uslm-dtd:text">Not later than 90 days after the date of enactment of this Act, the Administrator of the National Aeronautics and Space Administration, in consultation with the Secretary of Transportation, the Chair of the Federal Communications Commission, the Secretary of Commerce, and the Secretary of Defense, shall enter into an arrangement with an independent systems engineering and technical assistance organization to study alternate frameworks for the management of space traffic and orbital activities.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s109/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">The study shall include the following:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s109/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">An assessment of current regulations, best practices, and industry standards that apply to space traffic management and orbital debris mitigation.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s109/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">An assessment of current statutory authorities granted to the Federal Communications Commission, the Department of Transportation, and the Department of Commerce that apply to space traffic management and orbital debris mitigation and how those agencies utilize and coordinate those authorities.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s109/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">A review of all space traffic management and orbital debris requirements under treaties and other international agreements to which the United States is a signatory, and other nonbinding international arrangements in which the United States participates, and the manner and extent to which the Federal Government complies with those requirements and arrangements.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s109/c/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">An assessment of existing Federal Government assets used to conduct space traffic management and space situational awareness.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s109/c/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">An assessment of the risk to space traffic management associated with smallsats and any necessary Government coordination for their launch and utilization to avoid congestion of the orbital environment and improve space situational awareness.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s109/c/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">An assessment of existing private sector information sharing activities associated with space situational awareness and space traffic management.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s109/c/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">Recommendations related to the appropriate framework for the protection of the health, safety, and welfare of the public and economic vitality of the space industry.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s109/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives the study required in subsection (b).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s109/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Department of Defense Authorities.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s109/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Sense of Congress.—</heading><content style="-uslm-dtd:text">It is the sense of Congress that the Department of Defense plays a vital and unique role in protecting national security assets in space.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s109/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Rule of construction.—</heading><content style="-uslm-dtd:text">Nothing in this section may be construed to affect the authority of the Secretary of Defense as it relates to safeguarding the national security.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s110" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="110">SEC. 110. </num><heading style="-uslm-dtd:header">SPACE SURVEILLANCE AND SITUATIONAL AWARENESS DATA. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Not later than 120 days after the date of enactment of this Act, the Secretary of Transportation in concurrence with the Secretary of Defense shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s110/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in consultation with the heads of other relevant Federal agencies, study the feasibility of processing and releasing safety-related space situational awareness data and information to any entity consistent with national security interests and public safety obligations of the United States; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s110/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">submit a report on the feasibility study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s111" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="111">SEC. 111. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50905">51 U.S.C. 50905</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">CONSENSUS STANDARDS AND EXTENSION OF CERTAIN SAFETY REGULATION REQUIREMENTS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 50905(c) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s111/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (1), by inserting “<quotedText style="-uslm-dtd:quote">In general.—</quotedText>” before “<quotedText style="-uslm-dtd:quote">The Secretary</quotedText>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s111/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (2), by inserting “<quotedText style="-uslm-dtd:quote">Regulations.—</quotedText>” before “<quotedText style="-uslm-dtd:quote">Regulations</quotedText>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s111/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by striking paragraph (3);</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s111/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">by redesignating paragraph (4) as paragraph (10);</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s111/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">by inserting after paragraph (2) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Facilitation of standards.—</heading><content style="-uslm-dtd:text">The Secretary shall continue to work with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, to facilitate the development of voluntary industry consensus standards based on recommended best practices to improve the safety of crew, government astronauts, and space flight participants as the commercial space sector continues to mature.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Communication and transparency.—</heading><content style="-uslm-dtd:text">Nothing in this subsection shall be construed to limit the authority of the Secretary to discuss potential regulatory approaches, potential performance standards, or any other topic related to this subsection with the commercial space industry, including observations, findings, and recommendations from the Commercial Space Transportation Advisory Committee, or its successor organization, prior to the issuance of a notice of proposed rulemaking. Such discussions shall not be construed to permit  the Secretary to promulgate industry regulations except as otherwise provided in this section.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">“(5) </num><heading style="-uslm-dtd:header">Interim voluntary industry consensus standards reports.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than December 31, 2016, and every 30 months thereafter until December 31, 2021, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the progress of the commercial space transportation industry in developing voluntary industry consensus standards that promote best practices to improve industry safety.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">The report shall include, at a minimum—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">any voluntary industry consensus standards that have been accepted by the industry at large;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the identification of areas that have the potential to become voluntary industry consensus standards that are currently under consideration by the industry at large;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">an assessment from the Secretary on the general progress of the industry in adopting voluntary industry consensus standards;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">any lessons learned about voluntary industry consensus standards, best practices, and commercial space launch operations;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">any lessons learned associated with the development, potential application, and acceptance of voluntary industry consensus standards, best practices, and commercial space launch operations; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">“(vi) </num><content style="-uslm-dtd:text">recommendations, findings, or observations from the Commercial Space Transportation Advisory Committee, or its successor organization, on the progress of the industry in developing voluntary industry consensus standards that promote best practices to improve industry safety.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">“(6) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 270 days after the date of enactment of the SPACE Act of 2015, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report specifying key industry metrics that might indicate readiness of the commercial space sector and the Department of Transportation to transition to a safety framework that may include regulations under paragraph (9) that considers space flight participant, government astronaut, and crew safety.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">“(7) </num><heading style="-uslm-dtd:header">Reports.—</heading><content style="-uslm-dtd:text">Not later than March 31 of each of 2018 and 2022, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space  Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that identifies the activities, described in this subsection and subsection (d) most appropriate for a new safety framework that may include regulatory action, if any, and a proposed transition plan for such safety framework.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">“(8) </num><heading style="-uslm-dtd:header">Independent review.—</heading><chapeau style="-uslm-dtd:text">Not later than December 31, 2022, an independent systems engineering and technical assistance organization or standards development organization contracted by the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives an assessment of the readiness of the commercial space industry and the Federal Government to transition to a safety framework that may include regulations. As part of the review, the contracted organization shall evaluate—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the progress of the commercial space industry in adopting voluntary industry consensus standards as reported by the Secretary in the interim assessments included in the reports under paragraph (5);</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the progress of the commercial space industry toward meeting the key industry metrics identified by the report under paragraph (6), including the knowledge and operational experience obtained by the commercial space industry while providing services for compensation or hire; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">whether the areas identified in the reports under paragraph (5) are appropriate for regulatory action, or further development of voluntary industry consensus standards, considering the progress evaluated in subparagraphs (A) and (B) of this paragraph.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="9">“(9) </num><heading style="-uslm-dtd:header">Learning period.—</heading><content style="-uslm-dtd:text">Beginning on October 1, 2023, the Secretary may propose regulations under this subsection without regard to subparagraphs (C) and (D) of paragraph (2). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified in the reports published under paragraphs (5), (6), and (7).”</content>
+                    </paragraph></quotedContent>; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s111/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">in paragraph (10), as redesignated, by inserting “<quotedText style="-uslm-dtd:quote">Rule of construction.—</quotedText>” before “<quotedText style="-uslm-dtd:quote">Nothing</quotedText>”.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s112" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="112">SEC. 112. </num><heading style="-uslm-dtd:header">GOVERNMENT ASTRONAUTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50901">51 U.S.C. 50901</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Findings and Purpose.—</heading><content style="-uslm-dtd:text">Section 50901(15) is amended by inserting “<quotedText style="-uslm-dtd:quote">, government astronauts,</quotedText>” after “<quotedText style="-uslm-dtd:quote">crew</quotedText>” each place it appears.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s20113">51 U.S.C. 20113 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Sense of Congress.—</heading><content style="-uslm-dtd:text">The National Aeronautics and Space Administration has a need to fly government astronauts (as defined in section 50902 of title 51, United States Code, as amended) within commercial launch vehicles and reentry vehicles under chapter 509 of that title. This need was identified by the Secretary of Transportation and the Administrator of the National Aeronautics and Space Administration due to the intended use of commercial launch vehicles and reentry vehicles developed under the Commercial Crew Development Program, authorized in section    402 of the National Aeronautics and Space Administration Authorization Act of 2010 (124 Stat. 2820; Public Law 111-267). It is the sense of Congress that the authority delegated to the Administration by the amendment made by subsection (d) of this section should be used for that purpose.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Definition of Government Astronaut.—</heading><chapeau style="-uslm-dtd:text">Section 50902 is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s112/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating paragraphs (4) through (22) as paragraphs (7) through (25), respectively; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s112/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after paragraph (3) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><chapeau style="-uslm-dtd:text">
+‘<quotedText style="-uslm-dtd:quote">government astronaut</quotedText>’ means an individual who—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">is designated by the National Aeronautics and Space Administration under section 20113(n);</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">is carried within a launch vehicle or reentry vehicle in the course of his or her employment, which may include performance of activities directly relating to the launch, reentry, or other operation of the launch vehicle or reentry vehicle; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><chapeau style="-uslm-dtd:text">is either—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">an employee of the United States Government, including the uniformed services, engaged in the performance of a Federal function under authority of law or an Executive act; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">an international partner astronaut.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">
+‘<quotedText style="-uslm-dtd:quote">international partner astronaut</quotedText>’ means an individual designated under Article 11 of the International Space Station Intergovernmental Agreement, by a partner to that agreement other than the United States, as qualified to serve as an International Space Station crew member.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">“(6) </num><content style="-uslm-dtd:text">
+‘<quotedText style="-uslm-dtd:quote">International Space Station Intergovernmental Agreement</quotedText>’ means the Agreement Concerning Cooperation on the International Space Station, signed at Washington January 29, 1998 (TIAS 12927).”</content>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s20113">51 U.S.C. 20113</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Powers of the National Aeronautics and Space Administration in Performance of Functions.—</heading><content style="-uslm-dtd:text">Section 20113 is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="n">“(n) </num><heading style="-uslm-dtd:header">Identification of Government Astronauts.—</heading><content style="-uslm-dtd:text">For purposes of a license issued or transferred by the Secretary of Transportation under chapter 509 to launch a launch vehicle or to reenter a reentry vehicle carrying a government astronaut (as defined in section 50902), the Administration shall designate a government astronaut in accordance with requirements prescribed by the Administration.”</content>
+                    </subsection></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50902">51 U.S.C. 50902</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Definition of Launch.—</heading><content style="-uslm-dtd:text">Paragraph (7) of section 50902, as redesignated, is amended by striking “<quotedText style="-uslm-dtd:quote">and any payload, crew, or space flight participant</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">and any payload or human being</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Definition of Launch Services.—</heading><content style="-uslm-dtd:text">Paragraph (9) of section 50902, as redesignated, is amended by striking “<quotedText style="-uslm-dtd:quote">payload, crew (including crew training), or space flight participant</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">payload, crew (including crew training), government astronaut, or space flight participant</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Definition of Reenter and Reentry.—</heading><content style="-uslm-dtd:text">Paragraph (16) of section 50902, as redesignated, is amended by striking “<quotedText style="-uslm-dtd:quote">and its payload, crew, or space flight participants, if any,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">and its payload or human beings, if any,</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/h" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50902">51 U.S.C. 50902</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Definition of Reentry Services.—</heading><content style="-uslm-dtd:text">Paragraph (17) of section 50902, as redesignated, is amended by striking “<quotedText style="-uslm-dtd:quote">payload, crew (including crew training), or space flight participant, if any,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">payload, crew (including crew training), government astronaut, or space flight participant, if any,</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/i" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Definition of Space Flight Participant.—</heading><content style="-uslm-dtd:text">Paragraph (20) of section 50902, as redesignated, is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="20">“(20) </num><content style="-uslm-dtd:text">
+‘<quotedText style="-uslm-dtd:quote">space flight participant</quotedText>’ means an individual, who is not crew or a government astronaut, carried within a launch vehicle or reentry vehicle.”</content>
+                    </paragraph></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/j" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="j">(j) </num><heading style="-uslm-dtd:header">Definition of Third Party.—</heading><content style="-uslm-dtd:text">Paragraph (24)(E) of section 50902, as redesignated, is amended by inserting “<quotedText style="-uslm-dtd:quote">, government astronauts,</quotedText>” after “<quotedText style="-uslm-dtd:quote">crew</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/k" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="k">(k) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50904">51 U.S.C. 50904</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Restrictions on Launches, Operations, and Reentries; Single License or Permit.—</heading><content style="-uslm-dtd:text">Section 50904(d) is amended by striking “<quotedText style="-uslm-dtd:quote">activities involving crew or space flight participants</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">activities involving crew, government astronauts, or space flight participants</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/l" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="l">(l) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50905">51 U.S.C. 50905</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">License Applications and Requirements; Applications.—</heading><chapeau style="-uslm-dtd:text">Section 50905 is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s112/l/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (a)(2), by striking “<quotedText style="-uslm-dtd:quote">crews and space flight participants</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">crew, government astronauts, and space flight participants</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s112/l/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subsection (b)(2)(D), by striking “<quotedText style="-uslm-dtd:quote">crew or space flight participants</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">crew, government astronauts, or space flight participants</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s112/l/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in subsection (c)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s112/l/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">crew and space flight participants</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">crew, government astronauts, and space flight participants</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s112/l/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (2), by striking “<quotedText style="-uslm-dtd:quote">to crew or space flight participants</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">to crew, government astronauts, or space flight participants</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/m" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="m">(m) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50907">51 U.S.C. 50907</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Monitoring Activities.—</heading><content style="-uslm-dtd:text">Section 50907(a) is amended by striking “<quotedText style="-uslm-dtd:quote">at a site used for crew or space flight participant training</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">at a site not owned or operated by the Federal Government or a foreign government used for crew, government astronaut, or space flight participant training</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/n" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="n">(n) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50908">51 U.S.C. 50908</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Additional Suspensions.—</heading><content style="-uslm-dtd:text">Section 50908(d)(1) is amended by striking “<quotedText style="-uslm-dtd:quote">to crew or space flight participants</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">to any human being</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s112/o" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="o">(o) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50919">51 U.S.C. 50919</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Relationship to Other Executive Agencies, Laws, and International Obligations; Nonapplication.—</heading><content style="-uslm-dtd:text">Section 50919(g) is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="g">“(g) </num><heading style="-uslm-dtd:header">Nonapplication.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">This chapter does not apply to—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">planning or policies related to the launch, reentry, operation, or activity under subparagraph (A).</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Rule of construction.—</heading><chapeau style="-uslm-dtd:text">The following activities are not space activities the Government carries out for the Government under paragraph (1):</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">A government astronaut being carried within a launch vehicle or reentry vehicle under this chapter.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">A government astronaut performing activities directly relating to the launch, reentry, or other operation of the launch vehicle or reentry vehicle under this chapter.”</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection></quotedContent>.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s113" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="113">SEC. 113. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50918">51 U.S.C. 50918 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">STREAMLINE COMMERCIAL SPACE LAUNCH ACTIVITIES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s113/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Sense of Congress.—</heading><content style="-uslm-dtd:text">It is the sense of Congress that eliminating duplicative requirements and approvals for commercial launch and reentry operations will promote and encourage the development of the commercial space sector.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s113/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Reaffirmation of Policy.—</heading><chapeau style="-uslm-dtd:text">Congress reaffirms that the Secretary of Transportation, in overseeing and coordinating commercial launch and reentry operations, should—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s113/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">promote commercial space launches and reentries by the private sector;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s113/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">facilitate Government, State, and private sector involvement in enhancing U.S. launch sites and facilities;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s113/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">protect public health and safety, safety of property, national security interests, and foreign policy interests of the United States; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s113/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">consult with the head of another executive agency, including the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration, as necessary to provide consistent application of licensing requirements under chapter 509 of title 51, United States Code.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s113/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Requirements.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s113/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Secretary of Transportation under section 50918 of title 51, United States Code, and subject to section 50905(b)(2)(C) of that title, shall consult with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, and the heads of other executive agencies, as appropriate—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s113/c/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to identify all requirements that are imposed to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States relevant to any commercial launch of a launch vehicle or commercial reentry of a reentry vehicle; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s113/c/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">to evaluate the requirements identified in subparagraph (A) and, in coordination with the licensee or transferee and the heads of the relevant executive agencies—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/90/tI/s113/c/1/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">determine whether the satisfaction of a requirement of one agency could result in the satisfaction of a requirement of another agency; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/90/tI/s113/c/1/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">resolve any inconsistencies and remove any outmoded or duplicative requirements or approvals of the Federal Government relevant to any commercial launch of a launch vehicle or commercial reentry of a reentry vehicle.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s113/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Reports.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, and annually thereafter until the Secretary of Transportation determines no outmoded or duplicative requirements or approvals of the Federal Government exist, the Secretary of Transportation, in consultation with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the commercial space sector,    and the heads of other executive agencies, as appropriate, shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the congressional defense committees a report that includes the following:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s113/c/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">A description of the process for the application for and approval of a permit or license under chapter 509 of title 51, United States Code, for the commercial launch of a launch vehicle or commercial reentry of a reentry vehicle, including the identification of—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/90/tI/s113/c/2/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">any unique requirements for operating on a United States Government launch site, reentry site, or launch property; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/90/tI/s113/c/2/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">any inconsistent, outmoded, or duplicative requirements or approvals.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s113/c/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">A description of current efforts, if any, to coordinate and work across executive agencies to define interagency processes and procedures for sharing information, avoiding duplication of effort, and resolving common agency requirements.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s113/c/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">Recommendations for legislation that may further—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/90/tI/s113/c/2/C/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">streamline requirements in order to improve efficiency, reduce unnecessary costs, resolve inconsistencies, remove duplication, and minimize unwarranted constraints; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/90/tI/s113/c/2/C/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">consolidate or modify requirements across affected agencies into a single application set that satisfies the requirements identified in paragraph (1)(A).</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s113/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">For purposes of this subsection—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s113/c/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any applicable definitions set forth in section 50902 of title 51, United States Code, shall apply;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s113/c/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the terms “<quotedText style="-uslm-dtd:quote">launch</quotedText>”, “<quotedText style="-uslm-dtd:quote">reenter</quotedText>”, and “<quotedText style="-uslm-dtd:quote">reentry</quotedText>” include landing of a launch vehicle or reentry vehicle; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s113/c/3/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the terms “<quotedText style="-uslm-dtd:quote">United States Government launch site</quotedText>” and “<quotedText style="-uslm-dtd:quote">United States Government reentry site</quotedText>” include any necessary facility, at that location, that is commercially operated on United States Government property.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s114" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="114">SEC. 114. </num><heading style="-uslm-dtd:header">OPERATION AND UTILIZATION OF THE ISS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s114/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Sense of Congress.—</heading><chapeau style="-uslm-dtd:text">It is the sense of Congress that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s114/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">maximum utilization of partnerships, scientific research, commercial applications, and exploration test bed capabilities of the ISS is essential to ensuring the greatest return on investments made by the United States and its international partners in the development, assembly, and operations of that unique facility; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s114/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">every effort should be made to ensure that decisions regarding the service life of the ISS are based on the station’s projected capability to continue providing effective and productive research and exploration test bed capabilities.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s114/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Continuation of the International Space Station.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s114/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Section 501 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18351) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s114/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in the heading, by striking “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">through 2020</headingText></quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s114/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subsection (a), by striking “<quotedText style="-uslm-dtd:quote">through at least 2020</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">through at least 2024</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s114/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Maintenance of the united states segment and assurance of continued operations of the international space station.—</heading><chapeau style="-uslm-dtd:text">Section 503 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18353) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s114/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subsection (a), by striking “<quotedText style="-uslm-dtd:quote">through at least September 30, 2020</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">through at least September 30, 2024</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s114/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subsection (b)(1), by striking “<quotedText style="-uslm-dtd:quote">In carrying out subsection (a), the Administrator</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">The Administrator</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s114/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Research capacity allocation and integration of research payloads.—</heading><content style="-uslm-dtd:text">Section 504(d) of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18354(d)) is amended by striking “<quotedText style="-uslm-dtd:quote">September 30, 2020</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">at least September 30, 2024</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s114/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Maintaining use through at least 2024.—</heading><content style="-uslm-dtd:text">Section 70907 is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <section style="-uslm-dtd:section" styleType="USC">
+                            <num style="-uslm-dtd:enum" value="70907">“§ 70907. </num><heading style="-uslm-dtd:header">Maintaining use through at least 2024 </heading>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Policy.—</heading><content style="-uslm-dtd:text">The Administrator shall take all necessary steps to ensure that the International Space Station remains a viable and productive facility capable of potential United States utilization through at least September 30, 2024.</content>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">NASA Actions.—</heading><chapeau style="-uslm-dtd:text">In furtherance of the policy under subsection (a), the Administrator shall ensure, to the extent practicable, that the International Space Station, as a designated national laboratory—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">remains viable as an element of overall exploration and partnership strategies and approaches;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">is considered for use by all NASA mission directorates, as appropriate, for technically appropriate scientific data gathering or technology risk reduction demonstrations; and</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">remains an effective, functional vehicle providing research and test bed capabilities for the United States through at least September 30, 2024.”</content>
+                                </paragraph>
+                            </subsection>
+                        </section></quotedContent>.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s114/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Technical and Conforming Amendments.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s114/b/5/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Table of contents of 2010 act.—</heading><content style="-uslm-dtd:text">The item relating to section 501 in the table of contents in section 1(b) of the National Aeronautics and Space Administration Authorization Act of 2010 (124 Stat. 2806) is amended by striking “<quotedText style="-uslm-dtd:quote">through 2020</quotedText>”.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s114/b/5/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Table of contents of chapter 709.—</heading><content style="-uslm-dtd:text">The table of contents for chapter 709 is amended by amending the item relating to section 70907 to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                            <toc style="-uslm-dtd:toc">
+                                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“70907.</designator><label> Maintaining use through at least 2024.”</label></referenceItem>
+                            </toc></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s115" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="115">SEC. 115. </num><heading style="-uslm-dtd:header">STATE COMMERCIAL LAUNCH FACILITIES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s115/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Sense of Congress.—</heading><chapeau style="-uslm-dtd:text">It is the sense of Congress that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s115/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">State involvement, development, ownership, and operation of launch facilities can enable growth of the Nation’s commercial suborbital and orbital space endeavors and support both commercial and Government space programs;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s115/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">State launch facilities and the people and property in the affected launch areas of those facilities may be subject to risks resulting from an activity carried out under a license under chapter 509 of title 51, United States Code; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s115/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">to ensure the success of the commercial launch industry and the safety of the people and property in the affected launch areas of those facilities, States and State launch facilities should seek to take proper measures to protect themselves, to the extent of their potential liability for involvement in launch services or reentry services, and compensate third parties for possible death, bodily injury, or property damage or loss resulting from an activity carried out under a license under chapter 509 of title 51, United States Code, to which the State or State launch facility is involved in the launch services or reentry services.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s115/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the potential inclusion of all government property, including State and municipal property, in the existing indemnification regime established under section 50914 of title 51, United States Code.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s116" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="116">SEC. 116. </num><heading style="-uslm-dtd:header">SPACE SUPPORT VEHICLES STUDY. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s116/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the use of space support vehicle services in the commercial space industry.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s116/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">This report shall include—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s116/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the extent to which launch providers rely on such services as part of their business models;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s116/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the statutory, regulatory, and market barriers to the use of such services; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s116/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">recommendations for legislative or regulatory action that may be needed to ensure reduced barriers to the use of such services if such use is a requirement of the industry.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tI/s117" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="117">SEC. 117. </num><heading style="-uslm-dtd:header">SPACE LAUNCH SYSTEM UPDATE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s117/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Chapter 701 is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s117/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in the heading by striking “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">SPACE SHUTTLE</headingText></quotedText>” and inserting “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">SPACE LAUNCH SYSTEM</headingText></quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s117/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s70101">51 U.S.C. 70101</ref><b>]</b> </editorialNote><chapeau style="-uslm-dtd:text">in section 70101—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s117/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in the heading, by striking “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">space shuttle</headingText></quotedText>” and inserting “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">space launch system</headingText></quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s117/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">space shuttle</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">space launch system</quotedText>”;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s117/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by amending section 70102 to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <section style="-uslm-dtd:section" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="70102">“SEC. 70102. </num><heading style="-uslm-dtd:header">Space launch system use policy </heading>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Space Launch System may be used for the following circumstances:</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">Payloads and missions that contribute to extending human presence beyond low-Earth orbit and substantially benefit from the unique capabilities of the Space Launch System.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">Other payloads and missions that substantially benefit from the unique capabilities of the Space Launch System.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">On a space available basis, Federal Government or educational payloads that are consistent with NASA’s mission for exploration beyond low-Earth orbit.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">Compelling circumstances, as determined by the Administrator.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Agreements With Foreign Entities.—</heading><content style="-uslm-dtd:text">The Administrator may plan, negotiate, or implement agreements with foreign entities for the launch of payloads for international collaborative efforts relating to science and technology using the Space Launch System.</content>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Compelling Circumstances.—</heading><content style="-uslm-dtd:text">Not later than 30 days after the date the Administrator makes a determination under subsection (a)(4), the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives written notification of the Administrator’s intent to select the Space Launch System for a specific mission under that subsection, including justification for the determination.”</content>
+                            </subsection>
+                        </section></quotedContent>;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s117/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s70103">51 U.S.C. 70103</ref><b>]</b> </editorialNote><chapeau style="-uslm-dtd:text">in section 70103—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s117/a/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in the heading, by striking “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">space shuttle</headingText></quotedText>” and inserting “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">space launch system</headingText></quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s117/a/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subsection (b), by striking “<quotedText style="-uslm-dtd:quote">space shuttle</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">space launch system</quotedText>”; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s117/a/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <section style="-uslm-dtd:section" styleType="USC">
+                            <num style="-uslm-dtd:enum" value="70104">“§ 70104. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s70104">51 U.S.C. 70104</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Definition of Space Launch System </heading>
+                            <content style="-uslm-dtd:text" class="block">“In this chapter, the term ‘<quotedText style="-uslm-dtd:quote">Space Launch System</quotedText>’ means the Space Launch System authorized under section 302 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18322).”</content>
+                        </section></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tI/s117/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Technical and conforming amendments.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s117/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Table of Chapters.—</heading><content style="-uslm-dtd:text">The table of chapters of title 51 is amended by amending the item relating to chapter 701 to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <toc style="-uslm-dtd:toc">
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“701.</designator><label> Use of space launch system or alternatives”</label></referenceItem>
+                        </toc></quotedContent>.<toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>70101</label></referenceItem></toc></content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s117/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Table of contents of chapter 701.—</heading><chapeau style="-uslm-dtd:text">The table of contents of chapter 701 is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s117/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in the item relating to section 70101, by striking “<quotedText style="-uslm-dtd:quote">space shuttle</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">space launch system</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s117/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the item relating to section 70102, by striking “<quotedText style="-uslm-dtd:quote">Space shuttle</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Space launch system</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s117/b/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in the item relating to section 70103, by striking “<quotedText style="-uslm-dtd:quote">space shuttle</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">space launch system</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/90/tI/s117/b/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">by adding at the end the following:<foreign id="warning-d1836476e1428" note="processing mode: unknown" role="passthroughContent"><compsdtd:table xmlns:compsdtd="http://schemas.gpo.gov/xml/comps-dtd" table-type="subformat" line-rules="no-gen" blank-lines-before="0" blank-lines-after="0"><compsdtd:tgroup cols="1"><compsdtd:tbody><compsdtd:row><compsdtd:entry colname="I42">“70104. Definition of Space Launch System.”.</compsdtd:entry></compsdtd:row></compsdtd:tbody></compsdtd:tgroup></compsdtd:table></foreign></content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tI/s117/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50131">51 U.S.C. 50131</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Requirement to procure commercial space transportation services.—</heading><content style="-uslm-dtd:text">Section 50131(a) of chapter 51 is amended by inserting “<quotedText style="-uslm-dtd:quote">or in section 70102</quotedText>” after “<quotedText style="-uslm-dtd:quote">in this section</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/90/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">COMMERCIAL REMOTE SENSING </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">ANNUAL REPORTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tII/s201/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Subchapter III of chapter 601 is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="60126">“§ 60126. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s60126">51 U.S.C. 60126</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Annual reports </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 180 days after the date of enactment of the U.S. Commercial Space Launch Competitiveness Act, and annually thereafter, on—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><chapeau style="-uslm-dtd:text">the Secretary’s implementation of section 60121, including—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">a list of all applications received in the previous calendar year;</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">a list of all applications that resulted in a license under section 60121;</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">a list of all applications denied and an explanation of why each application was denied, including any information relevant to the interagency adjudication process of a licensing request;</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">a list of all applications that required additional information; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">a list of all applications whose disposition exceeded the 120 day deadline established in section 60121(c), the total days overdue for each application that exceeded such deadline, and an explanation for the delay;</content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">all notifications and information provided to the Secretary under section 60122; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">a description of all actions taken by the Secretary under the administrative authority granted by paragraphs (4), (5), and (6) of section 60123(a).</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Classified Annexes.—</heading><content style="-uslm-dtd:text">Each report under subsection (a) may include classified annexes as necessary to protect the disclosure of sensitive or classified information.</content>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Sunset.—</heading><content style="-uslm-dtd:text">The reporting requirement under this section terminates effective September 30, 2020.”</content>
+                        </subsection>
+                    </section></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tII/s201/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents of chapter 601 is amended by inserting after the item relating to section 60125 the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“60126.</designator><label> Annual reports.”</label></referenceItem>
+                    </toc></quotedContent>.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tII/s202" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">STATUTORY UPDATE REPORT. </heading>
+                <content style="-uslm-dtd:text" class="block">Not later than 1 year after the date of enactment of this Act, the Secretary of Commerce, in consultation with the heads of other appropriate Federal agencies and the National Oceanic and Atmospheric Administration’s Advisory Committee on Commercial Remote Sensing, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on statutory updates necessary to license private remote sensing space systems. In preparing the report, the Secretary shall    take into account the need to protect national security while maintaining United States private sector leadership in the field, and reflect the current state of the art of remote sensing systems, instruments, or technologies.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/90/tIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">OFFICE OF SPACE COMMERCE </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tIII/s301" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><heading style="-uslm-dtd:header">RENAMING OF OFFICE OF SPACE COMMERCIALIZATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tIII/s301/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Chapter Heading.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tIII/s301/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Amendment.—</heading><content style="-uslm-dtd:text">The heading for chapter 507 is amended by striking “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">COMMERCIALIZATION</headingText></quotedText>” and inserting “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">COMMERCE</headingText></quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/90/tIII/s301/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Conforming amendment.—</heading><content style="-uslm-dtd:text">The item relating to chapter 507 in the table of chapters for title 51 is amended by striking “<quotedText style="-uslm-dtd:quote">Commercialization</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Commerce</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tIII/s301/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50701">51 U.S.C. 50701</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Definition of Office.—</heading><content style="-uslm-dtd:text">Section 50701 is amended by striking “<quotedText style="-uslm-dtd:quote">Commercialization</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Commerce</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tIII/s301/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s50702">51 U.S.C. 50702</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Renaming.—</heading><content style="-uslm-dtd:text">Section 50702(a) is amended by striking “<quotedText style="-uslm-dtd:quote">Commercialization</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Commerce</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tIII/s302" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><heading style="-uslm-dtd:header">FUNCTIONS OF THE OFFICE OF SPACE COMMERCE. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 50702(c) is amended by striking “<quotedText style="-uslm-dtd:quote">Commerce.</quotedText>” and inserting<quotedContent style="-uslm-dtd:quoted-block" class="inline"><chapeau style="-uslm-dtd:text">“Commerce, including—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">to foster the conditions for the economic growth and technological advancement of the United States space commerce industry;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">to coordinate space commerce policy issues and actions within the Department of Commerce;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">to represent the Department of Commerce in the development of United States policies and in negotiations with foreign countries to promote United States space commerce;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">to promote the advancement of United States geospatial technologies related to space commerce, in cooperation with relevant interagency working groups; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">to provide support to Federal Government organizations working on Space-Based Positioning Navigation, and Timing policy, including the National Coordination Office for Space-Based Position, Navigation, and Timing.”</content>
+                </paragraph></quotedContent>.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/90/tIV" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">SPACE RESOURCE EXPLORATION AND UTILIZATION </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tIV/s401" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s10101">51 U.S.C. 10101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title may be cited as the “<shortTitle style="-uslm-dtd:quote">Space Resource Exploration and Utilization Act of 2015</shortTitle>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tIV/s402" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="402">SEC. 402. </num><heading style="-uslm-dtd:header">TITLE 51 AMENDMENT. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tIV/s402/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Subtitle V is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <chapter style="-uslm-dtd:chapter">
+                        <num style="-uslm-dtd:enum" value="513">“CHAPTER 513—</num><heading style="-uslm-dtd:header">SPACE RESOURCE COMMERCIAL EXPLORATION AND UTILIZATION </heading>
+                        <toc style="-uslm-dtd:toc">
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>“Sec.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“51301.</designator><label> Definitions.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“51302.</designator><label> Commercial exploration and commercial recovery.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“51303.</designator><label> Asteroid resource and space resource rights.</label></referenceItem>
+                        </toc>
+                        <section style="-uslm-dtd:section" styleType="USC" role="definitions">
+                            <num style="-uslm-dtd:enum" value="51301">“§ 51301. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s51301">51 U.S.C. 51301</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Definitions </heading>
+                            <chapeau style="-uslm-dtd:text" class="block">“In this chapter:</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Asteroid resource.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">asteroid resource</term>’ means a space resource found on or within a single asteroid.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Space resource.—</heading>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">space resource</term>’ means an abiotic resource in situ in outer space.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Inclusions.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">space resource</term>’ includes water and minerals.</content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">United states citizen.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">United States citizen</term>’ has the meaning given the term ‘<term style="-uslm-dtd:quote">citizen of the United States</term>’ in section 50902.</content>
+                            </paragraph>
+                        </section>
+                        <section style="-uslm-dtd:section" styleType="USC">
+                            <num style="-uslm-dtd:enum" value="51302">“§ 51302. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t51/s51302">51 U.S.C. 51302</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Commercial exploration and commercial recovery </heading>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The President, acting through appropriate Federal agencies, shall—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">facilitate commercial exploration for and commercial recovery of space resources by United States citizens;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">discourage government barriers to the development in the United States of economically viable, safe, and stable industries for commercial exploration for and commercial recovery of space resources in manners consistent with the international obligations of the United States; and</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">promote the right of United States citizens to engage in commercial exploration for and commercial recovery of space resources free from harmful interference, in accordance with the international obligations of the United States and subject to authorization and continuing supervision by the Federal Government.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this section, the President shall submit to Congress a report on commercial exploration for and commercial recovery of space resources by United States citizens that specifies—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">the authorities necessary to meet the international obligations of the United States, including authorization and continuing supervision by the Federal Government; and</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">recommendations for the allocation of responsibilities among Federal agencies for the activities described in paragraph (1).</content>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <section style="-uslm-dtd:section" styleType="USC">
+                            <num style="-uslm-dtd:enum" value="51303">“§ 51303. </num><heading style="-uslm-dtd:header">Asteroid resource and space resource rights </heading>
+                            <content style="-uslm-dtd:text" class="block">“A United States citizen engaged in commercial recovery of an asteroid resource or a space resource under this chapter shall be entitled to any asteroid resource or space resource obtained, including to possess, own, transport, use, and sell the asteroid resource or space resource obtained in accordance with applicable law, including the international obligations of the United States.”</content>
+                        </section>
+                    </chapter></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/90/tIV/s402/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of chapters.—</heading><content style="-uslm-dtd:text">The table of chapters for title 51 is amended by adding at the end of the items for subtitle V the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“513.</designator><label> Space resource commercial exploration and utilization”</label></referenceItem>
+                    </toc></quotedContent>.<toc style="-uslm-dtd:toc">
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>51301</label></referenceItem></toc></content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/90/tIV/s403" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="403">SEC. 403. </num><heading style="-uslm-dtd:header">DISCLAIMER OF EXTRATERRITORIAL SOVEREIGNTY. </heading>
+                <content style="-uslm-dtd:text" class="block">It is the sense of Congress that by the enactment of this Act, the United States does not thereby assert sovereignty or sovereign or exclusive rights or jurisdiction over, or the ownership of, any celestial body.</content>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

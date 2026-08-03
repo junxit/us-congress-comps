@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>PROTECT ACT</dc:title>
+        <citableAs>Public Law 108–21, as amended</citableAs>
+        <citableAs>117 Stat. 650, as amended</citableAs>
+        <citableAsShortTitle>PROTECT ACT</citableAsShortTitle>
+        <docNumber>21</docNumber>
+        <currentThroughPublicLaw>116–283</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act of 2003</containsShortTitle>
+        <containsShortTitle>PROTECT Act</containsShortTitle>
+        <containsShortTitle>Code Adam Act of 2003</containsShortTitle>
+        <containsShortTitle>SAFE ID Act</containsShortTitle>
+        <containsShortTitle>Secure Authentication Feature and Enhanced Identification Defense Act of 2003</containsShortTitle>
+        <containsShortTitle>Illicit Drug Anti-Proliferation Act of 2003</containsShortTitle>
+        <property role="fileId">9275</property>
+        <congress>108</congress>
+        <approvedDate>2003-04-30</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">PROTECT ACT</property>
+        <editorialNote style="-uslm-dtd:legis-comment">[PROSECUTORIAL REMEDIES AND OTHER TOOLS TO END THE EXPLOITATION OF CHILDREN TODAY ACT OF 2003 (PROTECT ACT)]</editorialNote>
+        <citationNote style="-uslm-dtd:public-law">[<citableAs>P.L. 108–21</citableAs>; <citableAs>117 Stat. 650</citableAs>]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 116–283</currentThroughPublicLaw>, Enacted <date date="2021-01-01">January 1, 2021</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 108–21. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">to prevent child abduction and the sexual exploitation of children, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t18/s1">18 U.S.C. 1 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act of 2003</inline></shortTitle>” or “<shortTitle style="-uslm-dtd:quote">PROTECT Act</shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 2.</designator><label> Severability.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>SANCTIONS AND OFFENSES</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Supervised release term for sex offenders.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> First degree murder for child abuse and child torture murders.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Sexual abuse penalties.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Stronger penalties against kidnapping.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 105.</designator><label> Penalties against sex tourism.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 106.</designator><label> Two strikes you're out.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 107.</designator><label> Attempt liability for international parental kidnapping.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 108.</designator><label> Pilot program for national criminal history background checks and feasibility study.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>INVESTIGATIONS AND PROSECUTIONS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Interceptions of communications in investigations of sex offenses.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> No statute of limitations for child abduction and sex crimes.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 203.</designator><label> No pretrial release for those who rape or kidnap children.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 204.</designator><label> Suzanne's law.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>PUBLIC OUTREACH</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>AMBER Alert</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> National coordination of AMBER alert communications network.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Minimum standards for issuance and dissemination of alerts through AMBER alert communications network.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 303.</designator><label> Grant program for notification and communications systems along highways and major transportation routes for recovery of abducted children.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 304.</designator><label> Grant program for support of AMBER alert communications plans.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 305.</designator><label> Limitation on liability.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>National Center for Missing and Exploited Children</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 321.</designator><label> Increased support.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 322.</designator><label> Forensic and investigative support of missing and exploited children.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 323.</designator><label> Creation of cyber tipline.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle C—</designator><label>Sex Offender Apprehension Program</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 341.</designator><label> Authorization.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle D—</designator><label>Missing Children Procedures in Public Buildings</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 361.</designator><label> Short title.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 362.</designator><label> Definitions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 363.</designator><label> Procedures in public buildings regarding a missing or lost child.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle E—</designator><label>Child Advocacy Center Grants</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 381.</designator><label> Information and documentation required by Attorney General under Victims of Child Abuse Act of 1990.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE IV—</designator><label>SENTENCING REFORM</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 401.</designator><label> Sentencing reform.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE V—</designator><label>OBSCENITY AND PORNOGRAPHY</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Child Obscenity and Pornography Prevention</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 501.</designator><label> Findings.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 502.</designator><label> Improvements to prohibition on virtual child pornography.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 503.</designator><label> Certain activities relating to material constituting or containing child pornography.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 504.</designator><label> Obscene child pornography.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 505.</designator><label> Admissibility of evidence.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 506.</designator><label> Extraterritorial production of child pornography for distribution in the United States.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 507.</designator><label> Strengthening enhanced penalties for repeat offenders.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 508.</designator><label> Service provider reporting of child pornography and related information.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 509.</designator><label> Investigative authority relating to child pornography.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 510.</designator><label> Civil remedies.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 511.</designator><label> Recordkeeping requirements.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 512.</designator><label> Sentencing enhancements for interstate travel to engage in sexual act with a juvenile.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 513.</designator><label> Miscellaneous provisions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Truth in Domain Names</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 521.</designator><label> Misleading domain names on the Internet.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE VI—</designator><label>MISCELLANEOUS PROVISIONS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 601.</designator><label> Penalties for use of minors in crimes of violence.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 602.</designator><label> Sense of Congress.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 603.</designator><label> Communications Decency Act of 1996.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 604.</designator><label> Internet availability of information concerning registered sex offenders.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 605.</designator><label> Registration of child pornographers in the national sex offender registry.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 606.</designator><label> Grants to States for costs of compliance with new sex offender registry requirements.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 607.</designator><label> Safe ID Act.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 608.</designator><label> Illicit Drug Anti-Proliferation Act.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 609.</designator><label> Definition of vehicle.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 610.</designator><label> Authorization of John Doe DNA indictments.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 611.</designator><label> Transitional housing assistance grants for child victims of domestic violence, stalking, or sexual assault.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t18/s1">18 U.S.C. 1 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SEVERABILITY. </heading>
+            <content style="-uslm-dtd:text" class="block">If any provision of this Act, or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.</content>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/108/21/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">SANCTIONS AND OFFENSES </heading>
+            <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tI/s104" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">STRONGER PENALTIES AGAINST KIDNAPPING. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tI/s104/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t28/s994">28 U.S.C. 994 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Sentencing Guidelines.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding any other provision of law regarding the amendment of Sentencing Guidelines, the United States Sentencing Commission is directed to amend the Sentencing Guidelines, to take effect on the date that is 30 days after the date of the enactment of this Act—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s104/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">so that the base offense level for kidnapping in section 2A4.1(a) is increased from level 24 to level 32;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s104/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">so as to delete section 2A4.1(b)(4)(C); and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s104/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">so that the increase provided by section 2A4.1(b)(5) is 6 levels instead of 3.</content>
+                        <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tI/s108" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="108">SEC. 108. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t34/s40102">34 U.S.C. 40102 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PILOT PROGRAM FOR NATIONAL CRIMINAL HISTORY BACKGROUND CHECKS AND FEASIBILITY STUDY. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tI/s108/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment of Pilot Program.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than 90 days after the date of the enactment of this Act, the Attorney General shall establish a pilot program for volunteer groups to obtain national and State criminal history background checks through a 10-fingerprint check to be conducted utilizing State criminal records and the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">State pilot program.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Attorney General shall designate 3 States as participants in a 30-month State pilot program.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Volunteer organization requests.—</heading><content style="-uslm-dtd:text">A volunteer organization in one of the 3 States participating in the State pilot program under this paragraph that is part of the Boys and Girls Clubs of America, the National Mentoring Partnerships, or the National Council of Youth Sports may submit a request for a 10-fingerprint check from the participating State.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">State check.—</heading><content style="-uslm-dtd:text">The participating State under this paragraph after receiving a request under subparagraph (B) shall conduct a State background check and submit a request that a Federal check be performed through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation, to the Attorney General, in a manner to be determined by the Attorney<br style="-uslm-dtd:linebreak" /> General.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Information provided.—</heading><content style="-uslm-dtd:text">Under procedures established by the Attorney General, any criminal history record information resulting from the State and Federal check under subparagraph (C) shall be provided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/2/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><heading style="-uslm-dtd:header">Costs.—</heading><content style="-uslm-dtd:text">A State may collect a fee to perform a criminal background check under this paragraph which may not exceed the actual costs to the State to perform such a check.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/2/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><heading style="-uslm-dtd:header">Timing.—</heading><content style="-uslm-dtd:text">For any background check performed under this paragraph, the State shall provide the State criminal record information to the Attorney General within 7 days after receiving the request from the organization, unless the Attorney General determines during the feasibility study that such a check cannot reasonably be performed within that time period. The Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 7 business days after receiving the request from the State.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Child safety pilot program.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Attorney General shall establish a 104-month Child Safety Pilot Program that shall provide for the processing of 200,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Participating organizations.—</heading>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tI/s108/a/3/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Eligible organizations.—</heading><chapeau style="-uslm-dtd:text">Eligible organizations include—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/108/21/tI/s108/a/3/B/i/I" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the Boys and Girls Clubs of America;</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/108/21/tI/s108/a/3/B/i/II" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the MENTOR/National Mentoring Partnership;</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/108/21/tI/s108/a/3/B/i/III" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">the National Council of Youth Sports; and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/108/21/tI/s108/a/3/B/i/IV" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">any nonprofit organization that provides care, as that term is defined in section 5 of the National Child Protection Act of 1993 (42 U.S.C. 5119c), for children.</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tI/s108/a/3/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Pilot program.—</heading><content style="-uslm-dtd:text">The eligibility of an organization described in clause (i)(IV) to participate in the pilot program established under this section shall be determined by the National Center for Missing and Exploited Children, with the rejection or concurrence within 30 days of the Attorney General, according to criteria established by such Center, including the potential number of applicants and suitability of the organization to the intent of this section. If the Attorney General fails to reject or concur within 30 days, the determination of the National Center for Missing and Exploited Children shall be conclusive.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/3/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Applicants from participating organizations.—</heading><content style="-uslm-dtd:text">Participating organizations may request background checks on applicants for positions as volunteers and employees who will be working with children or supervising volunteers.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/3/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Procedures.—</heading><content style="-uslm-dtd:text">The Attorney General shall notify participating organizations of a process by which the organizations may provide fingerprint cards to the Attorney General.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/3/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><heading style="-uslm-dtd:header">Volunteer information required.—</heading><chapeau style="-uslm-dtd:text">An organization authorized to request a background check under this paragraph shall—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tI/s108/a/3/E/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">forward to the Attorney General the volunteer's fingerprints; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tI/s108/a/3/E/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">obtain a statement completed and signed by the volunteer that—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/108/21/tI/s108/a/3/E/ii/I" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">sets out the provider or volunteer's name, address, date of birth appearing on a valid identification document as defined in section 1028 of title 18, United States Code, and a photocopy of the valid identifying document;</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/108/21/tI/s108/a/3/E/ii/II" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">states whether the volunteer has a criminal record, and, if so, sets out the particulars of such record;</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/108/21/tI/s108/a/3/E/ii/III" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">notifies the volunteer that the Attorney General may perform a criminal history background check and that the volunteer's signature to the statement constitutes an acknowledgment that such a check may be conducted;</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/108/21/tI/s108/a/3/E/ii/IV" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">notifies the volunteer that prior to and after the completion of the background check, the organization may choose to deny the provider access to children; and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/108/21/tI/s108/a/3/E/ii/V" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="V">(V) </num><content style="-uslm-dtd:text">notifies the volunteer of his right to correct an erroneous record held by the Attorney General.</content>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/3/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><heading style="-uslm-dtd:header">Timing.—</heading><content style="-uslm-dtd:text">For any background checks performed under this paragraph, the Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 10 business days after receiving the request from the organization.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/a/3/G" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><heading style="-uslm-dtd:header">Determinations of fitness.—</heading>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tI/s108/a/3/G/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Consistent with the privacy protections delineated in the National Child Protection Act (42 U.S.C. 5119), the National Center for Missing and Exploited Children may make a determination whether the criminal history record information received in response to the criminal history background checks conducted under this paragraph indicates that the provider or volunteer has a criminal history record that renders the provider or volunteer unfit to provide care to children based upon criteria established jointly by, the National Center for Missing and Exploited Children, the Boys and Girls Clubs of America, the National Mentoring Partnership, and the National Council of Youth Sports.</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tI/s108/a/3/G/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Child safety pilot program.—</heading><content style="-uslm-dtd:text">The National Center for Missing and Exploited Children shall convey that determination to the organizations making requests under this paragraph.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Fees collected by attorney general.—</heading><content style="-uslm-dtd:text">The Attorney General may collect a fee which may not exceed $18 to cover the cost to the Federal Bureau of Investigation to conduct the background check under paragraph (2) or (3).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tI/s108/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Rights of Volunteers.—</heading><chapeau style="-uslm-dtd:text">Each volunteer who is the subject of a criminal history background check under this section is entitled to contact the Attorney General to initiate procedures to—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">obtain a copy of their criminal history record report; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">challenge the accuracy and completeness of the criminal history record information in the report.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tI/s108/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated such sums as may be necessary to the National Center for Missing and Exploited Children for fiscal years 2004 through 2008 to carry out the requirements of this section.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">State program.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated such sums as may be necessary to the Attorney General for the States designated in subsection (a)(1) for fiscal years 2004 and 2005 to establish and enhance fingerprint technology infrastructure of the participating State.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tI/s108/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Feasibility Study for a System of Background Checks for Employees and Volunteers.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Study required.—</heading><chapeau style="-uslm-dtd:text">The Attorney General shall conduct a feasibility study within 180 days after the date of the enactment of this Act. The study shall examine, to the extent discernible, the following:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The current state of fingerprint capture and processing at the State and local level, including the current available infrastructure, State system capacities, and the time for each State to process a civil or volunteer print from the time of capture to submission to the Federal Bureau of Investigation (FBI).</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The intent of the States concerning participation in a nationwide system of criminal background checks to provide information to qualified entities.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">The number of volunteers, employees, and other individuals that would require a fingerprint-based criminal background check.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">The impact on the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation  in terms of capacity and impact on other users of the system, including the effect on Federal Bureau of Investigation work practices and staffing levels.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">The current fees charged by the Federal Bureau of Investigation, States and local agencies, and private companies to process fingerprints and conduct background checks.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">The existence of “<quotedText style="-uslm-dtd:quote">model</quotedText>” or best practice programs which could easily be expanded and duplicated in other States.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/G" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">The extent to which private companies are currently performing background checks and the possibility of using private companies in the future to perform any of the background check process, including, but not limited to, the capture and transmission of fingerprints and fitness determinations.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/H" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">The cost of development and operation of the technology and the infrastructure necessary to establish a nationwide fingerprint-based and other criminal background check system.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/I" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">The extent of State participation in the procedures for background checks authorized in the National Child Protection Act (Public Law 103–209), as amended by the Volunteers for Children Act (sections 221 and 222 of Public Law 105–251).</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/J" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="J">(J) </num><content style="-uslm-dtd:text">The extent to which States currently provide access to nationwide criminal history background checks to organizations that serve children.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/K" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="K">(K) </num><content style="-uslm-dtd:text">The extent to which States currently permit volunteers to appeal adverse fitness determinations, and whether similar procedures are required at the Federal level.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/L" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="L">(L) </num><content style="-uslm-dtd:text">The implementation of the 2 pilot programs created in subsection (a).</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/M" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="M">(M) </num><content style="-uslm-dtd:text">Any privacy concerns that may arise from nationwide criminal background checks.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/N" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="N">(N) </num><content style="-uslm-dtd:text">Any other information deemed relevant by the Department of Justice.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tI/s108/d/1/O" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="O">(O) </num><content style="-uslm-dtd:text">The extent of participation by eligible organizations in the state pilot program.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Interim report.—</heading><content style="-uslm-dtd:text">Based on the findings of the feasibility study under paragraph (1), the Attorney General shall, not later than 180 days after the date of the enactment of this Act, submit to Congress an interim report, which may include recommendations for a pilot project to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/d/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Final report.—</heading><content style="-uslm-dtd:text">Based on the findings of the pilot project, the Attorney General shall, not later than 60 days after completion of the pilot project under this section, submit to Congress a final report, including recommendations, which may include a proposal for grants to the States to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled, and which may include recommendations for amendments to the National Child Protection Act and the Volunteers for Children Act so that qualified entities can promptly and affordably conduct nationwide criminal history background checks on their employees and volunteers.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tI/s108/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Limitation on Liability.—</heading><chapeau style="-uslm-dtd:text">In connection with the Pilot Programs established under this section, in reliance upon the fitness criteria established under section 108(a)(3)(G)(i), and except upon proof of actual malice or intentional misconduct, the National Center for Missing and Exploited Children, or a director, officer, employee, or agent of the Center shall not be liable in any civil action for damages—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">arising from any act or communication by the Center, the director, officer, employee, or agent that results in or contributes to a decision that an individual is unfit to serve as a volunteer for any volunteer organization;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">alleging harm arising from a decision based on the information in an individual's criminal history record that an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent is furnished with an individual's criminal history records which they know to be inaccurate or incomplete, or which they know reflect a lesser crime than that for which the individual was arrested; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tI/s108/e/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">alleging harm arising from a decision that, based on the absence of criminal history information, an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent knows that criminal history records exist and have not been furnished as required under this section.</content>
+                        <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/108/21/tIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">PUBLIC OUTREACH </heading>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/108/21/tIII/stA" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="A">Subtitle A—</num><heading style="-uslm-dtd:header">AMBER Alert </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tIII/stA/s301" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t34/s20501">34 U.S.C. 20501</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL COORDINATION OF AMBER ALERT COMMUNICATIONS NETWORK. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s301/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Coordination Within Department of Justice.—</heading><content style="-uslm-dtd:text">The Attorney General shall assign an officer of the Department of Justice to act as the national coordinator of the AMBER Alert communications network regarding abducted children. The officer so designated shall be known as the AMBER Alert Coordinator of the Department of Justice.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s301/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Duties.—</heading><chapeau style="-uslm-dtd:text">In acting as the national coordinator of the AMBER Alert communications network, the Coordinator shall—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s301/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">seek to eliminate gaps in the network, including gaps in areas of interstate travel (including airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States);</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s301/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">work with States, territories of the United States, and tribal governments to encourage the development of additional elements (known as local AMBER plans) in the network;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s301/b/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">work with States, territories of the United States, and tribal governments to ensure appropriate regional coordination of various elements of the network; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s301/b/4" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">act as the nationwide point of contact for—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stA/s301/b/4/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the development of the network; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stA/s301/b/4/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">regional coordination of alerts on abducted children through the network.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s301/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Consultation With Federal Bureau of Investigation.—</heading><content style="-uslm-dtd:text">In carrying out duties under subsection (b), the Coordinator shall notify and consult with the Director of the Federal Bureau of Investigation concerning each child abduction for which an alert is issued through the AMBER Alert communications network.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s301/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Cooperation.—</heading><content style="-uslm-dtd:text">The Coordinator shall cooperate with the Secretary of Transportation, the Secretary of Homeland Security, and the Federal Communications Commission in carrying out activities under this section.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s301/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than March 1, 2005, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the AMBER plans of each State that has implemented such a plan. The Coordinator shall prepare the report in consultation with the Secretary of Transportation.</content>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tIII/stA/s302" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t34/s20502">34 U.S.C. 20502</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">MINIMUM STANDARDS FOR ISSUANCE AND DISSEMINATION OF ALERTS THROUGH AMBER ALERT COMMUNICATIONS NETWORK. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s302/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment of Minimum Standards.—</heading><chapeau style="-uslm-dtd:text">Subject to subsection (b), the AMBER Alert Coordinator of the Department of Justice shall establish minimum standards for—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s302/a/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the issuance of alerts through the AMBER Alert communications network; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s302/a/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the extent of the dissemination of alerts issued through the network.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s302/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Limitations.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s302/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The minimum standards established under subsection (a) shall be adoptable on a voluntary basis only.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s302/b/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State, territorial, tribal, and local law enforcement agencies), provide that appropriate information relating to the special needs of an abducted child (including health care needs) are disseminated to the appropriate law enforcement, public health, and other public officials.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s302/b/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State, territorial, tribal, and local law enforcement agencies), provide that the dissemination of an alert through the AMBER Alert communications network be limited to the geographic areas most likely to facilitate the recovery of the abducted child concerned.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s302/b/4" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">In carrying out activities under subsection (a), the Coordinator may not interfere with the current system of voluntary coordination between local broadcasters and State, territorial, tribal, and local law enforcement agencies for purposes of the AMBER Alert communications network.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s302/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Cooperation.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s302/c/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Coordinator shall cooperate with the Secretary of Transportation, the Secretary of Homeland Security, and the Federal Communications Commission in carrying out activities under this section.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s302/c/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The Coordinator shall also cooperate with local broadcasters and State, territorial, tribal, and local law enforcement agencies in establishing minimum standards under this section.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tIII/stA/s303" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="303">SEC. 303. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t34/s20503">34 U.S.C. 20503</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">GRANT PROGRAM FOR NOTIFICATION AND COMMUNICATIONS SYSTEMS ALONG HIGHWAYS AND MAJOR TRANSPORTATION ROUTES FOR RECOVERY OF ABDUCTED CHILDREN. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s303/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Program Required.—</heading><content style="-uslm-dtd:text">The Secretary of Transportation (referred to in this section as the “<quotedText style="-uslm-dtd:quote">Secretary</quotedText>”) shall carry out a program to provide grants to States for the development or enhancement of notification or communications systems along highways and at airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States for alerts and other information for the recovery of abducted children.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s303/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Development Grants.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s303/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary may make a grant to a State under this subsection for the development of a State program for the use of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children. The State program shall provide for the planning, coordination, and design of systems, protocols, and message sets that support the coordination and communication necessary to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s303/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Eligible activities.—</heading><chapeau style="-uslm-dtd:text">A grant under this subsection may be used by a State for the following purposes:</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stA/s303/b/2/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">To develop general policies and procedures to guide the use of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stA/s303/b/2/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">To develop guidance or policies on the content and format of alert messages to be conveyed on changeable message signs or other traveler information systems.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stA/s303/b/2/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">To coordinate State, regional, and local plans for the use of changeable message signs or other transportation related issues.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stA/s303/b/2/D" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">To plan secure and reliable communications systems and protocols among public safety and transportation agencies or modify existing communications systems to support the notification of motorists, aircraft passengers, ship passengers, and travelers about abductions of children.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stA/s303/b/2/E" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">To plan and design improved systems for communicating with motorists, aircraft passengers, ship passengers, and travelers, including the capability for issuing wide area alerts to motorists, aircraft passengers, ship passengers, and travelers.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stA/s303/b/2/F" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">To plan systems and protocols to facilitate the efficient issuance of child abduction notification and other key information to motorists, aircraft passengers, ship passengers, and travelers during off-hours.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stA/s303/b/2/G" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">To provide training and guidance to transportation authorities to facilitate appropriate use of changeable message signs and other traveler information systems for the notification of motorists, aircraft passengers, ship passengers, and travelers about abductions of children.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s303/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Implementation Grants.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s303/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary may make a grant to a State under this subsection for the implementation of a program for the use of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children. A State shall be eligible for a grant under this subsection if the Secretary determines that the State has developed a State program in accordance with subsection (b).</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s303/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Eligible activities.—</heading><content style="-uslm-dtd:text">A grant under this subsection may be used by a State to support the implementation of systems that use changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children. Such support may include the purchase and installation of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s303/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Federal Share.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s303/d/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in paragraph (2), the Federal share of the cost of any activities funded by a grant under this section may not exceed 80 percent.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s303/d/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Waiver.—</heading><content style="-uslm-dtd:text">If the Secretary determines that American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, or the Virgin Islands of the United States is unable to comply with the requirement under paragraph (1), the Secretary shall waive such requirement.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s303/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Distribution of Grant Amounts.—</heading><content style="-uslm-dtd:text">The Secretary shall, to the maximum extent practicable, distribute grants under this section equally among the States that apply for a grant under this section within the time period prescribed by the Secretary.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s303/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Administration.—</heading><content style="-uslm-dtd:text">The Secretary shall prescribe requirements, including application requirements, for the receipt of grants under this section.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s303/g" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Definition.—</heading><content style="-uslm-dtd:text">In this subtitle, the term “<term style="-uslm-dtd:term">State</term>” means any of the 50 States, the District of Columbia, American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory of the United States.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s303/h" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 for each of fiscal years 2019 through 2023. Such amounts shall remain available until expended.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s303/i" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Study of State Programs.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s303/i/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Study.—</heading><content style="-uslm-dtd:text">The Secretary shall conduct a study to examine State barriers to the adoption and implementation of State programs for the use of communications systems along highways for alerts and other information for the recovery of abducted children.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s303/i/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the study, together with any recommendations the Secretary determines appropriate.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tIII/stA/s304" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="304">SEC. 304. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t34/s20504">34 U.S.C. 20504</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">GRANT PROGRAM FOR SUPPORT OF AMBER ALERT COMMUNICATIONS PLANS. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s304/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Program Required.—</heading><chapeau style="-uslm-dtd:text">The Attorney General shall carry out a program to provide grants to States and Indian tribes for—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s304/a/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the development or enhancement of programs and activities for the support of AMBER Alert
+ communications plans; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s304/a/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the integration of tribal AMBER Alert systems into State AMBER Alert systems.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s304/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Activities.—</heading><chapeau style="-uslm-dtd:text">Activities funded by grants under the program under subsection (a) may include—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s304/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the development and implementation of education and training programs, and associated materials, relating to AMBER Alert communications plans;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s304/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the development and implementation of law enforcement programs, and associated equipment, relating to AMBER Alert communications plans;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s304/b/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the development and implementation of new technologies to improve AMBER Alert communications; </content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s304/b/4" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the integration of State or regional AMBER Alert communication plans with a territorial government or an Indian tribe; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s304/b/5" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">such other activities as the Attorney General considers appropriate for supporting the AMBER Alert communications program.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s304/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Federal Share.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s304/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in paragraph (2), the Federal share of the cost of any activities funded by a grant under this section may not exceed 50 percent.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s304/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Waiver.—</heading><content style="-uslm-dtd:text">If the Attorney General determines that American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, or an Indian tribe is unable to comply with the requirement under paragraph (1), the Attorney General shall waive such requirement.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s304/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Distribution of Grant Amounts on Geographic Basis.—</heading><content style="-uslm-dtd:text">The Attorney General shall, to the maximum extent practicable, ensure the distribution of grants under the program under subsection (a) on an equitable basis throughout the various regions of the United States, including territories of the United States.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s304/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Administration.—</heading><content style="-uslm-dtd:text">The Attorney General shall prescribe requirements, including application requirements, and standards to improve accountability and transparency for grants awarded under the program under subsection (a).</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s304/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Definition of Indian Tribe.—</heading><content style="-uslm-dtd:text">In this section, the term “<term style="-uslm-dtd:term">Indian tribe</term>” means a federally recognized Indian tribe or a Native village, Regional Corporation, or Village
+ Corporation (as those terms are defined in section 3 of the Alaska Native
+ Claims Settlement Act (43 U.S.C. 1602)).</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s304/g" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s304/g/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">There is authorized to be appropriated for the Department of Justice $5,000,000 for fiscal year 2019 to carry out this section and, in addition, $5,000,000 for fiscal year 2019 to carry out paragraphs (3) and (4) of subsection (b).</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stA/s304/g/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until expended.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tIII/stA/s305" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="305">SEC. 305. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t34/s20505">34 U.S.C. 20505</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">LIMITATION ON LIABILITY. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s305/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Except as provided in subsection (b), the National Center for Missing and Exploited Children, including any of its officers, employees, or agents, shall not be liable for damages in any civil action for defamation, libel, slander, or harm to reputation arising out of any action or communication by the National Center for Missing and Exploited Children, its officers, employees, or agents, in connection with any clearinghouse, hotline or complaint intake or forwarding program or in connection with activity that is wholly or partially funded by the United States and undertaken in cooperation with, or at the direction of a Federal law enforcement agency.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stA/s305/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">The limitation in subsection (a) does not apply in any action in which the plaintiff proves that the National Center for Missing and Exploited Children, its officers, employees, or agents acted with actual malice, or provided information or took action for a purpose unrelated to an activity mandated by Federal law. For purposes of this subsection, the prevention, or detection of crime, and the safety, recovery, or protection of missing or exploited children shall be deemed, per se, to be an activity mandated by Federal law.</content>
+                        <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                    </subsection>
+                </section>
+            </subtitle>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/108/21/tIII/stD" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="D">Subtitle D—</num><heading style="-uslm-dtd:header">Missing Children Procedures in Public Buildings </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tIII/stD/s361" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="361">SEC. 361. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t40/s3101">40 U.S.C. 3101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                    <content style="-uslm-dtd:text" class="block">This subtitle may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Code Adam Act of 2003</inline></shortTitle>”.</content>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tIII/stD/s362" styleType="OLC" role="definitions">
+                    <num style="-uslm-dtd:enum" value="362">SEC. 362. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t40/s3101">40 U.S.C. 3101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">In this subtitle, the following definitions apply:</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s362/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Child.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">child</term>” means an individual who is 17 years of age or younger.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s362/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Code adam alert.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Code Adam alert</term>” means a set of procedures used in public buildings to alert employees and other users of the building that a child is missing.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s362/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Designated authority.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">designated authority</term>” means—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stD/s362/3/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">with respect to a public building owned or leased for use by an Executive agency—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tIII/stD/s362/3/A/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">except as otherwise provided in this paragraph, the Administrator of General Services;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tIII/stD/s362/3/A/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in the case of the John F. Kennedy Center for the Performing Arts,  the Board of Trustees of the John F. Kennedy Center for the Performing Arts;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tIII/stD/s362/3/A/iii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">in the case of buildings under the jurisdiction, custody, and control of the Smithsonian Institution, the Board of Regents of the Smithsonian Institution; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tIII/stD/s362/3/A/iv" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">in the case of another public building for which an Executive agency has, by specific or general statutory authority, jurisdiction, custody, and control over the building, the head of that agency;</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stD/s362/3/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">with respect to the Supreme Court Building, the Marshal of the Supreme Court; with respect to the Thurgood Marshall Federal Judiciary Building, the Director of the Administrative Office of United States Courts; and with respect to all other public buildings owned or leased for use by an establishment in the judicial branch of government, the General Services Administration in consultation with the United States Marshals Service; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIII/stD/s362/3/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">with respect to a public building owned or leased for use by an establishment in the legislative branch of government, the Capitol Police Board.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s362/4" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Executive agency.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Executive agency</term>” has the same meaning such term has under section 105 of title 5, United States Code.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s362/5" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Federal agency.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Federal agency</term>” means any Executive agency or any establishment in the legislative or judicial branches of the Government.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s362/6" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Public building.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">public building</term>” means any building (or portion thereof) owned or leased for use by a Federal agency.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tIII/stD/s363" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="363">SEC. 363. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t40/s3101">40 U.S.C. 3101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PROCEDURES IN PUBLIC BUILDINGS REGARDING A MISSING OR LOST CHILD. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stD/s363/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the designated authority for a public building shall establish procedures for locating a child that is missing in the building.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIII/stD/s363/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Notification and Search Procedures.—</heading><chapeau style="-uslm-dtd:text">Procedures established under this section shall provide, at a minimum, for the following:</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s363/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Notifying security personnel that a child is missing.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s363/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Obtaining a detailed description of the child, including name, age, eye and hair color, height, weight, clothing, and shoes.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s363/b/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Issuing a Code Adam alert and providing a description of the child, using a fast and effective means of communication.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s363/b/4" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Establishing a central point of contact.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s363/b/5" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">Monitoring all points of egress from the building while a Code Adam alert is in effect.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s363/b/6" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">Conducting a thorough search of the building.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s363/b/7" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">Contacting local law enforcement.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIII/stD/s363/b/8" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">Documenting the incident.</content>
+                            <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                        </paragraph>
+                    </subsection>
+                </section>
+            </subtitle>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/108/21/tIV" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">SENTENCING REFORM </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tIV/s401" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><heading style="-uslm-dtd:header">SENTENCING REFORM. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIV/s401/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">
+<elided style="-uslm-dtd:omitted-text">* * *</elided>
+</content>
+                    <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIV/s401/j" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="j">(j) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t28/s994">28 U.S.C. 994 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Conforming Amendments.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIV/s401/j/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Upon enactment of this Act, the Sentencing Commission shall forthwith distribute to all courts of the United States and to the United States Probation System the amendments made by subsections (b), (g), and (i) of this section to the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission.  These amendments shall take effect upon the date of enactment of this Act, in accordance with paragraph (5).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIV/s401/j/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">On or before May 1, 2005, the Sentencing Commission shall not promulgate any amendment to the sentencing guidelines, policy statements, or official commentary of the Sentencing Commission that is inconsistent with any amendment made by subsection (b) or that adds any new grounds of downward departure to Part K of chapter 5.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIV/s401/j/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">With respect to cases covered by the amendments made by subsection (i) of this section, the Sentencing Commission may make further amendments to the sentencing guidelines, policy statements, or official commentary of the Sentencing Commission, except that the Commission shall not promulgate any amendments that, with respect to such cases, would result in sentencing ranges that are lower than those that would have applied under such subsection.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIV/s401/j/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">At no time may the Commission promulgate any amendment that would alter or repeal the amendments made by subsection (g) of this section.</content>
+                        <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIV/s401/l" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="l">(l) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t18/s3553">18 U.S.C. 3553 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Report by Attorney General.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIV/s401/l/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Defined term.—</heading><chapeau style="-uslm-dtd:text">For purposes of this section, the term “<term style="-uslm-dtd:term">report described in paragraph (3)</term>” means a report, submitted by the Attorney General, which states in detail the policies and procedures that the Department of Justice has adopted subsequent to the enactment of this Act—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIV/s401/l/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to ensure that Department of Justice attorneys oppose sentencing adjustments, including downward departures, that are not supported by the facts and the law;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIV/s401/l/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to ensure that Department of Justice attorneys in such cases make a sufficient record so as to permit the possibility of an appeal;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIV/s401/l/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to delineate objective criteria, specified by the Attorney General, as to which such cases may warrant consideration of an appeal, either because of the nature or magnitude of the sentencing error, its prevalence in the district, or its prevalence with respect to a particular judge;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIV/s401/l/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">to ensure that Department of Justice attorneys promptly notify the designated Department of Justice component in Washington concerning such adverse sentencing decisions; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIV/s401/l/1/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">to ensure the vigorous pursuit of appropriate and meritorious appeals of such adverse decisions.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIV/s401/l/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Report required.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIV/s401/l/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than 15 days after a district court's grant of a downward departure in any case, other than a case involving a downward departure for substantial assistance to authorities pursuant to section 5K1.1 of the United States Sentencing Guidelines, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate containing the information described under subparagraph (B).</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIV/s401/l/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">The report submitted pursuant to subparagraph (A) shall set forth—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tIV/s401/l/2/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the case;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tIV/s401/l/2/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the facts involved;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tIV/s401/l/2/B/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the identity of the district court judge;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tIV/s401/l/2/B/iv" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">the district court's stated reasons, whether or not the court provided the United States with advance notice of its intention to depart; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/21/tIV/s401/l/2/B/v" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">the position of the parties with respect to the downward departure, whether or not the United States has filed, or intends to file, a motion for reconsideration.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIV/s401/l/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Appeal of the departure.—</heading><content style="-uslm-dtd:text">Not later than 5 days after a decision by the Solicitor General regarding the authorization of an appeal of the departure, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate that describes the decision of the Solicitor General and the basis for such decision.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIV/s401/l/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Effective date.—</heading><content style="-uslm-dtd:text">Paragraph (2) shall take effect on the day that is 91 days after the date of enactment of this Act, except that such paragraph shall not take effect if not more than 90 days after the date of enactment of this Act the Attorney General has submitted to the Judiciary Committees of the House of Representatives and the Senate the report described in paragraph (3).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIV/s401/m" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="m">(m) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t28/s994">28 U.S.C. 994 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Reform of Existing Permissible Grounds of Downward Departures.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the enactment of this Act, the United States Sentencing Commission shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIV/s401/m/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">review the grounds of downward departure that are authorized by the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIV/s401/m/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">promulgate, pursuant to section 994 of title 28, United States Code—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIV/s401/m/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">appropriate amendments to the sentencing guidelines, policy statements, and official commentary to ensure that the incidence of downward departures are substantially reduced;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIV/s401/m/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a policy statement authorizing a downward departure of not more than 4 levels if the Government files a motion for such departure pursuant to an early disposition program authorized by the Attorney General and the United States Attorney; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tIV/s401/m/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">any other conforming amendments to the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission necessitated by this Act, including a revision of paragraph 4(b) of part A of chapter 1 and a revision of section 5K2.0.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tIV/s401/n" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="n">(n) </num><heading style="-uslm-dtd:header">Composition of Sentencing Commission.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIV/s401/n/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Section 991(a) of title 28, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">At least three</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Not more than 3</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tIV/s401/n/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t28/s991">28 U.S.C. 991 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Applicability.—</heading><content style="-uslm-dtd:text">The amendment made under paragraph (1) shall not apply to any person who is serving, or who has been nominated to serve, as a member of the Sentencing Commission on the date of enactment of this Act.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/108/21/tV" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="V">TITLE V—</num><heading style="-uslm-dtd:header">OBSCENITY AND PORNOGRAPHY </heading>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/108/21/tV/stA" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="A">Subtitle A—</num><heading style="-uslm-dtd:header">Child Obscenity and Pornography Prevention </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tV/stA/s501" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="501">SEC. 501. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t18/s2251">18 U.S.C. 2251 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FINDINGS. </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">Congress finds the following:</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Obscenity and child pornography are not entitled to protection under the First Amendment under Miller v. California, 413 U.S. 15 (1973) (obscenity), or New York v. Ferber, 458 U.S. 747 (1982) (child pornography) and thus may be prohibited.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The Government has a compelling state interest in protecting children from those who sexually exploit them, including both child molesters and child pornographers. “<quotedText style="-uslm-dtd:quote">The prevention of sexual exploitation and abuse of children constitutes a government objective of surpassing importance,</quotedText>” New York v. Ferber, 458 U.S. 747, 757 (1982), and this interest extends to stamping out the vice of child pornography at all levels in the distribution chain. Osborne v. Ohio, 495 U.S. 103, 110 (1990).</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The Government thus has a compelling interest in ensuring that the criminal prohibitions against child pornography remain enforceable and effective. “<quotedText style="-uslm-dtd:quote">The most expeditious if not the only practical method of law enforcement may be to dry up the market for this material by imposing severe criminal penalties on persons selling, advertising, or otherwise promoting the product.</quotedText>” Ferber, 458 U.S. at 760.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/4" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">In 1982, when the Supreme Court decided Ferber, the technology did not exist to—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tV/stA/s501/4/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">computer generate depictions of children that are indistinguishable from depictions of real children;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tV/stA/s501/4/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">use parts of images of real children to create a composite image that is unidentifiable as a particular child and in a way that prevents even an expert from concluding that parts of images of real children were used; or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tV/stA/s501/4/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">disguise pictures of real children being abused by making the image look computer-generated.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/5" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">Evidence submitted to the Congress, including from the National Center for Missing and Exploited Children, demonstrates that technology already exists to disguise depictions of real children to make them unidentifiable and to make depictions of real children appear computer-generated. The technology will soon exist, if it does not already, to computer generate realistic images of children.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/6" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">The vast majority of child pornography prosecutions today involve images contained on computer hard drives, computer disks, and/or related media.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/7" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">There is no substantial evidence that any of the child pornography images being trafficked today were made other than by the abuse of real children. Nevertheless, technological advances since Ferber have led many criminal defendants to suggest that the images of child pornography they possess are not those of real children, insisting that the government prove beyond a reasonable doubt that the images are not computer-generated. Such challenges increased significantly after the decision in Ashcroft v. Free Speech Coalition, 535 U.S. 234 (2002).</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/8" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">Child pornography circulating on the Internet has, by definition, been digitally uploaded or scanned into computers and has been transferred over the Internet, often in different file formats, from trafficker to trafficker. An image seized from a collector of child pornography is rarely a first-generation product, and the retransmission of images can alter the image so as to make it difficult for even an expert conclusively to opine that a particular image depicts a real child. If the original image has been scanned from a paper version into a digital format, this task can be even harder since proper forensic assessment may depend on the quality of the image scanned and the tools used to scan it.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/9" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">The impact of the Free Speech Coalition decision on the Government's ability to prosecute child pornography offenders is already evident. The Ninth Circuit has seen a significant adverse effect on prosecutions since the 1999 Ninth Circuit Court of Appeals decision in Free Speech Coalition. After that decision, prosecutions generally have been brought in the Ninth Circuit only in the most clear-cut cases in which the government can specifically identify the child in the depiction or otherwise identify the origin of the image. This is a fraction of meritorious child pornography cases. The National Center for Missing and Exploited Children testified that, in light of the Supreme Court's affirmation of the Ninth Circuit decision, prosecutors in various parts of the country have expressed concern about the continued viability of previously indicted cases as well as declined potentially meritorious prosecutions.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/10" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">Since the Supreme Court's decision in Free Speech Coalition, defendants in child pornography cases have almost universally raised the contention that the images in question could be virtual, thereby requiring the government, in nearly every child pornography prosecution, to find proof that the child is real. Some of these defense efforts have already been successful. In addition, the number of prosecutions being brought has been significantly and adversely affected as the resources required to be dedicated to each child pornography case now are significantly higher than ever before.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/11" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">Leading experts agree that, to the extent that the technology exists to computer generate realistic images of child pornography, the cost in terms of time, money, and expertise is—and for the foreseeable future will remain—prohibitively expensive. As a result, for the foreseeable future, it will be more cost-effective to produce child pornography using real children. It will not, however, be difficult or expensive to use readily available technology to disguise those depictions of real children to make them unidentifiable or to make them appear computer-generated.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/12" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">Child pornography results from the abuse of real children by sex offenders; the production of child pornography is a byproduct of, and not the primary reason for, the sexual abuse of children. There is no evidence that the future development of easy and inexpensive means of computer generating realistic images of children would stop or even reduce the sexual abuse of real children or the practice of visually recording that abuse.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/13" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="13">(13) </num><content style="-uslm-dtd:text">In the absence of congressional action, the difficulties in enforcing the child pornography laws will continue to grow increasingly worse. The mere prospect that the technology exists to create composite or computer-generated depictions that are indistinguishable from depictions of real children will allow defendants who possess images of real children to escape prosecution; for it threatens to create a reasonable doubt in every case of computer images even when a real child was abused. This threatens to render child pornography laws that protect real children unenforceable. Moreover, imposing an additional requirement that the Government prove beyond a reasonable doubt that the defendant knew that the image was in fact a real child—as some courts have done—threatens to result in the de facto legalization of the possession, receipt, and distribution of child pornography for all except the original producers of the material.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/14" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="14">(14) </num><content style="-uslm-dtd:text">To avoid this grave threat to the Government's unquestioned compelling interest in effective enforcement of the child pornography laws that protect real children, a statute must be adopted that prohibits a narrowly-defined subcategory of images.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s501/15" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="15">(15) </num><content style="-uslm-dtd:text">The Supreme Court's 1982 Ferber v. New York decision holding that child pornography was not protected drove child pornography off the shelves of adult bookstores. Congressional action is necessary now to ensure that open and notorious trafficking in such materials does not reappear, and even increase, on the Internet.</content>
+                            <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tV/stA/s504" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="504">SEC. 504. </num><heading style="-uslm-dtd:header">OBSCENE CHILD PORNOGRAPHY. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tV/stA/s504/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">
+<elided style="-uslm-dtd:omitted-text">* * *</elided>
+</content>
+                        <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tV/stA/s504/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t18/s1466A">18 U.S.C. 1466A note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Sentencing Guidelines.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s504/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Category.—</heading><content style="-uslm-dtd:text">Except as provided in paragraph (2), the applicable category of offense to be used in determining the sentencing range referred to in section 3553(a)(4) of title 18, United States Code, with respect to any person convicted under section 1466A of such title, shall be the category of offenses described in section 2G2.2 of the Sentencing Guidelines.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s504/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Ranges.—</heading><content style="-uslm-dtd:text">The Sentencing Commission may promulgate guidelines specifically governing offenses under section 1466A of title 18, United States Code, if such guidelines do not result in sentencing ranges that are lower than those that would have applied under paragraph (1).</content>
+                            <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tV/stA/s511" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="511">SEC. 511. </num><heading style="-uslm-dtd:header">RECORDKEEPING REQUIREMENTS. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tV/stA/s511/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">
+<elided style="-uslm-dtd:omitted-text">* * *</elided>
+</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tV/stA/s511/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t18/s2257">18 U.S.C. 2257 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 1 year after enactment of this Act, the Attorney General shall submit to Congress a report detailing the number of times since January 1993 that the Department of Justice has inspected the records of any producer of materials regulated pursuant to section 2257 of title 18, United States Code, and section 75 of title 28 of the Code of Federal Regulations. The Attorney General shall indicate the number of violations prosecuted as a result of those inspections.</content>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tV/stA/s512" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="512">SEC. 512. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t28/s994">28 U.S.C. 994 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SENTENCING ENHANCEMENTS FOR INTERSTATE TRAVEL TO ENGAGE IN SEXUAL ACT WITH A JUVENILE. </heading>
+                    <content style="-uslm-dtd:text" class="block">Pursuant to its authority under section 994(p) of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission shall review and, as appropriate, amend the Federal Sentencing Guidelines and policy statements to ensure that guideline penalties are adequate in cases that involve interstate travel with the intent to engage in a sexual act with a juvenile in violation of section 2423 of title 18, United States Code, to deter and punish such conduct.</content>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tV/stA/s513" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="513">SEC. 513. </num><heading style="-uslm-dtd:header">MISCELLANEOUS PROVISIONS. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tV/stA/s513/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Appointment of Trial Attorneys.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s513/a/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than 6 months after the date of enactment of this Act, the Attorney General shall appoint 25 additional trial attorneys to the Child Exploitation and Obscenity Section of the Criminal Division of the Department of Justice or to appropriate United States Attorney's Offices, and those trial attorneys shall have as their primary focus, the investigation and prosecution of Federal child pornography and obscenity laws.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s513/a/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><content style="-uslm-dtd:text">There are authorized to be appropriated to the Department of Justice such sums as may be necessary to carry out this subsection.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tV/stA/s513/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t18/s1466A">18 U.S.C. 1466A note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Report to Congressional Committees.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s513/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than 9 months after the date of enactment of this Act, and every 2 years thereafter, the Attorney General shall report to the Chairpersons and Ranking Members of the Committees on the Judiciary of the Senate and the House of Representatives on the Federal enforcement actions under chapter 110 or section 1466A of title 18, United States Code.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tV/stA/s513/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">The report required under paragraph (1) shall include—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tV/stA/s513/b/2/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">an evaluation of the prosecutions brought under chapter 110 or section 1466A of title 18, United States Code;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tV/stA/s513/b/2/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">an outcome-based measurement of performance; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/21/tV/stA/s513/b/2/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">an analysis of the technology being used by the child pornography industry.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tV/stA/s513/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t28/s994">28 U.S.C. 994 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Sentencing Guidelines.—</heading><content style="-uslm-dtd:text">Pursuant to its authority under section 994(p) of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission shall review and, as appropriate, amend the Federal Sentencing Guidelines and policy statements to ensure that the guidelines are adequate to deter and punish conduct that involves a violation of paragraph (3)(B) or (6) of section 2252A(a) of title 18, United States Code, as created by this Act. With respect to the guidelines for section 2252A(a)(3)(B), the Commission shall consider the relative culpability of promoting, presenting, describing, or distributing material in violation of that section as compared with solicitation of such material.</content>
+                        <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                    </subsection>
+                </section>
+            </subtitle>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/108/21/tVI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="VI">TITLE VI—</num><heading style="-uslm-dtd:header">MISCELLANEOUS PROVISIONS </heading>
+            <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tVI/s602" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="602">SEC. 602. </num><heading style="-uslm-dtd:header">SENSE OF CONGRESS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s602/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Focus of Investigation and Prosecution.—</heading><content style="-uslm-dtd:text">It is the sense of Congress that the Child Exploitation and Obscenity Section of the Criminal Division of the Department of Justice should focus its investigative and prosecutorial efforts on major producers, distributors, and sellers of obscene material and child pornography that use misleading methods to market their material to children.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s602/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Voluntary Limitation on Website Front Pages.—</heading><content style="-uslm-dtd:text">It is the sense of Congress that the online commercial adult entertainment industry should voluntarily refrain from placing obscenity, child pornography, or material that is harmful to minors on the front pages of their websites to protect juveniles from material that may negatively impact their social, moral, and psychological development.</content>
+                    <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tVI/s604" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="604">SEC. 604. </num><heading style="-uslm-dtd:header">INTERNET AVAILABILITY OF INFORMATION CONCERNING REGISTERED SEX OFFENDERS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s604/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 170101(e)(2) of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071(e)(2)) is amended by adding at the end the following: “<quotedText style="-uslm-dtd:quote">The release of information under this paragraph shall include the maintenance of an Internet site containing such information that is available to the public and instructions on the process for correcting information that a person alleges to be erroneous.</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s604/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s14071">42 U.S.C. 14071 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Compliance Date.—</heading><content style="-uslm-dtd:text">Each State shall implement the amendment made by this section within 3 years after the date of enactment of this Act, except that the Attorney General may grant an additional 2 years to a State that is making a good faith effort to implement the amendment made by this section.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s604/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s14071">42 U.S.C. 14071 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">National Internet Site.—</heading><content style="-uslm-dtd:text">The Crimes Against Children Section of the Criminal Division of the Department of Justice shall create a national Internet site that links all State Internet sites established pursuant to this section.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tVI/s605" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="605">SEC. 605. </num><heading style="-uslm-dtd:header">REGISTRATION OF CHILD PORNOGRAPHERS IN THE NATIONAL SEX OFFENDER REGISTRY. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s605/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">
+<elided style="-uslm-dtd:omitted-text">* * *</elided>
+</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s605/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There are authorized to be appropriated to the Department of Justice, for each of fiscal years 2004 through 2007, such sums as may be necessary to carry out the amendments made by this section.</content>
+                    <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tVI/s607" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="607">SEC. 607. </num><heading style="-uslm-dtd:header">SAFE ID ACT. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s607/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t18/s1001">18 U.S.C. 1001 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This section may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Secure Authentication Feature and Enhanced Identification Defense Act of 2003</inline></shortTitle>” or “<shortTitle style="-uslm-dtd:quote">SAFE ID Act</shortTitle>”.</content>
+                    <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/21/tVI/s608" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="608">SEC. 608. </num><heading style="-uslm-dtd:header">ILLICIT DRUG ANTI-PROLIFERATION ACT. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s608/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t21/s801">21 U.S.C. 801 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This section may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Illicit Drug Anti-Proliferation Act of 2003</inline></shortTitle>”.</content>
+                    <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s608/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t28/s994">28 U.S.C. 994 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Sentencing Commission Guidelines.—</heading><chapeau style="-uslm-dtd:text">The United States Sentencing Commission shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tVI/s608/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">review the Federal sentencing guidelines with respect to offenses involving gamma hydroxybutyric acid (GHB);</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tVI/s608/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">consider amending the Federal sentencing guidelines to provide for increased penalties such that those penalties reflect the seriousness of offenses involving GHB and the need to deter them; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/21/tVI/s608/e/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">take any other action the Commission considers necessary to carry out this section.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s608/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Authorization of Appropriations for a Demand Reduction Coordinator.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated $5,900,000 to the Drug Enforcement Administration of the Department of Justice for the hiring of a special agent in each State to serve as a Demand Reduction Coordinator.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/21/tVI/s608/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Authorization of Appropriations for Drug Education.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated such sums as necessary to the Drug Enforcement Administration of the Department of Justice to educate youth, parents, and other interested adults about club drugs.</content>
+                    <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

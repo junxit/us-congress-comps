@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Cybersecurity and Infrastructure Security Agency Act of 2018</dc:title>
+        <citableAs>Public Law 115–278</citableAs>
+        <citableAsShortTitle>Cybersecurity and Infrastructure Security Agency Act of 2018</citableAsShortTitle>
+        <docNumber>278</docNumber>
+        <currentThroughPublicLaw>115–278</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Cybersecurity and Infrastructure Security Agency Act of 2018</containsShortTitle>
+        <property role="fileId">15296</property>
+        <congress>115</congress>
+        <approvedDate>2018-11-16</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Cybersecurity and Infrastructure Security Agency Act of 2018</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 115–278</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 115-278. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend the Homeland Security Act of 2002 to authorize the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/115/278/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s101">6 U.S.C. 101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Cybersecurity and Infrastructure Security Agency Act of 2018</shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/115/278/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s2/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <title style="-uslm-dtd:title">
+                    <num style="-uslm-dtd:enum" value="XXII">“TITLE XXII—</num><heading style="-uslm-dtd:header">CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY </heading>
+                    <subtitle style="-uslm-dtd:subtitle">
+                        <num style="-uslm-dtd:enum" value="A">“Subtitle A—</num><heading style="-uslm-dtd:header">Cybersecurity and Infrastructure Security </heading>
+                        <section style="-uslm-dtd:section" styleType="OLC" role="definitions">
+                            <num style="-uslm-dtd:enum" value="2201">“SEC. SEC. 2201. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s651">6 U.S.C. 651</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS </heading><chapeau style="-uslm-dtd:text">“In this subtitle:</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Critical infrastructure information.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">critical infrastructure information</term>’ has the meaning given the term in section 2222.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Cybersecurity risk.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">cybersecurity risk</term>’ has the meaning given the term in section 2209.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Cybersecurity threat.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">cybersecurity threat</term>’ has the meaning given the term in section 102(5) of the Cybersecurity Act of 2015 (contained in division N of the Consolidated Appropriations Act, 2016 (Public Law 114-113; 6 U.S.C. 1501)).</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">National cybersecurity asset response activities.—</heading><chapeau style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">national cybersecurity asset response activities</term>’ means—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">furnishing cybersecurity technical assistance to entities affected by cybersecurity risks to protect assets, mitigate vulnerabilities, and reduce impacts of cyber incidents;</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">identifying other entities that may be at risk of an incident and assessing risk to the same or similar vulnerabilities;</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">assessing potential cybersecurity risks to a sector or region, including potential cascading effects, and developing courses of action to mitigate such risks;</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">facilitating information sharing and operational coordination with threat response; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">providing guidance on how best to utilize Federal resources and capabilities in a timely, effective manner to speed recovery from cybersecurity risks.</content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="5">“(5) </num><heading style="-uslm-dtd:header">Sector-specific agency.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">Sector-Specific Agency</term>’ means a Federal department or agency, designated by law or presidential directive, with responsibility for providing institutional knowledge and specialized expertise of a sector, as well as leading, facilitating, or supporting programs and associated activities of its designated critical infrastructure sector in the all hazards environment in coordination with the Department.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="6">“(6) </num><heading style="-uslm-dtd:header">Sharing.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">sharing</term>’ has the meaning given the term in section 2209.</content>
+                            </paragraph>
+                        </section>
+                        <section style="-uslm-dtd:section" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2202">“SEC. SEC. 2202. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s652">6 U.S.C. 652</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY </heading>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Redesignation.—</heading>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The National Protection and Programs Directorate of the Department shall, on and after the date of the enactment of this subtitle, be known as the ‘Cybersecurity and Infrastructure Security Agency’ (in this subtitle referred to as the ‘Agency’).</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">References.—</heading><content style="-uslm-dtd:text">Any reference to the National Protection and Programs Directorate of the Department in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Cybersecurity and Infrastructure Security Agency of the Department.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Director.—</heading>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Agency shall be headed by a Director of Cybersecurity and Infrastructure Security (in this subtitle referred to as the ‘Director’), who shall report to the Secretary.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Reference.—</heading><content style="-uslm-dtd:text">Any reference to an Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and any other related program of the Department as described in section 103(a)(1)(H) as in effect on the day before the date of enactment of this subtitle in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Director of Cybersecurity and Infrastructure Security of the Department.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Responsibilities.—</heading><chapeau style="-uslm-dtd:text">The Director shall—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">lead cybersecurity and critical infrastructure security programs, operations, and associated policy for the Agency, including national cybersecurity asset response activities;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">coordinate with Federal entities, including Sector-Specific Agencies, and non-Federal entities, including international entities, to carry out the cybersecurity and critical infrastructure activities of the Agency, as appropriate;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">carry out the responsibilities of the Secretary to secure Federal information and information systems consistent with law, including subchapter II of chapter 35 of title 44, United States Code, and the Cybersecurity Act of 2015 (contained  
+in division N of the Consolidated Appropriations Act, 2016 (Public Law 114-113));</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">coordinate a national effort to secure and protect against critical infrastructure risks, consistent with subsection (e)(1)(E);</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">upon request, provide analyses, expertise, and other technical assistance to critical infrastructure owners and operators and, where appropriate, provide those analyses, expertise, and other technical assistance in coordination with Sector-Specific Agencies and other Federal departments and agencies;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="6">“(6) </num><content style="-uslm-dtd:text">develop and utilize mechanisms for active and frequent collaboration between the Agency and Sector-Specific Agencies to ensure appropriate coordination, situational awareness, and communications with Sector-Specific Agencies;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="7">“(7) </num><content style="-uslm-dtd:text">maintain and utilize mechanisms for the regular and ongoing consultation and collaboration among the Divisions of the Agency to further operational coordination, integrated situational awareness, and improved integration across the Agency in accordance with this Act;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="8">“(8) </num><chapeau style="-uslm-dtd:text">develop, coordinate, and implement—</chapeau>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">comprehensive strategic plans for the activities of the Agency; and</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">risk assessments by and for the Agency;</content>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="9">“(9) </num><content style="-uslm-dtd:text">carry out emergency communications responsibilities, in accordance with title XVIII;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="10">“(10) </num><content style="-uslm-dtd:text">carry out cybersecurity, infrastructure security, and emergency communications stakeholder outreach and engagement and coordinate that outreach and engagement with critical infrastructure Sector-Specific Agencies, as appropriate; and</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="11">“(11) </num><content style="-uslm-dtd:text">carry out such other duties and powers prescribed by law or delegated by the Secretary.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Deputy Director.—</heading><chapeau style="-uslm-dtd:text">There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructure Security who shall—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">assist the Director in the management of the Agency; and</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">report to the Director.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Cybersecurity and Infrastructure Security Authorities of the Secretary.—</heading>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The responsibilities of the Secretary relating to cybersecurity and infrastructure security shall include the following:</chapeau>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">To access, receive, and analyze law enforcement information, intelligence information, and other information from Federal Government agencies, State, local, tribal, and territorial government agencies, including law enforcement agencies, and private sector entities, and to integrate that information, in support of the mission responsibilities of the Department, in order to—</chapeau>
+                                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">identify and assess the nature and scope of terrorist threats to the homeland;</content>
+                                        </clause>
+                                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">detect and identify threats of terrorism against the United States; and</content>
+                                        </clause>
+                                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">understand those threats in light of actual and potential vulnerabilities of the homeland.</content>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">To carry out comprehensive assessments of the vulnerabilities of the key resources and critical infrastructure of the United States, including the performance of 
+risk assessments to determine the risks posed by particular types of terrorist attacks within the United States, including an assessment of the probability of success of those attacks and the feasibility and potential efficacy of various countermeasures to those attacks. At the discretion of the Secretary, such assessments may be carried out in coordination with Sector-Specific Agencies.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">To integrate relevant information, analysis, and vulnerability assessments, regardless of whether the information, analysis, or assessments are provided or produced by the Department, in order to make recommendations, including prioritization, for protective and support measures by the Department, other Federal Government agencies, State, local, tribal, and territorial government agencies and authorities, the private sector, and other entities regarding terrorist and other threats to homeland security.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">To ensure, pursuant to section 202, the timely and efficient access by the Department to all information necessary to discharge the responsibilities under this title, including obtaining that information from other Federal Government agencies.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">To develop, in coordination with the Sector-Specific Agencies with available expertise, a comprehensive national plan for securing the key resources and critical infrastructure of the United States, including power production, generation, and distribution systems, information technology and telecommunications systems (including satellites), electronic financial and property record storage and transmission systems, emergency communications systems, and the physical and technological assets that support those systems.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="F">“(F) </num><content style="-uslm-dtd:text">To recommend measures necessary to protect the key resources and critical infrastructure of the United States in coordination with other Federal Government agencies, including Sector-Specific Agencies, and in cooperation with State, local, tribal, and territorial government agencies and authorities, the private sector, and other entities.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="G">“(G) </num><content style="-uslm-dtd:text">To review, analyze, and make recommendations for improvements to the policies and procedures governing the sharing of information relating to homeland security within the Federal Government and between Federal Government agencies and State, local, tribal, and territorial government agencies and authorities.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="H">“(H) </num><content style="-uslm-dtd:text">To disseminate, as appropriate, information analyzed by the Department within the Department to other Federal Government agencies with responsibilities relating to homeland security and to State, local, tribal, and territorial government agencies and private sector entities with those responsibilities in order to assist in the deterrence, prevention, or preemption of, or response to, terrorist attacks against the United States.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">To consult with State, local, tribal, and territorial government agencies and private sector entities to ensure appropriate exchanges of information, including law 
+enforcement-related information, relating to threats of terrorism against the United States.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="J">“(J) </num><content style="-uslm-dtd:text">To ensure that any material received pursuant to this Act is protected from unauthorized disclosure and handled and used only for the performance of official duties.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="K">“(K) </num><content style="-uslm-dtd:text">To request additional information from other Federal Government agencies, State, local, tribal, and territorial government agencies, and the private sector relating to threats of terrorism in the United States, or relating to other areas of responsibility assigned by the Secretary, including the entry into cooperative agreements through the Secretary to obtain such information.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="L">“(L) </num><content style="-uslm-dtd:text">To establish and utilize, in conjunction with the Chief Information Officer of the Department, a secure communications and information technology infrastructure, including data-mining and other advanced analytical tools, in order to access, receive, and analyze data and information in furtherance of the responsibilities under this section, and to disseminate information acquired and analyzed by the Department, as appropriate.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="M">“(M) </num><content style="-uslm-dtd:text">To coordinate training and other support to the elements and personnel of the Department, other Federal Government agencies, and State, local, tribal, and territorial government agencies that provide information to the Department, or are consumers of information provided by the Department, in order to facilitate the identification and sharing of information revealed in their ordinary duties and the optimal utilization of information received from the Department.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="N">“(N) </num><content style="-uslm-dtd:text">To coordinate with Federal, State, local, tribal, and territorial law enforcement agencies, and the private sector, as appropriate.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="O">“(O) </num><content style="-uslm-dtd:text">To exercise the authorities and oversight of the functions, personnel, assets, and liabilities of those components transferred to the Department pursuant to section 201(g).</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="P">“(P) </num><content style="-uslm-dtd:text">To carry out the functions of the national cybersecurity and communications integration center under section 2209.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="Q">“(Q) </num><content style="-uslm-dtd:text">To carry out the requirements of the Chemical Facility Anti-Terrorism Standards Program established under title XXI and the secure handling of ammonium nitrate program established under subtitle J of title VIII, or any successor programs.</content>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Reallocation.—</heading><content style="-uslm-dtd:text">The Secretary may reallocate within the Agency the functions specified in sections 2203(b) and 2204(b), consistent with the responsibilities provided in paragraph (1), upon certifying to and briefing the appropriate congressional committees, and making available to the public, at least 60 days prior to the reallocation that the reallocation is necessary for carrying out the activities of the Agency.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Staff.—</heading>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall provide the Agency with a staff of analysts having appropriate expertise and experience to assist the Agency in discharging the responsibilities of the Agency under this section.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Private sector analysts.—</heading><content style="-uslm-dtd:text">Analysts under this subsection may include analysts from the private sector.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Security clearances.—</heading><content style="-uslm-dtd:text">Analysts under this subsection shall possess security clearances appropriate for their work under this section.</content>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Detail of personnel.—</heading>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">In order to assist the Agency in discharging the responsibilities of the Agency under this section, personnel of the Federal agencies described in subparagraph (B) may be detailed to the Agency for the performance of analytic functions and related duties.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Agencies.—</heading><chapeau style="-uslm-dtd:text">The Federal agencies described in this subparagraph are—</chapeau>
+                                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the Department of State;</content>
+                                        </clause>
+                                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the Central Intelligence Agency;</content>
+                                        </clause>
+                                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">the Federal Bureau of Investigation;</content>
+                                        </clause>
+                                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">the National Security Agency;</content>
+                                        </clause>
+                                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">the National Geospatial-Intelligence Agency;</content>
+                                        </clause>
+                                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="vi">“(vi) </num><content style="-uslm-dtd:text">the Defense Intelligence Agency;</content>
+                                        </clause>
+                                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="vii">“(vii) </num><content style="-uslm-dtd:text">Sector-Specific Agencies; and</content>
+                                        </clause>
+                                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="viii">“(viii) </num><content style="-uslm-dtd:text">any other agency of the Federal Government that the President considers appropriate.</content>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Interagency agreements.—</heading><content style="-uslm-dtd:text">The Secretary and the head of a Federal agency described in subparagraph (B) may enter into agreements for the purpose of detailing personnel under this paragraph.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="D">“(D) </num><heading style="-uslm-dtd:header">Basis.—</heading><content style="-uslm-dtd:text">The detail of personnel under this paragraph may be on a reimbursable or non-reimbursable basis.</content>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="f">“(f) </num><heading style="-uslm-dtd:header">Composition.—</heading><chapeau style="-uslm-dtd:text">The Agency shall be composed of the following divisions:</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">The Cybersecurity Division, headed by an Assistant Director.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">The Infrastructure Security Division, headed by an Assistant Director.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">The Emergency Communications Division under title XVIII, headed by an Assistant Director.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="g">“(g) </num><heading style="-uslm-dtd:header">Co-location.—</heading>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">To the maximum extent practicable, the Director shall examine the establishment of central locations in geographical regions with a significant Agency presence.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Coordination.—</heading><content style="-uslm-dtd:text">When establishing the central locations described in paragraph (1), the Director shall coordinate with component heads and the Under Secretary for Management to co-locate or partner on any new real property leases, renewing any occupancy agreements for existing leases, or agreeing to extend or newly occupy any Federal space or new construction.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="h">“(h) </num><heading style="-uslm-dtd:header">Privacy.—</heading>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">There shall be a Privacy Officer of the Agency with primary responsibility for privacy policy and compliance for the Agency.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Responsibilities.—</heading><chapeau style="-uslm-dtd:text">The responsibilities of the Privacy Officer of the Agency shall include—</chapeau>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">assuring that the use of technologies by the Agency sustain, and do not erode, privacy protections relating to the use, collection, and disclosure of personal information;</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">assuring that personal information contained in systems of records of the Agency is handled in full compliance as specified in section 552a of title 5, United States Code (commonly known as the ‘Privacy Act of 1974’);</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">evaluating legislative and regulatory proposals involving collection, use, and disclosure of personal information by the Agency; and</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">conducting a privacy impact assessment of proposed rules of the Agency on the privacy of personal information, including the type of personal information collected and the number of people affected.</content>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">Savings.—</heading><content style="-uslm-dtd:text">Nothing in this title may be construed as affecting in any manner the authority, existing on the day before the date of enactment of this title, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector-Specific Agency specified in section 61003(c) of division F of the Fixing America’s Surface Transportation Act (6 U.S.C. 121 note; Public Law 114-94).</content>
+                            </subsection>
+                        </section>
+                        <section style="-uslm-dtd:section" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2203">“SEC. SEC. 2203. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s653">6 U.S.C. 653</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">CYBERSECURITY DIVISION </heading>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">There is established in the Agency a Cybersecurity Division.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Assistant director.—</heading><chapeau style="-uslm-dtd:text">The Cybersecurity Division shall be headed by an Assistant Director for Cybersecurity (in this section referred to as the ‘Assistant Director’), who shall—</chapeau>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">be at the level of Assistant Secretary within the Department;</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">be appointed by the President without the advice and consent of the Senate; and</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">report to the Director.</content>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Reference.—</heading><content style="-uslm-dtd:text">Any reference to the Assistant Secretary for Cybersecurity and Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Director for Cybersecurity.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Functions.—</heading><chapeau style="-uslm-dtd:text">The Assistant Director shall—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">direct the cybersecurity efforts of the Agency;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">carry out activities, at the direction of the Director, related to the security of Federal information and Federal information systems consistent with law, including subchapter II of chapter 35 of title 44, United States Code, and the Cybersecurity Act of 2015 (contained in division N of the Consolidated Appropriations Act, 2016 (Public Law 114-113));</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">fully participate in the mechanisms required under section 2202(c)(7); and</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">carry out such other duties and powers as prescribed by the Director.</content>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <section style="-uslm-dtd:section" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2204">“SEC. SEC. 2204. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s654">6 U.S.C. 654</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">INFRASTRUCTURE SECURITY DIVISION </heading>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">There is established in the Agency an Infrastructure Security Division.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Assistant director.—</heading><chapeau style="-uslm-dtd:text">The Infrastructure Security Division shall be headed by an Assistant Director for Infrastructure Security (in this section referred to as the ‘Assistant Director’), who shall—</chapeau>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">be at the level of Assistant Secretary within the Department;</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">be appointed by the President without the advice and consent of the Senate; and</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">report to the Director.</content>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Reference.—</heading><content style="-uslm-dtd:text">Any reference to the Assistant Secretary for Infrastructure Protection in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Director for Infrastructure Security.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Functions.—</heading><chapeau style="-uslm-dtd:text">The Assistant Director shall—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">direct the critical infrastructure security efforts of the Agency;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">carry out, at the direction of the Director, the Chemical Facilities Anti-Terrorism Standards Program established under title XXI and the secure handling of ammonium nitrate program established under subtitle J of title VIII, or any successor programs;</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">fully participate in the mechanisms required under section 2202(c)(7); and</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">carry out such other duties and powers as prescribed by the Director.”</content>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                    </subtitle>
+                </title></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s2/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Treatment of Certain Positions.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s652">6 U.S.C. 652 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Under secretary.—</heading><content style="-uslm-dtd:text">The individual serving as the Under Secretary appointed pursuant to section 103(a)(1)(H) of the Homeland Security Act of 2002 (6 U.S.C. 113(a)(1)(H)) of the Department of Homeland Security on the day before the date of enactment of this Act may continue to serve as the Director of Cybersecurity and Infrastructure Security of the Department on and after such date.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s571">6 U.S.C. 571 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Director for emergency communications.—</heading><content style="-uslm-dtd:text">The individual serving as the Director for Emergency Communications of the Department of Homeland Security on the day before the date of enactment of this Act may continue to serve as the Assistant Director for Emergency Communications of the Department on and after such date.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s653">6 U.S.C. 653 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Assistant secretary for cybersecurity and communications.—</heading><content style="-uslm-dtd:text">The individual serving as the Assistant Secretary for Cybersecurity and Communications on the day before the date of enactment of this Act may continue to serve as the Assistant Director for Cybersecurity on and after such date.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s654">6 U.S.C. 654 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Assistant secretary for infrastructure protection.—</heading><content style="-uslm-dtd:text">The individual serving as the Assistant Secretary for Infrastructure Protection on the day before the date of enactment of this Act may continue to serve as the Assistant Director for Infrastructure Security on and after such date.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s2/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s571">6 U.S.C. 571 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Reference.—</heading><chapeau style="-uslm-dtd:text">Any reference to—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Office of Emergency Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Emergency Communications Division; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the Director for Emergency Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Director for Emergency Communications.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s2/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Oversight.—</heading><chapeau style="-uslm-dtd:text">The Director of Cybersecurity and Infrastructure Security of the Department of Homeland Security shall provide 
+to Congress, in accordance with the deadlines specified in paragraphs (1) through (6), information on the following:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Not later than 60 days after the date of enactment of this Act, a briefing on the activities of the Agency relating to the development and use of the mechanisms required pursuant to section 2202(c)(6) of the Homeland Security Act of 2002 (as added by subsection (a)).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, a briefing on the activities of the Agency relating to the use and improvement by the Agency of the mechanisms required pursuant to section 2202(c)(6) of the Homeland Security Act of 2002 and how such activities have impacted coordination, situational awareness, and communications with Sector-Specific Agencies.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/d/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Not later than 90 days after the date of the enactment of this Act, information on the mechanisms of the Agency for regular and ongoing consultation and collaboration, as required pursuant to section 2202(c)(7) of the Homeland Security Act of 2002 (as added by subsection (a)).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/d/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, information on the activities of the consultation and collaboration mechanisms of the Agency as required pursuant to section 2202(c)(7) of the Homeland Security Act of 2002, and how such mechanisms have impacted operational coordination, situational awareness, and integration across the Agency.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/d/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, information, which shall be made publicly available and updated as appropriate, on the mechanisms and structures of the Agency responsible for stakeholder outreach and engagement, as required under section 2202(c)(10) of the Homeland Security Act of 2002 (as added by subsection (a)).</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s2/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Cyber Workforce.—</heading><content style="-uslm-dtd:text">Not later than 90 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, in coordination with the Director of the Office of Personnel Management, shall submit to Congress a report detailing how the Agency is meeting legislative requirements under the Cybersecurity Workforce Assessment Act (Public Law 113-246; 128 Stat. 2880) and the Homeland Security Cybersecurity Workforce Assessment Act (enacted as section 4 of the Border Patrol Agent Pay Reform Act of 2014; Public Law 113-277) to address cyber workforce needs.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s2/f" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Facility.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security shall report to Congress on the most efficient and effective methods of consolidating Agency facilities, personnel, and programs to most effectively carry out the Agency’s mission.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s2/g" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Technical and Conforming Amendments to the Homeland Security Act of 2002.—</heading><chapeau style="-uslm-dtd:text">The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/g/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by amending section 103(a)(1)(H) (6 U.S.C. 113(a)(1)(H)) to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">“(H) </num><content style="-uslm-dtd:text">A Director of the Cybersecurity and Infrastructure Security Agency.”</content>
+                    </subparagraph></quotedContent>;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/g/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in title II (6 U.S.C. 121 et seq.)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in the title heading, by striking “<quotedText style="-uslm-dtd:quote">AND INFRASTRUCTURE PROTECTION</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the subtitle A heading, by striking “<quotedText style="-uslm-dtd:quote">and Infrastructure Protection</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">in section 201 (6 U.S.C. 121)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/2/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in the section heading, by striking “<quotedText style="-uslm-dtd:quote">and infrastructure protection</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/2/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">in subsection (a)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">in the subsection heading, by striking “<quotedText style="-uslm-dtd:quote">and Infrastructure Protection</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and an Office of Infrastructure Protection</quotedText>”;</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/2/C/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><chapeau style="-uslm-dtd:text">in subsection (b)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/iii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">in the subsection heading, by striking “<quotedText style="-uslm-dtd:quote">and Assistant Secretary for Infrastructure Protection</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/iii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking paragraph (3);</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/2/C/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><chapeau style="-uslm-dtd:text">in subsection (c)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/iv/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and infrastructure protection</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/iv/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">or the Assistant Secretary for Infrastructure Protection, as appropriate</quotedText>”;</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/2/C/v" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><chapeau style="-uslm-dtd:text">in subsection (d)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/v/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">in the subsection heading, by striking “<quotedText style="-uslm-dtd:quote">and Infrastructure Protection</quotedText>”;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/v/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">in the matter preceding paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">and infrastructure protection</quotedText>”;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/v/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">by striking paragraphs (5), (6), and (25);</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/v/IV" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">by redesignating paragraphs (7) through (24) as paragraphs (5) through (22), respectively;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/v/V" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="V">(V) </num><content style="-uslm-dtd:text">by redesignating paragraph (26) as paragraph (23); and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/2/C/v/VI" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VI">(VI) </num><content style="-uslm-dtd:text">in paragraph (23)(B)(i), as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">section 319</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 320</quotedText>”;</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/2/C/vi" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">in subsection (e)(1), by striking “<quotedText style="-uslm-dtd:quote">and the Office of Infrastructure Protection</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/2/C/vii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vii">(vii) </num><content style="-uslm-dtd:text">in subsection (f)(1), by striking “<quotedText style="-uslm-dtd:quote">and the Office of Infrastructure Protection</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">in section 202 (6 U.S.C. 122)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/2/D/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in subsection (c), in the matter preceding paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">Director of Central Intelligence</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of National Intelligence</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/2/D/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subsection (d)(2), by striking “<quotedText style="-uslm-dtd:quote">Director of Central Intelligence</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of National Intelligence</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><chapeau style="-uslm-dtd:text">in section 204 (6 U.S.C. 124a)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/2/E/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in subsection (c)(1), in the matter preceding subparagraph (A), by striking “<quotedText style="-uslm-dtd:quote">Assistant Secretary for Infrastructure Protection</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of the Cybersecurity and Infrastructure Security Agency</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/2/E/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subsection (d)(1), in the matter preceding subparagraph (A), by striking “<quotedText style="-uslm-dtd:quote">Assistant Secretary for Infrastructure Protection</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of the Cybersecurity and Infrastructure Security Agency</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/2/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">in section 210A(c)(2)(B) (6 U.S.C. 124h(c)(2)(B)), by striking “<quotedText style="-uslm-dtd:quote">Office of Infrastructure Protection</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Cybersecurity and Infrastructure Security Agency</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/2/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s664">6 U.S.C. 664</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">by redesignating section 210E (6 U.S.C. 124l) as section 2214 and transferring such section to appear after section 2213 (as redesignated by subparagraph (I));</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/2/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s671-674">6 U.S.C. 671-674</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">in subtitle B, by redesignating sections 211 through 215 (6 U.S.C. 101 note, and 131 through 134) as sections 2221 through 2225, respectively, and transferring such subtitle, including the enumerator and heading of subtitle B and such sections, to appear after section 2214 (as redesignated by subparagraph (G));</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/2/I" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="I">(I) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s655-663">6 U.S.C. 655-663</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">by redesignating sections 223 through 230 (6 U.S.C. 143 through 151) as sections 2205 through 2213, respectively, and transferring such sections to appear after section 2204, as added by this Act;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/2/J" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="J">(J) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s124m">6 U.S.C. 124m</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">by redesignating section 210F as section 210E; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/2/K" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="K">(K) </num><content style="-uslm-dtd:text">by redesignating subtitles C and D as subtitles B and C, respectively;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/g/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in title III (6 U.S.C. 181 et seq.)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in section 302 (6 U.S.C. 182)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/3/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">biological,,</quotedText>” each place that term appears and inserting “<quotedText style="-uslm-dtd:quote">biological,</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/3/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in paragraph (3), by striking “<quotedText style="-uslm-dtd:quote">Assistant Secretary for Infrastructure Protection</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of the Cybersecurity and Infrastructure Security Agency</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by redesignating the second section 319 (6 U.S.C. 195f) (relating to EMP and GMD mitigation research and development) as section 320; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in section 320(c)(1), as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">Section 214</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Section 2224</quotedText>”;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/g/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">in title V (6 U.S.C. 311 et seq.)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in section 508(d)(2)(D) (6 U.S.C. 318(d)(2)(D)), by striking “<quotedText style="-uslm-dtd:quote">The Director of the Office of Emergency Communications of the Department of Homeland Security</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">The Assistant Director for Emergency Communications</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in section 514 (6 U.S.C. 321c)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/4/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking subsection (b); and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/4/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by redesignating subsection (c) as subsection (b); and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/4/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">in section 523 (6 U.S.C. 321l)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/4/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in subsection (a), in the matter preceding paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">Assistant Secretary for Infrastructure Protection</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of Cybersecurity and Infrastructure Security</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/4/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subsection (c), by striking “<quotedText style="-uslm-dtd:quote">Assistant Secretary for Infrastructure Protection</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of Cybersecurity and Infrastructure Security</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/g/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">in title VIII (6 U.S.C. 361 et seq.)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in section 884(d)(4)(A)(ii) (6 U.S.C. 464(d)(4)(A)(ii)), by striking “<quotedText style="-uslm-dtd:quote">Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of Cybersecurity and Infrastructure Security</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in section 899B(a) (6 U.S.C. 488a(a)), by adding at the end the following:  “<quotedText style="-uslm-dtd:quote">Such regulations shall be carried out by the Cybersecurity and Infrastructure Security Agency.</quotedText>”;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/g/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><chapeau style="-uslm-dtd:text">in title XVIII (6 U.S.C. 571 et seq.)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/6/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in section 1801 (6 U.S.C. 571)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in the section heading, by striking “<quotedText style="-uslm-dtd:quote">office of emergency communications</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">emergency communications division</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">in subsection (a)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/6/A/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Office of Emergency Communications</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Emergency Communications Division</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/6/A/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by adding at the end the following:  “<quotedText style="-uslm-dtd:quote">The Division shall be located in the Cybersecurity and Infrastructure Security Agency.</quotedText>”;</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by amending subsection (b) to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Assistant Director.—</heading><content style="-uslm-dtd:text">The head of the Division shall be the Assistant Director for Emergency Communications. The Assistant Director shall report to the Director of Cybersecurity and Infrastructure Security. All decisions of the Assistant Director that entail the exercise of significant authority shall be subject to the approval of the Director of Cybersecurity and Infrastructure Security.”</content>
+                            </subsection></quotedContent>;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/A/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><chapeau style="-uslm-dtd:text">in subsection (c)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/6/A/iv/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">in the matter preceding paragraph (1), by inserting “<quotedText style="-uslm-dtd:quote">Assistant</quotedText>” before  “<quotedText style="-uslm-dtd:quote">Director</quotedText>”;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/6/A/iv/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">in paragraph (14), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/6/A/iv/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">in paragraph (15), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/6/A/iv/IV" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">by inserting after paragraph (15) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="16">“(16) </num><content style="-uslm-dtd:text">fully participate in the mechanisms required under section 2202(c)(7).”</content>
+                                </paragraph></quotedContent>;</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/A/v" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">in subsection (d), in the matter preceding paragraph (1), by inserting “<quotedText style="-uslm-dtd:quote">Assistant</quotedText>” before  “<quotedText style="-uslm-dtd:quote">Director</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/A/vi" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">in subsection (e), in the matter preceding paragraph (1), by inserting “<quotedText style="-uslm-dtd:quote">Assistant</quotedText>” before  “<quotedText style="-uslm-dtd:quote">Director</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/6/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in sections 1802 through 1805 (6 U.S.C. 572 through 575), by striking “<quotedText style="-uslm-dtd:quote">Director for Emergency Communications</quotedText>” each place that term appears and inserting “<quotedText style="-uslm-dtd:quote">Assistant Director for Emergency Communications</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/6/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">in section 1809 (6 U.S.C. 579)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Director of Emergency Communications</quotedText>” each place that term appears and inserting “<quotedText style="-uslm-dtd:quote">Assistant Director for Emergency Communications</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">in subsection (b)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/6/C/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Director for Emergency Communications</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Assistant Director for Emergency Communications</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/6/C/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Office of Emergency Communications</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Emergency Communications Division</quotedText>”;</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/C/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">in subsection (e)(3), by striking “<quotedText style="-uslm-dtd:quote">the Director</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Assistant Director</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/C/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><chapeau style="-uslm-dtd:text">in subsection (m)(1)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/6/C/iv/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">The Director</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">The Assistant Director</quotedText>”;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/6/C/iv/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">the Director determines</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Assistant Director determines</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/6/C/iv/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Office of Emergency Communications</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Cybersecurity and Infrastructure Security Agency</quotedText>”;</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/6/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">in section 1810 (6 U.S.C. 580)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/D/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in subsection (a)(1), by striking “<quotedText style="-uslm-dtd:quote">Director of the Office of Emergency Communications (referred to in this section as the ‘Director’)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Assistant Director for Emergency Communications (referred to in this section as the ‘Assistant Director’)</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/D/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subsection (c), by striking “<quotedText style="-uslm-dtd:quote">Office of Emergency Communications</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Emergency Communications Division</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/6/D/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Director</quotedText>” each place that term appears and inserting “<quotedText style="-uslm-dtd:quote">Assistant Director</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/g/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><chapeau style="-uslm-dtd:text">in title XX (6 U.S.C. 601 et seq.)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/7/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (4)(A)(iii)(II) of section 2001 (6 U.S.C. 601), by striking “<quotedText style="-uslm-dtd:quote">section 210E(a)(2)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2214(a)(2)</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/7/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in section 2008(a)(3) (6 U.S.C. 609(a)(3)), by striking “<quotedText style="-uslm-dtd:quote">section 210E(a)(2)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2214(a)(2)</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/7/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">in section 2021 (6 U.S.C. 611)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/7/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking subsection (c); and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/7/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by redesignating subsection (d) as subsection (c);</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/g/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><chapeau style="-uslm-dtd:text">in title XXI (6 U.S.C. 621 et seq.)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/8/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in section 2102(a)(1) (6 U.S.C. 622(a)(1)), by inserting “<quotedText style="-uslm-dtd:quote">, which shall be located in the Cybersecurity and Infrastructure Security Agency</quotedText>” before the period at the end; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/8/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in section 2104(c)(2) (6 U.S.C. 624(c)(2)), by striking “<quotedText style="-uslm-dtd:quote">Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department appointed under section 103(a)(1)(H)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of Cybersecurity and Infrastructure Security</quotedText>”; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/g/9" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><chapeau style="-uslm-dtd:text">in title XXII, as added by this Act—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/9/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in subtitle A—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/9/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">in section 2205, as so redesignated—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/i/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">in the matter preceding paragraph (1)—</chapeau>
+                                <item style="-uslm-dtd:item" identifier="/us/sComp/115/278/s2/g/9/A/i/I/aa" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 201</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2202</quotedText>”; and</content>
+                                </item>
+                                <item style="-uslm-dtd:item" identifier="/us/sComp/115/278/s2/g/9/A/i/I/bb" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Under Secretary appointed under section 103(a)(1)(H)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of Cybersecurity and Infrastructure Security</quotedText>”; and</content>
+                                </item>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/i/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">in paragraph (1)(B), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/9/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in section 2206, as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">Assistant Secretary for Infrastructure Protection</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of Cybersecurity and Infrastructure Security</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/9/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><chapeau style="-uslm-dtd:text">in section 2209, as so redesignated—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/iii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Under Secretary appointed under section 103(a)(1)(H)</quotedText>” each place that term appears and inserting “<quotedText style="-uslm-dtd:quote">Director</quotedText>”;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/iii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">in subsection (a)(4), by striking “<quotedText style="-uslm-dtd:quote">section 212(5)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2222(5)</quotedText>”;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/iii/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">in subsection (b), by adding at the end the following:  “<quotedText style="-uslm-dtd:quote">The Center shall be located in the Cybersecurity and Infrastructure Security Agency. The head of the Center shall report to the Assistant Director for Cybersecurity.</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/iii/IV" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">in subsection (c)(11), by striking “<quotedText style="-uslm-dtd:quote">Office of Emergency Communications</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Emergency Communications Division</quotedText>”;</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/9/A/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><chapeau style="-uslm-dtd:text">in section 2210, as so redesignated—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/iv/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 227</quotedText>” each place that term appears and inserting “<quotedText style="-uslm-dtd:quote">section 2209</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/iv/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><chapeau style="-uslm-dtd:text">in subsection (c)—</chapeau>
+                                <item style="-uslm-dtd:item" identifier="/us/sComp/115/278/s2/g/9/A/iv/II/aa" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Under Secretary appointed under section 103(a)(1)(H)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of Cybersecurity and Infrastructure Security</quotedText>”; and</content>
+                                </item>
+                                <item style="-uslm-dtd:item" identifier="/us/sComp/115/278/s2/g/9/A/iv/II/bb" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 212(5)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2222(5)</quotedText>”;</content>
+                                </item>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/9/A/v" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">in section 2211(b)(2)(A), as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">the section 227</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2209</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/9/A/vi" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">in section 2212, as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">section 212(5)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2222(5)</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/9/A/vii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vii">(vii) </num><chapeau style="-uslm-dtd:text">in section 2213(a), as so redesignated—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/vii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">in paragraph (3), by striking “<quotedText style="-uslm-dtd:quote">section 228</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2210</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/vii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">in paragraph (4), by striking “<quotedText style="-uslm-dtd:quote">section 227</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2209</quotedText>”; and</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/9/A/viii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="viii">(viii) </num><chapeau style="-uslm-dtd:text">in section 2214, as so redesignated—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/viii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking subsection (e); and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/g/9/A/viii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by redesignating subsection (f) as subsection (e); and</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/g/9/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in subtitle B—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/9/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in section 2222(8), as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">section 227</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2209</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/g/9/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in section 2224(h), as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">section 213</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2223</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s2/h" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Technical and Conforming Amendments to Other Laws.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/h/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Cybersecurity act of 2015.—</heading><chapeau style="-uslm-dtd:text">The Cybersecurity Act of 2015 (6 U.S.C. 1501 et seq.) is amended—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/h/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in section 202(2) (6 U.S.C. 131 note)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 227</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2209</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, as so redesignated by section 223(a)(3) of this division</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/h/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in section 207(2) (Public Law 114-113; 129 Stat. 2962)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 227</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2209</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, as redesignated by section 223(a) of this division,</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/h/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in section 208 (Public Law 114-113; 129 Stat. 2962), by striking “<quotedText style="-uslm-dtd:quote">Under Secretary appointed under section 103(a)(1)(H) of the Homeland Security Act of 2002 (6 U.S.C. 113(a)(1)(H))</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Director of Cybersecurity and Infrastructure Security of the Department</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/h/1/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">in section 222 (6 U.S.C. 1521)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/D/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">in paragraph (2)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/D/i/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 228</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2210</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/D/i/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, as added by section 223(a)(4) of this division</quotedText>”; and</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/D/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">in paragraph (4)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/D/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 227</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2209</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/D/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, as so redesignated by section 223(a)(3) of this division</quotedText>”;</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/h/1/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><chapeau style="-uslm-dtd:text">in section 223(b) (6 U.S.C. 151 note)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/E/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 230(b)(1) of the Homeland Security Act of 2002, as added by subsection (a)</quotedText>” each place that term appears and inserting “<quotedText style="-uslm-dtd:quote">section 2213(b)(1) of the Homeland Security Act of 2002</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/E/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in paragraph (1)(B), by striking “<quotedText style="-uslm-dtd:quote">section 230(b)(2) of the Homeland Security Act of 2002, as added by subsection (a)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2213(b)(2) of the Homeland Security Act of 2002</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/h/1/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><chapeau style="-uslm-dtd:text">in section 226 (6 U.S.C. 1524)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/F/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">in subsection (a)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/F/i/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">in paragraph (1)—</chapeau>
+                                <item style="-uslm-dtd:item" identifier="/us/sComp/115/278/s2/h/1/F/i/I/aa" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 230</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2213</quotedText>”; and</content>
+                                </item>
+                                <item style="-uslm-dtd:item" identifier="/us/sComp/115/278/s2/h/1/F/i/I/bb" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, as added by section 223(a)(6) of this division</quotedText>”;</content>
+                                </item>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/F/i/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><chapeau style="-uslm-dtd:text">in paragraph (4)—</chapeau>
+                                <item style="-uslm-dtd:item" identifier="/us/sComp/115/278/s2/h/1/F/i/II/aa" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 228(b)(1)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2210(b)(1)</quotedText>”; and</content>
+                                </item>
+                                <item style="-uslm-dtd:item" identifier="/us/sComp/115/278/s2/h/1/F/i/II/bb" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, as added by section 223(a)(4) of this division</quotedText>”; and</content>
+                                </item>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/F/i/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><chapeau style="-uslm-dtd:text">in paragraph (5)—</chapeau>
+                                <item style="-uslm-dtd:item" identifier="/us/sComp/115/278/s2/h/1/F/i/III/aa" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 230(b)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2213(b)</quotedText>”; and</content>
+                                </item>
+                                <item style="-uslm-dtd:item" identifier="/us/sComp/115/278/s2/h/1/F/i/III/bb" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, as added by section 223(a)(6) of this division</quotedText>”; and</content>
+                                </item>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/F/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">in subsection (c)(1)(A)(vi)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/F/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 230(c)(5)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2213(c)(5)</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/F/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, as added by section 223(a)(6) of this division</quotedText>”;</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/h/1/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><chapeau style="-uslm-dtd:text">in section 227 (6 U.S.C. 1525)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/G/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">in subsection (a)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/G/i/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 230</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2213</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/G/i/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, as added by section 223(a)(6) of this division,</quotedText>”; and</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/G/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">in subsection (b)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/G/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 230(d)(2)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2213(d)(2)</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/G/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, as added by section 223(a)(6) of this division,</quotedText>”; and</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/h/1/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><chapeau style="-uslm-dtd:text">in section 404 (6 U.S.C. 1532)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/H/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Director for Emergency Communications</quotedText>” each place that term appears and inserting “<quotedText style="-uslm-dtd:quote">Assistant Director for Emergency Communications</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s2/h/1/H/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">in subsection (a)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/H/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 227</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2209</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/115/278/s2/h/1/H/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, as redesignated by section 223(a)(3) of this division,</quotedText>”.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/h/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Small business act.—</heading><content style="-uslm-dtd:text">Section 21(a)(8)(B) of the Small Business Act (15 U.S.C. 648(a)(8)(B)) is amended by striking “<quotedText style="-uslm-dtd:quote">section 227(a) of the Homeland Security Act of 2002 (6 U.S.C. 148(a))</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 2209(a) of the Homeland Security Act of 2002</quotedText>”.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/h/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Title 5.—</heading><chapeau style="-uslm-dtd:text">Subchapter II of chapter 53 of title 5, United States Code, is amended—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/h/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in section 5314, by inserting after  “<quotedText style="-uslm-dtd:quote">Under Secretaries, Department of Homeland Security.</quotedText>” the following:<quotedContent style="-uslm-dtd:quoted-block"><content style="-uslm-dtd:text">“Director, Cybersecurity and Infrastructure Security Agency.”</content></quotedContent>; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s2/h/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in section 5315, by inserting after  “<quotedText style="-uslm-dtd:quote">Assistant Secretaries, Department of Homeland Security.</quotedText>” the following:<quotedContent style="-uslm-dtd:quoted-block"><content style="-uslm-dtd:text">“Assistant Director for Cybersecurity, Cybersecurity and Infrastructure Security Agency. Assistant Director for Infrastructure Security, Cybersecurity and Infrastructure Security Agency.”</content></quotedContent>.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s2/i" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Table of Contents Amendments.—</heading><chapeau style="-uslm-dtd:text">The table of contents in section 1(b) of the Homeland Security Act of 2002 (Public Law 107-296; 116 Stat. 2135) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/i/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking the item relating to title II and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <groupItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>““TITLE II—</designator><label>INFORMATION ANALYSIS”;”</label></referenceItem>
+                        </groupItem>
+                    </toc></quotedContent>
+</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/i/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking the item relating to subtitle A of title II and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>““Subtitle A—</designator><label>Information and Analysis; Access to Information”;”</label></referenceItem>
+                    </toc></quotedContent>
+</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/i/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by striking the item relating to section 201 and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 201. Information and analysis.”;”</label></referenceItem>
+                    </toc></quotedContent>
+</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/i/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">by striking the items relating to sections 210E and 210F and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 210E. Classified Information Advisory Officer.”;”</label></referenceItem>
+                    </toc></quotedContent>
+</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/i/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">by striking the items relating to subtitle B of title II and sections 211 through 215;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/i/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">by striking the items relating to section 223 through section 230;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/i/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">by striking the item relating to subtitle C and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>““Subtitle B—</designator><label>Information Security”;”</label></referenceItem>
+                    </toc></quotedContent>
+</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/i/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">by striking the item relating to subtitle D and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>““Subtitle C—</designator><label>Office of Science and Technology”;”</label></referenceItem>
+                    </toc></quotedContent>
+</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/i/9" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">by striking the items relating to sections 317, 319, 318, and 319 and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 317. Promoting antiterrorism through international cooperation program.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 318. Social media working group.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 319. Transparency in research and development.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 320. EMP and GMD mitigation research and development.”;”</label></referenceItem>
+                    </toc></quotedContent>
+</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/i/10" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">by striking the item relating to section 1801 and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 1801. Emergency Communications Division.”; and”</label></referenceItem>
+                    </toc></quotedContent>
+</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s2/i/11" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <groupItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>““TITLE XXII—</designator><label>CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>““Subtitle A—</designator><label>Cybersecurity and Infrastructure Security</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2201. Definitions.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2202. Cybersecurity and Infrastructure Security Agency.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2203. Cybersecurity Division.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2204. Infrastructure Security Division.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2205. Enhancement of Federal and non-Federal cybersecurity.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2206. Net guard.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2207. Cyber Security Enhancement Act of 2002.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2208. Cybersecurity recruitment and retention.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2209. National cybersecurity and communications integration center.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2210. Cybersecurity plans.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2211. Cybersecurity strategy.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2212. Clearances.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2213. Federal intrusion detection and prevention system.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2214. National Asset Database.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>““Subtitle B—</designator><label>Critical Infrastructure Information</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2221. Short title.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2222. Definitions.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2223. Designation of critical infrastructure protection program.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2224. Protection of voluntarily shared critical infrastructure information.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>““Sec. 2225. No private right of action.”.”</label></referenceItem>
+                        </groupItem>
+                    </toc></quotedContent>
+</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/115/278/s3" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s452">6 U.S.C. 452 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">TRANSFER OF OTHER ENTITIES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s3/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Office of Biometric Identity Management.—</heading><content style="-uslm-dtd:text">The Office of Biometric Identity Management of the Department of Homeland Security located in the National Protection and Programs Directorate of the Department of Homeland Security on the day before the date of enactment of this Act is hereby transferred to the Management Directorate of the Department.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s3/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Federal Protective Service.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s3/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than 90 days after the completion of the Government Accountability Office review of the organizational placement of the Federal Protective Service (authorized under section 1315 of title 40, United States Code), the Secretary of Homeland Security shall determine the appropriate placement of the Service within the Department of Homeland Security and commence the transfer of the Service to such component, directorate, or other office of the Department that the Secretary so determines appropriate.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s3/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Exception.—</heading><chapeau style="-uslm-dtd:text">If the Secretary of Homeland Security determines pursuant to paragraph (1) that no component, directorate, or other office of the Department of Homeland Security 
+is an appropriate placement for the Federal Protective Service, the Secretary shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s3/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">provide to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate and the Office of Management and Budget a detailed explanation, in writing, of the reason for such determination that includes—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s3/b/2/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">information on how the Department considered the Government Accountability Office review described in such paragraph;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s3/b/2/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a list of the components, directorates, or other offices of the Department that were considered for such placement; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/278/s3/b/2/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">information on why each such component, directorate, or other office of the Department was determined to not be an appropriate placement for the Service;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s3/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">not later than 120 days after the completion of the Government Accountability Office review described in such paragraph, develop and submit to the committees specified in subparagraph (A) and the Office of Management and Budget a plan to coordinate with other appropriate Federal agencies, including the General Services Administration, to determine a more appropriate placement for the Service; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s3/b/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">not later than 180 days after the completion of such Government Accountability Office review, submit to such committees and the Office of Management and Budget a recommendation regarding the appropriate placement of the Service within the executive branch of the Federal Government.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/115/278/s4" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><heading style="-uslm-dtd:header">DHS REPORT ON CLOUD-BASED CYBERSECURITY. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s4/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definition.—</heading><content style="-uslm-dtd:text">In this section, the term “<quotedText style="-uslm-dtd:quote">Department</quotedText>” means the Department of Homeland Security.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/278/s4/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 120 days after the date of enactment of this Act, the Secretary of Homeland Security, in coordination with the Director of the Office of Management and Budget and the Administrator of General Services, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform and the Committee on Homeland Security of the House of Representatives a report on the leadership role of the Department in cloud-based cybersecurity deployments for civilian Federal departments and agencies, which shall include—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s4/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">information on the plan of the Department for ensuring access to a security operations center as a service capability in accordance with the December 19, 2017 Report to the President on Federal IT Modernization issued by the American Technology Council;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s4/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">information on what service capabilities under paragraph (1) the Department will prioritize, including—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s4/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">criteria the Department will use to evaluate capabilities offered by the private sector; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/278/s4/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">how Federal government- and private sector-provided capabilities will be integrated to enable visibility and consistency of such capabilities across all cloud and on premise environments, as called for in the report described in paragraph (1); and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s4/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">information on how the Department will adapt the current capabilities of, and future enhancements to, the intrusion detection and prevention system of the Department and the Continuous Diagnostics and Mitigation Program of the Department to secure civilian Federal government networks in a cloud environment.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/115/278/s5" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s651">6 U.S.C. 651 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">RULE OF CONSTRUCTION. </heading><chapeau style="-uslm-dtd:text">Nothing in this Act or an amendment made by this Act may be construed as—</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s5/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">conferring new authorities to the Secretary of Homeland Security, including programmatic, regulatory, or enforcement authorities, outside of the authorities in existence on the day before the date of enactment of this Act;</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s5/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">reducing or limiting the programmatic, regulatory, or enforcement authority vested in any other Federal agency by statute; or</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/278/s5/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">affecting in any manner the authority, existing on the day before the date of enactment of this Act, of any other Federal agency or component of the Department of Homeland Security.</content>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/115/278/s6" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><heading style="-uslm-dtd:header">PROHIBITION ON ADDITIONAL FUNDING. </heading><content style="-uslm-dtd:text">No additional funds are authorized to be appropriated to carry out this Act or the amendments made by this Act. This Act and the amendments made by this Act shall be carried out using amounts otherwise authorized.</content>
+        </section>
+    </main>
+</statuteCompilation>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Broadband Deployment Accuracy and Technological Availability Act</dc:title>
+        <citableAs>Public Law 116–130</citableAs>
+        <citableAsShortTitle>Broadband Deployment Accuracy and Technological Availability Act</citableAsShortTitle>
+        <docNumber>130</docNumber>
+        <currentThroughPublicLaw>116–130</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Broadband DATA Act</containsShortTitle>
+        <containsShortTitle>Broadband Deployment Accuracy and Technological Availability Act</containsShortTitle>
+        <property role="fileId">15689</property>
+        <congress>116</congress>
+        <approvedDate>2020-03-23</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Broadband Deployment Accuracy and Technological Availability Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 116–130</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 116–130. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To require the Federal Communications Commission to issue rules relating to the collection of data with respect to the availability of broadband services, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/130/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s609">47 U.S.C. 609 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Broadband Deployment Accuracy and Technological Availability Act</shortTitle>” or the “<shortTitle style="-uslm-dtd:quote">Broadband DATA Act</shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/130/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">BROADBAND DATA. </heading><content style="-uslm-dtd:text">The Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+            <title style="-uslm-dtd:title">
+                <num style="-uslm-dtd:enum" value="VIII">“TITLE VIII—</num><heading style="-uslm-dtd:header">BROADBAND DATA </heading>
+                <section style="-uslm-dtd:section" styleType="OLC" role="definitions">
+                    <num style="-uslm-dtd:enum" value="801">“SEC. 801. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s641">47 U.S.C. 641</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS </heading><chapeau style="-uslm-dtd:text">“In this title:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Broadband internet access service.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">broadband internet access service</term>’ has the meaning given the term in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Broadband map.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">Broadband Map</term>’ means the map created by the Commission under section 802(c)(1)(A).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Cell edge probability.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">cell edge probability</term>’ means the likelihood that the minimum threshold download and upload speeds with respect to broadband internet access service will be met or exceeded at a distance from a base station that is intended to indicate the ultimate edge of the coverage area of a cell.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Cell loading.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">cell loading</term>’ means the percentage of the available air interface resources of a base station that are used by consumers with respect to broadband internet access service.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">“(5) </num><heading style="-uslm-dtd:header">Clutter.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">clutter</term>’ means a natural or man-made surface feature that affects the propagation of a signal from a base station.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">“(6) </num><heading style="-uslm-dtd:header">Fabric.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">Fabric</term>’ means the Broadband Serviceable Location Fabric established under section 802(b)(1)(B).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">“(7) </num><heading style="-uslm-dtd:header">Form 477.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">Form 477</term>’ means Form 477 of the Commission relating to local telephone competition and broadband reporting.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">“(8) </num><heading style="-uslm-dtd:header">Indian tribe.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">Indian Tribe</term>’ has the meaning given the term ‘<term style="-uslm-dtd:quote">Indian tribe</term>’ in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="9">“(9) </num><heading style="-uslm-dtd:header">Mobility fund phase ii.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">Mobility Fund Phase II</term>’ means the second phase of the proceeding to provide universal service support from the Mobility Fund (WC Docket No. 10-90; WT Docket No. 10-208).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="10">“(10) </num><heading style="-uslm-dtd:header">Propagation model.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">propagation model</term>’ means a mathematical formulation for the characterization of radio wave propagation as a function of frequency, distance, and other conditions.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="11">“(11) </num><heading style="-uslm-dtd:header">Provider.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">provider</term>’ means a provider of fixed or mobile broadband internet access service.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="12">“(12) </num><heading style="-uslm-dtd:header">Quality of service.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">quality of service</term>’ means, with respect to broadband internet access service, the download and upload speeds (and, for relevant services, latency) with respect to that service, as determined by, and to the extent otherwise collected by, the Commission.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="13">“(13) </num><heading style="-uslm-dtd:header">Shapefile.—</heading><chapeau style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">shapefile</term>’ means a digital storage format containing geospatial or location-based data and attribute information—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">regarding the availability of broadband internet access service; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">that can be viewed, edited, and mapped in geographic information system software.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="14">“(14) </num><heading style="-uslm-dtd:header">Standard broadband installation.—</heading><chapeau style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">standard broadband installation</term>’—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">means the initiation by a provider of fixed broadband internet access service in an area in which the provider has not previously offered that service, with no charges or delays attributable to the extension of the network of the provider; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">includes the initiation of fixed broadband internet access service through routine installation that can be completed not later than 10 business days after the date on which the service request is submitted.</content>
+                        </subparagraph>
+                    </paragraph>
+                </section>
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="802">“SEC. 802. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s642">47 U.S.C. 642</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">BROADBAND MAPS </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Rules.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this title, the Commission shall issue final rules that shall—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">require the biannual collection and dissemination of granular data, as determined by the Commission—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">relating to the availability and quality of service with respect to terrestrial fixed, fixed wireless, satellite, and mobile broadband internet access service; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">that the Commission shall use to compile the maps created under subsection (c)(1) (referred to in this section as ‘coverage maps’), which the Commission shall make publicly available; and</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">establish—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">processes through which the Commission can verify the accuracy of data submitted under subsection (b)(2);</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><chapeau style="-uslm-dtd:text">processes and procedures through which the Commission, and, as necessary, other entities or individuals submitting non-public or competitively sensitive information under this title, can protect the security, privacy, and confidentiality of that non-public or competitively sensitive information, including—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">information contained in the Fabric;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the dataset created under subsection (b)(1)(A) supporting the Fabric; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">the data submitted under subsection (b)(2);</content>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">the challenge process described in subsection (b)(5); and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">the process described in section 804(b).</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Other data.—</heading><chapeau style="-uslm-dtd:text">In issuing the rules under paragraph (1), the Commission shall develop a process through which the Commission can collect verified data for use in the coverage maps from—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">State, local, and Tribal governmental entities that are primarily responsible for mapping or tracking broadband internet access service coverage for a State, unit of local government, or Indian Tribe, as applicable;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">third parties, if the Commission determines that it is in the public interest to use such data in—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the development of the coverage maps; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the verification of data submitted under subsection (b); and</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">other Federal agencies.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Updates.—</heading><chapeau style="-uslm-dtd:text">The Commission shall revise the rules issued under paragraph (1) to—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">reflect changes in technology;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">ensure the accuracy of propagation models, as further provided in subsection (b)(3); and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">improve the usefulness of the coverage maps.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Content of Rules.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Establishment of a serviceable location fabric regarding fixed broadband.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Dataset.—</heading>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Commission shall create a common dataset of all locations in the United States where fixed broadband internet access service can be installed, as determined by the Commission.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Contracting.—</heading>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to subclauses (II) and (III), the Commission may contract with an entity with expertise with respect to geographic information systems (referred to in this subsection as ‘GIS’) to create and maintain the dataset under clause (i).</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><heading style="-uslm-dtd:header">Application of the federal acquisition regulation.—</heading><content style="-uslm-dtd:text">A contract into which the Commission enters under subclause (I) shall in all respects comply with applicable provisions of the Federal Acquisition Regulation.</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="III">“(III) </num><heading style="-uslm-dtd:header">Limitations.—</heading><chapeau style="-uslm-dtd:text">With respect to a contract into which the Commission enters under subclause (I)—</chapeau>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">the entity with which the Commission enters into the contract shall be selected through a competitive bid process that is transparent and open; and</content>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><chapeau style="-uslm-dtd:text">the contract shall be for a term of not longer than 5 years, after which the Commission may enter into a new contract—</chapeau>
+                                            <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                                <num style="-uslm-dtd:enum" value="AA">“(AA) </num><content style="-uslm-dtd:text">with an entity, and for the purposes, described in clause (i); and</content>
+                                            </subitem>
+                                            <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                                <num style="-uslm-dtd:enum" value="BB">“(BB) </num><content style="-uslm-dtd:text">that complies with the requirements under subclause (II) and this subclause; and</content>
+                                            </subitem>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="cc">“(cc) </num><chapeau style="-uslm-dtd:text">the contract shall—</chapeau>
+                                            <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                                <num style="-uslm-dtd:enum" value="AA">“(AA) </num><content style="-uslm-dtd:text">prohibit the entity described in item (aa) from selling, leasing, or otherwise disclosing for monetary consideration any personally identifiable information to any other entity other than for purposes authorized under this title; and</content>
+                                            </subitem>
+                                            <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                                <num style="-uslm-dtd:enum" value="BB">“(BB) </num><content style="-uslm-dtd:text">require the entity described in item (aa) to include in any contract with any other entity a provision that prohibits that other entity from engaging in an action that is prohibited under subitem (AA).</content>
+                                            </subitem>
+                                        </item>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Fabric.—</heading><chapeau style="-uslm-dtd:text">The rules issued by the Commission under subsection (a)(1) shall establish the Broadband Serviceable Location Fabric, which shall—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">contain geocoded information for each location identified under subparagraph (A)(i);</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">serve as the foundation upon which all data relating to the availability of fixed broadband internet access service collected under paragraph (2)(A) shall be reported and overlaid;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">be compatible with commonly used GIS software; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">at a minimum, be updated every 6 months by the Commission.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Implementation priority.—</heading><content style="-uslm-dtd:text">The Commission shall prioritize implementing the Fabric for rural and insular areas of the United States.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Collection of information.—</heading><chapeau style="-uslm-dtd:text">The rules issued by the Commission under subsection (a)(1) shall include uniform standards for the reporting of broadband internet access service data that the Commission shall collect—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">from each provider of terrestrial fixed, fixed wireless, or satellite broadband internet access service, which shall include data that—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><chapeau style="-uslm-dtd:text">documents the areas where the provider—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">has actually built out the broadband network infrastructure of the provider such that the provider is able to provide that service; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">could provide that service, as determined by identifying where the provider is capable of performing a standard broadband installation, if applicable;</content>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">includes information regarding download and upload speeds, at various thresholds established by the Commission, and, if applicable, latency with respect to broadband internet access service that the provider makes available;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">can be georeferenced to the GIS data in the Fabric;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><chapeau style="-uslm-dtd:text">the provider shall report as—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><chapeau style="-uslm-dtd:text">with respect to providers of fixed wireless broadband internet access service—</chapeau>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><chapeau style="-uslm-dtd:text">propagation maps and propagation model details that—</chapeau>
+                                            <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                                <num style="-uslm-dtd:enum" value="AA">“(AA) </num><content style="-uslm-dtd:text">satisfy standards that are similar to those applicable to providers of mobile broadband internet access service under subparagraph (B) with respect to propagation maps and propagation model details, taking into account material differences between fixed wireless and mobile broadband internet access service; and</content>
+                                            </subitem>
+                                            <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                                <num style="-uslm-dtd:enum" value="BB">“(BB) </num><content style="-uslm-dtd:text">reflect the speeds and latency of the service provided by the provider; or</content>
+                                            </subitem>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><chapeau style="-uslm-dtd:text">a list of addresses or locations that constitute the service area of the provider, except that the Commission—</chapeau>
+                                            <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                                <num style="-uslm-dtd:enum" value="AA">“(AA) </num><content style="-uslm-dtd:text">may only permit, and not require, a provider to report the data using that means of reporting; and</content>
+                                            </subitem>
+                                            <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                                <num style="-uslm-dtd:enum" value="BB">“(BB) </num><content style="-uslm-dtd:text">in the rules issued under subsection (a)(1), shall provide a method for using that means of reporting with respect to Tribal areas; and</content>
+                                            </subitem>
+                                        </item>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><chapeau style="-uslm-dtd:text">with respect to providers of terrestrial fixed and satellite broadband internet access service—</chapeau>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">polygon shapefiles; or</content>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><chapeau style="-uslm-dtd:text">a list of addresses or locations that constitute the service area of the provider, except that the Commission—</chapeau>
+                                            <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                                <num style="-uslm-dtd:enum" value="AA">“(AA) </num><content style="-uslm-dtd:text">may only permit, and not require, a provider to report the data using that means of reporting; and</content>
+                                            </subitem>
+                                            <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                                <num style="-uslm-dtd:enum" value="BB">“(BB) </num><content style="-uslm-dtd:text">in the rules issued under subsection (a)(1), shall provide a method for using that means of reporting with respect to Tribal areas; and</content>
+                                            </subitem>
+                                        </item>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">the Commission determines is appropriate with respect to certain technologies in order to ensure that the Broadband Map is granular and accurate; and</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">from each provider of mobile broadband internet access service, which shall include propagation maps and propagation model details that indicate the current (as of the date on which the information is collected) fourth generation Long-Term Evolution (commonly referred to as  ‘4G LTE’) mobile broadband internet access service coverage of the provider, which shall—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">take into consideration the effect of clutter; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><chapeau style="-uslm-dtd:text">satisfy—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><chapeau style="-uslm-dtd:text">the requirements of having—</chapeau>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">a download speed of not less than 5 megabits per second and an upload speed of not less than 1 megabit per second with a cell edge probability of not less than 90 percent; and</content>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">cell loading of not less than 50 percent; and</content>
+                                        </item>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">any other parameter that the Commission determines to be necessary to create a map under subsection (c)(1)(C) that is more precise than the map produced as a result of the submissions under the Mobility Fund Phase II information collection.</content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Update of reporting standards for mobile broadband internet access service.—</heading><chapeau style="-uslm-dtd:text">For the purposes of paragraph (2)(B), if the Commission determines that the reporting standards under that paragraph are insufficient to collect accurate propagation maps and propagation model details with respect to future generations of mobile broadband internet access service technologies, the Commission shall immediately commence a rule making to adopt new reporting standards with respect to those technologies that—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">shall be the functional equivalent of the standards required under paragraph (2)(B); and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">allow for the collection of propagation maps and propagation model details that are as accurate and granular as, or more accurate and granular than, the maps and model details collected by the Commission under paragraph (2)(B).</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Certification and verification.—</heading><chapeau style="-uslm-dtd:text">With respect to a provider that submits information to the Commission under paragraph (2)—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the provider shall include in each submission a certification from a corporate officer of the provider that the officer has examined the information contained in the submission and that, to the best of the officer’s actual knowledge, information, and belief, all statements of fact contained in the submission are true and correct; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the Commission shall verify the accuracy and reliability of the information in accordance with measures established by the Commission.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">“(5) </num><heading style="-uslm-dtd:header">Challenge process.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">In the rules issued under subsection (a), and subject to subparagraph (B), the Commission shall establish a user-friendly challenge process through which consumers, State, local, and Tribal governmental entities, and other entities or individuals may submit coverage data to the Commission to challenge the accuracy of—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the coverage maps;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">any information submitted by a provider regarding the availability of broadband internet access service; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">the information included in the Fabric.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Considerations; verification; response to challenges.—</heading><chapeau style="-uslm-dtd:text">In establishing the challenge process required under subparagraph (A), the Commission shall—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><chapeau style="-uslm-dtd:text">consider—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">the types of information that an entity or individual submitting a challenge should provide to the Commission in support of the challenge;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the appropriate level of granularity for the information described in subclause (I);</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="III">“(III) </num><chapeau style="-uslm-dtd:text">the need to mitigate the time and expense incurred by, and the administrative burdens placed on, entities or individuals in—</chapeau>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">challenging the accuracy of a coverage map; and</content>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">responding to challenges described in item (aa);</content>
+                                        </item>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="IV">“(IV) </num><content style="-uslm-dtd:text">the costs to consumers and providers resulting from a misallocation of funds because of a reliance on outdated or otherwise inaccurate information in the coverage maps;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="V">“(V) </num><content style="-uslm-dtd:text">any lessons learned from the challenge process established under Mobility Fund Phase II, as determined from comments solicited by the Commission; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="VI">“(VI) </num><content style="-uslm-dtd:text">the need for user-friendly challenge submission formats that will promote participation in the challenge process;</content>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">include a process for verifying the data submitted through the challenge process in order to ensure the reliability of that data;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">allow providers to respond to challenges submitted through the challenge process; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><chapeau style="-uslm-dtd:text">develop an online mechanism, which—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">shall be integrated into the coverage maps;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">allows for an entity described in subparagraph (A) to submit a challenge under the challenge process;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">makes challenge data available in both geographic information system and non-geographic information system formats; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="IV">“(IV) </num><content style="-uslm-dtd:text">clearly identifies the areas in which broadband internet access service is available, and the upload and download speeds at which that service is available, as reported to the Commission under this section.</content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Use of challenges.—</heading><chapeau style="-uslm-dtd:text">The rules issued to establish the challenge process under subparagraph (A) shall include—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">a process for the speedy resolution of challenges; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">a process for the regular and expeditious updating of the coverage maps and granular data disseminated by the Commission as challenges are resolved.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><heading style="-uslm-dtd:header">Report to congress.—</heading><chapeau style="-uslm-dtd:text">Not earlier than 1 year, and not later than 18 months, after the date on which  the rules issued under subsection (a)(1) take effect, the Commission shall, after an opportunity for notice and comment, submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">evaluates the challenge process described in subparagraph (A); and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><chapeau style="-uslm-dtd:text">considers whether the Commission should commence an inquiry on the need for other tools to help—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">identify potential inaccuracies in the data relating to broadband internet access service that providers report; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">improve the accuracy of the data described in subclause (I).</content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">“(6) </num><heading style="-uslm-dtd:header">Reform of form 477 process.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date on which the rules issued under subsection (a) take effect, the Commission shall—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><chapeau style="-uslm-dtd:text">reform the Form 477 broadband deployment service availability collection process of the Commission—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">to achieve the purposes of this title; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><chapeau style="-uslm-dtd:text">in a manner that—</chapeau>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">enables the comparison of data and maps produced before the implementation of this title with data and coverage maps produced after the implementation of this title; and</content>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">maintains the public availability of data relating to the deployment of broadband internet access service; and</content>
+                                        </item>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">harmonize reporting requirements and procedures regarding the deployment of broadband internet access service that are in effect on the day before the date on which the rules issued under subsection (a)(1) take effect with those requirements and procedures in those rules.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Continued collection and reporting.—</heading><content style="-uslm-dtd:text">On and after the date on which the Commission carries out subparagraph (A), the Commission shall continue to collect and publicly report subscription data that the Commission collected through the Form 477 broadband deployment service availability process, as in effect on July 1, 2019.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="7">“(7) </num><heading style="-uslm-dtd:header">Sharing data with ntia.—</heading><content style="-uslm-dtd:text">The Commission shall establish a process to make the data collected under paragraph (2) available to the National Telecommunications and Information Administration.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Maps.—</heading><chapeau style="-uslm-dtd:text">The Commission shall—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><chapeau style="-uslm-dtd:text">after consultation with the Federal Geographic Data Committee established under section 753(a) of the Geospatial Data Act of 2018, create—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">the Broadband Map, which shall depict—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the extent of the availability of broadband internet access service in the United States, without  regard to whether that service is fixed broadband internet access service or mobile broadband internet access service, which shall be based on data collected by the Commission from all providers; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the areas of the United States that remain unserved by providers;</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">a map that depicts the availability of fixed broadband internet access service, which shall be based on data collected by the Commission from providers under subsection (b)(2)(A); and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">a map that depicts the availability of mobile broadband internet access service, which shall be based on data collected by the Commission from providers under subsection (b)(2)(B);</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><chapeau style="-uslm-dtd:text">after creating the maps under paragraph (1), use such maps—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">to determine the areas in which terrestrial fixed, fixed wireless, mobile, and satellite broadband internet access service is and is not available; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">when making any new award of funding with respect to the deployment of broadband internet access service intended for use by residential and mobile customers;</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">update the maps created under paragraph (1) not less frequently than biannually using the most recent data collected from providers under subsection (b)(2);</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><chapeau style="-uslm-dtd:text">consult with—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the Secretary of Agriculture to enable the Secretary of Agriculture to consult the maps created under paragraph (1) when considering the awarding of funds for the deployment of broadband internet access service under any program administered by the Administrator of the Rural Utilities Service; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the National Telecommunications and Information Administration to enable the Administration to consult the maps created under paragraph (1) when considering the awarding of funds for the deployment of broadband internet access service under any future program administered by the Administration;</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">make available to any Federal agency, upon request, the maps created under paragraph (1); and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">“(6) </num><chapeau style="-uslm-dtd:text">make public at an appropriate level of granularity—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the maps created under paragraph (1); and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the data collected by the Commission with respect to the availability of broadband internet access service and the quality of service with respect to broadband internet access service.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Delayed Effective Date for Quality of Service Rules.—</heading><content style="-uslm-dtd:text">Any requirement of a rule issued under subsection (a)(1) that relates to quality of service shall take effect not earlier than the date that is 180 days after the date on which the Commission issues that rule.</content>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="803">“SEC. 803. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s643">47 U.S.C. 643</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ENFORCEMENT </heading><content style="-uslm-dtd:text">“It shall be unlawful for an entity or individual to willfully and knowingly, or recklessly, submit information or data under this title that is materially inaccurate or incomplete with respect  to the availability of broadband internet access service or the quality of service with respect to broadband internet access service.</content>
+                </section>
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="804">“SEC. 804. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s644">47 U.S.C. 644</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">IMPROVING DATA ACCURACY </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Audits.—</heading><content style="-uslm-dtd:text">The Commission shall conduct regular audits of information submitted to the Commission by providers under section 802(b)(2) to ensure that the providers are complying with this title.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Crowdsourcing.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Commission shall develop a process through which entities or individuals in the United States may submit specific information about the deployment and availability of broadband internet access service in the United States on an ongoing basis so that the information may be used to verify and supplement information provided by providers of broadband internet access service for inclusion in the maps created under section 802(c)(1).</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Collaboration.—</heading><chapeau style="-uslm-dtd:text">As part of the efforts of the Commission to facilitate the ability of entities and individuals to submit information under paragraph (1), the Commission shall—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">prioritize the consideration of data provided by data collection applications used by consumers that the Commission has determined—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">are highly reliable; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">have proven methodologies for determining network coverage and network performance;</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">not later than 1 year after the date of enactment of this title, conclude a process that tests the feasibility of partnering with Federal agencies that operate delivery fleet vehicles, including the United States Postal Service, to facilitate the collection and submission of information described in that paragraph; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><chapeau style="-uslm-dtd:text">not later than 14 months after the date of enactment of this title, publish on the website of the Commission, and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report regarding the testing described in subparagraph (B), which shall include—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">a determination regarding whether the partnerships with Federal agencies described in that subparagraph are able to facilitate the collection and submission of information described in paragraph (1); and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">any steps that the Commission plans to take to facilitate the partnerships described in that subparagraph.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Technical Assistance to Indian Tribes.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to paragraph (2), the Commission shall hold workshops for Tribal Governments in each of the 12 Bureau of Indian Affairs regions to provide technical assistance with the collection and submission of data under section 802(a)(2).</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Annual review.—</heading><content style="-uslm-dtd:text">Each year, the Commission, in consultation with Indian Tribes, shall review the need for continued workshops required under paragraph (1).</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Technical Assistance to Small Service Providers.—</heading><content style="-uslm-dtd:text">The Commission shall establish a process through which a provider that has fewer than 100,000 active broadband internet access service connections may request and receive assistance from the Commission with respect to geographic information system data processing to ensure that the provider is able to comply with the requirements under section 802(b) in a timely and accurate manner.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Technical Assistance to State, Local, and Tribal Governments and Consumers.—</heading><chapeau style="-uslm-dtd:text">The Commission shall provide technical assistance to consumers and State, local, and Tribal governmental entities with respect to the challenge process established under section 802(b)(5), which shall include—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">detailed tutorials and webinars; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">the provision of staff of the Commission to provide assistance, as needed, throughout the entirety of the challenge process.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">“(f) </num><heading style="-uslm-dtd:header">GAO Assessment of Fabric Source Data.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Comptroller General of the United States shall conduct an assessment of key data sources that are used for purposes of the Fabric to identify and geocode locations where fixed broadband internet access service can be installed in order for the Comptroller General to develop recommendations for how the quality and completeness of those data sources can be improved as data sources for the Fabric.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Sources included.—</heading><chapeau style="-uslm-dtd:text">For the purposes of the assessment conducted under paragraph (1), the key data sources described in that paragraph shall include—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">any relevant sources of Federal data, including the National Address Database administered by the Department of Transportation;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">State- and county-level digitized parcel data; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">property tax attribute recording.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this title, the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that contains the recommendations developed under paragraph (1).</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="805">“SEC. 805. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s645">47 U.S.C. 645</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">COST </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">USF.—</heading><content style="-uslm-dtd:text">The Commission may not use funds from the universal service programs of the Commission established under section 254, and the regulations issued under that section, to pay for any costs associated with this title.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Other Funds.—</heading><content style="-uslm-dtd:text">The Commission may recover costs associated with this title under section 9 to the extent provided for in an appropriation Act, as required under subsection (a) of that section.</content>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="806">“SEC. 806. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s646">47 U.S.C. 646</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">OTHER PROVISIONS </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">OMB.—</heading><content style="-uslm-dtd:text">Notwithstanding any other provision of law, the initial rule making required under section 802(a)(1) shall be exempt from review by the Office of Management and Budget.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">PRA.—</heading><content style="-uslm-dtd:text">Subchapter I of chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’) shall not apply to the initial rule making required under section 802(a)(1).</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Execution of Responsibilities.—</heading><chapeau style="-uslm-dtd:text">Except, with respect to an entity that is not the Universal Service Administrative Company,  as provided in section 802(a)(2)(B), section 802(b)(1)(A)(ii), and subsections (c), (d), and (e) of section 804, the Commission—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">including the offices of the Commission, shall carry out the responsibilities assigned to the Commission under this title; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">may not delegate any of the responsibilities assigned to the Commission under this title to any third party, including the Universal Service Administrative Company.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Reporting.—</heading><content style="-uslm-dtd:text">Each fiscal year, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that summarizes the implementation of this title and associated enforcement activities conducted during the previous fiscal year.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Rule of Construction.—</heading><content style="-uslm-dtd:text">If the Commission, before the date of enactment of this title, has taken an action that, in whole or in part, implements this title, the Commission shall not be required to revisit such action to the extent that such action is consistent with this title.”</content>
+                    </subsection>
+                </section>
+            </title></quotedContent>.</content>
+        </section>
+    </main>
+</statuteCompilation>

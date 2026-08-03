@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Nuclear Energy Innovation and Modernization Act</dc:title>
+        <citableAs>Public Law 115–439, as amended</citableAs>
+        <citableAsShortTitle>Nuclear Energy Innovation and Modernization Act</citableAsShortTitle>
+        <docNumber>439</docNumber>
+        <currentThroughPublicLaw>118–67</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
+        <processedDate>2026-02-20</processedDate>
+        <containsShortTitle>Nuclear Energy Innovation and Modernization Act</containsShortTitle>
+        <containsShortTitle>ADVANCE Act of 2024</containsShortTitle>
+        <property role="fileId">15360</property>
+        <congress>115</congress>
+        <approvedDate>2019-01-14</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Nuclear Energy Innovation and Modernization Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 115–439</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 118–67</currentThroughPublicLaw>, Enacted <date date="2024-07-09">July 9, 2024</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 115-439. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To modernize the regulation of nuclear energy.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/115/439/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s2011">42 U.S.C. 2011 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection identifier="/us/sComp/115/439/s1/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Nuclear Energy Innovation and Modernization Act</shortTitle>”.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/115/439/s1/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 2.</designator><label> Purpose.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 3.</designator><label> Definitions.</label></referenceItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE I—</designator><label>ADVANCED NUCLEAR REACTORS AND USER FEES</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 101.</designator><label> Nuclear Regulatory Commission user fees and annual charges through fiscal year 2020.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 102.</designator><label> Nuclear Regulatory Commission user fees and annual charges for fiscal year 2021 and each fiscal year thereafter.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 103.</designator><label> Advanced nuclear reactor program.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 104.</designator><label> Baffle-former bolt guidance.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 105.</designator><label> Evacuation report.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 106.</designator><label> Encouraging private investment in research and test reactors.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 107.</designator><label> Commission report on accident tolerant fuel.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 108.</designator><label> Report identifying best practices for establishment and operation of local community advisory boards.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 109.</designator><label> Report on study recommendations.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE II—</designator><label>URANIUM</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 201.</designator><label> Uranium recovery report.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 202.</designator><label> Pilot program for uranium recovery fees.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/115/439/s2" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s2215">42 U.S.C. 2215 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PURPOSE. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">The purpose of this Act is to provide—</chapeau>
+            <paragraph identifier="/us/sComp/115/439/s2/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a program to develop the expertise and regulatory processes necessary to allow innovation and the commercialization of advanced nuclear reactors;</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s2/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a revised fee recovery structure to ensure the availability of resources to meet industry needs without burdening existing licensees unfairly for inaccurate workload projections or premature existing reactor closures; and</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s2/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">more efficient regulation of uranium recovery.</content>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/115/439/s3" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s2215">42 U.S.C. 2215 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">In this Act:</chapeau>
+            <paragraph identifier="/us/sComp/115/439/s3/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Advanced nuclear reactor.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">advanced nuclear reactor</term>” means a nuclear fission reactor or fusion machine, including a prototype plant (as defined in sections 50.2 and 52.1 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act)), with significant improvements compared to commercial nuclear reactors under construction as of the date of enactment of this Act, including improvements such as—</chapeau>
+                <subparagraph identifier="/us/sComp/115/439/s3/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">additional inherent safety features;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">significantly lower levelized cost of electricity;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">lower waste yields;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">greater fuel utilization;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">enhanced reliability;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/1/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">increased proliferation resistance;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/1/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">increased thermal efficiency; or</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/1/H" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">ability to integrate into electric and nonelectric applications.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Advanced nuclear reactor applicant.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">advanced nuclear reactor applicant</term>” means an entity that has submitted to the Commission an application for a license for an advanced nuclear reactor under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Advanced nuclear reactor fuel.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">advanced nuclear reactor fuel</term>” means fuel for use in an advanced nuclear reactor or a research and test reactor, including fuel with a low uranium enrichment level of not greater than 20 percent.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Advanced nuclear reactor pre-applicant.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">advanced nuclear reactor pre-applicant</term>” means an entity that has submitted to the Commission a licensing project plan for the purposes of submitting a future application for a license for an advanced nuclear reactor under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Agency support.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">agency support</term>” has the meaning given the term “<term style="-uslm-dtd:term">agency support (corporate support and the IG)</term>” in section 170.3 of title 10, Code of Federal Regulations (or any successor regulation).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Agreement state.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Agreement State</term>” means any State with which the Commission has entered into an effective agreement under section 274 b. of the Atomic Energy Act of 1954 (42 U.S.C. 2021(b)).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Appropriate congressional committees.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">appropriate congressional committees</term>” means the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Commission.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Commission</term>” means the Nuclear Regulatory Commission.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Conceptual design assessment.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">conceptual design assessment</term>” means an early-stage review by the Commission that—</chapeau>
+                <subparagraph identifier="/us/sComp/115/439/s3/9/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">assesses preliminary design information for consistency with applicable regulatory requirements of the Commission;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/9/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">is performed on a set of topic areas agreed to in the licensing project plan; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/9/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">is performed at a cost and schedule agreed to in the licensing project plan.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/10" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="10">(10) </num><heading style="-uslm-dtd:header">Corporate support costs.—</heading>
+                <subparagraph identifier="/us/sComp/115/439/s3/10/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">corporate support costs</term>” means expenditures for acquisitions, administrative services, financial management, human resource management, information management, information technology, policy support, outreach, and training, as those categories are described and calculated in Appendix A of the Congressional Budget Justification for Fiscal Year 2018 of the Commission.</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/10/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Exclusions.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">corporate support costs</term>” does not include—</chapeau>
+                    <clause identifier="/us/sComp/115/439/s3/10/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">costs for rent and utilities relating to any and all space in the Three White Flint North building that is not occupied by the Commission; or</content>
+                    </clause>
+                    <clause identifier="/us/sComp/115/439/s3/10/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">costs for salaries, travel, and other support for the Office of the Commission.</content>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/11" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="11">(11) </num><heading style="-uslm-dtd:header">Fusion machine.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">fusion machine</term>” has the meaning given the term in section 11 of the Atomic Energy Act of 1954 (42 U.S.C. 2014).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/12" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="12">(12) </num><heading style="-uslm-dtd:header">Hourly rate for mission-direct program salaries and benefits.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">hourly rate for mission-direct program salaries and benefits</term>” means the quotient obtained by dividing—</chapeau>
+                <subparagraph identifier="/us/sComp/115/439/s3/12/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the full-time equivalent rate (within the meaning of the document of the Commission entitled “<term style="-uslm-dtd:quote">FY 2023 Final Fee Rule Work Papers</term>” (or a successor document)) for mission-direct program salaries and benefits for a fiscal year; by</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/12/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the productive hours assumption for that fiscal year, determined in accordance with the formula established in the document referred to in subparagraph (A) (or a successor document).</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/13" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="13">(13) </num><heading style="-uslm-dtd:header">Licensing project plan.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">licensing project plan</term>” means a plan that describes—</chapeau>
+                <subparagraph identifier="/us/sComp/115/439/s3/13/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the interactions between an applicant and the Commission; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/13/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">project schedules and deliverables in specific detail to support long-range resource planning undertaken by the Commission and an applicant.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/14" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="14">(14) </num><heading style="-uslm-dtd:header">Mission-direct program salaries and benefits.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">mission-direct program salaries and benefits</term>” means the resources of the Commission that are allocated to the Nuclear Reactor Safety Program (as determined by the Commission) to perform core work activities committed to fulfilling the mission of the Commission, as described in the document of the Commission entitled “<term style="-uslm-dtd:quote">FY 2023 Final Fee Rule Work Papers</term>” (or a successor document).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/15" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="15">(15) </num><heading style="-uslm-dtd:header">Mission-indirect program support.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">mission-indirect program support</term>” has the meaning given the term in section 170.3 of title 10, Code of Federal Regulations (or any successor regulation).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/16" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="16">(16) </num><heading style="-uslm-dtd:header">Regulatory framework.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">regulatory framework</term>” means the framework for reviewing requests for certifications, permits, approvals, and licenses for nuclear reactors.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/17" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="17">(17) </num><heading style="-uslm-dtd:header">Requested activity of the commission.—</heading><chapeau style="-uslm-dtd:text">
+The term “<term style="-uslm-dtd:quote">requested activity of the Commission</term>” means—</chapeau>
+                <subparagraph identifier="/us/sComp/115/439/s3/17/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">the processing of applications for—</chapeau>
+                    <clause identifier="/us/sComp/115/439/s3/17/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">design certifications or approvals;</content>
+                    </clause>
+                    <clause identifier="/us/sComp/115/439/s3/17/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">licenses;</content>
+                    </clause>
+                    <clause identifier="/us/sComp/115/439/s3/17/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">permits;</content>
+                    </clause>
+                    <clause identifier="/us/sComp/115/439/s3/17/A/iv" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">license amendments;</content>
+                    </clause>
+                    <clause identifier="/us/sComp/115/439/s3/17/A/v" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">license renewals;</content>
+                    </clause>
+                    <clause identifier="/us/sComp/115/439/s3/17/A/vi" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">certificates of compliance; and</content>
+                    </clause>
+                    <clause identifier="/us/sComp/115/439/s3/17/A/vii" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="vii">(vii) </num><content style="-uslm-dtd:text">power uprates; and</content>
+                    </clause>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/17/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any other activity requested by a licensee or applicant.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/18" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="18">(18) </num><heading style="-uslm-dtd:header">Research and test reactor.—</heading>
+                <subparagraph identifier="/us/sComp/115/439/s3/18/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">research and test reactor</term>” means a reactor that—</chapeau>
+                    <clause identifier="/us/sComp/115/439/s3/18/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">falls within the licensing and related regulatory authority of the Commission under section 202 of the Energy Reorganization Act of 1974 (42 U.S.C. 5842); and</content>
+                    </clause>
+                    <clause identifier="/us/sComp/115/439/s3/18/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">is useful in the conduct of research and development activities as licensed under section 104 c. of the Atomic Energy Act (42 U.S.C. 2134(c)).</content>
+                    </clause>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/439/s3/18/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Exclusion.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">research and test reactor</term>” does not include a commercial nuclear reactor.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/19" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="19">(19) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Secretary</term>” means the Secretary of Energy.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/20" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="20">(20) </num><heading style="-uslm-dtd:header">Standard design approval.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">standard design approval</term>” means the approval of a final standard design or a major portion of a final design standard as described in subpart E of part 52 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/21" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="21">(21) </num><heading style="-uslm-dtd:header">Technology-inclusive regulatory framework.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">technology-inclusive regulatory framework</term>” means a regulatory framework developed using methods of evaluation that are flexible and practicable for application to a variety of reactor technologies, including, where appropriate, the use of risk-informed and performance-based techniques and other tools and methods.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/439/s3/22" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="22">(22) </num><heading style="-uslm-dtd:header">Topical report.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">topical report</term>” means a document submitted to the Commission that addresses a technical topic related to nuclear reactor safety or design.</content>
+            </paragraph>
+        </section>
+        <title identifier="/us/sComp/115/439/tI" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">ADVANCED NUCLEAR REACTORS AND USER FEES </heading>
+            <section identifier="/us/sComp/115/439/tI/s101" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">NUCLEAR REGULATORY COMMISSION USER FEES AND ANNUAL CHARGES THROUGH FISCAL YEAR 2020. </heading>
+                <subsection identifier="/us/sComp/115/439/tI/s101/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Section 6101(c)(2)(A) of the Omnibus Budget Reconciliation Act of 1990 (42 U.S.C. 2214(c)(2)(A)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/439/tI/s101/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in clause (iii), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s101/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in clause (iv), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s101/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">amounts appropriated to the Commission for the fiscal year for activities related to the development of regulatory infrastructure for advanced nuclear  
+reactor technologies, including activities required under section 103 of the Nuclear Energy Innovation and Modernization Act.”</content>
+                        </subsection></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s101/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s2214">42 U.S.C. 2214 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Repeal.—</heading><content style="-uslm-dtd:text">Effective October 1, 2020, section 6101 of the Omnibus Budget Reconciliation Act of 1990 (42 U.S.C. 2214) is repealed.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/439/tI/s102" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s2215">42 U.S.C. 2215</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NUCLEAR REGULATORY COMMISSION USER FEES AND ANNUAL CHARGES FOR FISCAL YEAR 2021 AND EACH FISCAL YEAR THEREAFTER. </heading>
+                <subsection identifier="/us/sComp/115/439/tI/s102/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Annual Budget Justification.—</heading>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">In the annual budget justification submitted by the Commission to Congress, the Commission shall expressly identify anticipated expenditures necessary for completion of the requested activities of the Commission anticipated to occur during the applicable fiscal year.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Restriction.—</heading><content style="-uslm-dtd:text">Budget authority granted to the Commission for purposes of the requested activities of the Commission shall be used, to the maximum extent practicable, solely for conducting requested activities of the Commission.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Limitation on corporate support costs.—</heading><chapeau style="-uslm-dtd:text">With respect to the annual budget justification submitted to Congress, corporate support costs, to the maximum extent practicable, shall not exceed the following percentages of the total budget authority of the Commission requested in the annual budget justification:</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/a/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">30 percent for each of fiscal years 2021 and 2022.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/a/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">30 percent for fiscal year 2025 and each fiscal year thereafter.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">International nuclear export and innovation activities.—</heading><content style="-uslm-dtd:text">The Commission shall identify in the annual budget justification international nuclear export and innovation activities described in section 101(a) of the <inline style="-uslm-dtd:short-title">ADVANCE Act of 2024</inline>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s102/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Fees and Charges.—</heading>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Annual assessment.—</heading>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Each fiscal year, the Commission shall assess and collect fees and charges in accordance with paragraphs (2) and (3) in a manner that ensures that, to the maximum extent practicable, the amount assessed and collected is equal to an amount that approximates—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the total budget authority of the Commission for that fiscal year; less</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the budget authority of the Commission for the activities described in subparagraph (B).</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Excluded activities described.—</heading><chapeau style="-uslm-dtd:text">The activities referred to in subparagraph (A)(ii) are the following:</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/1/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">Any fee relief activity, as identified by the Commission.</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/1/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">Amounts appropriated for a fiscal year to the Commission—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/1/B/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">from the Nuclear Waste Fund established under section 302(c) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10222(c));</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/1/B/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (50 U.S.C. 2601 note; Public Law 108-375);</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/1/B/ii/III" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">for the homeland security activities of the Commission (other than for the costs of  
+fingerprinting and background checks required under section 149 of the Atomic Energy Act of 1954 (42 U.S.C. 2169) and the costs of conducting security inspections);</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/1/B/ii/IV" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">for the Inspector General services of the Commission provided to the Defense Nuclear Facilities Safety Board;</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/1/B/ii/V" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="V">(V) </num><content style="-uslm-dtd:text">for research and development at universities in areas relevant to the mission of the Commission; and</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/1/B/ii/VI" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="VI">(VI) </num><content style="-uslm-dtd:text">for a nuclear science and engineering grant program that will support multiyear projects that do not align with programmatic missions but are critical to maintaining the discipline of nuclear science and engineering.</content>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/1/B/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">Costs for activities related to the development of regulatory infrastructure for advanced nuclear reactor technologies, including activities required under section 103.</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/1/B/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">Costs for international nuclear export and innovation activities described in section 101(a) of the <inline style="-uslm-dtd:short-title">ADVANCE Act of 2024</inline>.</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/1/B/v" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">The total costs of mission-indirect program support and agency support that, under paragraph (2)(B), may not be included in the hourly rate charged for fees assessed and collected from advanced nuclear reactor applicants.</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/1/B/vi" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">The total costs of mission-indirect program support and agency support that, under paragraph (2)(C), may not be included in the hourly rate charged for fees assessed and collected from advanced nuclear reactor pre-applicants.</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/1/B/vii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vii">(vii) </num><chapeau style="-uslm-dtd:text">Costs for—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/1/B/vii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">activities to review and approve or disapprove an application for an early site permit (as defined in section 52.1 of title 10, Code of Federal Regulations (or any successor regulation)) to demonstrate an advanced nuclear reactor on a Department of Energy site or critical national security infrastructure (as defined in section 327(d) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1722)) site; and </content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/1/B/vii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">pre-application activities relating to an early site permit (as defined in section 52.1 of title 10, Code of Federal Regulations (or any successor regulation)) to demonstrate an advanced nuclear reactor on a Department of Energy site or critical national security infrastructure (as defined in section 327(d) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1722)) site.</content>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/b/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Exception.—</heading><content style="-uslm-dtd:text">The exclusion described in subparagraph (B)(iii) shall cease to be effective on January 1, 2031.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/b/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than December 31, 2029, the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the views of the Commission on the continued appropriateness and necessity of the funding described in subparagraph (B)(iii).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Fees for service or thing of value.—</heading>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">In accordance with section 9701 of title 31, United States Code, the Commission shall assess and collect fees from any person who receives a service or thing of value from the Commission to cover the costs to the Commission of providing the service or thing of value.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Advanced nuclear reactor applicants.—</heading><content style="-uslm-dtd:text">The hourly rate charged for fees assessed and collected from an advanced nuclear reactor applicant under this paragraph relating to the review of a submitted application described in section 3(1) may not exceed the hourly rate for mission-direct program salaries and benefits.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/b/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Advanced nuclear reactor pre-applicants.—</heading><content style="-uslm-dtd:text">The hourly rate charged for fees assessed and collected from an advanced nuclear reactor pre-applicant under this paragraph relating to the review of submitted materials as described in the licensing project plan of an advanced nuclear reactor pre-applicant may not exceed the hourly rate for mission-direct program salaries and benefits.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Annual charges.—</heading>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/b/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to subparagraph (B) and except as provided in subparagraph (D), the Commission may charge to any licensee or certificate holder of the Commission an annual charge in addition to the fees assessed and collected under paragraph (2).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/b/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Cap on annual charges of certain licensees.—</heading>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/3/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Operating reactors.—</heading><content style="-uslm-dtd:text">The annual charge under subparagraph (A) charged to an operating reactor licensee, to the maximum extent practicable, shall not exceed the annual fee amount per operating reactor licensee established in the final rule of the Commission entitled “Revision of Fee Schedules; Fee Recovery for Fiscal Year 2015” (80 Fed. Reg. 37432 (June 30, 2015)), as may be adjusted annually by the Commission to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor.</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/3/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Waiver.—</heading><content style="-uslm-dtd:text">The Commission may waive, for a period of 1 year, the cap on annual charges described 
+in clause (i) if the Commission submits to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a written determination that the cap on annual charges may compromise the safety and security mission of the Commission.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/b/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Amount per licensee.—</heading>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/3/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Commission shall establish by rule a schedule of annual charges fairly and equitably allocating the aggregate amount of charges described in subparagraph (A) among licensees and certificate holders.</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/3/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Requirement.—</heading><chapeau style="-uslm-dtd:text">The schedule of annual charges under clause (i)—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/3/C/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">to the maximum extent practicable, shall be reasonably related to the cost of providing regulatory services; and</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/3/C/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">may be based on the allocation of the resources of the Commission among licensees or certificate holders or classes of licensees or certificate holders.</content>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/b/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Exemption.—</heading>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/3/D/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Definition of research reactor.—</heading><chapeau style="-uslm-dtd:text">In this subparagraph, the term “<quotedText style="-uslm-dtd:quote">research reactor</quotedText>” means a nuclear reactor that—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/3/D/i/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">is licensed by the Commission under section 104 c. of the Atomic Energy Act of 1954 (42 U.S.C. 2134(c)) for operation at a thermal power level of not more than 10 megawatts; and</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s102/b/3/D/i/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><chapeau style="-uslm-dtd:text">if licensed under subclause (I) for operation at a thermal power level of more than 1 megawatt, does not contain—</chapeau>
+                                    <item identifier="/us/sComp/115/439/tI/s102/b/3/D/i/II/aa" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">a circulating loop through the core in which the licensee conducts fuel experiments;</content>
+                                    </item>
+                                    <item identifier="/us/sComp/115/439/tI/s102/b/3/D/i/II/bb" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">a liquid fuel loading; or</content>
+                                    </item>
+                                    <item identifier="/us/sComp/115/439/tI/s102/b/3/D/i/II/cc" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="cc">(cc) </num><content style="-uslm-dtd:text">an experimental facility in the core in excess of 16 square inches in cross-section.</content>
+                                    </item>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s102/b/3/D/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Exemption.—</heading><content style="-uslm-dtd:text">Subparagraph (A) shall not apply to the holder of any license for a federally owned research reactor used primarily for educational training and academic research purposes.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s102/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Performance and Reporting.—</heading>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Commission shall develop for the requested activities of the Commission—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">performance metrics; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">milestone schedules.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Delays in issuance of final safety evaluation.—</heading><content style="-uslm-dtd:text">The Executive Director for Operations of the Commission shall inform the Commission of a delay in issuance of the final safety evaluation for a requested activity of the Commission by the completion date required by the performance metrics or milestone schedule under paragraph (1) by not later than 30 days after the completion date.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Delays in issuance of final safety evaluation exceeding 90 days.—</heading><content style="-uslm-dtd:text">If the final safety evaluation for the requested activity of the Commission described in paragraph (2) is not completed by the date that is 90 days after the completion date required by the performance metrics or milestone schedule under paragraph (1), the Commission shall submit to the appropriate congressional committees a timely report describing the delay, including a detailed explanation accounting for the delay and a plan for timely completion of the final safety evaluation.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Periodic updates to metrics and schedules.—</heading>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/c/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Review and assessment.—</heading><content style="-uslm-dtd:text">Not less frequently than once every 3 years, the Commission shall review and assess, based on the licensing and regulatory activities of the Commission, the performance metrics and milestone schedules established under paragraph (1).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s102/c/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Revisions.—</heading><content style="-uslm-dtd:text">After each review and assessment under subparagraph (A), the Commission shall revise and improve, as appropriate, the performance metrics and milestone schedules described in that subparagraph to provide the most efficient metrics and schedules reasonably achievable.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s102/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Accurate Invoicing.—</heading><chapeau style="-uslm-dtd:text">With respect to invoices for fees described in subsection (b)(2), the Commission shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">ensure appropriate review and approval prior to the issuance of invoices;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">develop and implement processes to audit invoices to ensure accuracy, transparency, and fairness; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s102/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">modify regulations to ensure fair and appropriate processes to provide licensees and applicants an opportunity to efficiently dispute or otherwise seek review and correction of errors in invoices for those fees.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s102/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than September 30, 2021, the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the implementation of this section, including any impacts and recommendations for improvement.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s102/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">Except as provided in subsection (c), this section takes effect on October 1, 2020.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s102/g" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Cessation of Effectiveness.—</heading><content style="-uslm-dtd:text">Paragraphs (1)(B)(vi) and (2)(C) of subsection (b) shall cease to be effective on September 30, 2030.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/439/tI/s103" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">ADVANCED NUCLEAR REACTOR PROGRAM. </heading>
+                <subsection identifier="/us/sComp/115/439/tI/s103/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s2133">42 U.S.C. 2133 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Licensing.—</heading>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Staged licensing.—</heading><chapeau style="-uslm-dtd:text">For the purpose of predictable, efficient, and timely reviews, not later than 270 days after the date of enactment of this Act, the Commission shall develop and implement, within the existing regulatory framework, strategies for—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/a/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">establishing stages in the licensing process for commercial advanced nuclear reactors; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/a/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">developing procedures and processes for—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s103/a/1/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">using a licensing project plan; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/a/1/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">optional use of a conceptual design assessment.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Risk-informed licensing.—</heading><chapeau style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the Commission shall develop and implement, where appropriate, strategies for the increased use of risk-informed, performance-based licensing evaluation techniques and guidance for commercial advanced nuclear reactors within the existing regulatory framework, including evaluation techniques and guidance for the resolution of the following:</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Applicable policy issues identified during the course of review by the Commission of a commercial advanced nuclear reactor licensing application.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">The issues described in SECY-93-092 and SECY-15-077, including—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s103/a/2/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">licensing basis event selection and evaluation;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/a/2/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">source terms;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/a/2/B/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">containment performance; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/a/2/B/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">emergency preparedness.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Research and test reactor licensing.—</heading><content style="-uslm-dtd:text">For the purpose of predictable, efficient, and timely reviews, not later than 2 years after the date of enactment of this Act, the Commission shall develop and implement strategies within the existing regulatory framework for licensing research and test reactors, including the issuance of guidance.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Technology-inclusive regulatory framework.—</heading><content style="-uslm-dtd:text">Not later than December 31, 2027, the Commission shall complete a rulemaking to establish a technology-inclusive regulatory framework for optional use by commercial advanced nuclear reactor applicants for new reactor license applications.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Training and expertise.—</heading><chapeau style="-uslm-dtd:text">As soon as practicable after the date of enactment of this Act, the Commission shall provide for staff training or the hiring of experts, as necessary—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/a/5/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to support the activities described in paragraphs (1) through (4); and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/a/5/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">to support preparations—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s103/a/5/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">to conduct pre-application interactions; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/a/5/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">to review commercial advanced nuclear reactor license applications (including fusion machine license applications).</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated to the Commission to carry out this subsection $14,420,000 for each of fiscal years 2020 through 2024.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s103/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report To Establish Stages in the Commercial Advanced Nuclear Reactor Licensing Process.—</heading>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Report required.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Commission shall submit to the appropriate congressional committees a report for expediting and establishing stages in the licensing process for commercial advanced nuclear reactors that will allow implementation of the licensing process by not later than 2 years after the date of enactment of this Act (referred to in this subsection as the “report”).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Coordination and stakeholder input.—</heading><content style="-uslm-dtd:text">In developing the report, the Commission shall seek input from the Secretary, the nuclear energy industry, a diverse set of technology developers, and other public stakeholders.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Cost and schedule estimates.—</heading><content style="-uslm-dtd:text">The report shall include proposed cost estimates, budgets, and timeframes for implementing strategies to establish stages in the licensing process for commercial advanced nuclear reactor technologies.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Required evaluations.—</heading><chapeau style="-uslm-dtd:text">Consistent with the role of the Commission in protecting public health and safety and common defense and security, the report shall evaluate—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/b/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A)</num><clause class="inline" identifier="/us/sComp/115/439/tI/s103/b/4/A/i" style="-uslm-dtd:clause" styleType="OLC"><num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the unique aspects of commercial advanced nuclear reactor licensing, including the use of alternative coolants, operation at or near atmospheric pressure, and the use of passive safety strategies;</content></clause>
+                            <clause class="leftIndentDecrease1" identifier="/us/sComp/115/439/tI/s103/b/4/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">strategies for the qualification of advanced nuclear reactor fuel, including the use of computer modeling and simulation and experimental validation; and</content>
+                            </clause>
+                            <clause class="leftIndentDecrease1" identifier="/us/sComp/115/439/tI/s103/b/4/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">for the purposes of predictable, efficient, and timely reviews, any associated legal, regulatory, and policy issues the Commission should address with regard to the licensing of commercial advanced nuclear reactor technologies;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/b/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">options for licensing commercial advanced nuclear reactors under the regulations of the Commission contained in title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act), including—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s103/b/4/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">the development and use under the regulatory framework of the Commission in effect on the date of enactment of this Act of a licensing project plan that could establish—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/b/4/B/i/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">milestones that—</chapeau>
+                                    <item identifier="/us/sComp/115/439/tI/s103/b/4/B/i/I/aa" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">correspond to stages of a licensing process for the specific situation of a commercial advanced nuclear reactor project; and</content>
+                                    </item>
+                                    <item identifier="/us/sComp/115/439/tI/s103/b/4/B/i/I/bb" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">use knowledge of the ability of the Commission to review certain design aspects; and</content>
+                                    </item>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/b/4/B/i/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><chapeau style="-uslm-dtd:text">guidelines defining the roles and responsibilities between the Commission and the applicant at the onset of the interaction—</chapeau>
+                                    <item identifier="/us/sComp/115/439/tI/s103/b/4/B/i/II/aa" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">to provide the foundation for effective communication and effective project management; and</content>
+                                    </item>
+                                    <item identifier="/us/sComp/115/439/tI/s103/b/4/B/i/II/bb" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">to ensure efficient progress;</content>
+                                    </item>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/b/4/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the use of topical reports, standard design approval, and other appropriate mechanisms as tools to introduce stages into the commercial advanced nuclear reactor licensing process, including how the licensing project plan might structure the use of those mechanisms;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/b/4/B/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">collaboration with standards-setting organizations to identify specific technical areas for which new or updated standards are needed and providing assistance if appropriate to ensure the new or updated standards are developed and finalized in a timely fashion;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/b/4/B/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><chapeau style="-uslm-dtd:text">the incorporation of consensus-based codes and standards developed under clause (iii) into the regulatory framework—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/b/4/B/iv/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">to provide predictability for the regulatory processes of the Commission; and</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/b/4/B/iv/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">to ensure timely completion of specific licensing actions;</content>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/b/4/B/v" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">the development of a process for, and the use of, conceptual design assessments; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/b/4/B/vi" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">identification of any policies and guidance for staff that will be needed to implement clauses (i) and (ii);</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/b/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">options for improving the efficiency, timeliness, and cost-effectiveness of licensing reviews of commercial advanced nuclear reactors, including opportunities to minimize the delays that may result from any necessary amendment or supplement to an application;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/b/4/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">options for improving the predictability of the commercial advanced nuclear reactor licensing process, including the evaluation of opportunities to improve the process by which application review milestones are established and met; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/b/4/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the extent to which Commission action or modification of policy is needed to implement any part of the report.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s103/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Report To Increase the Use of Risk-Informed and Performance-Based Evaluation Techniques and Regulatory Guidance.—</heading>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Report required.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Commission shall submit to the appropriate congressional committees a report for increasing, where appropriate, the use of risk-informed and performance-based evaluation techniques and regulatory guidance in licensing commercial advanced nuclear reactors within the existing regulatory framework (referred to in this subsection as the “report”).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Coordination and stakeholder input.—</heading><content style="-uslm-dtd:text">In developing the report, the Commission shall seek input from the Secretary, the nuclear energy industry, technology developers, and other public stakeholders.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Cost and schedule estimate.—</heading><content style="-uslm-dtd:text">The report shall include proposed cost estimates, budgets, and timeframes for implementing a strategy to increase the use of risk-informed and performance-based evaluation techniques and regulatory guidance in licensing commercial advanced nuclear reactors.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Required evaluations.—</heading><chapeau style="-uslm-dtd:text">Consistent with the role of the Commission in protecting public health and safety and common defense and security, the report shall evaluate—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/c/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">the ability of the Commission to develop and implement, where appropriate, risk-informed and performance-based licensing evaluation techniques and guidance for commercial advanced nuclear reactors within existing regulatory frameworks not later than 2 years after the date of enactment of this Act, including policies and guidance for the resolution of—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s103/c/4/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">issues relating to—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/c/4/A/i/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">licensing basis event selection and evaluation;</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/c/4/A/i/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">use of mechanistic source terms;</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/c/4/A/i/III" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">containment performance;</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/c/4/A/i/IV" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">emergency preparedness; and</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/c/4/A/i/V" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="V">(V) </num><content style="-uslm-dtd:text">the qualification of advanced nuclear reactor fuel; and</content>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/c/4/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">other policy issues previously identified; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/c/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the extent to which Commission action is needed to implement any part of the report.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s103/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Report To Prepare the Research and Test Reactor Licensing Process.—</heading>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Report required.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Commission shall submit to the appropriate congressional committees a report for preparing the licensing process for research and test reactors within the existing regulatory framework (referred to in this subsection as the “report”).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Coordination and stakeholder input.—</heading><content style="-uslm-dtd:text">In developing the report, the Commission shall seek input from the Secretary, the nuclear energy industry, a diverse set of technology developers, and other public stakeholders.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Cost and schedule estimates.—</heading><content style="-uslm-dtd:text">The report shall include proposed cost estimates, budgets, and timeframes for preparing the licensing process for research and test reactors.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/d/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Required evaluations.—</heading><chapeau style="-uslm-dtd:text">Consistent with the role of the Commission in protecting public health and safety and common defense and security, the report shall evaluate—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/d/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the unique aspects of research and test reactor licensing and any associated legal, regulatory, and policy issues the Commission should address to prepare the licensing process for research and test reactors;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/d/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the feasibility of developing guidelines for advanced reactor demonstrations and prototypes to support the review process for advanced reactors designs, including designs that use alternative coolants or alternative fuels, operate at or near atmospheric pressure, and use passive safety strategies; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/d/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the extent to which Commission action or modification of policy is needed to implement any part of the report.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s103/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Report To Complete a Rulemaking To Establish a Technology-Inclusive Regulatory Framework for Optional Use by Commercial Advanced Nuclear Reactor Technologies in New Reactor License Applications and To Enhance Commission Expertise Relating to Advanced Nuclear Reactor Technologies.—</heading>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Report required.—</heading><chapeau style="-uslm-dtd:text">Not later than 30 months after the date of enactment of this Act, the Commission shall submit to the appropriate congressional committees a report (referred to in this subsection as the “report”) for—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/e/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">completing a rulemaking to establish a technology-inclusive regulatory framework for optional use by applicants in licensing commercial advanced nuclear reactor technologies in new reactor license applications; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/e/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">ensuring that the Commission has adequate expertise, modeling, and simulation capabilities, or access to those capabilities, to support the evaluation of commercial advanced reactor license applications, including the qualification of advanced nuclear reactor fuel.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Coordination and stakeholder input.—</heading><content style="-uslm-dtd:text">In developing the report, the Commission shall seek input from the Secretary, the nuclear energy industry, a diverse set of technology developers, and other public stakeholders.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Cost and schedule estimate.—</heading><content style="-uslm-dtd:text">The report shall include proposed cost estimates, budgets, and timeframes for developing and implementing a technology-inclusive regulatory framework for licensing commercial advanced nuclear reactor technologies, including completion of a rulemaking.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/e/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Required evaluations.—</heading><chapeau style="-uslm-dtd:text">Consistent with the role of the Commission in protecting public health and safety and common defense and security, the report shall evaluate—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/e/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the ability of the Commission to complete a rulemaking to establish a technology-inclusive regulatory framework for licensing commercial advanced nuclear reactor technologies by December 31, 2027;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/e/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the extent to which additional legislation, or Commission action or modification of policy, is needed to implement any part of the new regulatory framework;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/e/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the need for additional Commission expertise, modeling, and simulation capabilities, or access to those capabilities, to support the evaluation of licensing applications for commercial advanced nuclear reactors and research and test reactors, including applications that use alternative coolants or alternative fuels, operate at or near atmospheric pressure, and use passive safety strategies; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/e/4/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the budgets and timeframes for acquiring or accessing the necessary expertise to support the evaluation of license applications for commercial advanced nuclear reactors and research and test reactors.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s103/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Prizes for Advanced Nuclear Reactor Licensing.—</heading>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/f/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Definition of eligible entity.—</heading><chapeau style="-uslm-dtd:text">In this subsection, the term “<term style="-uslm-dtd:term">eligible entity</term>” means—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/f/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a non-Federal entity; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/f/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Tennessee Valley Authority.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/f/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Prize for advanced nuclear reactor licensing.—</heading>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/f/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding section 169 of the Atomic Energy Act of 1954 (42 U.S.C. 2209) and subject to the availability of appropriations, the Secretary is authorized to make, with respect to each award category described in subparagraph (C), an award in an amount described in subparagraph (B) to the first eligible entity—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s103/f/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">to which the Commission issues an operating license for an advanced nuclear reactor under part 50 of title 10, Code of Federal Regulations (or successor regulations), for which an application has not been approved by the Commission as of the date of enactment of this subsection; or</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/f/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">for which the Commission makes a finding described in section 52.103(g) of title 10, Code of Federal Regulations (or successor regulations), with respect to a combined license for an advanced nuclear reactor—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/f/2/A/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">that is issued under subpart C of part 52 of that title (or successor regulations); and </content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/f/2/A/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">for which an application has not been approved by the Commission as of the date of enactment of this subsection.</content>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/f/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Amount of award.—</heading><content style="-uslm-dtd:text">Subject to paragraph (3), an award under subparagraph (A) shall be in an amount equal to the total amount assessed by the Commission and collected under section 102(b)(2) from the eligible entity receiving the award for costs relating to the issuance of the license described in that subparagraph, including, as applicable, costs relating to the issuance of an associated construction permit described in section 50.23 of title 10, Code of Federal Regulations (or successor regulations), or early site permit (as defined in section 52.1 of that title (or successor regulations)).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/f/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Award categories.—</heading><chapeau style="-uslm-dtd:text">An award under subparagraph (A) may be made for—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s103/f/2/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">the first advanced nuclear reactor for which the Commission—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/f/2/C/i/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">issues a license in accordance with clause (i) of subparagraph (A); or</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/f/2/C/i/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">makes a finding in accordance with clause (ii) of that subparagraph;</content>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/f/2/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">an advanced nuclear reactor that—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/f/2/C/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">uses isotopes derived from spent nuclear fuel (as defined in section 2 of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101)) or depleted uranium as fuel for the advanced nuclear reactor; and</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/f/2/C/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><chapeau style="-uslm-dtd:text">is the first advanced nuclear reactor described in subclause (I) for which the Commission—</chapeau>
+                                    <item identifier="/us/sComp/115/439/tI/s103/f/2/C/ii/II/aa" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">issues a license in accordance with clause (i) of subparagraph (A); or</content>
+                                    </item>
+                                    <item identifier="/us/sComp/115/439/tI/s103/f/2/C/ii/II/bb" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">makes a finding in accordance with clause (ii) of that subparagraph;</content>
+                                    </item>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/f/2/C/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><chapeau style="-uslm-dtd:text">an advanced nuclear reactor that—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/f/2/C/iii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">is a nuclear integrated energy system—</chapeau>
+                                    <item identifier="/us/sComp/115/439/tI/s103/f/2/C/iii/I/aa" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">that is composed of 2 or more co-located or jointly operated subsystems of energy generation, energy storage, or other technologies;</content>
+                                    </item>
+                                    <item identifier="/us/sComp/115/439/tI/s103/f/2/C/iii/I/bb" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">in which not fewer than 1 subsystem described in item (aa) is a nuclear energy system; and</content>
+                                    </item>
+                                    <item identifier="/us/sComp/115/439/tI/s103/f/2/C/iii/I/cc" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="cc">(cc) </num><chapeau style="-uslm-dtd:text">the purpose of which is—</chapeau>
+                                        <subitem identifier="/us/sComp/115/439/tI/s103/f/2/C/iii/I/cc/AA" style="-uslm-dtd:subitem" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="AA">(AA) </num><content style="-uslm-dtd:text">to reduce greenhouse gas emissions in both the power and nonpower sectors; and</content>
+                                        </subitem>
+                                        <subitem identifier="/us/sComp/115/439/tI/s103/f/2/C/iii/I/cc/BB" style="-uslm-dtd:subitem" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="BB">(BB) </num><content style="-uslm-dtd:text">to maximize energy production and efficiency; and</content>
+                                        </subitem>
+                                    </item>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/f/2/C/iii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><chapeau style="-uslm-dtd:text">is the first advanced nuclear reactor described in subclause (I) for which the Commission—</chapeau>
+                                    <item identifier="/us/sComp/115/439/tI/s103/f/2/C/iii/II/aa" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">issues a license in accordance with clause (i) of subparagraph (A); or</content>
+                                    </item>
+                                    <item identifier="/us/sComp/115/439/tI/s103/f/2/C/iii/II/bb" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">makes a finding in accordance with clause (ii) of that subparagraph; </content>
+                                    </item>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/f/2/C/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><chapeau style="-uslm-dtd:text">an advanced reactor that—</chapeau>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/f/2/C/iv/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">operates flexibly to generate electricity or high temperature process heat for nonelectric applications; and</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/439/tI/s103/f/2/C/iv/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><chapeau style="-uslm-dtd:text">is the first advanced nuclear reactor described in subclause (I) for which the Commission—</chapeau>
+                                    <item identifier="/us/sComp/115/439/tI/s103/f/2/C/iv/II/aa" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">issues a license in accordance with clause (i) of subparagraph (A); or</content>
+                                    </item>
+                                    <item identifier="/us/sComp/115/439/tI/s103/f/2/C/iv/II/bb" style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">makes a finding in accordance with clause (ii) of that subparagraph; and</content>
+                                    </item>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/f/2/C/v" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">the first advanced nuclear reactor for which the Commission grants approval to load nuclear fuel pursuant to the technology-inclusive regulatory framework established under subsection (a)(4).</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s103/f/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Federal funding limitations.—</heading>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/f/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Exclusion of tva funds.—</heading><content style="-uslm-dtd:text">In this paragraph, the term “<term style="-uslm-dtd:term">Federal funds</term>” does not include funds received under the power program of the Tennessee Valley Authority established pursuant to the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831 et seq.).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/f/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Limitation on amounts expended.—</heading><content style="-uslm-dtd:text">An award under this subsection shall not exceed the total amount expended (excluding any expenditures made with Federal funds received for the applicable project and an amount equal to the minimum cost-share required under section 988 of the Energy Policy Act of 2005 (42 U.S.C. 16352)) by the eligible entity receiving the award for licensing costs relating to the project for which the award is made.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s103/f/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Repayment and dividends not required.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding section 9104(a)(4) of title 31, United States Code, or any other provision of law, an eligible entity that receives an award under this subsection shall not be required—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s103/f/3/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">to repay that award or any part of that award; or</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s103/f/3/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">to pay a dividend, interest, or other similar payment based on the sum of that award.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/439/tI/s104" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">BAFFLE-FORMER BOLT GUIDANCE. </heading>
+                <subsection identifier="/us/sComp/115/439/tI/s104/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Revisions to Guidance.—</heading><content style="-uslm-dtd:text">Not later than 90 days after the date of enactment of this Act, the Commission shall publish any necessary revisions to the guidance on the baseline examination schedule and subsequent examination frequency for baffle-former bolts in pressurized water reactors with down-flow configurations.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s104/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 90 days after the date of enactment of this Act, the Commission shall submit to the appropriate congressional committees—</chapeau>
+                    <paragraph identifier="/us/sComp/115/439/tI/s104/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a report explaining any revisions made to the guidance described in subsection (a); or</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s104/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">if no revisions were made, a report explaining why the guidance, as in effect on the date of submission of the report, is sufficient.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/439/tI/s105" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><heading style="-uslm-dtd:header">EVACUATION REPORT. </heading>
+                <subsection identifier="/us/sComp/115/439/tI/s105/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Commission shall submit to the appropriate congressional committees a report describing the actions the Commission has taken, or plans to take, to consider lessons learned since September 11, 2001, Superstorm Sandy, Fukushima, and other recent natural disasters regarding directed or spontaneous evacuations in densely populated urban and suburban areas.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s105/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Inclusions.—</heading><chapeau style="-uslm-dtd:text">The report under subsection (a) shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/439/tI/s105/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">describe the actions of the Commission—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s105/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">to consider the results from—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s105/b/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the State-of-the-Art Reactor Consequence Analyses project; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s105/b/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the current examination by the Commission of emergency planning zones for small modular reactors and advanced nuclear reactors; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s105/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">to monitor international reviews, including reviews conducted by—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s105/b/1/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the United Nations Scientific Committee on the Effects of Atomic Radiation;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s105/b/1/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the World Health Organization; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s105/b/1/B/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the Fukushima Health Management Survey; and</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s105/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">with respect to a disaster similar to a disaster described in subsection (a), include information about—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s105/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">potential shadow evacuations in response to the disaster; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s105/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">what levels of self-evacuation should be expected during the disaster, including outside the 10-mile evacuation zone.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s105/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Consultation Required.—</heading><chapeau style="-uslm-dtd:text">The report under subsection (a) shall be prepared after consultation with—</chapeau>
+                    <paragraph identifier="/us/sComp/115/439/tI/s105/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Federal Radiological Preparedness Coordinating Committee;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s105/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">State emergency planning officials from States that the Commission determines to be relevant to the report; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s105/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">experts in analyzing human behavior and probable responses to a radiological emission event.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/439/tI/s106" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="106">SEC. 106. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s2134">42 U.S.C. 2134 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ENCOURAGING PRIVATE INVESTMENT IN RESEARCH AND TEST REACTORS. </heading>
+                <subsection identifier="/us/sComp/115/439/tI/s106/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Purpose.—</heading><content style="-uslm-dtd:text">The purpose of this section is to encourage private investment in research and test reactors.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s106/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Research and Development Activities.—</heading><chapeau style="-uslm-dtd:text">Section 104 c. of the Atomic Energy Act of 1954 (42 U.S.C. 2134(c)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/439/tI/s106/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in the first sentence, by striking “<quotedText style="-uslm-dtd:quote">and which are not facilities of the type specified in subsection 104 b.</quotedText>” and inserting a period; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s106/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by adding at the end the following:  “<quotedText style="-uslm-dtd:quote">The Commission is authorized to issue licenses under this section for utilization facilities useful in the conduct of research and development activities of the types specified in section 31 in which the licensee sells research and testing services and energy to others, subject to the condition that the licensee shall recover not more than 75 percent of the annual costs to the licensee of owning and operating the facility through sales of nonenergy services, energy, or both, other than research and development or education and training, of which not more than 50 percent may be through sales of energy.</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/439/tI/s107" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="107">SEC. 107. </num><heading style="-uslm-dtd:header">COMMISSION REPORT ON ACCIDENT TOLERANT FUEL. </heading>
+                <subsection identifier="/us/sComp/115/439/tI/s107/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definition of Accident Tolerant Fuel.—</heading><chapeau style="-uslm-dtd:text">In this section, the term “<quotedText style="-uslm-dtd:quote">accident tolerant fuel</quotedText>” means a new technology that—</chapeau>
+                    <paragraph identifier="/us/sComp/115/439/tI/s107/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">makes an existing commercial nuclear reactor more resistant to a nuclear incident (as defined in section 11 of the Atomic Energy Act of 1954 (42 U.S.C. 2014)); and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s107/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">lowers the cost of electricity over the licensed lifetime of an existing commercial nuclear reactor.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s107/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report to Congress.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Commission shall submit to Congress a report describing the status of the licensing process of the Commission for accident tolerant fuel.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/439/tI/s108" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="108">SEC. 108. </num><heading style="-uslm-dtd:header">REPORT IDENTIFYING BEST PRACTICES FOR ESTABLISHMENT AND OPERATION OF LOCAL COMMUNITY ADVISORY BOARDS. </heading>
+                <subsection identifier="/us/sComp/115/439/tI/s108/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Best Practices Report.—</heading><content style="-uslm-dtd:text">Not later than 18 months after the date of enactment of this Act, the Commission shall submit to Congress, and make publicly available, a report identifying best practices with respect to the establishment and operation of a local community advisory board to foster communication and information exchange between a licensee planning for and involved in decommissioning activities and members of the community that decommissioning activities may affect, including lessons learned  
+from any such board in existence before the date of enactment of this Act.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s108/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">The report described in subsection (a) shall include—</chapeau>
+                    <paragraph identifier="/us/sComp/115/439/tI/s108/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">a description of—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the topics that could be brought before a local community advisory board;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">how such a board’s input could be used to inform the decision-making processes of stakeholders for various decommissioning activities;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/b/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">what interactions such a board could have with the Commission and other Federal regulatory bodies to support the board members’ overall understanding of the decommissioning process and promote dialogue between the affected stakeholders and the licensee involved in decommissioning activities; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/b/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">how such a board could offer opportunities for public engagement throughout all phases of the decommissioning process;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s108/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a discussion of the composition of a local community advisory board; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s108/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">best practices relating to the establishment and operation of a local community advisory board, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/b/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the time of establishment of such a board;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/b/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the frequency of meetings of such a board;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/b/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the selection of board members;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/b/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the term of board members;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/b/3/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the responsibility for logistics required to support such a board’s meetings and other routine activities; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/b/3/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">any other best practices relating to such a local community advisory board that are identified by the Commission.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s108/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">In developing the report described under subsection (a), the Commission shall consult with any host State, any community within the emergency planning zone of an applicable nuclear power reactor, and any existing local community advisory board.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/439/tI/s108/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Public Meetings.—</heading>
+                    <paragraph identifier="/us/sComp/115/439/tI/s108/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The consultation required under subsection (c) shall include public meetings.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s108/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Public participation.—</heading><content style="-uslm-dtd:text">The public meetings under paragraph (1) shall be conducted under the requirements applicable to category 3 meetings under the policy statement of the Commission entitled “Enhancing Public Participation in NRC Meetings; Policy Statement” (67 Fed. Reg. 36920 (May 28, 2002)) (or a successor policy statement).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s108/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Number of meetings.—</heading>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/d/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Commission shall conduct not less than 10 public meetings under paragraph (1) in locations that ensure geographic diversity across the United States.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/439/tI/s108/d/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Priority.—</heading><chapeau style="-uslm-dtd:text">In determining locations in which to conduct a public meeting under subparagraph (A), the Commission shall give priority to States that—</chapeau>
+                            <clause identifier="/us/sComp/115/439/tI/s108/d/3/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">have a nuclear power reactor currently undergoing the decommissioning process; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/439/tI/s108/d/3/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">request a public meeting under this paragraph.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/439/tI/s108/d/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Written summary.—</heading><content style="-uslm-dtd:text">The report under subsection (a) shall include a written summary of the public meetings conducted under paragraph (1).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/439/tI/s109" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="109">SEC. 109. </num><heading style="-uslm-dtd:header">REPORT ON STUDY RECOMMENDATIONS. </heading>
+                <content class="block" style="-uslm-dtd:text">Not later than 90 days after the date of enactment of this Act, the Commission shall submit to Congress a report describing the status of addressing and implementing the recommendations contained in the memorandum of the Executive Director of Operations of the Commission entitled “Tasking in Response to the Assessment of the Considerations Identified in a ‘Study of Reprisal and Chilling Effect for Raising Mission-Related Concerns and Differing Views at the Nuclear Regulatory Commission’ ” and dated June 19, 2018 (ADAMS Accession No.: ML18165A296).</content>
+            </section>
+        </title>
+        <title identifier="/us/sComp/115/439/tII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">URANIUM </heading>
+            <section identifier="/us/sComp/115/439/tII/s201" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">URANIUM RECOVERY REPORT. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">Not later than 90 days after the date of enactment of this Act, the Commission shall submit to the appropriate congressional committees a report describing—</chapeau>
+                <paragraph identifier="/us/sComp/115/439/tII/s201/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the duration of uranium recovery license issuance and amendment reviews; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/115/439/tII/s201/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">recommendations to improve efficiency and transparency of uranium recovery license issuance and amendment reviews.</content>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/115/439/tII/s202" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">PILOT PROGRAM FOR URANIUM RECOVERY FEES. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Commission shall—</chapeau>
+                <paragraph identifier="/us/sComp/115/439/tII/s202/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">complete a voluntary pilot initiative to determine the feasibility of the establishment of a flat fee structure for routine licensing matters relating to uranium recovery; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/115/439/tII/s202/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">provide to the appropriate congressional committees a report describing the results of the pilot initiative under paragraph (1).</content>
+                </paragraph>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

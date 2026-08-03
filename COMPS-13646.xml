@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>VA Choice and Quality Employment Act of 2017</dc:title>
+        <citableAs>Public Law 115–46, as amended</citableAs>
+        <citableAsShortTitle>VA Choice and Quality Employment Act of 2017</citableAsShortTitle>
+        <docNumber>46</docNumber>
+        <currentThroughPublicLaw>117–67</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-12-13</processedDate>
+        <containsShortTitle>VA Choice and Quality Employment Act of 2017</containsShortTitle>
+        <containsShortTitle>Hire Veteran Health Heroes Act of 2021</containsShortTitle>
+        <property role="fileId">13646</property>
+        <congress>115</congress>
+        <approvedDate>2017-08-12</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">VA Choice and Quality Employment Act of 2017</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 115–46</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 117–67</currentThroughPublicLaw>, Enacted <date date="2021-11-30">November 30, 2021</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 115-46. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To authorize appropriations and to appropriate amounts for the Veterans Choice Program of the Department of Veterans Affairs, to improve hiring authorities of the Department, to authorize major medical facility leases, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/s1" styleType="appropriation">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s101">38 U.S.C. 101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">VA Choice and Quality Employment Act of 2017</shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>APPROPRIATION OF AMOUNTS FOR VETERANS CHOICE PROGRAM</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Appropriation of amounts for Veterans Choice Program.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>PERSONNEL MATTERS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Modification to annual determination of staffing shortages in Veterans Health Administration.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> Establishment of Department of Veterans Affairs Executive Management Fellowship Program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 203.</designator><label> Accountability of leaders for managing the Department of Veterans Affairs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 204.</designator><label> Reemployment of former employees at Department of Veterans Affairs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 205.</designator><label> Promotional opportunities for technical experts at Department of Veterans Affairs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 206.</designator><label> Employment of students and recent graduates by Department of Veterans Affairs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>
+<ref style="-uslm-dtd:footnote-ref" idref="ID219F7428EB9044B990BE37E5F13A1DEB" class="footnoteRef">1</ref>S</designator><label>ec. 207. Encouragement of transition of military medical professionals into employment with Veterans Health Administration.</label></referenceItem><footnote id="ID219F7428EB9044B990BE37E5F13A1DEB" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">So in law.  Section 2 of Public Law 117-67 amends to read section 207 of the VA Choice and Quality Employment Act of 2017, but does not conform such sections heading in the table of contents.</p></footnote>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 208.</designator><label> Recruiting database at Department of Veterans Affairs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 209.</designator><label> Training for human resources professionals of Veterans Health Administration on recruitment and retention.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 210.</designator><label> Plan to hire directors of medical centers of Department of Veterans Affairs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 211.</designator><label> Exit surveys at Department of Veterans Affairs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 212.</designator><label> Requirement that physician assistants employed by the Department of Veterans Affairs receive competitive pay.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 213.</designator><label> Expansion of direct-hiring authority for Department of Veterans Affairs in case of shortage of highly qualified candidates.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 214.</designator><label> Comptroller General of the United States assessment of succession planning at Department of Veterans Affairs.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>MAJOR MEDICAL FACILITY LEASES</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Authorization of certain major medical facility leases of the Department of Veterans Affairs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Authorization of appropriations for medical facility leases. </label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE IV—</designator><label>OTHER MATTERS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 401.</designator><label> Extension of reduction in amount of pension furnished by Department of Veterans Affairs for certain veterans covered by medicaid plans for services furnished by nursing facilities.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 402.</designator><label> Extension of requirement for collection of fees for housing loans guaranteed by Secretary of Veterans Affairs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 403.</designator><label> Extension of authority to use income information.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/115/46/tI" styleType="appropriation">
+            <num style="-uslm-dtd:enum" value="I">Title I—</num><heading style="-uslm-dtd:header">APPROPRIATION OF AMOUNTS FOR VETERANS CHOICE PROGRAM </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tI/s101" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">APPROPRIATION OF AMOUNTS FOR VETERANS CHOICE PROGRAM. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tI/s101/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated, and is appropriated, to the Secretary of Veterans Affairs, out of any funds in the Treasury not otherwise appropriated, $2,100,000,000 to be deposited in the Veterans Choice Fund under section 802 of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113-146; 38 U.S.C. 1701 note).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tI/s101/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Availability.—</heading><content style="-uslm-dtd:text">The amount appropriated under subsection (a) shall remain available until expended.</content>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/115/46/tII" styleType="appropriation">
+            <num style="-uslm-dtd:enum" value="II">Title II—</num><heading style="-uslm-dtd:header">PERSONNEL MATTERS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s201" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">MODIFICATION TO ANNUAL DETERMINATION OF STAFFING SHORTAGES IN VETERANS HEALTH ADMINISTRATION. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 7412(a) of title 38, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s201/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">the five occupations</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">at a minimum, the five clinical occupations and the five nonclinical occupations</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s201/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">throughout the Department</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">with respect to each medical center of the Department,</quotedText>”.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s202" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">ESTABLISHMENT OF DEPARTMENT OF VETERANS AFFAIRS EXECUTIVE MANAGEMENT FELLOWSHIP PROGRAM. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s202/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Fellowship Program.—</heading><content style="-uslm-dtd:text">Chapter 7 of title 38, United States Code, is amended by adding at the end the following new subchapter:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subchapter style="-uslm-dtd:subchapter" styleType="appropriation">
+                        <num style="-uslm-dtd:enum" value="III">“Subchapter III—</num><heading style="-uslm-dtd:header">EXECUTIVE MANAGEMENT FELLOWSHIP PROGRAM </heading>
+                        <section style="-uslm-dtd:section" styleType="appropriation">
+                            <num style="-uslm-dtd:enum" value="741">“SEC. 741. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s741">38 U.S.C. 741</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Executive Management Fellowship Program </heading>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Fellowship Program.—</heading><chapeau style="-uslm-dtd:text">There is in the Department an Executive Management Fellowship Program. The purpose of the program shall be to provide—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">eligible employees of the Veterans Benefits Administration and the Veterans Health Administration with training and experience in the private sector; and</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">eligible employees of a private-sector entity with training and experience in the Department of Veterans Affairs.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Fellowship.—</heading><paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">A fellowship provided under this section is a 1-year fellowship during which—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">with respect to a Department participant, the participant receives training and experience at a private-sector entity that is engaged in the administration and delivery of health  care or other services similar to the benefits administered by the Secretary; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">with respect to a private-sector participant, the participant receives training and experience at the Veterans Benefits Administration or the Veterans Health Administration.</content>
+                                </subparagraph></paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">The Secretary shall enter into such agreements with private-sector entities as are necessary to carry out this section.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Selection of Recipients.—</heading><paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">In August of each year, the Secretary shall select—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">not fewer than 18 and not more than 30 eligible employees of the Veterans Benefits Administration and the Veterans Health Administration to receive a fellowship under this section; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">not fewer than 18 and not more than 30 eligible employees of private-sector entities to receive a fellowship under this section.</content>
+                                </subparagraph></paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">To the extent practicable, the Secretary shall select eligible employees under subparagraphs (A) and (B) of paragraph (1) from among eligible employees who are veterans in a manner that is reflective of the demographics of the veteran population of the United States and that whenever practicable provides a preference to such employees who represent or service rural areas.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Eligible Employees.—</heading><chapeau style="-uslm-dtd:text">For the purposes of this section, an eligible employee is—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><chapeau style="-uslm-dtd:text">with respect to an employee of the Veterans Benefits Administration or the Veterans Health Administration, an employee who—</chapeau>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">is compensated at a rate of basic pay not less than the minimum rate of basic pay payable for grade GS-14 of the General Schedule and not more than either the minimum rate of basic pay payable to a member of the Senior Executive Service under section 5382 of title 5 or the minimum rate of basic pay payable pursuant to chapter 74 of this title, as the case may be;</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">enters into an agreement with the Secretary under subsection (e); and</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">submits to the Secretary an application containing such information and assurances as the Secretary may require; and</content>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><chapeau style="-uslm-dtd:text">with respect to an employee of a private-sector entity, an employee who—</chapeau>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">is employed in a position whose duties and responsibilities are commensurate with an employee of the Department described in paragraph (1);</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">enters into an agreement with the Secretary under subsection (e); and</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">submits to the Secretary an application containing such information and assurances as the Secretary may require.</content>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Agreements.—</heading><paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">An agreement between the Secretary and a Department participant shall be in writing, shall be signed by the participant, and shall include the following provisions:</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">The Secretary’s agreement to provide the participant with a fellowship under this section;</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">The participant’s agreement—</chapeau>
+                                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">to accept the fellowship;</content>
+                                    </clause>
+                                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">after completion of the fellowship, to serve as a full-time employee in the Veterans Benefits Administration or the Veterans Health Administration for at least 2 years as specified in the agreement; and</content>
+                                    </clause>
+                                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">that, during the 2-year period beginning on the last day of the fellowship, the participant will not accept employment in the same industry as the industry of the private-sector entity at which the participant accepts the fellowship.</content>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">A provision that any financial obligation of the United States arising out of an agreement entered into under this subchapter, and any obligation of the participant which is conditioned on such agreement, is contingent upon funds being appropriated.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">A statement of the damages to which the United States is entitled under this subchapter for the participant’s breach of the agreement.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">Such other terms as the Secretary determines are required to be included in the agreement.</content>
+                                </subparagraph></paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><chapeau style="-uslm-dtd:text">An agreement between the Secretary and a private-sector participant shall be in writing, shall be signed by the participant, and shall include the following provisions:</chapeau>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">The Secretary’s agreement to provide the participant with a fellowship under this section.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">The participant’s agreement to accept the fellowship.</content>
+                                    </subparagraph>
+                                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">Such other terms as the Secretary determines are required to be included in the agreement.</content>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="f">“(f) </num><heading style="-uslm-dtd:header">Treatment of Recipients.—</heading><paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">A Department participant shall be considered an employee of the Department for all purposes, including for purposes of receiving a salary and benefits, and shall remain eligible for all promotion and incentive programs otherwise available to such an employee.</content></paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">A private-sector participant shall be considered an employee of the private-sector entity that employs the participant for all purposes, including for purposes of receiving a salary and benefits, and during the fellowship shall be treated as a contractor of the Department.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="g">“(g) </num><heading style="-uslm-dtd:header">Reports.—</heading><paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Not later than 60 days after completing a fellowship under this section, a recipient of the fellowship shall submit to the Secretary a report on the fellowship.</content></paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">Each such report shall describe the duties of the recipient during the fellowship and any recommendations of the recipient for the application by the Secretary of industry processes, technologies, and best practices.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">Not later than 7 days after receiving each such report, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives such report without change.</content>
+                                </paragraph>
+                            </subsection>
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="h">“(h) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:term">Department participant</term>’ means an employee of the Veterans Benefits Administration or the Veterans Health Administration who is participating in the fellowship under this section.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:term">private-sector entity</term>’ includes an entity operating under a public-private partnership.</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:term">private-sector participant</term>’ means an employee of a private-sector entity who is participating in the fellowship under this section.”</content>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                    </subchapter></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s202/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s741">38 U.S.C. 741 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Deadline for Implementation.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall implement the Executive Management Fellowship Program required under section 741 of title 38, United States Code, as added by subsection (a).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s202/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Clerical Amendment.—</heading><content style="-uslm-dtd:text">The table of sections at the beginning of chapter 7 of title 38, United States Code, is amended by adding at the end the following new items:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="subchapter" class="centered"><designator>“subchapter iii—</designator><label>executive management fellowship program</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“741.</designator><label> Executive Management Fellowship Program.”</label></referenceItem>
+                    </toc></quotedContent>.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s203" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="203">SEC. 203. </num><heading style="-uslm-dtd:header">ACCOUNTABILITY OF LEADERS FOR MANAGING THE DEPARTMENT OF VETERANS AFFAIRS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s203/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subchapter I of chapter 7 of title 38, United States Code, is amended by adding at the end the following new section:<quotedContent style="-uslm-dtd:quoted-block">
+                    <section style="-uslm-dtd:section" styleType="appropriation">
+                        <num style="-uslm-dtd:enum" value="725">“SEC. 725. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s725">38 U.S.C. 725</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Annual performance plan for political appointees </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall conduct an annual performance plan for each political appointee of the Department that is similar to the annual performance plan conducted for an employee of the Department who is appointed as a career appointee (as that term is defined in section 3132(a) of title 5) within the Senior Executive Service at the Department.</content>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Elements of Plan.—</heading><chapeau style="-uslm-dtd:text">Each annual performance plan conducted under subsection (a) with respect to a political appointee of the Department shall include an assessment of whether the appointee is meeting the following goals:</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">Recruiting, selecting, and retaining well-qualified individuals for employment at the Department.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">Engaging and motivating employees.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">Training and developing employees and preparing those employees for future leadership roles within the Department.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">Holding each employee of the Department that is a manager accountable for addressing issues relating to performance, in particular issues relating to the performance of employees that report to the manager.</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Definition of Political Appointee.—</heading><chapeau style="-uslm-dtd:text">In this section, the term ‘<term style="-uslm-dtd:term">political appointee</term>’ means an employee of the Department who holds—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character; or</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">a position in the Senior Executive Service as a noncareer appointee (as such term is defined in section 3132(a) of title 5).”</content>
+                            </paragraph>
+                        </subsection>
+                    </section></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s203/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Clerical Amendment.—</heading><content style="-uslm-dtd:text">The table of sections at the beginning of chapter 7 of such title is amended by inserting after the item relating to section 723 the following new item:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“725.</designator><label> Annual performance plan for political appointees.”</label></referenceItem>
+                    </toc></quotedContent>.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s204" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="204">SEC. 204. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s701">38 U.S.C. 701 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REEMPLOYMENT OF FORMER EMPLOYEES AT DEPARTMENT OF VETERANS AFFAIRS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s204/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Notwithstanding sections 3309 through 3318 of title 5, United States Code, the Secretary of Veterans Affairs may noncompetitively appoint a qualified former career or career conditional employee to any position within the competitive service at the Department of Veterans Affairs that is one grade or equivalent higher than the grade or equivalent of the position at the Department most recently occupied by the employee.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s204/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Limitation.—</heading><content style="-uslm-dtd:text">The Secretary may not appoint a qualified former employee to a position that is more than one grade (or equivalent) higher than the position at the Department most recently occupied by the employee.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s204/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Definition of Qualified Former Employee.—</heading><chapeau style="-uslm-dtd:text">For purposes of this section, the term “<term style="-uslm-dtd:term">qualified former employee</term>” means any individual who—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s204/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">formerly occupied any career or career conditional position at the Department of Veterans Affairs within 2 years before applying for reemployment at the Department;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s204/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">voluntarily left such position, or was subject to a reduction in force, and had a satisfactory performance record while occupying such position; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s204/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">since leaving such position has maintained licensing requirements, related to the position, if any, and gained skill, knowledge, or other factors related to the position.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s205" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="205">SEC. 205. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s701">38 U.S.C. 701 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PROMOTIONAL OPPORTUNITIES FOR TECHNICAL EXPERTS AT DEPARTMENT OF VETERANS AFFAIRS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall establish a promotional track system for employees of the Department of Veterans Affairs that the Secretary determines are technical experts pursuant to regulations prescribed by the Secretary for purposes of carrying out this section. Such system shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s205/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">provide any such employee the opportunity to advance within the Department without being required to transition to a management position; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s205/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">for purposes of achieving career advancement—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tII/s205/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">provide for the establishment of new positions within the Department; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tII/s205/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">notwithstanding any other provision of law, provide for increases in pay for any such employee.</content>
+                    </subparagraph>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s206" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="206">SEC. 206. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s701">38 U.S.C. 701 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EMPLOYMENT OF STUDENTS AND RECENT GRADUATES BY DEPARTMENT OF VETERANS AFFAIRS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s206/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary of Veterans Affairs shall prescribe regulations to allow for excepted service appointments of students and recent graduates leading to conversion to career or career conditional employment of a student or recent graduate of a qualifying educational institution, as defined by the Department.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s206/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Applicability.—</heading><chapeau style="-uslm-dtd:text">The conversion authority described in subsection (a) shall be applicable to individuals in good standing who—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s206/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">are employed in a qualifying internship or fellowship program at the Department;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s206/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">are employed in the Department in a volunteer capacity and performing substantive duties comparable to those of  individuals in internship or fellowship programs and meet the required number of hours for conversion;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s206/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">are employed in the Department under a contract or agreement with an external nonprofit organization and performing substantive duties comparable to those of individuals in internship or fellowship programs;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s206/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">have received educational assistance under chapter 33 of title 38, United States Code; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s206/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">graduated from a qualifying educational institution, as defined by the Department, and have not reached 30 years of age.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s206/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Uniformity.—</heading><content style="-uslm-dtd:text">For the purposes of paragraphs (2) and (3) of subsection (b), hours of work performed by an individual employed shall be considered equal to those performed by an individual employed in a qualifying internship or fellowship program by the Department.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s207" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="207">SEC. 207. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s7401">38 U.S.C. 7401 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">IDENTIFICATION AND REFERRAL OF MEMBERS OF THE ARMED FORCES WITH A HEALTH CARE OCCUPATION FOR POTENTIAL EMPLOYMENT WITH THE DEPARTMENT OF VETERANS AFFAIRS DURING SEPARATION FROM THE ARMED FORCES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s207/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall establish a program to identify and refer members of the Armed Forces with a health care occupation for employment with the Department of Veterans Affairs during the separation of such members from the Armed Forces.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s207/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Referral of Interested Individuals.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s207/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">If a member of the Armed Forces identified under subsection (a) expresses an interest in working in a health care occupation within the Department of Veterans Affairs, the Secretary of Veterans Affairs shall refer the member to a recruiter of the Department for consideration of open positions in the specialty and geography of interest to the member.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s207/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Timing.—</heading><content style="-uslm-dtd:text">Any referral of a member of the Armed Forces conducted under paragraph (1) shall be made not earlier than one year before the separation of the member from the Armed Forces.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s207/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Rule of Construction.—</heading><content style="-uslm-dtd:text">Any identification of a member of the Armed Forces under subsection (a) or referral of such member under subsection (b) shall not be construed as a guarantee of employment of such member with the Department of Veterans Affairs.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s207/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Reports.—</heading><content style="-uslm-dtd:text">Not later than each of one year and two years after the date of the enactment of the <inline style="-uslm-dtd:short-title">Hire Veteran Health Heroes Act of 2021</inline>, the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress a report on the program established under subsection (a).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s207/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s207/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Appropriate committees of congress.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">appropriate committees of Congress</term>” means—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tII/s207/e/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Committee on Armed Services and the Committee on Veterans’ Affairs of the Senate; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tII/s207/e/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Committee on Armed Services and the Committee on Veterans’ Affairs of the House of Representatives.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s207/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Health care occupation.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">health care occupation</term>” means an occupation for which an individual may be appointed for employment with the Department of Veterans Affairs under section 7401 of title 38, United States Code.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s208" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="208">SEC. 208. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s701">38 U.S.C. 701 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">RECRUITING DATABASE AT DEPARTMENT OF VETERANS AFFAIRS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s208/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading><chapeau style="-uslm-dtd:text">The Secretary of Veterans Affairs shall establish a single database that lists—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s208/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">each vacant position in the Department of Veterans Affairs that the Secretary determines is critical to the mission of the Department, difficult to fill, or both; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s208/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">each vacant position in the Department of Veterans Affairs for a mental health professional.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s208/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Qualified Applicant.—</heading><content style="-uslm-dtd:text">If the Secretary determines that an applicant for a vacant position listed in the database established under subsection (a) is qualified for such position but does not select the applicant for such position, the Secretary, at the election of the applicant, may consider the applicant for other similar vacant positions listed in the database for which the applicant is qualified.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s208/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Prolonged Vacancies.—</heading><chapeau style="-uslm-dtd:text">If the Secretary does not fill a vacant position listed in the database established under subsection (a) after a period determined appropriate by the Secretary, the Secretary—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s208/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">may ensure that applicants described in subsection (b) are considered for such position; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s208/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">may use the database established under subsection (a) to assist in filling such position.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s208/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than one year after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the use and efficacy of the database established under subsection (a).</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s209" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="209">SEC. 209. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s7401">38 U.S.C. 7401 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">TRAINING FOR HUMAN RESOURCES PROFESSIONALS OF VETERANS HEALTH ADMINISTRATION ON RECRUITMENT AND RETENTION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s209/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary of Veterans Affairs shall provide to human resources professionals of the Veterans Health Administration training on how to best recruit and retain employees of the Veterans Health Administration, including with respect to any recruitment and retention matters that are unique to the Veterans Health Administration pursuant to chapter 74 of title 38, United States Code, or other provisions of law.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s209/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Virtual Training.—</heading><content style="-uslm-dtd:text">Training provided under this section shall be provided virtually.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s209/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Amount of Training.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall ensure that each human resources professional of the Veterans Health Administration receives the training described in subsection (a)—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s209/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">as soon as practicable after being hired by the Secretary as a human resources professional; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s209/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">annually thereafter.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s209/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Certification.—</heading><content style="-uslm-dtd:text">The Secretary shall require that each human resources professional of the Veterans Health Administration, upon the completion of the training described in subsection (a), certifies that the professional received the training and understands the information provided by the training.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s209/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Annual Report.—</heading><content style="-uslm-dtd:text">Not less frequently than annually, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the training described in subsection (a), including the cost of providing such training and the number of human resources professionals who received such training during the year covered by the report.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s210" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="210">SEC. 210. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s7401">38 U.S.C. 7401 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PLAN TO HIRE DIRECTORS OF MEDICAL CENTERS OF DEPARTMENT OF VETERANS AFFAIRS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s210/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Plan.—</heading><content style="-uslm-dtd:text">Not later than 120 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall develop and implement a plan to hire highly qualified directors for each medical center of the Department of Veterans Affairs that lacks a permanent director as of the date of the plan.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s210/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Priority.—</heading><content style="-uslm-dtd:text">The Secretary shall prioritize under the plan developed under subsection (a) the hiring of directors for medical centers that have not had a permanent director for the longest periods.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s210/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Matters Included.—</heading><chapeau style="-uslm-dtd:text">The plan developed under subsection (a) shall include the following:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s210/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">A deadline to hire directors of medical centers of the Department as described in such subsection.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s210/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Identification of the possible impediments to such hiring.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s210/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Identification of opportunities to promote and train candidates from within the Department to senior executive positions in the Department, including as directors of medical centers.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s210/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Submittal of Plan.—</heading><content style="-uslm-dtd:text">Not later than 120 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives the plan developed under subsection (a).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s210/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Semiannual Reports.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of this Act, and not later than 180 days thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing a list of each medical center of the Department that lacks a permanent director as of the date of the report.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s211" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="211">SEC. 211. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t38/s701">38 U.S.C. 701 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EXIT SURVEYS AT DEPARTMENT OF VETERANS AFFAIRS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s211/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Exit Surveys Required.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary of Veterans Affairs shall develop and carry out a standardized exit survey to be voluntarily completed by career and noncareer employees and executives of the Department of Veterans Affairs who voluntarily separate from the Department.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">Such exit survey shall be developed in consultation with an appropriate non-Department entity with experience developing such surveys.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s211/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Survey Content.—</heading><chapeau style="-uslm-dtd:text">The survey shall include, at a minimum, the following:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Reasons for leaving the Department.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Efforts made by the supervisor of the employee to retain the individual.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The extent of job satisfaction and engagement during the employment.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The intent of employee to either remain employed within the Federal Government or to leave employment with the Federal Government.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">Such other matters as the Secretary determines appropriate.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s211/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Anonymity of Survey Content.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall ensure that data collected under subsection (a)—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">is anonymized, including through the use of a location that allows for privacy;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">is not directly visible by another employee; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">does not require the departing employee to input any personally identifiable data.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s211/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Sharing of Survey Data.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall ensure that the results of the survey required by subsection (a) are—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">aggregated at the Veterans Integrated Service Network level; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">shared on an annual basis with directors and managers of facilities of the Department and the Veterans Integrated Service Networks.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s211/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Annual Report.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than one year after the date of the enactment of this Act and not less frequently than once each year thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing the aggregate results of the exit survey under subsection (a) covering the year prior to the report.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s211/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">Each report submitted under paragraph (1) shall include, for the period covered by the report, the following:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tII/s211/e/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">An analysis of the most common reasons employees choose to leave the Department.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tII/s211/e/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The steps the Secretary is taking to improve retention, particularly for mission-critical occupations.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tII/s211/e/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">The demographic characteristics of employees choosing to leave the Department.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tII/s211/e/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">Any legislative barriers to improving employee retention.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tII/s211/e/2/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">The total number of employees who voluntarily separated from the Department and the number and percentage of whom took the exit survey under subsection (a).</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s212" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="212">SEC. 212. </num><heading style="-uslm-dtd:header">REQUIREMENT THAT PHYSICIAN ASSISTANTS EMPLOYED BY THE DEPARTMENT OF VETERANS AFFAIRS RECEIVE COMPETITIVE PAY. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 7451(a)(2) of title 38, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s212/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating subparagraph (B) as subparagraph (C);</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s212/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after subparagraph (A) the following new subparagraph (B):<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">Physician assistant.”</content>
+                    </subparagraph></quotedContent>; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s212/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in subparagraph (C), as redesignated by paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">and registered nurse</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">registered nurse, and physician assistant</quotedText>”.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s213" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="213">SEC. 213. </num><heading style="-uslm-dtd:header">EXPANSION OF DIRECT-HIRING AUTHORITY FOR DEPARTMENT OF VETERANS AFFAIRS IN CASE OF SHORTAGE OF HIGHLY QUALIFIED CANDIDATES. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 3304(a)(3)(B) of title 5, United States Code, is amended by inserting “<quotedText style="-uslm-dtd:quote">(or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates)</quotedText>” after “<quotedText style="-uslm-dtd:quote">severe shortage of candidates</quotedText>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tII/s214" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="214">SEC. 214. </num><heading style="-uslm-dtd:header">COMPTROLLER GENERAL OF THE UNITED STATES ASSESSMENT OF SUCCESSION PLANNING AT DEPARTMENT OF VETERANS AFFAIRS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s214/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Assessment.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s214/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Comptroller General of the United States shall assess the extent to which key succession planning policies and guidance at the Department of Veterans Affairs, including the Veterans Health Administration, the Veterans Benefits Administration, and the National Cemetery Administration, are consistent with leading practices for succession and workforce planning identified by Comptroller General.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s214/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Additional matters.—</heading><content style="-uslm-dtd:text">In carrying out the assessment required by paragraph (1), the Comptroller General may assess such other matters as the Comptroller General considers appropriate.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s214/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than two years after the date of the enactment of this Act, the Comptroller General shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the assessment carried out under subsection (a).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/46/tII/s214/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Sense of Congress on Study on Compliance With Policies and Guidance.—</heading><chapeau style="-uslm-dtd:text">It is the sense of Congress that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s214/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Comptroller General should conduct a study to examine the extent to which a sampling of installations of the Department of Veterans Affairs are complying with policies  and guidance of the Department, as well as applicable leading practices; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tII/s214/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the scope and timeframe of a study conducted as described in paragraph (1) may be dependent upon the findings of the Comptroller General with respect to the assessment carried out under subsection (a).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/115/46/tIII" styleType="appropriation">
+            <num style="-uslm-dtd:enum" value="III">Title III—</num><heading style="-uslm-dtd:header">MAJOR MEDICAL FACILITY LEASES </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tIII/s301" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF CERTAIN MAJOR MEDICAL FACILITY LEASES OF THE DEPARTMENT OF VETERANS AFFAIRS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">The Secretary of Veterans Affairs may carry out the following major medical facility leases at the locations specified and in an amount for each lease not to exceed the amount specified for such location (not including any estimated cancellation costs):</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Ann Arbor, Michigan, an amount not to exceed $4,247,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">For a new outpatient mental health clinic, Birmingham, Alabama, an amount not to exceed $6,649,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">For new research space, Boston, Massachusetts, an amount not to exceed $6,224,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">For a replacement research space, Charleston, South Carolina, an amount not to exceed $7,274,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Corpus Christi, Texas, an amount not to exceed $6,556,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Daytona Beach, Florida, an amount not to exceed $12,198,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">For a replacement Chief Business Office Purchased Care office space, Denver, Colorado, an amount not to exceed $14,784,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Fredericksburg, Virginia, an amount not to exceed $45,015,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/9" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">For a new outpatient clinic, Gainesville, Florida, an amount not to exceed $7,891,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/10" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">For an outpatient mental health clinic, Gainesville, Florida, an amount not to exceed $4,320,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/11" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Hampton Roads, Virginia, an amount not to exceed $18,141,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/12" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Indianapolis, Indiana, an amount not to exceed $7,876,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/13" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="13">(13) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Jacksonville, Florida, an amount not to exceed $18,623,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/14" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="14">(14) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Missoula, Montana, an amount not to exceed $6,942,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/15" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="15">(15) </num><content style="-uslm-dtd:text">For a replacement outpatient mental health clinic, Northern Colorado, Colorado, an amount not to exceed $8,904,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/16" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="16">(16) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Ocala, Florida, an amount not to exceed $5,026,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/17" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="17">(17) </num><content style="-uslm-dtd:text">For a new outpatient clinic, Oxnard, California, an amount not to exceed $5,274,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/18" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="18">(18) </num><content style="-uslm-dtd:text">For a new outpatient clinic, Pike County, Georgia, an amount not to exceed $5,565,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/19" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="19">(19) </num><content style="-uslm-dtd:text">For a new outpatient clinic, Pittsburgh, Pennsylvania, an amount not to exceed $6,247,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/20" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="20">(20) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Portland, Maine, an amount not to exceed $6,808,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/21" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="21">(21) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Raleigh, North Carolina, an amount not to exceed $21,870,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/22" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="22">(22) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, phase II, Rochester, New York, an amount not to exceed $3,645,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/23" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="23">(23) </num><content style="-uslm-dtd:text">For a replacement research space, San Diego, California, an amount not to exceed $4,852,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/24" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="24">(24) </num><content style="-uslm-dtd:text">For a new outpatient clinic, Santa Rosa, California, an amount not to exceed $6,922,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/25" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="25">(25) </num><content style="-uslm-dtd:text">For a replacement mental health clinic, Tampa, Florida, an amount not to exceed $13,387,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/26" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="26">(26) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Lakeland, Tampa, Florida, an amount not to exceed $10,760,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/27" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="27">(27) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Terre Haute, Indiana, an amount not to exceed $4,102,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIII/s301/28" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="28">(28) </num><content style="-uslm-dtd:text">For a replacement outpatient clinic, Rapid City, South Dakota, an amount not to exceed $4,532,000.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tIII/s302" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS FOR MEDICAL FACILITY LEASES. </heading>
+                <content style="-uslm-dtd:text" class="block">There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2018 or the year in which funds are appropriated for the Medical Facilities account $274,634,000 for the major medical facility leases authorized in section 301.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/115/46/tIV" styleType="appropriation">
+            <num style="-uslm-dtd:enum" value="IV">Title IV—</num><heading style="-uslm-dtd:header">OTHER MATTERS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tIV/s401" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><heading style="-uslm-dtd:header">EXTENSION OF REDUCTION IN AMOUNT OF PENSION FURNISHED BY DEPARTMENT OF VETERANS AFFAIRS FOR CERTAIN VETERANS COVERED BY MEDICAID PLANS FOR SERVICES FURNISHED BY NURSING FACILITIES. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 5503(d)(7) of title 38, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">September 30, 2024</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2027</quotedText>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tIV/s402" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="402">SEC. 402. </num><heading style="-uslm-dtd:header">EXTENSION OF REQUIREMENT FOR COLLECTION OF FEES FOR HOUSING LOANS GUARANTEED BY SECRETARY OF VETERANS AFFAIRS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 3729(b)(2) of title 38, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIV/s402/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in subparagraph (A)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tIV/s402/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in clause (iii), by striking “<quotedText style="-uslm-dtd:quote">September 30, 2024</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2027</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tIV/s402/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in clause (iv), by striking “<quotedText style="-uslm-dtd:quote">September 30, 2024</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2027</quotedText>”;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIV/s402/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subparagraph (B)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tIV/s402/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in clause (i), by striking “<quotedText style="-uslm-dtd:quote">September 30, 2024</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2027</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tIV/s402/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in clause (ii), by striking “<quotedText style="-uslm-dtd:quote">September 30, 2024</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2027</quotedText>”;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIV/s402/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in subparagraph (C)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tIV/s402/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in clause (i), by striking “<quotedText style="-uslm-dtd:quote">September 30, 2024</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2027</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tIV/s402/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in clause (ii), by striking “<quotedText style="-uslm-dtd:quote">September 30, 2024</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2027</quotedText>”; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/46/tIV/s402/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">in subparagraph (D)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tIV/s402/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in clause (i), by striking “<quotedText style="-uslm-dtd:quote">September 30, 2024</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2027</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/46/tIV/s402/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in clause (ii), by striking “<quotedText style="-uslm-dtd:quote">September 30, 2024</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2027</quotedText>”.</content>
+                    </subparagraph>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/46/tIV/s403" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="403">SEC. 403. </num><heading style="-uslm-dtd:header">EXTENSION OF AUTHORITY TO USE INCOME INFORMATION. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 5317(g) of title 38, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">September 30, 2024</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2027</quotedText>”.</content>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

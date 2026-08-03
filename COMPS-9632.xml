@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Intelligence Authorization Act for Fiscal Year 2011</dc:title>
+        <containsShortTitle>Intel. Auth. Act for FY 2001</containsShortTitle>
+        <citableAs>Public Law 112–18, as amended</citableAs>
+        <citableAsShortTitle>Intelligence Authorization Act for Fiscal Year 2011</citableAsShortTitle>
+        <docNumber>18</docNumber>
+        <currentThroughPublicLaw>112-277</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Intelligence Authorization Act for Fiscal Year 2011</containsShortTitle>
+        <property role="fileId">9632</property>
+        <congress>112</congress>
+        <approvedDate>2011-06-08</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Intelligence Authorization Act for Fiscal Year 2011</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 112–18</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 112-277</currentThroughPublicLaw>, Enacted <date date="2013-01-14">January 14, 2013</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 112–18. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To authorize appropriations for fiscal year 2011 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Intelligence Authorization Act for Fiscal Year 2011</inline></shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 2.</designator><label> Definitions.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>BUDGET AND PERSONNEL AUTHORIZATIONS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Authorization of appropriations.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Classified Schedule of Authorizations.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Intelligence Community Management Account.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Authorization of appropriations.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>GENERAL INTELLIGENCE COMMUNITY MATTERS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Restriction on conduct of intelligence activities.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Increase in employee compensation and benefits authorized by law.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 303.</designator><label> Non-reimbursable detail of other personnel.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 304.</designator><label> Intelligence officer training program.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE IV—</designator><label>MATTERS RELATING TO ELEMENTS OF THE INTELLIGENCE COMMUNITY</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Office of the Director of National Intelligence</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 401.</designator><label> Schedule and requirements for the National Counterintelligence Strategy.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 402.</designator><label> Insider threat detection program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 403.</designator><label> Inspector General report recruitment and retention of racial and ethnic minorities.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 404.</designator><label> Report on potential consolidation of elements of the intelligence community.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Other Elements</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 411.</designator><label> Defense Intelligence Agency counterintelligence and expenditures. </label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE V—</designator><label>OTHER MATTERS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 501.</designator><label> Sense of Congress regarding the priority of railway transportation security.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE VI—</designator><label>HONORING THE MEMBERS OF THE INTELLIGENCE COMMUNITY FOR THEIR ROLE IN THE MISSION THAT KILLED OSAMA BIN LADEN ON MAY 1, 2011</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 601.</designator><label> Honoring the members of the intelligence community for their role in the mission that killed Osama bin Laden on May 1, 2011.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/s2" styleType="OLC" role="definitions">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t50/s3024">50 U.S.C. 3024 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">In this Act:</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/s2/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Congressional intelligence committees.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">congressional intelligence committees</term>” means—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/18/s2/1/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Select Committee on Intelligence of the Senate; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/18/s2/1/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Permanent Select Committee on Intelligence of the House of Representatives.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/s2/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Intelligence community.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">intelligence community</term>” has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).</content>
+            </paragraph>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/18/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">BUDGET AND PERSONNEL AUTHORIZATIONS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Funds are hereby authorized to be appropriated for fiscal year 2011 for the conduct of the intelligence and intelligence-related activities of the following elements of the United States Government:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Office of the Director of National Intelligence.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The Central Intelligence Agency.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The Department of Defense.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The Defense Intelligence Agency.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">The National Security Agency.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">The Department of the Army, the Department of the Navy, and the Department of the Air Force.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">The Coast Guard.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">The Department of State.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/9" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">The Department of the Treasury.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/10" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">The Department of Energy.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/11" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">The Department of Justice.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/12" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">The Federal Bureau of Investigation.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/13" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="13">(13) </num><content style="-uslm-dtd:text">The Drug Enforcement Administration.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/14" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="14">(14) </num><content style="-uslm-dtd:text">The National Reconnaissance Office.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/15" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="15">(15) </num><content style="-uslm-dtd:text">The National Geospatial-Intelligence Agency.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s101/16" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="16">(16) </num><content style="-uslm-dtd:text">The Department of Homeland Security.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tI/s102" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">CLASSIFIED SCHEDULE OF AUTHORIZATIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tI/s102/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Specifications of Amounts and Personnel Levels.—</heading><content style="-uslm-dtd:text">The amounts authorized to be appropriated under section 101 and the authorized personnel levels (expressed as full-time equivalent positions) as of September 30, 2011, for the conduct of the intelligence activities of the elements listed in paragraphs (1) through (16) of section 101, are those specified in the classified Schedule  of Authorizations prepared to accompany the bill H.R. 754 of the One Hundred Twelfth Congress.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tI/s102/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Availability of Classified Schedule of Authorizations.—</heading><content style="-uslm-dtd:text">The classified Schedule of Authorizations referred to in subsection (a) shall be made available to the Committee on Appropriations of the Senate, the Committee on Appropriations of the House of Representatives, and to the President. The President shall provide for suitable distribution of the Schedule, or of appropriate portions of the Schedule, within the executive branch.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tI/s103" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">INTELLIGENCE COMMUNITY MANAGEMENT ACCOUNT. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tI/s103/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated for the Intelligence Community Management Account of the Director of National Intelligence for fiscal year 2011 the sum of $660,732,000. Within such amount, funds identified in the classified Schedule of Authorizations referred to in section 102(a) for advanced research and development shall remain available until September 30, 2012.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tI/s103/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Authorized Personnel Levels.—</heading><content style="-uslm-dtd:text">The elements within the Intelligence Community Management Account of the Director of National Intelligence are authorized 787 full-time equivalent personnel as of September 30, 2011. Personnel serving in such elements may be permanent employees of the Office of the Director of National Intelligence or personnel detailed from other elements of the United States Government.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tI/s103/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Classified Authorizations.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s103/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><content style="-uslm-dtd:text">In addition to amounts authorized to be appropriated for the Intelligence Community Management Account by subsection (a), there are authorized to be appropriated for the Community Management Account for fiscal year 2011 such additional amounts as are specified in the classified Schedule of Authorizations referred to in section 102(a). Such additional amounts made available for advanced research and development shall remain available until September 30, 2012.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tI/s103/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authorization of personnel.—</heading><content style="-uslm-dtd:text">In addition to the personnel authorized by subsection (b) for elements of the Intelligence Community Management Account as of September 30, 2011, there are authorized such full-time equivalent personnel for the Community Management Account as of that date as are specified in the classified Schedule of Authorizations referred to in section 102(a).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/18/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+                <content style="-uslm-dtd:text" class="block">There is authorized to be appropriated for the Central Intelligence Agency Retirement and Disability Fund for fiscal year 2011 the sum of $292,000,000.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/18/tIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">GENERAL INTELLIGENCE COMMUNITY MATTERS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tIII/s301" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><heading style="-uslm-dtd:header">RESTRICTION ON CONDUCT OF INTELLIGENCE ACTIVITIES. </heading>
+                <content style="-uslm-dtd:text" class="block">The authorization of appropriations by this Act shall not be deemed to constitute authority for the conduct of any intelligence activity which is not otherwise authorized by the Constitution or the laws of the United States.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tIII/s302" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><heading style="-uslm-dtd:header">INCREASE IN EMPLOYEE COMPENSATION AND BENEFITS AUTHORIZED BY LAW. </heading>
+                <content style="-uslm-dtd:text" class="block">Appropriations authorized by this Act for salary, pay, retirement, and other benefits for Federal employees may be increased by such additional or supplemental amounts as may be necessary for increases in such compensation or benefits authorized by law.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tIII/s303" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="303">SEC. 303. </num><heading style="-uslm-dtd:header">NON-REIMBURSABLE DETAIL OF OTHER PERSONNEL. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tIII/s303/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 113A of the National Security Act of 1947 (50 U.S.C. 404h-1) is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <section style="-uslm-dtd:section" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="113A">“SEC. 113A. </num><heading style="-uslm-dtd:header">NON-REIMBURSABLE DETAIL OF OTHER PERSONNEL </heading><content style="-uslm-dtd:text">An officer or employee of the United States or member of the Armed Forces may be detailed to the staff of an element of the intelligence community funded through the National Intelligence Program from another element of the intelligence community or from another element of the United States Government on a non-reimbursable basis, as jointly agreed to by the heads of the receiving and detailing elements, for a period not to exceed two years. This section does not limit any other source of authority for reimbursable or non-reimbursable details.”</content>
+                    </section></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tIII/s303/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents Amendment.—</heading><content style="-uslm-dtd:text">The table of contents in the first section of such Act is amended by striking the item relating to section 113A and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“Sec. 113A.</designator><label> Non-reimbursable detail of other personnel.”</label></referenceItem>
+                    </toc></quotedContent>.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tIII/s304" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="304">SEC. 304. </num><heading style="-uslm-dtd:header">INTELLIGENCE OFFICER TRAINING PROGRAM. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 1024 of the National Security Act of 1947 (50 U.S.C. 441p) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tIII/s304/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (a)(1), by striking “<quotedText style="-uslm-dtd:quote">subsection (b)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subsections (b) and (c)</quotedText>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tIII/s304/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by redesignating subsections (c) through (f) as subsections (d) through (g), respectively;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tIII/s304/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by inserting after subsection (b), the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Grant Program for Historically Black Colleges and Universities. </heading><paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Director may provide grants to historically black colleges and universities to provide programs of study in educational disciplines identified under subsection (a)(2) or described in paragraph (2).</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><chapeau style="-uslm-dtd:text">A grant provided under paragraph (1) may be used to provide programs of study in the following educational disciplines:</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">Intermediate and advanced foreign languages deemed in the immediate interest of the intelligence community, including Farsi, Pashto, Middle Eastern, African, and South Asian dialects.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">Study abroad programs and cultural immersion programs.”</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection></quotedContent>; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tIII/s304/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">in paragraph (g) (as so redesignated)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/18/tIII/s304/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by redesignating paragraph (2) as paragraph (3);</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/18/tIII/s304/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by inserting after paragraph (1), the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Historically black college and university. </heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">historically black college and university</quotedText>’ has the meaning given the term ‘<quotedText style="-uslm-dtd:quote">part B institution</quotedText>’ in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).”</content>
+                        </paragraph></quotedContent>; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/18/tIII/s304/4/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Study abroad program. </heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">study abroad program</quotedText>’ means a program of study that—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">takes places outside the geographical boundaries of the United States;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">focuses on areas of the world that are critical to the national security interests of the United States and are generally underrepresented in study abroad programs at institutions of higher education, including Africa, Asia, Central and Eastern Europe, Eurasia, Latin America, and the Middle East; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">is a credit or noncredit program.”</content>
+                            </subparagraph>
+                        </paragraph></quotedContent>.</content>
+                    </subparagraph>
+                </paragraph>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/18/tIV" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">MATTERS RELATING TO ELEMENTS OF THE INTELLIGENCE COMMUNITY </heading>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/112/18/tIV/stA">
+                <num style="-uslm-dtd:enum" value="A">Subtitle A—</num><heading style="-uslm-dtd:header">Office of the Director of National Intelligence </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tIV/stA/s401" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><heading style="-uslm-dtd:header">SCHEDULE AND REQUIREMENTS FOR THE NATIONAL COUNTERINTELLIGENCE STRATEGY. </heading>
+                    <chapeau style="-uslm-dtd:text" class="block">Section 904(d)(2) of the Counterintelligence Enhancement Act of 2002 (50 U.S.C. 402c(d)(2)) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tIV/stA/s401/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Subject</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Requirement to produce. </heading><content style="-uslm-dtd:text">Subject”</content>
+                        </subparagraph></quotedContent>;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tIV/stA/s401/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">on an annual basis</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tIV/stA/s401/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Revision and requirement. </heading><content style="-uslm-dtd:text">The National Counterintelligence Strategy shall be revised or updated at least once every three years and shall be aligned with the strategy and policies of the Director of National Intelligence.”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </paragraph>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tIV/stA/s402" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="402">SEC. 402. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t50/s3024">50 U.S.C. 3024 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">INSIDER THREAT DETECTION PROGRAM. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tIV/stA/s402/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Initial Operating Capability.—</heading><content style="-uslm-dtd:text">Not later than October 1, 2013, the Director of National Intelligence shall establish an initial operating capability for an effective automated insider threat detection program for the information resources in each element of the intelligence community in order to detect unauthorized access to, or use or transmission of, classified intelligence.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tIV/stA/s402/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Full Operating Capability.—</heading><content style="-uslm-dtd:text">Not later than October 1, 2014, the Director of National Intelligence shall ensure the program described in subsection (a) has reached full operating capability.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tIV/stA/s402/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than December 1, 2011, the Director of National Intelligence shall submit to the congressional intelligence committees a report on the resources required to implement the insider threat detection program referred to in subsection (a) and any other issues related to such implementation the Director considers appropriate to include in the report.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tIV/stA/s402/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Information Resources Defined.—</heading><content style="-uslm-dtd:text">In this section, the term “<quotedText style="-uslm-dtd:quote">information resources</quotedText>” means networks, systems, workstations, servers, routers, applications, databases, websites, online collaboration environments, and any other information resources in an element of the intelligence community designated by the Director of National Intelligence.</content>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tIV/stA/s403" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="403">SEC. 403. </num><heading style="-uslm-dtd:header">INSPECTOR GENERAL REPORT RECRUITMENT AND RETENTION OF RACIAL AND ETHNIC MINORITIES. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tIV/stA/s403/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Intelligence Community shall submit to Congress a report on the degree to which racial and ethnic minorities in the United States are employed in professional positions in the intelligence community and barriers to the recruitment and retention of additional racial and ethnic minorities in such positions.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/18/tIV/stA/s403/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Form.—</heading><content style="-uslm-dtd:text">The report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex.</content>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tIV/stA/s404" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="404">SEC. 404. </num><heading style="-uslm-dtd:header">REPORT ON POTENTIAL CONSOLIDATION OF ELEMENTS OF THE INTELLIGENCE COMMUNITY. </heading>
+                    <content style="-uslm-dtd:text" class="block">Not later than December 31, 2011, the Director of National Intelligence shall submit to congress a report containing any recommendations the Director considers appropriate for consolidating elements of the intelligence community.</content>
+                </section>
+            </subtitle>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/112/18/tIV/stB">
+                <num style="-uslm-dtd:enum" value="B">Subtitle B—</num><heading style="-uslm-dtd:header">Other Elements </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tIV/stB/s411" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="411">SEC. 411. </num><heading style="-uslm-dtd:header">DEFENSE INTELLIGENCE AGENCY COUNTERINTELLIGENCE AND EXPENDITURES. </heading>
+                    <chapeau style="-uslm-dtd:text" class="block">Section 105 of the National Security Act of 1947 (50 U.S.C. 403-5) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tIV/stB/s411/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (b)(5), by inserting “<quotedText style="-uslm-dtd:quote">and counterintelligence</quotedText>” after “<quotedText style="-uslm-dtd:quote">human intelligence</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tIV/stB/s411/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by redesignating subsection (c) as subsection (d); and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tIV/stB/s411/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by inserting after subsection (b) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Expenditure of Funds by the Defense Intelligence Agency. </heading><paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Subject to paragraphs (2) and (3), the Director of the Defense Intelligence Agency may expend amounts made available to the Director under the National Intelligence Program for human intelligence and counterintelligence activities for objects of a confidential, extraordinary, or emergency nature, without regard to the provisions of law or regulation relating to the expenditure of Government funds.</content></paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><chapeau style="-uslm-dtd:text">The Director of the Defense Intelligence Agency may not expend more than five percent of the amounts made available to the Director under the National Intelligence Program for human intelligence and counterintelligence activities for a fiscal year for objects of a confidential, extraordinary, or emergency nature in accordance with paragraph (1) during such fiscal year unless—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the Director notifies the congressional intelligence committees of the intent to expend the amounts; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">30 days have elapsed from the date on which the Director notifies the congressional intelligence committees in accordance with subparagraph (A).</content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">For each expenditure referred to in paragraph (1), the Director shall certify that such expenditure was made for an object of a confidential, extraordinary, or emergency nature.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">Not later than December 31 of each year, the Director of the Defense Intelligence Agency shall submit to the congressional intelligence committees a report on any expenditures made during the preceding fiscal year in accordance with paragraph (1).”</content>
+                            </paragraph>
+                        </subsection></quotedContent>.</content>
+                    </paragraph>
+                </section>
+            </subtitle>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/18/tV" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="V">TITLE V—</num><heading style="-uslm-dtd:header">OTHER MATTERS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tV/s501" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="501">SEC. 501. </num><heading style="-uslm-dtd:header">SENSE OF CONGRESS REGARDING THE PRIORITY OF RAILWAY TRANSPORTATION SECURITY. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">It is the sense of Congress that—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tV/s501/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">railway transportation (including subway transit) should be prioritized in the development of transportation security plans by the intelligence community; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tV/s501/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">railway transportation security (including subway transit security) should be included in transportation security budgets of the intelligence community.</content>
+                </paragraph>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/18/tVI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="VI">TITLE VI—</num><heading style="-uslm-dtd:header">HONORING THE MEMBERS OF THE INTELLIGENCE COMMUNITY FOR THEIR ROLE IN THE MISSION THAT KILLED OSAMA BIN LADEN ON MAY 1, 2011 </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/18/tVI/s601" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="601">SEC. 601. </num><heading style="-uslm-dtd:header">HONORING THE MEMBERS OF THE INTELLIGENCE COMMUNITY FOR THEIR ROLE IN THE MISSION THAT KILLED OSAMA BIN LADEN ON MAY 1, 2011. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Congress—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tVI/s601/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">commends the men and women of the intelligence community for the tremendous commitment, perseverance, professionalism, and sacrifice they displayed in bringing Osama bin Laden to justice;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tVI/s601/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">commends the men and women of the intelligence community for committing themselves to defeating, disrupting, and dismantling al Qaeda; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/18/tVI/s601/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">reaffirms its commitment to using the capabilities and skills of the intelligence community to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/18/tVI/s601/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">disrupt, dismantle, and defeat al Qaeda and affiliated organizations around the world that threaten the national security of the United States;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/18/tVI/s601/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">eliminate safe havens for terrorists in Afghanistan and Pakistan; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/18/tVI/s601/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">bring terrorists to justice.</content>
+                    </subparagraph>
+                </paragraph>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

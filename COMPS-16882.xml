@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Better Cybercrime Metrics Act</dc:title>
+        <citableAs>Public Law 117–116, as amended</citableAs>
+        <citableAsShortTitle>Better Cybercrime Metrics Act</citableAsShortTitle>
+        <docNumber>116</docNumber>
+        <currentThroughPublicLaw>117–347</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2023-03-10</processedDate>
+        <containsShortTitle>Better Cybercrime Metrics Act</containsShortTitle>
+        <property role="fileId">16882</property>
+        <congress>117</congress>
+        <approvedDate>2022-05-05</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Better Cybercrime Metrics Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 117–116</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 117–347</currentThroughPublicLaw>, Enacted <date date="2023-01-05">January 5, 2023</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 117-116. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To establish cybercrime reporting mechanisms, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/117/116/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t34/s30109">34 U.S.C. 30109 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content class="block" style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Better Cybercrime Metrics Act</shortTitle>”.</content>
+        </section>
+        <section identifier="/us/sComp/117/116/s2" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">FINDINGS. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">Congress finds the following:</chapeau>
+            <paragraph identifier="/us/sComp/117/116/s2/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Public polling indicates that cybercrime could be the most common crime in the United States.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/116/s2/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The United States lacks comprehensive cybercrime data and monitoring, leaving the country less prepared to combat cybercrime that threatens national and economic security.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/116/s2/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">In addition to existing cybercrime vul­ner­a­bil­i­ties, the people of the United States and the United States have faced a heightened risk of cybercrime during the COVID-19 pandemic.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/116/s2/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Subsection (c) of the Uniform Federal Crime Reporting Act of 1988 (34 U.S.C. 41303(c)) requires the Attorney General to “acquire, collect, classify, and preserve national data on Federal criminal offenses as part of the Uniform Crime Reports” and requires all Federal departments and agencies that investigate criminal activity to “report details about crime within their respective jurisdiction to the Attorney General in a uniform matter and on a form prescribed by the Attorney General”.</content>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/117/116/s3" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><heading style="-uslm-dtd:header">CYBERCRIME TAXONOMY. </heading>
+            <subsection identifier="/us/sComp/117/116/s3/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than 90 days after the date of enactment of this Act, the Attorney General shall seek to enter into an agreement with the National Academy of Sciences to develop a taxonomy for the purpose of categorizing different types of cybercrime and cyber-enabled crime faced by individuals and businesses.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/116/s3/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Development.—</heading><chapeau style="-uslm-dtd:text">In developing the taxonomy under subsection (a), the National Academy of Sciences shall—</chapeau>
+                <paragraph identifier="/us/sComp/117/116/s3/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">ensure the taxonomy is useful for the Federal Bureau of Investigation to classify cybercrime in the National Incident-Based Reporting System, or any successor system;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/116/s3/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">consult relevant stakeholders, including—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/116/s3/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/116/s3/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Federal, State, and local law enforcement agencies;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/116/s3/b/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">criminologists and academics;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/116/s3/b/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">cybercrime experts; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/116/s3/b/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">business leaders; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/116/s3/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">take into consideration relevant taxonomies developed by non-governmental organizations, international organizations, academies, or other entities.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/116/s3/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date on which the Attorney General enters into an agreement under subsection (a), the National Academy of Sciences shall submit to the appropriate committees of Congress, which shall include the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives, a report detailing and summarizing—</chapeau>
+                <paragraph identifier="/us/sComp/117/116/s3/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the taxonomy developed under subsection (a); and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/116/s3/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">any findings from the process of developing the taxonomy under subsection (a).</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/116/s3/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There are authorized to be appropriated to carry out this section $1,000,000.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/116/s4" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><heading style="-uslm-dtd:header">CYBERCRIME REPORTING. </heading>
+            <subsection identifier="/us/sComp/117/116/s4/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the Attorney General shall establish a category in the National Incident-Based Reporting System, or any successor system, for the collection of cybercrime and cyber-enabled crime reports from Federal, State, and local officials.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/116/s4/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Recommendations.—</heading><content style="-uslm-dtd:text">In establishing the category required under subsection (a), the Attorney General shall, as appropriate, incorporate recommendations from the taxonomy developed under section 3(a).</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/116/s5" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><heading style="-uslm-dtd:header">NATIONAL CRIME VICTIMIZATION SURVEY. </heading>
+            <subsection identifier="/us/sComp/117/116/s5/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than 540 days after the date of enactment of this Act, the Director of the Bureau of Justice Statistics, in coordination with the Director of the Bureau of the Census, shall include questions relating to cybercrime victimization in the National Crime Victimization Survey.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/116/s5/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There are authorized to be appropriated to carry out this section $2,000,000.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/116/s6" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><heading style="-uslm-dtd:header">GAO STUDY ON CYBERCRIME METRICS. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report that assesses—</chapeau>
+            <paragraph identifier="/us/sComp/117/116/s6/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the effectiveness of reporting mechanisms for cybercrime and cyber-enabled crime in the United States; and</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/116/s6/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">disparities in reporting data between—</chapeau>
+                <subparagraph identifier="/us/sComp/117/116/s6/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">data relating to cybercrime and cyber-enabled crime; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/116/s6/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">other types of crime data.</content>
+                </subparagraph>
+            </paragraph>
+        </section>
+    </main>
+</statuteCompilation>

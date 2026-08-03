@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>MIGRANT AND SEASONAL AGRICULTURAL WORKER PROTECTION ACT</dc:title>
+        <containsShortTitle>MIGRANT &amp; SEASONAL AGRICULTURAL WORKER</containsShortTitle>
+        <citableAs>Public Law 97–470, as amended</citableAs>
+        <citableAsShortTitle>MIGRANT AND SEASONAL AGRICULTURAL WORKER PROTECTION ACT</citableAsShortTitle>
+        <docNumber>470</docNumber>
+        <currentThroughPublicLaw>104–88</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Migrant and Seasonal Agricultural Worker Protection Act</containsShortTitle>
+        <property role="fileId">1516</property>
+        <congress>97</congress>
+        <approvedDate>1983-01-14</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">MIGRANT AND SEASONAL AGRICULTURAL WORKER PROTECTION ACT</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 97–470</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 104–88</currentThroughPublicLaw>, Enacted <date date="1995-12-29">December 29, 1995</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 97-470. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To provide for the protection of migrant and seasonal agricultural workers and for the registration of contractors of migrant and seasonal agricultural labor and for other purposes</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/s1" styleType="traditional">
+            <heading style="-uslm-dtd:header">short title; table of contents </heading>
+            <num style="-uslm-dtd:enum" value="1">Section 1. </num><content style="-uslm-dtd:text">This Act, together with the following table of contents, may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Migrant and Seasonal Agricultural Worker Protection Act</inline></shortTitle>”.<toc style="-uslm-dtd:toc">
+            <heading style="-uslm-dtd:toc-entry" class="centered">TABLE OF CONTENTS</heading>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 2.</designator><label> Purpose.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 3.</designator><label> Definitions.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 4.</designator><label> Application of Act.</label></referenceItem>
+            <groupItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>FARM LABOR CONTRACTORS</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Certificate of registration required.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Issuance of certificate of registration.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Registration determinations.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Transfer or assignment; expiration; renewal.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 105.</designator><label> Notice of address change; amendment of certificate of registration.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>MIGRANT AGRICULTURAL WORKER PROTECTIONS</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Information and recordkeeping requirements.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> Wages, supplies, and other working arrangements.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 203.</designator><label> Safety and health of housing.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>SEASONAL AGRICULTURAL WORKER PROTECTIONS</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Information and recordkeeping requirements.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Wages, supplies, and other working arrangements.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE IV—</designator><label>FURTHER PROTECTIONS FOR MIGRANT AND SEASONAL AGRICULTURAL WORKERS</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 401.</designator><label> Motor vehicle safety.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 402.</designator><label> Confirmation of registration.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 403.</designator><label> Information on employment conditions.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 404.</designator><label> Compliance with written agreements.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE V—</designator><label>GENERAL PROVISIONS</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="part" class="centered"><designator>Part A—</designator><label>Enforcement Provisions</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 501.</designator><label> Criminal sanctions.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 502.</designator><label> Judicial enforcement.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 503.</designator><label> Administrative sanctions.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 504.</designator><label> Private right of action.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 505.</designator><label> Discrimination prohibited.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 506.</designator><label> Waiver of rights.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="part" class="centered"><designator>Part B—</designator><label>Administrative Regulations</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 511.</designator><label> Rules and regulations.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 512.</designator><label> Authority to obtain information.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 513.</designator><label> Agreements with Federal and State agencies.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="part" class="centered"><designator>Part C—</designator><label>Miscellaneous Provisions</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 521.</designator><label> State laws and regulations.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 522.</designator><label> Transition provision.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 523.</designator><label> Repealer.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 524.</designator><label> Effective date.</label></referenceItem>
+            </groupItem></toc></content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1801">29 U.S.C. 1801</ref> nt<b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, sec. 1, 96 Stat. 2583.</sourceCredit>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/s2" styleType="traditional">
+            <heading style="-uslm-dtd:header">purpose </heading>
+            <num style="-uslm-dtd:enum" value="2">Sec. 2. </num><content style="-uslm-dtd:text">It is the purpose of this Act to remove the restraints on commerce caused by activities detrimental to migrant and seasonal agricultural workers; to require farm labor contractors to register under this Act; and to assure necessary protections for migrant and seasonal agricultural workers, agricultural associations, and agricultural employers.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1801">29 U.S.C. 1801</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1938, P.L. 97–470, sec. 2, 96 Stat. 2584.</sourceCredit>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/s3" styleType="traditional" role="definitions">
+            <heading style="-uslm-dtd:header">definitions </heading>
+            <num style="-uslm-dtd:enum" value="3">Sec. 3. </num><chapeau style="-uslm-dtd:text">As used in this Act—</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">agricultural association</term>” means any nonprofit or cooperative association of farmers, growers, or ranchers, incorporated or qualified under applicable State law, which recruits, solicits, hires, employs, furnishes, or transports any migrant or seasonal agricultural worker.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">agricultural employer</term>” means any person who owns or operates a farm, ranch, processing establishment, cannery, gin, packing shed or nursery, or who produces or conditions seed, and who either recruits, solicits, hires, employs, furnishes, or transports any migrant or seasonal agricultural worker.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">agricultural employment</term>” means employment in any service or activity included within the provisions of section 3(f) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(f)), or section 3121(g) of the Internal Revenue Code of 1954 (26 U.S.C. 3121(g)) and the handling, planting, drying, packing, packaging, processing, freezing, or grading prior to delivery for storage of any agricultural or horticultural commodity in its unmanufactured state.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/4" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">day-haul operation</term>” means the assembly of workers at a pick-up point waiting to be hired and employed, transportation of such workers to agricultural employment, and the return of such workers to a drop-off point on the same day.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/5" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">employ</term>” has the meaning given such term under section 3(g) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(g)) for the purposes of implementing the requirements of that Act.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/6" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">farm labor contracting activity</term>” means recruiting, soliciting, hiring, employing, furnishing, or transporting any migrant or seasonal agricultural worker.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/7" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">farm labor contractor</term>” means any person, other than an agricultural employer, an agricultural association, or an employee of an agricultural employer or agricultural association, who, for any money or other valuable consideration paid or promised to be paid, performs any farm labor contracting activity.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/8" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="8">(8)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s3/8/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Except as provided in subparagraph (B), the term “<term style="-uslm-dtd:term">migrant agricultural worker</term>” means an individual who is employed in agricultural employment of a seasonal or other temporary nature, and who is required to be absent overnight from his permanent place of residence.</content></subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s3/8/B" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">migrant agricultural worker</term>” does not include—</chapeau>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/s3/8/B/i" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">any immediate family member of an agricultural employer or a farm labor contractor; or</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/s3/8/B/ii" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">any temporary nonimmigrant alien who is authorized to work in agricultural employment in the United States under sections 101(a)(15)(H)(ii)(a) and 214(c) of the Immigration and Nationality Act.</content>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/9" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">person</term>” means any individual, partnership, association, joint stock company, trust, cooperative, or corporation.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/10" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="10">(10)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s3/10/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">Except as provided in subparagraph (B), the term “<term style="-uslm-dtd:term">seasonal agricultural worker</term>” means an individual who is employed in agricultural employment of a seasonal or other temporary nature and is not required to be absent overnight from his permanent place of residence—</chapeau>
+                <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/s3/10/A/i" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">when employed on a farm or ranch performing field work related to planting, cultivating, or harvesting operations; or</content>
+                </clause>
+                <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/s3/10/A/ii" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">when employed in canning, packing, ginning, seed conditioning or related research, or processing operations, and transported, or caused to be transported, to or from the place of employment by means of a day-haul operation.</content>
+                </clause></subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s3/10/B" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">seasonal agricultural worker</term>” does not include—</chapeau>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/s3/10/B/i" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">any migrant agricultural worker;</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/s3/10/B/ii" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">any immediate family member of an agricultural employer or a farm labor contractor; or</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/s3/10/B/iii" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">any temporary nonimmigrant alien who is authorized to work in agricultural employment in the United States under sections 101(a)(15)(H)(ii)(a) and 214(c) of the Immigration and Nationality Act.</content>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/11" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Secretary</term>” means the Secretary of Labor or the Secretary's authorized representative.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s3/12" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State</term>” means any of the States of the United States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, and Guam.</content>
+            </paragraph><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1802">29 U.S.C. 1802</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, sec. 3, 96 Stat. 2584; amended November 6, 1986, P.L. 99–603, sec. 101(b)(1)(A), 100 Stat. 3372.</sourceCredit>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/s4" styleType="traditional">
+            <heading style="-uslm-dtd:header">applicability of act </heading>
+            <num style="-uslm-dtd:enum" value="4">Sec. 4. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/s4/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">The following persons are not subject to this Act:</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s4/a/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Family business exemption.—</heading><content style="-uslm-dtd:text">Any individual who engages in a farm labor contracting activity on behalf of a farm, processing establishment, seed conditioning establishment, cannery, gin, packing shed, or nursery, which is owned or operated exclusively by such individual or an immediate family member of such individual, if such activities are performed only for such operation and exclusively by such individual or an immediate family member, but without regard to whether such individual has incorporated or otherwise organized for business purposes.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s4/a/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Small business exemption.—</heading><content style="-uslm-dtd:text">Any person, other than a farm labor contractor, for whom the man-days exemption for agricultural labor provided under section 13(a)(6)(A) of the Fair Labor Standards Act of 1938 (29 U.S.C. 213(a)(6)(A)) is applicable.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/s4/a/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Other exemptions.—</heading><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s4/a/3/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Any common carrier which would be a farm labor contractor solely because the carrier is engaged in the farm labor contracting activity of transporting any migrant or seasonal agricultural worker.</content></subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s4/a/3/B" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Any labor organization, as defined in section 2(5) of the Labor Management Relations Act (29 U.S.C. 152(5)) (without regard to the exclusion of agricultural employees in that Act) or as defined under applicable State labor relations law.</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s4/a/3/C" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Any nonprofit charitable organization or public or private nonprofit educational institution.</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s4/a/3/D" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">Any person who engages in any farm labor contracting activity solely within a twenty-five mile intrastate radius of such person's permanent place of residence and for not more than thirteen weeks per year.</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s4/a/3/E" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">Any custom combine, hay harvesting, or sheep shearing operation.</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s4/a/3/F" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">Any custom poultry harvesting, breeding, debeaking, desexing, or health service operation provided the employees of the operation are not regularly required to be away from their permanent place of residence other than during their normal working hours.</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s4/a/3/G" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="G">(G)</num><clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/s4/a/3/G/i" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">Any person whose principal occupation or business is not agricultural employment, when supplying full-time students or other individuals whose principal occupation is not agricultural employment to detassel, rogue, or otherwise engage in the production of seed and to engage in related and incidental agricultural employment, unless such full-time students or other individuals are required to be away from their permanent place of residence overnight or there are individuals under eighteen years of age who are providing transportation on behalf of such person.</content></clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/s4/a/3/G/ii" styleType="OLC" class="leftIndentDecrease2">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">Any person to the extent he is supplied with students or other individuals for agricultural employment in accordance with clause (i) of this subparagraph by a person who is exempt under such clause.</content>
+                    </clause>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s4/a/3/H" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="H">(H)</num><clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/s4/a/3/H/i" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">Any person whose principal occupation or business is not agricultural employment, when supplying full-time students or other individuals whose principal occupation is not agricultural employment to string or harvest shade grown tobacco and to engage in related and incidental agricultural employment, unless there are individuals under eighteen years of age who are providing transportation on behalf of such person.</content></clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/s4/a/3/H/ii" styleType="OLC" class="leftIndentDecrease2">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">Any person to the extent he is supplied with students or other individuals for agricultural employment in accordance with clause (i) of this subparagraph by a person who is exempt under such clause.</content>
+                    </clause>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/s4/a/3/I" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">Any employee of any person described in subparagraphs (A) through (H) when performing farm labor contracting activities exclusively for such person.</content>
+                </subparagraph>
+            </paragraph></subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/s4/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Title I of this Act does not apply to any agricultural employer or agricultural association or to any employee of such an employer or association.</content>
+            </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1803">29 U.S.C. 1803</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, sec. 4, 96 Stat. 2585.</sourceCredit>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/97/470/tI" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">FARM LABOR CONTRACTORS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tI/s101" styleType="traditional">
+                <heading style="-uslm-dtd:header">certificate of registration required </heading>
+                <num style="-uslm-dtd:enum" value="101">Sec. 101. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tI/s101/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">No person shall engage in any farm labor contracting activity, unless such person has a certificate of registration from the Secretary specifying which farm labor contracting activities such person is authorized to perform.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tI/s101/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">A farm labor contractor shall not hire, employ, or use any individual to perform farm labor contracting activities unless such individual has a certificate of registration, or a certificate of registration as an employee of the farm labor contractor employer, which authorizes the activity for which such individual is hired, employed, or used. The farm labor contractor shall be held responsible for violations of this Act or any regulation under this Act by any employee regardless of whether the employee possesses a certificate of registration based on the contractor's certificate of registration.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tI/s101/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Each registered farm labor contractor and registered farm labor contractor employee shall carry at all times while engaging in farm labor contracting activities a certificate of registration and, upon request, shall exhibit that certificate to all persons with whom they intend to deal as a farm labor contractor or farm labor contractor employee.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tI/s101/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">The facilities and the services authorized by the Act of June 6, 1933 (29 U.S.C. 49 et seq.), known as the Wagner-Peyser Act, shall be denied to any farm labor contractor upon refusal or failure to produce, when asked, a certificate of registration.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1811">29 U.S.C. 1811</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title I, sec. 101, 96 Stat. 2587.</sourceCredit>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tI/s102" styleType="traditional">
+                <heading style="-uslm-dtd:header">issuance of certificate of registration </heading>
+                <num style="-uslm-dtd:enum" value="102">Sec. 102. </num><chapeau style="-uslm-dtd:text">The Secretary, after appropriate investigation and approval, shall issue a certificate of registration (including a certificate of registration as an employee of a farm labor contractor) to any person who has filed with the Secretary a written application containing the following:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s102/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a declaration, subscribed and sworn to by the applicant, stating the applicant's permanent place of residence, the farm labor contracting activities for which the certificate is requested, and such other relevant information as the Secretary may require;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s102/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a statement identifying each vehicle to be used to transport any migrant or seasonal agricultural worker and, if the vehicle is or will be owned or controlled by the applicant, documentation showing that the applicant is in compliance with the requirements of section 401 with respect to each such vehicle;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s102/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">a statement identifying each facility or real property to be used to house any migrant agricultural worker and, if the facility or real property is or will be owned or controlled by the applicant, documentation showing that the applicant is in compliance with section 203 with respect to each such facility or real property;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s102/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">a set of fingerprints of the applicant; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s102/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">a declaration, subscribed and sworn to by the applicant, consenting to the designation by a court of the Secretary as an agent available to accept service of summons in any action against the applicant, if the applicant has left the jurisdiction in which the action is commenced or otherwise has become unavailable to accept service.</content>
+                </paragraph><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1812">29 U.S.C. 1812</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title I, sec. 102, 96 Stat. 2587.</sourceCredit>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tI/s103" styleType="traditional">
+                <heading style="-uslm-dtd:header">registration determinations </heading>
+                <num style="-uslm-dtd:enum" value="103">Sec. 103. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tI/s103/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">In accordance with regulations, the Secretary may refuse to issue or renew, or may suspend or revoke, a certificate of registration (including a certificate of registration as an employee of a farm labor contractor) if the applicant or holder—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s103/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">has knowingly made any misrepresentation in the application for such certificate;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s103/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">is not the real party in interest in the application or certificate of registration and the real party in interest is a person who has been refused issuance or renewal of a certificate, has had a certificate suspended or revoked, or does not qualify under this section for a certificate;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s103/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">has failed to comply with this Act or any regulation under this Act;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s103/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">has failed—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tI/s103/a/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to pay any court judgment obtained by the Secretary or any other person under this Act or any regulation under this Act or under the Farm Labor Contractor Registration Act of 1963 or any regulation under such Act, or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tI/s103/a/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to comply with any final order issued by the Secretary as a result of a violation of this Act or any regulation under this Act or a violation of the Farm Labor Contractor Registration Act of 1963 or any regulation under such Act; or</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s103/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">has been convicted within the preceding five years—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tI/s103/a/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">of any crime under State or Federal law relating to gambling, or to the sale, distribution or possession of alcoholic beverages, in connection with or incident to any farm labor contracting activities; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tI/s103/a/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">of any felony under State or Federal law involving robbery, bribery, extortion, embezzlement, grand larceny, burglary, arson, violation of narcotics laws, murder, rape, assault with intent to kill, assault which inflicts grievous bodily injury, prostitution, peonage, or smuggling or harboring individuals who have entered the United States illegally; or</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s103/a/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">has been found to have violated paragraph (1) or (2) of section 274A(a) of the Immigration and Nationality Act.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tI/s103/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s103/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The person who is refused the issuance or renewal of a certificate or whose certificate is suspended or revoked under subsection (a) shall be afforded an opportunity for agency hearing, upon request made within thirty days after the date of issuance of the notice of the refusal, suspension, or revocation. In such hearing, all issues shall be determined on the record pursuant to section 554 of title 5, United States Code. If no hearing is requested as herein provided, the refusal, suspension, or revocation shall constitute a final and unappealable order.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s103/b/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">If a hearing is requested, the initial agency decision shall be made by an administrative law judge, and such decision shall become the final order unless the Secretary modifies or vacates the decision. Notice of intent to modify or vacate the decision of the administrative law judge shall be issued to the parties within thirty days after the decision of the administrative law judge. A final order which takes effect under this paragraph shall be subject to review only as provided under subsection (c).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tI/s103/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Any person against whom an order has been entered after an agency hearing under this section may obtain review by the United States district court for any district in which he is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within thirty days from the date of such order, and simultaneously sending a copy of such notice by registered mail to the Secretary. The Secretary shall promptly certify and file in such court the record upon which the order was based. The findings of the Secretary shall be set aside only if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5, United States Code. Any final decision, order, or judgment of such District Court concerning such review shall be subject to appeal as provided in chapter 83 of title 28, United States Code.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1813">29 U.S.C. 1813</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title I, sec. 103, 96 Stat. 2588; amended November 6, 1986, P.L. 99–603, sec. 101 (1)(B), 100 Stat. 3372.</sourceCredit>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tI/s104" styleType="traditional">
+                <heading style="-uslm-dtd:header">transfer or assignment; expiration; renewal </heading>
+                <num style="-uslm-dtd:enum" value="104">Sec. 104. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tI/s104/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">A certificate of registration may not be transferred or assigned.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tI/s104/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s104/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Unless earlier suspended or revoked, a certificate shall expire twelve months from the date of issuance, except that (A) certificates issued under this Act during the period beginning December 1, 1982, and ending November 30, 1983, may be issued for a period of up to twenty-four months for the purpose of an orderly transition to registration under this Act, (B) a certificate may be temporarily extended by the filing of an application with the Secretary at least thirty days prior to its expiration date, and (C) the Secretary may renew a certificate for additional twelve-month periods or for periods in excess of twelve months but not in excess of twenty-four months.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s104/b/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Eligibility for renewals for periods of more than twelve months shall be limited to farm labor contractors who have not been cited for a violation of this Act, or any regulation under this Act, or the Farm Labor Contractor Registration Act of 1963, or any regulation under such Act, during the preceding five years.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1814">29 U.S.C. 1814</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title I, sec. 104, 96 Stat. 2589.</sourceCredit>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tI/s105" styleType="traditional">
+                <heading style="-uslm-dtd:header">notice of address change; amendment of certificate of registration </heading>
+                <num style="-uslm-dtd:enum" value="105">Sec. 105. </num><chapeau style="-uslm-dtd:text">During the period for which the certificate of registration is in effect, each farm labor contractor shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s105/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">provide to the Secretary within thirty days a notice of each change of permanent place of residence; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tI/s105/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">apply to the Secretary to amend the certificate of registration whenever the farm labor contractor intends to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tI/s105/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">engage in another farm labor contracting activity,</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tI/s105/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">use, or cause to be used, another vehicle than that covered by the certificate to transport any migrant or seasonal agricultural worker, or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tI/s105/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">use, or cause to be used, another real property or facility to house any migrant agricultural worker than that covered by the certificate.</content>
+                    </subparagraph>
+                </paragraph><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1815">29 U.S.C. 1815</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title I, sec. 105, 96 Stat. 2589.</sourceCredit>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/97/470/tII" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">MIGRANT AGRICULTURAL WORKER PROTECTIONS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tII/s201" styleType="traditional">
+                <heading style="-uslm-dtd:header">information and recordkeeping requirements </heading>
+                <num style="-uslm-dtd:enum" value="201">Sec. 201. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s201/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">Each farm labor contractor, agricultural employer, and agricultural association which recruits any migrant agricultural worker shall ascertain and disclose in writing to each such worker who is recruited for employment the following information at the time of the worker's recruitment:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s201/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the place of employment;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s201/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the wage rates to be paid;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s201/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the crops and kinds of activities on which the worker may be employed;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s201/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the period of employment;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s201/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the transportation, housing, and any other employee benefit to be provided, if any, and any costs to be charged for each of them;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s201/a/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">the existence of any strike or other concerted work stoppage, slowdown, or interruption of operations by employees at the place of employment;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s201/a/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">the existence of any arrangements with any owner or agent of any establishment in the area of employment under which the farm labor contractor, the agricultural employer, or the agricultural association is to receive a commission or any other benefit resulting from any sales by such establishment to the workers; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s201/a/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8)<ref style="-uslm-dtd:footnote-ref" idref="IDC2B7B7F5534241B091129B500A21DBD2" class="footnoteRef">1</ref> </num><content style="-uslm-dtd:text">whether State workers' compensation insurance is provided, and, if so, the name of the State workers' compensation insurance carrier, the name of the policyholder of such insurance, the name and the telephone number of each person who must be notified of an injury or death, and the time period within which such notice must be given.</content><footnote id="IDC2B7B7F5534241B091129B500A21DBD2" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Pursuant to section 4(c) of P.L. 104–49 this paragraph (8) shall take effect upon the expiration of 90 days after the date final regulations are issued by the Secretary of Labor implementing those provisions.</p></footnote>
+                </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">Compliance with the disclosure requirement of paragraph (8) for a migrant agricultural worker may be met if such worker is given a photocopy of any notice regarding workers' compensation insurance required by law of the State in which such worker is employed. Such worker shall be given such disclosure regarding workers' compensation at the time of recruitment or if sufficient information is unavailable at that time, at the earliest practicable time but in no event later than the commencement of work.</continuation></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s201/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Each farm labor contractor, agricultural employer, and agricultural association which employs any migrant agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this Act, including the right of a migrant agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a). Such employer shall provide upon request, a written statement of the information described in subsection (a).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s201/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Each farm labor contractor, agricultural employer, and agricultural association which provides housing for any migrant agricultural worker shall post in a conspicuous place or present to such worker a statement of the terms and conditions, if any, of occupancy of such housing.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s201/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><chapeau style="-uslm-dtd:text">Each farm labor contractor, agricultural employer, and agricultural association which employs any migrant agricultural worker shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s201/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">with respect to each such worker, make, keep, and preserve records for three years of the following information:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tII/s201/d/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the basis on which wages are paid;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tII/s201/d/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the number of piecework units earned, if paid on a piecework basis;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tII/s201/d/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the number of hours worked;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tII/s201/d/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the total pay period earnings;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tII/s201/d/1/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the specific sums withheld and the purpose of each sum withheld; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tII/s201/d/1/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the net pay; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s201/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">provide to each such worker for each pay period, an itemized written statement of the information required by paragraph (1) of this subsection.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s201/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">Each farm labor contractor shall provide to any other farm labor contractor, and to any agricultural employer and agricultural association to which such farm labor contractor has furnished migrant agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (d)(1). The recipient of such records shall keep them for a period of three years from the end of the period of employment.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s201/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><content style="-uslm-dtd:text">No farm labor contractor, agricultural employer, or agricultural association shall knowingly provide false or misleading information to any migrant agricultural worker concerning the terms, conditions, or existence of agricultural employment required to be disclosed by subsection (a), (b), (c), or (d).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s201/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><content style="-uslm-dtd:text">The information required to be disclosed by subsections (a) through (c) of this section to migrant agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to migrant agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1821">29 U.S.C. 1821</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title II, sec. 201, 96 Stat. 2509.</sourceCredit>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tII/s202" styleType="traditional">
+                <heading style="-uslm-dtd:header">wages, supplies, and other working arrangements </heading>
+                <num style="-uslm-dtd:enum" value="202">Sec. 202. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s202/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Each farm labor contractor, agricultural employer, and agricultural association which employs any migrant agricultural worker shall pay the wages owed to such worker when due.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s202/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">No farm labor contractor, agricultural employer, or agricultural association shall require any migrant agricultural worker to purchase any goods or services solely from such farm labor contractor, agricultural employer, or agricultural association.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s202/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">No farm labor contractor, agricultural employer, or agricultural association shall, without justification, violate the terms of any working arrangement made by that contractor, employer, or association with any migrant agricultural worker.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1822">29 U.S.C. 1822</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title II, sec. 202, 96 Stat. 2591.</sourceCredit>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tII/s203" styleType="traditional">
+                <heading style="-uslm-dtd:header">safety and health of housing </heading>
+                <num style="-uslm-dtd:enum" value="203">Sec. 203. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s203/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Except as provided in subsection (c), each person who owns or controls a facility or real property which is used as housing for migrant agricultural workers shall be responsible for ensuring that the facility or real property complies with substantive Federal and State safety and health standards applicable to that housing.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s203/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s203/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Except as provided in subsection (c) and paragraph (2) of this subsection, no facility or real property may be occupied by any migrant agricultural worker unless either a State or local health authority or other appropriate agency has certified that the facility or property meets applicable safety and health standards. No person who owns or controls any such facility or property shall permit it to be occupied by any migrant agricultural worker unless a copy of the certification of occupancy is posted at the site. The receipt and posting of a certificate of occupancy does not relieve any person of responsibilities under subsection (a). Each such person shall retain the original certification for three years and shall make it available for inspection and review in accordance with section 512.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tII/s203/b/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Notwithstanding paragraph (1) of this subsection, if a request for the inspection of a facility or real property is made to the appropriate State or local agency at least forty-five days prior to the date on which it is occupied by migrant agricultural workers and such agency has not conducted an inspection by such date, the facility or property may be so occupied.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tII/s203/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">This section does not apply to any person who, in the ordinary course of that person's business, regularly provides housing on a commercial basis to the general public and who provides housing to migrant agricultural workers of the same character and on the same or comparable terms and conditions as is provided to the general public.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1823">29 U.S.C. 1823</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title II, sec. 203, 96 Stat. 2501.</sourceCredit>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/97/470/tIII" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">SEASONAL AGRICULTURAL WORKER PROTECTIONS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tIII/s301" styleType="traditional">
+                <heading style="-uslm-dtd:header">information and recordkeeping requirements </heading>
+                <num style="-uslm-dtd:enum" value="301">Sec. 301. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIII/s301/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIII/s301/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Each farm labor contractor, agricultural employer, and agricultural association which recruits any seasonal agricultural worker (other than day-haul workers described in section 3(10)(A)(ii)) shall ascertain and, upon request, disclose in writing the following information when an offer of employment is made to such worker:</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/a/1/A" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the place of employment;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/a/1/B" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the wage rates to be paid;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/a/1/C" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the crops and kinds of activities on which the worker may be employed;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/a/1/D" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the period of employment;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/a/1/E" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the transportation and any other employee benefit to be provided, if any, and any costs to be charged for each of them;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/a/1/F" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the existence of any strike or other concerted work stoppage, slowdown, or interruption of operations by employees at the place of employment;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/a/1/G" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">the existence of any arrangements with any owner or agent of any establishment in the area of employment under which the farm labor contractor, the agricultural employer, or the agricultural association is to receive a commission or any other benefit resulting from any sales by such establishment to the workers; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/a/1/H" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="H">(H)<ref style="-uslm-dtd:footnote-ref" idref="IDF9A9D986E47E4A3C86B36A7714C74DD3" class="footnoteRef">1</ref> </num><content style="-uslm-dtd:text">whether State workers' compensation insurance is provided, and, if so, the name of the State workers' compensation insurance carrier, the name of the policyholder of such insurance, the name and the telephone number of each person who must be notified of an injury or death, and the time period within which such notice must be given.</content><footnote id="IDF9A9D986E47E4A3C86B36A7714C74DD3" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Pursuant to section 4(c) of P.L. 104–49 this subparagraph (H) shall take effect upon the expiration of 90 days after the date final regulations are issued by the Secretary of Labor implementing those provisions.</p></footnote>
+                </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">Compliance with the disclosure requirement of subparagraph (H) may be met if such worker is given, upon request, a photocopy of any notice regarding workers' compensation insurance required by law of the State in which such worker is employed.</continuation></paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIII/s301/a/2" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Each farm labor contractor, agricultural employer, and agricultural association which recruits seasonal agricultural workers through use of a day-haul operation described in section 3(10)(A)(ii) shall ascertain and disclose in writing to the worker at the place of recruitment the information described in paragraph (1).</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIII/s301/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this Act, including the right of a seasonal agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a). Such employer shall provide, upon request, a written statement of the information described in subsection (a).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIII/s301/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><chapeau style="-uslm-dtd:text">Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIII/s301/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">with respect to each such worker, make, keep, and preserve records for three years of the following information:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/c/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the basis on which wages are paid;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/c/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the number of piecework units earned, if paid on a piecework basis;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/c/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the number of hours worked;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/c/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the total pay period earnings;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/c/1/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the specific sums withheld and the purpose of each sum withheld; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIII/s301/c/1/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the net pay; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIII/s301/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">provide to each such worker for each pay period, an itemized written statement of the information required by paragraph (1) of this subsection.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIII/s301/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIII/s301/d/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Each farm labor contractor shall provide to any other farm labor contractor and to any agricultural employer and agricultural association to which such farm labor contractor has furnished seasonal agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (c)(1). The recipient of these records shall keep them for a period of three years from the end of the period of employment.</content></paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIII/s301/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">No farm labor contractor, agricultural employer, or agricultural association shall knowingly provide false or misleading information to any seasonal agricultural worker concerning the terms, conditions, or existence of agricultural employment required to be disclosed by subsection (a), (b), or (c).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIII/s301/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><content style="-uslm-dtd:text">The information required to be disclosed by subsections (a) and (b) of this section to seasonal agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to seasonal agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1831">29 U.S.C. 1831</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title III, sec. 301, 96 Stat. 2592.</sourceCredit>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tIII/s302" styleType="traditional">
+                <heading style="-uslm-dtd:header">wages, supplies, and other working arrangements </heading>
+                <num style="-uslm-dtd:enum" value="302">Sec. 302. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIII/s302/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall pay the wages owed to such worker when due.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIII/s302/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">No farm labor contractor, agricultural employer, or agricultural association shall require any seasonal agricultural worker to purchase any goods or services solely from such farm labor contractor, agricultural employer, or agricultural association.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIII/s302/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">No farm labor contractor, agricultural employer, or agricultural association shall, without justification, violate the terms of any working arrangement made by that contractor, employer, or association with any seasonal agricultural worker.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1832">29 U.S.C. 1832</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title III, sec. 302, 96 Stat. 2593.</sourceCredit>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/97/470/tIV" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">FURTHER PROTECTIONS FOR MIGRANT AND SEASONAL AGRICULTURAL WORKERS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tIV/s401" styleType="traditional">
+                <heading style="-uslm-dtd:header">motor vehicle safety </heading>
+                <num style="-uslm-dtd:enum" value="401">Sec. 401. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIV/s401/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIV/s401/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Except as provided in paragraph (2), this section applies to the transportation of any migrant or seasonal agricultural worker.</content></paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIV/s401/a/2" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">This section does not apply to the transportation of any migrant or seasonal agricultural worker on a tractor, combine, harvester, picker, or other similar machinery and equipment while such worker is actually engaged in the planting, cultivating, or harvesting of any agricultural commodity or the care of livestock or poultry.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIV/s401/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIV/s401/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">When using, or causing to be used, any vehicle for providing transportation to which this section applies, each agricultural employer, agricultural association, and farm labor contractor shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIV/s401/b/1/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">ensure that such vehicle conforms to the standards prescribed by the Secretary under paragraph (2) of this subsection and other applicable Federal and State safety standards,</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIV/s401/b/1/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">ensure that each driver has a valid and appropriate license, as provided by State law, to operate the vehicle, and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIV/s401/b/1/C" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">have an insurance policy or a liability bond that is in effect which insures the agricultural employer, the agricultural association, or the farm labor contractor against liability for damage to persons or property arising from the ownership, operation, or the causing to be operated, of any vehicle used to transport any migrant or seasonal agricultural worker.</content>
+                    </subparagraph></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIV/s401/b/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIV/s401/b/2/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">For purposes of paragraph (1)(A), the Secretary shall prescribe such regulations as may be necessary to protect the health and safety of migrant and seasonal agricultural workers.</content></subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIV/s401/b/2/B" styleType="OLC" class="leftIndentDecrease2">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">To the extent consistent with the protection of the health and safety of migrant and seasonal agricultural workers, the Secretary shall, in promulgating regulations under subparagraph (A), consider, among other factors—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/tIV/s401/b/2/B/i" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the type of vehicle used,</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/tIV/s401/b/2/B/ii" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the passenger capacity of the vehicle,</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/tIV/s401/b/2/B/iii" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the distance which such workers will be carried in the vehicle,</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/tIV/s401/b/2/B/iv" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">the type of roads and highways on which such workers will be carried in the vehicle,</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/tIV/s401/b/2/B/v" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">the extent to which a proposed standard would cause an undue burden on agricultural employers, agricultural associations, or farm labor contractors.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIV/s401/b/2/C" styleType="OLC" class="leftIndentDecrease2">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Standards prescribed by the Secretary under subparagraph (A) shall be in addition to, and shall not supersede or modify, any standard under part B of subtitle IV of title 49, United States Code, or regulations issued thereunder, which is independently applicable to transportation to which this section applies. A violation of any such standard shall also constitute a violation under this Act.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tIV/s401/b/2/D" styleType="OLC" class="leftIndentDecrease2">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">In the event that the Secretary fails for any reason to prescribe standards under subparagraph (A) by the effective date of this Act, the standards prescribed under section 204(a)(3a) of the Interstate Commerce Act (49 U.S.C. 304(a)(3a)), relating to the transportation of migrant workers, shall, for purposes of paragraph (1)(A), be deemed to be the standards prescribed by the Secretary under this paragraph, and shall, as appropriate and reasonable in the circumstances, apply (i) without regard to the mileage and boundary line limitations contained in such section, and (ii) until superseded by standards actually prescribed by the Secretary in accordance with this paragraph.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIV/s401/b/3" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="3">(3)<ref style="-uslm-dtd:footnote-ref" idref="ID56AB61CF330646EC8F733929C5C238EC" class="footnoteRef">1</ref> </num><content style="-uslm-dtd:text">The level of insurance required under paragraph (1)(C) shall be determined by the Secretary considering at least the factors set forth in paragraph (2)(B) and similar farmworker transportation requirements under State law.</content><footnote id="ID56AB61CF330646EC8F733929C5C238EC" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Pursuant to section 5(c) of P.L. 104–49 this paragraph (3) shall take effect upon the expiration of 180 days after the date of enactment of the Act (November 15, 1995) or the date final regulations are issued by the Secretary of Labor under section 5(b) of such Act.</p></footnote>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIV/s401/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><chapeau style="-uslm-dtd:text">If an agricultural employer, agricultural association, or farm labor contractor is the employer of any migrant or seasonal agricultural worker for purposes of a State workers' compensation law and such employer provides workers' compensation coverage for such worker in the case of bodily injury or death as provided by such State law, the following adjustments in the requirements of subsection (b)(1)(C) relating to having an insurance policy or liability bond apply:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIV/s401/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">No insurance policy or liability bond shall be required of the employer, if such workers are transported only under circumstances for which there is coverage under such State law.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tIV/s401/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">An insurance policy or liability bond shall be required of the employer for circumstances under which coverage for the transportation of such workers is not provided under such State law.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIV/s401/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">The Secretary shall, by regulations promulgated in accordance with section 511 not later than the effective date of this Act, prescribe the standards required for the purposes of implementing this section. Any subsequent revision of such standards shall also be accomplished by regulation promulgated in accordance with such section.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1841">29 U.S.C. 1841</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title IV, sec. 401, 96 Stat. 2594.</sourceCredit>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tIV/s402" styleType="traditional">
+                <heading style="-uslm-dtd:header">confirmation of registration </heading>
+                <num style="-uslm-dtd:enum" value="402">Sec. 402. </num><content style="-uslm-dtd:text">No person shall utilize the services of any farm labor contractor to supply any migrant or seasonal agricultural worker unless the person first takes reasonable steps to determine that the farm labor contractor possesses a certificate of registration which is valid and which authorizes the activity for which the contractor is utilized. In making that determination, the person may rely upon either possession of a certificate of registration, or confirmation of such registration by the Department of Labor. The Secretary shall maintain a central public registry of all persons issued a certificate of registration.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1842">29 U.S.C. 1842</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title IV, sec. 402, 96 Stat. 2595.</sourceCredit>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tIV/s403" styleType="traditional">
+                <heading style="-uslm-dtd:header">information on employment conditions </heading>
+                <num style="-uslm-dtd:enum" value="403">Sec. 403. </num><content style="-uslm-dtd:text">Each farm labor contractor, without regard to any other provisions of this Act, shall obtain at each place of employment and make available for inspection to every worker he furnishes for employment, a written statement of the conditions of such employment as described in sections 201(b) and 301(b) of this Act.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1843">29 U.S.C. 1843</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title IV, sec. 403, 96 Stat. 2595.</sourceCredit>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tIV/s404" styleType="traditional">
+                <heading style="-uslm-dtd:header">compliance with written agreements </heading>
+                <num style="-uslm-dtd:enum" value="404">Sec. 404. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIV/s404/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">No farm labor contractor shall violate, without justification, the terms of any written agreements made with an agricultural employer or an agricultural association pertaining to any contracting activity or worker protection under this Act.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tIV/s404/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Written agreements under this section do not relieve a person of any responsibility that such person would otherwise have under this Act.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1844">29 U.S.C. 1844</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title IV, sec. 404, 96 Stat. 2596.</sourceCredit>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/97/470/tV" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="V">TITLE V—</num><heading style="-uslm-dtd:header">GENERAL PROVISIONS </heading>
+            <part style="-uslm-dtd:part" identifier="/us/sComp/97/470/tV/ptA" styleType="traditional">
+                <num style="-uslm-dtd:enum" value="A">Part A—</num><heading style="-uslm-dtd:header">Enforcement Provisions </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptA/s501" styleType="traditional">
+                    <heading style="-uslm-dtd:header">criminal sanctions </heading>
+                    <num style="-uslm-dtd:enum" value="501">Sec. 501. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s501/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Any person who willfully and knowingly violates this Act or any regulation under this Act shall be fined not more than $1,000 or sentenced to prison for a term not to exceed one year, or both. Upon conviction for any subsequent violation of this Act or any regulation under this Act, the defendant shall be fined not more than $10,000 or sentenced to prison for a term not to exceed three years, or both.</content></subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s501/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">If a farm labor contractor who commits a violation of paragraph (1) or (2) of section 274A(a) of the Immigration and Nationality Act has been refused issuance or renewal of, or has failed to obtain, a certificate of registration or is a farm labor contractor whose certificate has been suspended or revoked, the contractor shall, upon conviction, be fined not more than $10,000 or sentenced to prison for a term not to exceed three years, or both.</content>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1851">29 U.S.C. 1851</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 501, 96 Stat. 2596; amended November 6, 1986, P.L. 99–603, sec. 101(b)(1)(D), 100 Stat. 3372.</sourceCredit>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptA/s502" styleType="traditional">
+                    <heading style="-uslm-dtd:header">judicial enforcement </heading>
+                    <num style="-uslm-dtd:enum" value="502">Sec. 502. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s502/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Secretary may petition any appropriate district court of the United States for temporary or permanent injunctive relief if the Secretary determines that this Act, or any regulation under this Act, has been violated.</content></subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s502/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Except as provided in section 518(a) of title 28, United States Code, relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigation brought under this Act, but all such litigation shall be subject to the direction and control of the Attorney General.</content>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1852">29 U.S.C. 1852</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 502, 96 Stat. 2596.</sourceCredit>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptA/s503" styleType="traditional">
+                    <heading style="-uslm-dtd:header">administrative sanctions </heading>
+                    <num style="-uslm-dtd:enum" value="503">Sec. 503. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s503/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s503/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Subject to paragraph (2), any person who commits a violation of this Act or any regulation under this Act, may be assessed a civil money penalty of not more than $1,000 for each violation.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s503/a/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">In determining the amount of any penalty to be assessed under paragraph (1), the Secretary shall take into account (A) the previous record of the person in terms of compliance with this Act and with comparable requirements of the Farm Labor Contractor Registration Act of 1963, and with regulations promulgated under such Acts, and (B) the gravity of the violation.</content>
+                    </paragraph></subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s503/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s503/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The person assessed shall be afforded an opportunity for agency hearing, upon request made within thirty days after the date of issuance of the notice of assessment. In such hearing, all issues shall be determined on the record pursuant to section 554 of title 5, United States Code. If no hearing is requested as herein provided, the assessment shall constitute a final and unappealable order.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s503/b/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">If a hearing is requested, the initial agency decision shall be made by an administrative law judge, and such decision shall become the final order unless the Secretary modifies or vacates the decision. Notice of intent to modify or vacate the decision of the administrative law judge shall be issued to the parties within thirty days after the decision of the administrative law judge. A final order which takes effect under this paragraph shall be subject to review only as provided under subsection (c).</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s503/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Any person against whom an order imposing a civil money penalty has been entered after an agency hearing under this section may obtain review by the United States district court for any district in which he is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within thirty days from the date of such order, and simultaneously sending a copy of such notice by registered mail to the Secretary. The Secretary shall promptly certify and file in such court the record upon which the penalty was imposed. The findings of the Secretary shall be set aside only if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5, United States Code. Any final decision, order, or judgment of such District Court concerning such review shall be subject to appeal as provided in chapter 83 of title 28, United States Code.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s503/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">If any person fails to pay an assessment after it has become a final and unappealable order, or after the court has entered final judgment in favor of the agency, the Secretary shall refer the matter to the Attorney General, who shall recover the amount assessed by action in the appropriate United States district court. In such action the validity and appropriateness of the final order imposing the penalty shall not be subject to review.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s503/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">All penalties collected under authority of this section shall be paid into the Treasury of the United States.</content>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1853">29 U.S.C. 1853</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 503, 96 Stat. 2596.</sourceCredit>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptA/s504" styleType="traditional">
+                    <heading style="-uslm-dtd:header">private right of action </heading>
+                    <num style="-uslm-dtd:enum" value="504">Sec. 504. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s504/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Any person aggrieved by a violation of this Act or any regulation under this Act by a farm labor contractor, agricultural employer, agricultural association, or other person may file suit in any district court of the United States having jurisdiction of the parties, without respect to the amount in controversy and without regard to the citizenship of the parties and without regard to exhaustion of any alternative administrative remedies provided herein.</content></subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s504/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Upon application by a complainant and in such circumstances as the court may deem just, the court may appoint an attorney for such complainant and may authorize the commencement of the action.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s504/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s504/c/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">If the court finds that the respondent has intentionally violated any provision of this Act or any regulation under this Act, it may award damages up to and including an amount equal to the amount of actual damages, or statutory damages of up to $500 per plaintiff per violation, or other equitable relief, except that (A) multiple infractions of a single provision of this Act or of regulations under this Act shall constitute only one violation for purposes of determining the amount of statutory damages due a plaintiff; and (B) if such complaint is certified as a class action, the court shall award no more than the lesser of up to $500 per plaintiff per violation, or up to $500,000 or other equitable relief.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s504/c/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">In determining the amount of damages to be awarded under paragraph (1), the court is authorized to consider whether an attempt was made to resolve the issues in dispute before the resort to litigation.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s504/c/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Any civil action brought under this section shall be subject to appeal as provided in chapter 83 of title 28, United States Code.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s504/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s504/d/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Notwithstanding any other provision of this Act, where a State workers' compensation law is applicable and coverage is provided for a migrant or seasonal agricultural worker, the workers' compensation benefits shall be the exclusive remedy for loss of such worker under this Act in the case of bodily injury or death in accordance with such State's workers' compensation law.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s504/d/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The exclusive remedy prescribed by paragraph (1) precludes the recovery under subsection (c) of actual damages for loss from an injury or death but does not preclude recovery under subsection (c) for statutory damages or equitable relief, except that such relief shall not include back or front pay or in any manner, directly or indirectly, expand or otherwise alter or affect (A) a recovery under a State workers' compensation law or (B) rights conferred under a State workers' compensation law.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s504/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><chapeau style="-uslm-dtd:text">If the court finds in an action which is brought by or for a worker under subsection (a) in which a claim for actual damages is precluded because the worker's injury is covered by a State workers' compensation law as provided by subsection (d) that—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/1/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the defendant in the action violated section 401(b) by knowingly requiring or permitting a driver to drive a vehicle for the transportation of migrant or seasonal agricultural workers while under the influence of alcohol or a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)) and the defendant had actual knowledge of the driver's condition, and</content></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/1/B" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">such violation resulted in injury to or death of the migrant or seasonal worker by or for whom the action was brought and such injury or death arose out of and in the course of employment as determined under the State workers' compensation law,</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/2/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the defendant violated a safety standard prescribed by the Secretary under section 401(b) which the defendant was determined in a previous judicial or administrative proceeding to have violated, and</content></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/2/B" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">such safety violation resulted in an injury or death described in paragraph (1)(B),</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/3/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A)</num><clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/tV/ptA/s504/e/3/A/i" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the defendant willfully disabled or removed a safety device prescribed by the Secretary under section 401(b), or</content></clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/tV/ptA/s504/e/3/A/ii" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the defendant in conscious disregard of the requirements of section 401(b) failed to provide a safety device required under such section, and</content>
+                            </clause></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/3/B" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">such disablement, removal, or failure to provide a safety device resulted in an injury or death described in paragraph (1)(B), or</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/4" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/4/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the defendant violated a safety standard prescribed by the Secretary under section 401(b),</content></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/4/B" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">such safety violation resulted in an injury or death described in paragraph (1)(B), and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/97/470/tV/ptA/s504/e/4/C" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">the defendant at the time of the violation of section 401(b) also was—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/tV/ptA/s504/e/4/C/i" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">an unregistered farm labor contractor in violation of section 101(a), or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/97/470/tV/ptA/s504/e/4/C/ii" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a person who utilized the services of a farm labor contractor of the type specified in clause (i) without taking reasonable steps to determine that the farm labor contractor possessed a valid certificate of registration authorizing the performance of the farm labor contracting activities which the contractor was requested or permitted to perform with the knowledge of such person,</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">the court shall award not more than $10,000 per plaintiff per violation with respect to whom the court made the finding described in paragraph (1), (2), (3), or (4), except that multiple infractions of a single provision of this Act shall constitute only one violation for purposes of determining the amount of statutory damages due to a plaintiff under this subsection and in the case of a class action, the court shall award not more than the lesser of up to $10,000 per plaintiff or up to $500,000 for all plaintiffs in such class action.</continuation>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s504/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><content style="-uslm-dtd:text">If it is determined under a State workers' compensation law that the workers' compensation law is not applicable to a claim for bodily injury or death of a migrant or seasonal agricultural worker, the statute of limitations for bringing an action for actual damages for such injury or death under subsection (a) shall be tolled for the period during which the claim for such injury or death under such State workers' compensation law was pending. The statute of limitations for an action for other actual damages, statutory damages, or equitable relief arising out of the same transaction or occurrence as the injury or death of the migrant or seasonal agricultural worker shall be tolled for the period during which the claim for such injury or death was pending under the State workers' compensation law.</content>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1854">29 U.S.C. 1854</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 504, 96 Stat. 2597; amended October 6, 1992, P.L. 102–392, sec. 325(a), 106 Stat. 1728; November 15, 1995, P.L. 104–49, secs. 1(a), 2(a), and 3, 109 Stat. 432, 433.</sourceCredit>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptA/s505" styleType="traditional">
+                    <heading style="-uslm-dtd:header">discrimination prohibited </heading>
+                    <num style="-uslm-dtd:enum" value="505">Sec. 505. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s505/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">No person shall intimidate, threaten, restrain, coerce, blacklist, discharge, or in any manner discriminate against any migrant or seasonal agricultural worker because such worker has, with just cause, filed any complaint or instituted, or caused to be instituted, any proceeding under or related to this Act, or has testified or is about to testify in any such proceedings, or because of the exercise, with just cause, by such worker on behalf of himself or others of any right or protection afforded by this Act.</content></subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptA/s505/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">A migrant or seasonal agricultural worker who believes, with just cause, that he has been discriminated against by any person in violation of this section may, within 180 days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this section have been violated, the Secretary shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown, to restrain violation of subsection (a) and order all appropriate relief, including rehiring or reinstatement of the worker, with back pay, or damages.</content>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1855">29 U.S.C. 1855</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 505, 96 Stat. 2598.</sourceCredit>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptA/s506" styleType="traditional">
+                    <heading style="-uslm-dtd:header">waiver of rights </heading>
+                    <num style="-uslm-dtd:enum" value="506">Sec. 506. </num><content style="-uslm-dtd:text">Agreements by employees purporting to waive or to modify their rights under this Act shall be void as contrary to public policy, except that a waiver or modification of rights in favor of the Secretary shall be valid for purposes of enforcement of this Act.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1856">29 U.S.C. 1856</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 506, 96 Stat. 2598.</sourceCredit>
+                </section>
+            </part>
+            <part style="-uslm-dtd:part" identifier="/us/sComp/97/470/tV/ptB" styleType="traditional">
+                <num style="-uslm-dtd:enum" value="B">Part B—</num><heading style="-uslm-dtd:header">Administrative Provisions </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptB/s511" styleType="traditional">
+                    <heading style="-uslm-dtd:header">rules and regulations </heading>
+                    <num style="-uslm-dtd:enum" value="511">Sec. 511. </num><content style="-uslm-dtd:text">The Secretary may issue such rules and regulations as are necessary to carry out this Act, consistent with the requirements of chapter 5 of title 5, United States Code.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1861">29 U.S.C. 1861</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 511, 96 Stat. 2598.</sourceCredit>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptB/s512" styleType="traditional">
+                    <heading style="-uslm-dtd:header">authority to obtain information </heading>
+                    <num style="-uslm-dtd:enum" value="512">Sec. 512. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptB/s512/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">To carry out this Act the Secretary, either pursuant to a complaint or otherwise, shall, as may be appropriate, investigate, and in connection therewith, enter and inspect such places (including housing and vehicles) and such records (and make transcriptions thereof), question such persons and gather such information to determine compliance with this Act, or regulations prescribed under this Act.</content></subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptB/s512/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">The Secretary may issue subpenas requiring the attendance and testimony of witnesses or the production of any evidence in connection with such investigations. The Secretary may administer oaths, examine witnesses, and receive evidence. For the purpose of any hearing or investigation provided for in this Act, the authority contained in sections 9 and 10 of the Federal Trade Commission Act (15 U.S.C. 49, 50), relating to the attendance of witnesses and the production of books, papers, and documents, shall be available to the Secretary. The Secretary shall conduct investigations in a manner which protects the confidentiality of any complainant or other party who provides information to the Secretary in good faith.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptB/s512/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">It shall be a violation of this Act for any person to unlawfully resist, oppose, impede, intimidate, or interfere with any official of the Department of Labor assigned to perform an investigation, inspection, or law enforcement function pursuant to this Act during the performance of such duties.</content>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1862">29 U.S.C. 1862</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 512, 96 Stat. 2598.</sourceCredit>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptB/s513" styleType="traditional">
+                    <heading style="-uslm-dtd:header">agreements with federal and state agencies </heading>
+                    <num style="-uslm-dtd:enum" value="513">Sec. 513. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptB/s513/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Secretary may enter into agreements with Federal and State agencies (1) to use their facilities and services, (2) to delegate, subject to subsection (b), to Federal and State agencies such authority, other than rulemaking, as may be useful in carrying out this Act, and (3) to allocate or transfer funds to, or otherwise pay or reimburse, such agencies for expenses incurred pursuant to agreements under clause (1) or (2) of this section.</content></subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/97/470/tV/ptB/s513/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">Any delegation to a State agency pursuant to subsection (a)(2) shall be made only pursuant to a written State plan which—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptB/s513/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">shall include a description of the functions to be performed, the methods of performing such functions, and the resources to be devoted to the performance of such functions; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/97/470/tV/ptB/s513/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">provides assurances satisfactory to the Secretary that the State agency will comply with its description under paragraph (1) and that the State agency's performance of functions so delegated will be at least comparable to the performance of such functions by the Department of Labor.</content>
+                        </paragraph>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1863">29 U.S.C. 1863</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 513, 96 Stat. 2599.</sourceCredit>
+                </section>
+            </part>
+            <part style="-uslm-dtd:part" identifier="/us/sComp/97/470/tV/ptC" styleType="traditional">
+                <num style="-uslm-dtd:enum" value="C">Part C—</num><heading style="-uslm-dtd:header">Miscellaneous Provisions </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptC/s521" styleType="traditional">
+                    <heading style="-uslm-dtd:header">state laws and regulations </heading>
+                    <num style="-uslm-dtd:enum" value="521">Sec. 521. </num><content style="-uslm-dtd:text">This Act is intended to supplement State law, and compliance with this Act shall not excuse any person from compliance with appropriate State law and regulation.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1871">29 U.S.C. 1871</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 521, 96 Stat. 2599.</sourceCredit>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptC/s522" styleType="traditional">
+                    <heading style="-uslm-dtd:header">transition provision </heading>
+                    <num style="-uslm-dtd:enum" value="522">Sec. 522. </num><content style="-uslm-dtd:text">The Secretary may deny a certificate of registration to any farm labor contractor, as defined in this Act, who has a judgment outstanding against him under the Farm Labor Contractor Registration Act of 1963 (7 U.S.C. 2041 et seq.), or is subject to a final order of the Secretary under that Act assessing a civil money penalty which has not been paid. Any findings under the Farm Labor Contractor Registration Act of 1963 may also be applicable to determinations of willful and knowing violations under this Act.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1872">29 U.S.C. 1872</ref><b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 522, 96 Stat. 2599.</sourceCredit>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptC/s523" styleType="traditional">
+                    <heading style="-uslm-dtd:header">repealer </heading>
+                    <num style="-uslm-dtd:enum" value="523">Sec. 523. </num><content style="-uslm-dtd:text">The Farm Labor Contractor Registration Act of 1963 (7 U.S.C. 2041 et seq.), is repealed.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t7/s2041">7 U.S.C. 2041</ref>, 2041 nt, 2042–2050, 2050a, 2050b, 2050c, 2051–2055<b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 523, 96 Stat. 2600.</sourceCredit>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/97/470/tV/ptC/s524" styleType="traditional">
+                    <heading style="-uslm-dtd:header">effective date </heading>
+                    <num style="-uslm-dtd:enum" value="524">Sec. 524. </num><content style="-uslm-dtd:text">The provisions of this Act shall take effect ninety days from the date of enactment, and shall be classified to title 29, United States Code.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1801">29 U.S.C. 1801</ref> nt<b>]</b> </editorialNote><sourceCredit style="-uslm-dtd:legis-history-note">Enacted January 14, 1983, P.L. 97–470, title V, sec. 524, 96 Stat. 2600.</sourceCredit>
+                </section>
+            </part>
+        </title>
+    </main>
+</statuteCompilation>

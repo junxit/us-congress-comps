@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Temporary Payroll Tax Cut Continuation Act of 2011</dc:title>
+        <citableAs>Public Law 112–78</citableAs>
+        <citableAsShortTitle>Temporary Payroll Tax Cut Continuation Act of 2011</citableAsShortTitle>
+        <docNumber>78</docNumber>
+        <currentThroughPublicLaw>112–78</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Temporary Payroll Tax Cut Continuation Act of 2011</containsShortTitle>
+        <property role="fileId">9801</property>
+        <congress>112</congress>
+        <approvedDate>2011-12-23</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Temporary Payroll Tax Cut Continuation Act of 2011</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 112–78</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 112-78. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To extend the payroll tax holiday, unemployment compensation, Medicare physician payment, provide for the consideration of the Keystone XL pipeline, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Temporary Payroll Tax Cut Continuation Act of 2011</inline></shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents of this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>TEMPORARY PAYROLL TAX RELIEF</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Extension of payroll tax holiday.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>TEMPORARY EXTENSION OF UNEMPLOYMENT COMPENSATION PROVISIONS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Temporary extension of unemployment compensation provisions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> Extended unemployment benefits under the Railroad Unemployment Insurance Act.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>TEMPORARY EXTENSION OF HEALTH PROVISIONS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Medicare physician payment update.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> 2-month extension of MMA section 508 reclassifications.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 303.</designator><label> Extension of Medicare work geographic adjustment floor.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 304.</designator><label> Extension of exceptions process for Medicare therapy caps.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 305.</designator><label> Extension of payment for technical component of certain physician pathology services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 306.</designator><label> Extension of ambulance add-ons.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 307.</designator><label> Extension of physician fee schedule mental health add-on payment.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 308.</designator><label> Extension of outpatient hold harmless provision.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 309.</designator><label> Extending minimum payment for bone mass measurement.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 310.</designator><label> Extension of the qualifying individual (QI) program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 311.</designator><label> Extension of Transitional Medical Assistance (TMA).</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 312.</designator><label> Extension of the temporary assistance for needy families program.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE IV—</designator><label>MORTGAGE FEES AND PREMIUMS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 401.</designator><label> Guarantee Fees.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 402.</designator><label> FHA guarantee fees.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE V—</designator><label>OTHER PROVISIONS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Keystone XL Pipeline</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 501.</designator><label> Permit for Keystone XL pipeline.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Budgetary Provisions</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 511.</designator><label> Senate point of order against an emergency designation.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 512.</designator><label> PAYGO scorecard estimates.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/78/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">TEMPORARY PAYROLL TAX RELIEF </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">EXTENSION OF PAYROLL TAX HOLIDAY. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tI/s101/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Subsection (c) of section 601 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 (26 U.S.C. 1401 note) is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Payroll Tax Holiday Period. </heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">payroll tax holiday period</quotedText>’ means—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">in the case of the tax described in subsection (a)(1), calendar years 2011 and 2012, and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">in the case of the taxes described in subsection (a)(2), the period beginning January 1, 2011, and ending February 29, 2012.”</content>
+                        </paragraph>
+                    </subsection></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tI/s101/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Special Rules for 2012.—</heading><content style="-uslm-dtd:text">Section 601 of such Act (26 U.S.C. 1401 note) is amended by adding at the end the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">“(f) </num><heading style="-uslm-dtd:header">Special Rules for 2012. </heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Limitation on self-employment income. </heading><chapeau style="-uslm-dtd:text">In the case of any taxable year beginning in 2012, subsection (a)(1) shall only apply with respect to so much of the taxpayer’s self-employment income (as defined in section 1402(b) of the Internal Revenue Code of 1986) as does not exceed the excess (if any) of—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">$18,350, over</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the amount of wages and compensation received during the portion of the payroll tax holiday period occurring during 2012 subject to tax under section 3101(a) of such Code or section 3201(a) of such Code.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Coordination with deduction for employment taxes. </heading><content style="-uslm-dtd:text">In the case of a taxable year beginning in 2012, subparagraph (A) of subsection (b)(2) shall be applied as if it read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">‘(A) </num><chapeau style="-uslm-dtd:text">the sum of—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">‘(i) </num><content style="-uslm-dtd:text">59.6 percent of the portion of such taxes attributable to the tax imposed by section 1401(a) of such Code (determined after the application of this section) on so much of self-employment income (as defined in section 1402(b) of such Code) as does not exceed the amount of self-employment income described in paragraph (1), plus</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">‘(ii) </num><content style="-uslm-dtd:text">one-half of the portion of such taxes attributable to the tax imposed by section 1401(a) of such Code (determined without regard to this section) on self-employment income (as so defined) in excess of such amount, plus’.’’</content>
+                                </clause>
+                            </subparagraph></quotedContent>
+</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Recapture of Excess Benefit. </heading><content style="-uslm-dtd:text">Section 601 of such Act (26 U.S.C. 1401 note), as amended by subsection (b), is further amended by adding at the end the following new subsection:</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="g">“(g) </num><heading style="-uslm-dtd:header">Recapture of Excess Benefit. </heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general. </heading><content style="-uslm-dtd:text">There is hereby imposed on the income of every individual a tax equal to 2 percent of the sum of wages (within the meaning of section 3121(a)(1) of the Internal Revenue Code of 1986) and compensation (to which section  3201(a) of such Code applies) received during the period beginning January 1, 2012, and ending February 29, 2012, to the extent the amount of such sum exceeds $18,350.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Regulations. </heading><content style="-uslm-dtd:text">The Secretary of the Treasury or the Secretary’s delegate shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out this subsection, including guidance for payment by the employee of the tax imposed by paragraph (1).”</content>
+                        </paragraph>
+                    </subsection></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tI/s101/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Technical Amendments.—</heading><chapeau style="-uslm-dtd:text">Paragraph (2) of section 601(b) of such Act (26 U.S.C. 1401 note) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tI/s101/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">of such Code</quotedText>” after “<quotedText style="-uslm-dtd:quote">164(f)</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tI/s101/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">of such Code</quotedText>” after “<quotedText style="-uslm-dtd:quote">1401(a)</quotedText>” in subparagraph (A); and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tI/s101/d/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">of such Code</quotedText>” after “<quotedText style="-uslm-dtd:quote">1401(b)</quotedText>” in subparagraph (B).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tI/s101/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s1401">26 U.S.C. 1401 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Dates.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tI/s101/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in paragraph (2), the amendments made by this section shall apply to remuneration received, and taxable years beginning, after December 31, 2011.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tI/s101/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Technical amendments.—</heading><content style="-uslm-dtd:text">The amendments made by subsection (d) shall take effect as if included in the enactment of section 601 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/78/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">TEMPORARY EXTENSION OF UNEMPLOYMENT COMPENSATION PROVISIONS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">TEMPORARY EXTENSION OF UNEMPLOYMENT COMPENSATION PROVISIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tII/s201/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tII/s201/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Section 4007 of the Supplemental Appropriations Act, 2008 (Public Law 110-252; 26 U.S.C. 3304 note) is amended—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tII/s201/a/1/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">January 3, 2012</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">March 6, 2012</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tII/s201/a/1/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the heading for subsection (b)(2), by striking “<quotedText style="-uslm-dtd:quote">january 3, 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">march 6, 2012</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tII/s201/a/1/C" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in subsection (b)(3), by striking “<quotedText style="-uslm-dtd:quote">June 9, 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">August 15, 2012</quotedText>”.</content>
+                    </subparagraph></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tII/s201/a/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">Section 2005 of the Assistance for Unemployed Workers and Struggling Families Act, as contained in Public Law 111-5 (26 U.S.C. 3304 note; 123 Stat. 444), is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tII/s201/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">January 4, 2012</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">March 7, 2012</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tII/s201/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subsection (c), by striking “<quotedText style="-uslm-dtd:quote">June 11, 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">August 15, 2012</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tII/s201/a/3" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Section 5 of the Unemployment Compensation Extension Act of 2008 (Public Law 110-449; 26 U.S.C. 3304 note) is amended by striking “<quotedText style="-uslm-dtd:quote">June 10, 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">August 15, 2012</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tII/s201/a/4" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">Section 203 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tII/s201/a/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subsection (d), in the second sentence of the flush matter following paragraph (2), by striking “<quotedText style="-uslm-dtd:quote">December 31, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 29, 2012</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tII/s201/a/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subsection (f)(2), by striking “<quotedText style="-uslm-dtd:quote">December 31, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 29, 2012</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tII/s201/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Funding.—</heading><chapeau style="-uslm-dtd:text">Section 4004(e)(1) of the Supplemental Appropriations Act, 2008 (Public Law 110-252; 26 U.S.C. 3304 note) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tII/s201/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subparagraph (F), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tII/s201/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after subparagraph (G) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="H">“(H) </num><content style="-uslm-dtd:text">the amendments made by section 201(a)(1) of the Temporary Payroll Tax Cut Continuation Act of 2011; and”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tII/s201/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s3304">26 U.S.C. 3304 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall take effect as if included in the enactment of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 (Public Law 111-312).</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tII/s202" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">EXTENDED UNEMPLOYMENT BENEFITS UNDER THE RAILROAD UNEMPLOYMENT INSURANCE ACT. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tII/s202/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t45/s352">45 U.S.C. 352</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Extension.—</heading><chapeau style="-uslm-dtd:text">Section 2(c)(2)(D)(iii) of the Railroad Unemployment Insurance Act, as added by section 2006 of the American Recovery and Reinvestment Act of 2009 (Public Law 111-5) and as amended by section 9 of the Worker, Homeownership, and Business Assistance Act of 2009 (Public Law 111-92) and section 505 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 (Public Law 111-312), is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tII/s202/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">June 30, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">August 31, 2011</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tII/s202/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">December 31, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 29, 2012</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tII/s202/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Clarification on Authority to Use Funds.—</heading><content style="-uslm-dtd:text">Funds appropriated under either the first or second sentence of clause (iv) of section 2(c)(2)(D) of the Railroad Unemployment Insurance Act shall be available to cover the cost of additional extended unemployment benefits provided under such section 2(c)(2)(D) by reason of the amendments made by subsection (a) as well as to cover the cost of such benefits provided under such section 2(c)(2)(D), as in effect on the day before the date of the enactment of this Act.</content>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/78/tIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">TEMPORARY EXTENSION OF HEALTH PROVISIONS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s301" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><heading style="-uslm-dtd:header">MEDICARE PHYSICIAN PAYMENT UPDATE. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 1848(d) of the Social Security Act (42 U.S.C. 1395w-4(d)) is amended by adding at the end the following new paragraph:<quotedContent style="-uslm-dtd:quoted-block">
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="13">“(13) </num><heading style="-uslm-dtd:header">Update for first two months of 2012. </heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general. </heading><content style="-uslm-dtd:text">Subject to paragraphs (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), and (12)(B), in lieu of the update to the single conversion factor established in paragraph (1)(C) that would otherwise apply for the period beginning on January 1, 2012, and ending on February 29, 2012, the update to the single conversion factor shall be zero percent.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">No effect on computation of conversion factor for remaining portion of 2012 and subsequent years. </heading><content style="-uslm-dtd:text">The conversion factor under this subsection shall  be computed under paragraph (1)(A) for the period beginning on March 1, 2012, and ending on December 31, 2012, and for 2013 and subsequent years as if subparagraph (A) had never applied.”</content>
+                    </subparagraph>
+                </paragraph></quotedContent>.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s302" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><heading style="-uslm-dtd:header">2-MONTH EXTENSION OF MMA SECTION 508 RECLASSIFICATIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tIII/s302/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1395ww">42 U.S.C. 1395ww note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 106(a) of division B of the Tax Relief and Health Care Act of 2006 (42 U.S.C. 1395 note), as amended by section 117 of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110-173), section 124 of the Medicare Improvements for Patients and Providers Act of 2008 (Public Law 110-275), sections 3137(a) and 10317 of the Patient Protection and Affordable Care Act (Public Law 111-148), and section 102(a) of the Medicare and Medicaid Extenders Act of 2010 (Public Law 111-309), is amended by striking “<quotedText style="-uslm-dtd:quote">September 30, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">November 30, 2011</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tIII/s302/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1395ww">42 U.S.C. 1395ww note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Special Rule for October and November 2011.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tIII/s302/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to paragraph (2), for purposes of implementation of the amendment made by subsection (a), including for purposes of the implementation of paragraph (2) of section 117(a) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110-173), for the period beginning on October 1, 2011, and ending on November 30, 2011, the Secretary of Health and Human Services shall use the hospital wage index that was promulgated by the Secretary of Health and Human Services in the Federal Register on August 18, 2011 (76 Fed. Reg. 51476), and any subsequent corrections.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tIII/s302/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Exception.—</heading><content style="-uslm-dtd:text">In determining the wage index applicable to hospitals that qualify for wage index reclassification, the Secretary shall, for the period beginning on October 1, 2011, and ending on November 30, 2011, include the average hourly wage data of hospitals whose reclassification was extended pursuant to the amendment made by subsection (a) only if including such data results in a higher applicable reclassified wage index. Any revision to hospital wage indexes made as a result of this paragraph shall not be effected in a budget neutral manner.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tIII/s302/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1395ww">42 U.S.C. 1395ww note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Timeframe for Payments.—</heading><content style="-uslm-dtd:text">The Secretary shall make payments required under subsections (a) and (b) by not later than December 31, 2012.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s303" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="303">SEC. 303. </num><heading style="-uslm-dtd:header">EXTENSION OF MEDICARE WORK GEOGRAPHIC ADJUSTMENT FLOOR. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 1848(e)(1)(E) of the Social Security Act (42 U.S.C. 1395w-4(e)(1)(E)) is amended by striking “<quotedText style="-uslm-dtd:quote">before January 1, 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">before March 1, 2012</quotedText>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s304" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="304">SEC. 304. </num><heading style="-uslm-dtd:header">EXTENSION OF EXCEPTIONS PROCESS FOR MEDICARE THERAPY CAPS. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 1833(g)(5) of the Social Security Act (42 U.S.C. 1395l(g)(5)) is amended by striking “<quotedText style="-uslm-dtd:quote">December 31, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 29, 2012</quotedText>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s305" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="305">SEC. 305. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1395w-4">42 U.S.C. 1395w-4 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EXTENSION OF PAYMENT FOR TECHNICAL COMPONENT OF CERTAIN PHYSICIAN PATHOLOGY SERVICES. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 542(c) of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000 (as enacted into law by    section 1(a)(6) of Public Law 106-554), as amended by section 732 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (42 U.S.C. 1395w-4 note), section 104 of division B of the Tax Relief and Health Care Act of 2006 (42 U.S.C. 1395w-4 note), section 104 of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110-173), section 136 of the Medicare Improvements for Patients and Providers Act of 2008 (Public Law 110-275), section 3104 of the Patient Protection and Affordable Care Act (Public Law 111-148), and section 105 of the Medicare and Medicaid Extenders Act of 2010 (Public Law 111-309), is amended by striking “<quotedText style="-uslm-dtd:quote">and 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011, and the first two months of 2012</quotedText>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s306" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="306">SEC. 306. </num><heading style="-uslm-dtd:header">EXTENSION OF AMBULANCE ADD-ONS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tIII/s306/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Ground Ambulance.—</heading><chapeau style="-uslm-dtd:text">Section 1834(l)(13)(A) of the Social Security Act (42 U.S.C. 1395m(l)(13)(A)) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tIII/s306/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in the matter preceding clause (i), by striking “<quotedText style="-uslm-dtd:quote">January 1, 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">March 1, 2012</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tIII/s306/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in each of clauses (i) and (ii), by striking “<quotedText style="-uslm-dtd:quote">January 1, 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">March 1, 2012</quotedText>” each place it appears.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tIII/s306/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1395m">42 U.S.C. 1395m note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Air Ambulance.—</heading><content style="-uslm-dtd:text">Section 146(b)(1) of the Medicare Improvements for Patients and Providers Act of 2008 (Public Law 110-275), as amended by sections 3105(b) and 10311(b) of Public Law 111-148 and section 106(b) of the Medicare and Medicaid Extenders Act of 2010 (Public Law 111-309), is amended by striking “<quotedText style="-uslm-dtd:quote">December 31, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 29, 2012</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tIII/s306/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Super Rural Ambulance.—</heading><content style="-uslm-dtd:text">Section 1834(l)(12)(A) of the Social Security Act (42 U.S.C. 1395m(l)(12)(A)) is amended by striking “<quotedText style="-uslm-dtd:quote">January 1, 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">March 1, 2012</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s307" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="307">SEC. 307. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1395w-4">42 U.S.C. 1395w-4 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EXTENSION OF PHYSICIAN FEE SCHEDULE MENTAL HEALTH ADD-ON PAYMENT. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 138(a)(1) of the Medicare Improvements for Patients and Providers Act of 2008 (Public Law 110-275), as amended by section 3107 of the Patient Protection and Affordable Care Act (Public Law 111-148) and section 107 of the Medicare and Medicaid Extenders Act of 2010 (Public Law 111-309), is amended by striking “<quotedText style="-uslm-dtd:quote">December 31, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 29, 2012</quotedText>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s308" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="308">SEC. 308. </num><heading style="-uslm-dtd:header">EXTENSION OF OUTPATIENT HOLD HARMLESS PROVISION. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 1833(t)(7)(D)(i) of the Social Security Act (42 U.S.C. 1395l(t)(7)(D)(i)), as amended by section 3121(a) of the Patient Protection and Affordable Care Act (Public Law 111-148) and section 108 of the Medicare and Medicaid Extenders Act of 2010 (Public Law 111-309), is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tIII/s308/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in subclause (II)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tIII/s308/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in the first sentence, by striking “<quotedText style="-uslm-dtd:quote">January 1, 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">March 1, 2012</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tIII/s308/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the second sentence, by striking “<quotedText style="-uslm-dtd:quote">or 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011, or the first two months of 2012</quotedText>”; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tIII/s308/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subclause (III)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tIII/s308/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in the first sentence, by striking “<quotedText style="-uslm-dtd:quote">2009, and</quotedText>” and all that follows through “<quotedText style="-uslm-dtd:quote">for which</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2009, and before March 1, 2012, for which</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tIII/s308/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the second sentence, by striking “<quotedText style="-uslm-dtd:quote">2010, and</quotedText>” and all that follows through “<quotedText style="-uslm-dtd:quote">the preceding</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2010, and before March 1, 2012, the preceding</quotedText>”.</content>
+                    </subparagraph>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s309" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="309">SEC. 309. </num><heading style="-uslm-dtd:header">EXTENDING MINIMUM PAYMENT FOR BONE MASS MEASUREMENT. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 1848 of the Social Security Act (42 U.S.C. 1395w-4) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tIII/s309/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in subsection (b)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tIII/s309/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (4)(B), by striking “<quotedText style="-uslm-dtd:quote">and 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">, 2011, and the first 2 months of 2012</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tIII/s309/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in paragraph (6)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/78/tIII/s309/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in the matter preceding subparagraph (A), by striking “<quotedText style="-uslm-dtd:quote">and 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">, 2011, and the first 2 months of 2012</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/78/tIII/s309/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subparagraph (C), by striking “<quotedText style="-uslm-dtd:quote">and 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">, 2011, and the first 2 months of 2012</quotedText>”; and</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tIII/s309/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subsection (c)(2)(B)(iv)(IV), by striking “<quotedText style="-uslm-dtd:quote">or 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">, 2011, or the first 2 months of 2012</quotedText>”.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s310" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="310">SEC. 310. </num><heading style="-uslm-dtd:header">EXTENSION OF THE QUALIFYING INDIVIDUAL (QI) PROGRAM. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tIII/s310/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Extension.—</heading><content style="-uslm-dtd:text">Section 1902(a)(10)(E)(iv) of the Social Security Act (42 U.S.C. 1396a(a)(10)(E)(iv)) is amended by striking “<quotedText style="-uslm-dtd:quote">December 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 2012</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tIII/s310/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Extending Total Amount Available for Allocation.—</heading><chapeau style="-uslm-dtd:text">Section 1933(g) of such Act (42 U.S.C. 1396u-3(g)) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tIII/s310/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in paragraph (2)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tIII/s310/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end of subparagraph (O);</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tIII/s310/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subparagraph (P), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tIII/s310/b/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by adding at the end the following new subparagraph:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="Q">“(Q) </num><content style="-uslm-dtd:text">for the period that begins on January 1, 2012, and ends on February 29, 2012, the total allocation amount is $150,000,000.”</content>
+                            </subparagraph></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s311" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="311">SEC. 311. </num><heading style="-uslm-dtd:header">EXTENSION OF TRANSITIONAL MEDICAL ASSISTANCE (TMA). </heading>
+                <content style="-uslm-dtd:text" class="block">Sections 1902(e)(1)(B) and 1925(f) of the Social Security Act (42 U.S.C. 1396a(e)(1)(B), 1396r-6(f)) are each amended by striking “<quotedText style="-uslm-dtd:quote">December 31, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 29, 2012</quotedText>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIII/s312" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="312">SEC. 312. </num><heading style="-uslm-dtd:header">EXTENSION OF THE TEMPORARY ASSISTANCE FOR NEEDY FAMILIES PROGRAM. </heading>
+                <content style="-uslm-dtd:text" class="block">Activities authorized by part A of title IV and section 1108(b) of the Social Security Act (other than under subsections (a)(3) and (b) of section 403 of such Act) shall continue through February 29, 2012, in the manner authorized for fiscal year 2011, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose. Grants and payments may be made pursuant to this authority through the applicable portion of the second quarter of fiscal year 2012 at the pro rata portion of the level provided for such activities through the second quarter of fiscal year 2011.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/78/tIV" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">MORTGAGE FEES AND PREMIUMS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIV/s401" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><heading style="-uslm-dtd:header">GUARANTEE FEES. </heading>
+                <content style="-uslm-dtd:text" class="block">Subpart A of part 2 of subtitle A of title XIII of the Housing and Community Development Act of 1992 is amended by adding after section 1326 (12 U.S.C. 4546) the following new section:<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1327">“SEC. 1327. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s4547">12 U.S.C. 4547</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ENTERPRISE GUARANTEE FEES </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Definitions. </heading><chapeau style="-uslm-dtd:text">For purposes of this section, the following definitions shall apply:</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Guarantee fee. </heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">guarantee fee</quotedText>’—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">means a fee described in subsection (b); and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">includes—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the guaranty fee charged by the Federal National Mortgage Association with respect to mortgage-backed securities; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the management and guarantee fee charged by the Federal Home Loan Mortgage Corporation with respect to participation certificates.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Average fees. </heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">average fees</quotedText>’ means the average contractual fee rate of single-family guaranty arrangements by an enterprise entered into during 2011, plus the recognition of any up-front cash payments over an estimated average life, expressed in terms of basis points. Such definition shall be interpreted in a manner consistent with the annual report on guarantee fees by the Federal Housing Finance Agency.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Increase. </heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general. </heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Phased increase required. </heading><content style="-uslm-dtd:text">Subject to subsection (c), the Director shall require each enterprise to charge a guarantee fee in connection with any guarantee of the timely payment of principal and interest on securities, notes, and other obligations based on or backed by mortgages on residential real properties designed principally for occupancy of from 1 to 4 families, consummated after the date of enactment of this section.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Amount. </heading><content style="-uslm-dtd:text">The amount of the increase required under this section shall be determined by the Director to appropriately reflect the risk of loss, as well the cost of capital allocated to similar assets held by other fully private regulated financial institutions, but such amount shall be not less than an average increase of 10 basis points for each origination year or book year above the average fees imposed in 2011 for such guarantees. The Director shall prohibit an enterprise from offsetting the cost of the fee to mortgage originators, borrowers, and investors by decreasing other charges, fees, or premiums, or in any other manner.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Authority to limit offer of guarantee. </heading><chapeau style="-uslm-dtd:text">The Director shall prohibit an enterprise from consummating any offer for a guarantee to a lender for mortgage-backed securities, if—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the guarantee is inconsistent with the requirements of this section; or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the risk of loss is allowed to increase, through lowering of the underwriting standards or other means, for the primary purpose of meeting the requirements of this section.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Deposit in treasury. </heading><content style="-uslm-dtd:text">Amounts received from fee increases imposed under this section shall be deposited directly into the United States Treasury, and shall be available only to the extent provided in subsequent appropriations Acts. The fees charged pursuant to this section shall not be considered a reimbursement to the Federal Government for the costs or subsidy provided to an enterprise.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Phase-in. </heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general. </heading><chapeau style="-uslm-dtd:text">The Director may provide for compliance with subsection (b) by allowing each enterprise to increase the guarantee fee charged by the enterprise gradually over the 2-year period beginning on the date of enactment of this section, in a manner sufficient to comply with this section. In determining a schedule for such increases, the Director shall—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">provide for uniform pricing among lenders;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">provide for adjustments in pricing based on risk levels; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">take into consideration conditions in financial markets.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Rule of construction. </heading><content style="-uslm-dtd:text">Nothing in this subsection shall be interpreted to undermine the minimum increase required by subsection (b).</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Information Collection and Annual Analysis. </heading><chapeau style="-uslm-dtd:text">The Director shall require each enterprise to provide to the Director, as part of its annual report submitted to Congress—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><chapeau style="-uslm-dtd:text">a description of—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">changes made to up-front fees and annual fees as part of the guarantee fees negotiated with lenders;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">changes to the riskiness of the new borrowers compared to previous origination years or book years; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">any adjustments required to improve for future origination years or book years, in order to be in complete compliance with subsection (b); and</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">an assessment of how the changes in the guarantee fees described in paragraph (1) met the requirements of subsection (b).</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Enforcement. </heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Required adjustments. </heading><content style="-uslm-dtd:text">Based on the information from subsection (d) and any other information the Director deems necessary, the Director shall require an enterprise to make adjustments in its guarantee fee in order to be in compliance with subsection (b).</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Noncompliance penalty. </heading><content style="-uslm-dtd:text">An enterprise that has been found to be out of compliance with subsection (b) for any 2 consecutive years shall be precluded from providing any guarantee for a period, determined by rule of the Director, but in no case less than 1 year.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Rule of construction. </heading><content style="-uslm-dtd:text">Nothing in this subsection shall be interpreted as preventing the Director from initiating and implementing an enforcement action against an enterprise, at a time the Director deems necessary, under other existing enforcement authority.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">“(f) </num><heading style="-uslm-dtd:header">Expiration. </heading><content style="-uslm-dtd:text">The provisions of this section shall expire on October 1, 2021.”</content>
+                    </subsection>
+                </section></quotedContent>.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tIV/s402" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="402">SEC. 402. </num><heading style="-uslm-dtd:header">FHA GUARANTEE FEES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tIV/s402/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Amendment.—</heading><content style="-uslm-dtd:text">Section 203(c)(2) of the National Housing Act (12 U.S.C. 1709(c)(2)) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="C">“(C)</num><clause style="-uslm-dtd:clause" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">In addition to the premiums under subparagraphs (A) and (B), the Secretary shall establish and collect annual premium payments for any mortgage for which the Secretary collects an annual premium payment under subparagraph (B), in an amount described in clause (ii).</content></clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii)</num><subclause style="-uslm-dtd:subclause" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">Subject to subclause (II), with respect to a mortgage, the amount described in this clause is 10 basis points of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments).</content></subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">During the 2-year period beginning on the date of enactment of this subparagraph, the Secretary shall increase the number of basis points of the annual premium payment collected under this subparagraph incrementally, as determined appropriate by the Secretary, until the number of basis points of the annual premium payment collected under this subparagraph is equal to the number described in subclause (I).”</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tIV/s402/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Prospective Repeal.—</heading><content style="-uslm-dtd:text">Section 203(c)(2) of the National Housing Act (12 U.S.C. 1709(c)(2)) is amended by striking subparagraph (C), as added by subsection (a), effective on October 1, 2021.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tIV/s402/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s1709">12 U.S.C. 1709 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Report Required.—</heading><chapeau style="-uslm-dtd:text">Not later than 30 days before the date on which the Secretary of Housing and Urban Development makes a determination under subsection (b)(2), the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tIV/s402/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">explains the basis for the determination; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tIV/s402/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">identifies the date on which the Secretary plans to make the determination.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/78/tV" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="V">TITLE V—</num><heading style="-uslm-dtd:header">OTHER PROVISIONS </heading>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/112/78/tV/stA" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="A">Subtitle A—</num><heading style="-uslm-dtd:header">Keystone XL Pipeline </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tV/stA/s501" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="501">SEC. 501. </num><heading style="-uslm-dtd:header">PERMIT FOR KEYSTONE XL PIPELINE. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tV/stA/s501/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Except as provided in subsection (b), not later than 60 days after the date of enactment of this Act, the President, acting through the Secretary of State, shall grant a permit under Executive Order No. 13337 (3 U.S.C. 301 note; relating to issuance of permits with respect to certain energy-related facilities and land transportation crossings on the international boundaries of the United States) for the Keystone XL pipeline project application filed on September 19, 2008 (including amendments).</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tV/stA/s501/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Exception.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The President shall not be required to grant the permit under subsection (a) if the President determines that the Keystone XL pipeline would not serve the national interest.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">If the President determines that the Keystone XL pipeline is not in the national interest under paragraph (1), the President shall, not later than 15 days after the date of the determination, submit to the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, and the minority leader of the House of Representatives a report that provides a justification for determination, including consideration of economic, employment, energy security, foreign policy, trade, and environmental factors.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/b/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Effect of no finding or action.—</heading><content style="-uslm-dtd:text">If a determination is not made under paragraph (1) and no action is taken by the President under subsection (a) not later than 60 days after the date of enactment of this Act, the permit for the Keystone XL pipeline described in subsection (a) that meets the requirements of subsections (c) and (d) shall be in effect by operation of law.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tV/stA/s501/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">The permit granted under subsection (a) shall require the following:</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The permittee shall comply with all applicable Federal and State laws (including regulations) and all applicable industrial codes regarding the construction, connection, operation, and maintenance of the United States facilities.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The permittee shall obtain all requisite permits from Canadian authorities and relevant Federal, State, and local governmental agencies.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/c/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The permittee shall take all appropriate measures to prevent or mitigate any adverse environmental impact or disruption of historic properties in connection with the construction, operation, and maintenance of the United States facilities.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/c/4" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">For the purpose of the permit issued under subsection (a) (regardless of any modifications under subsection (d))—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tV/stA/s501/c/4/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the final environmental impact statement issued by the Secretary of State on August 26, 2011, satisfies all requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and section 106 of the National Historic Preservation Act (16 U.S.C. 470f);</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tV/stA/s501/c/4/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any modification required by the Secretary of State to the Plan described in paragraph (5)(A) shall not require supplementation of the final environmental impact statement described in that paragraph; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tV/stA/s501/c/4/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">no further Federal environmental review shall be required.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/c/5" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">The construction, operation, and maintenance of the facilities shall be in all material respects similar to that described in the application described in subsection (a) and in accordance with—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tV/stA/s501/c/5/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the construction, mitigation, and reclamation measures agreed to by the permittee in the Construction Mitigation and Reclamation Plan found in appendix B of the final environmental impact statement issued by the Secretary of State on August 26, 2011, subject to the modification described in subsection (d);</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tV/stA/s501/c/5/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the special conditions agreed to between the permittee and the Administrator of the Pipeline Hazardous  Materials Safety Administration of the Department of Transportation found in appendix U of the final environmental impact statement described in subparagraph (A);</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tV/stA/s501/c/5/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">if the modified route submitted by the Governor of Nebraska under subsection (d)(3)(B) crosses the Sand Hills region, the measures agreed to by the permittee for the Sand Hills region found in appendix H of the final environmental impact statement described in subparagraph (A); and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tV/stA/s501/c/5/D" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the stipulations identified in appendix S of the final environmental impact statement described in subparagraph (A).</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/c/6" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">Other requirements that are standard industry practice or commonly included in Federal permits that are similar to a permit issued under subsection (a).</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tV/stA/s501/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Modification.—</heading><chapeau style="-uslm-dtd:text">The permit issued under subsection (a) shall require—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/d/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the reconsideration of routing of the Keystone XL pipeline within the State of Nebraska;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/d/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a review period during which routing within the State of Nebraska may be reconsidered and the route of the Keystone XL pipeline through the State altered with any accompanying modification to the Plan described in subsection (c)(5)(A); and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stA/s501/d/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">the President—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tV/stA/s501/d/3/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to coordinate review with the State of Nebraska and provide any necessary data and reasonable technical assistance material to the review process required under this subsection; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/78/tV/stA/s501/d/3/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to approve the route within the State of Nebraska that has been submitted to the Secretary of State by the Governor of Nebraska.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tV/stA/s501/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Effect of No Approval.—</heading><content style="-uslm-dtd:text">If the President does not approve the route within the State of Nebraska submitted by the Governor of Nebraska under subsection (d)(3)(B) not later than 10 days after the date of submission, the route submitted by the Governor of Nebraska under subsection (d)(3)(B) shall be considered approved, pursuant to the terms of the permit described in subsection (a) that meets the requirements of subsection (c) and this subsection, by operation of law.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/78/tV/stA/s501/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Private Property Savings Clause.—</heading><content style="-uslm-dtd:text">Nothing in this section alters the Federal, State, or local processes or conditions in effect on the date of enactment of this Act that are necessary to secure access from private property owners to construct the Keystone XL pipeline.</content>
+                    </subsection>
+                </section>
+            </subtitle>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/112/78/tV/stB" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="B">Subtitle B—</num><heading style="-uslm-dtd:header">Budgetary Provisions </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tV/stB/s511" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="511">SEC. 511. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t2/s645">2 U.S.C. 645</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SENATE POINT OF ORDER AGAINST AN EMERGENCY DESIGNATION. </heading>
+                    <chapeau style="-uslm-dtd:text" class="block">Section 314 of the Congressional Budget Act of 1974 is amended by—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stB/s511/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">redesignating subsection (e) as subsection (f); and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/78/tV/stB/s511/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">inserting after subsection (d) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Senate Point of Order Against an Emergency Designation. </heading>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general. </heading><content style="-uslm-dtd:text">When the Senate is considering a bill, resolution, amendment, motion, amendment between the Houses, or conference report, if a point of order is made by a Senator against an emergency designation in that measure, that provision making such a designation shall be stricken from the measure and may not be offered as an amendment from the floor.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Supermajority waiver and appeals. </heading>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Waiver. </heading><content style="-uslm-dtd:text">Paragraph (1) may be waived or suspended in the Senate only by an affirmative vote of three-fifths of the Members, duly chosen and sworn.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Appeals. </heading><content style="-uslm-dtd:text">Appeals in the Senate from the decisions of the Chair relating to any provision of this subsection shall be limited to 1 hour, to be equally divided between, and controlled by, the appellant and the manager of the bill or joint resolution, as the case may be. An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this subsection.</content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Definition of an emergency designation. </heading><content style="-uslm-dtd:text">For purposes of paragraph (1), a provision shall be considered an emergency designation if it designates any item pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Form of the point of order. </heading><content style="-uslm-dtd:text">A point of order under paragraph (1) may be raised by a Senator as provided in section 313(e) of the Congressional Budget Act of 1974.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="5">“(5) </num><heading style="-uslm-dtd:header">Conference reports. </heading><content style="-uslm-dtd:text">When the Senate is considering a conference report on, or an amendment between the Houses in relation to, a bill, upon a point of order being made by any Senator pursuant to this section, and such point of order being sustained, such material contained in such conference report shall be deemed stricken, and the Senate shall proceed to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.”</content>
+                            </paragraph>
+                        </subsection></quotedContent>.</content>
+                    </paragraph>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/78/tV/stB/s512" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="512">SEC. 512. </num><heading style="-uslm-dtd:header">PAYGO SCORECARD ESTIMATES. </heading>
+                    <content style="-uslm-dtd:text" class="block">The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.</content>
+                </section>
+            </subtitle>
+        </title>
+    </main>
+</statuteCompilation>

@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>National Landslide Preparedness Act</dc:title>
+        <citableAs>Public Law 116–323</citableAs>
+        <citableAsShortTitle>National Landslide Preparedness Act</citableAsShortTitle>
+        <docNumber>323</docNumber>
+        <currentThroughPublicLaw>116–323</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>National Landslide Preparedness Act</containsShortTitle>
+        <property role="fileId">16363</property>
+        <congress>116</congress>
+        <approvedDate>2021-01-05</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">National Landslide Preparedness Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 116–323</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 116–323. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To establish a national program to identify and reduce losses from landslide hazards, to establish a national 3D Elevation Program, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/323/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s3101">43 U.S.C. 3101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content style="-uslm-dtd:text" class="block">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">National Landslide Preparedness Act</shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/323/s2" styleType="OLC" role="definitions">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s3101">43 U.S.C. 3101</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">In this Act:</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s2/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">3D.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">3D</term>” means 3-dimensional.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s2/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">3D elevation data.—</heading>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/2/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">3D elevation data</term>” means 3D, high-resolution data obtained using LiDAR, IfSAR, or other methods over the United States (including territories).</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/2/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Inclusions.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">3D elevation data</term>” includes terrestrial and bathymetric elevation data.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s2/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">3D elevation program.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">3D Elevation Program</term>” means the 3D Elevation Program established under section 5(a).</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s2/4" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">IfSAR.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">IfSAR</term>” means interferometric synthetic aperture radar.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s2/5" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Indian tribe.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Indian tribe</term>” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s2/6" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Lahar.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">lahar</term>” means a large debris flow of mostly volcanic material that is—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/6/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">often fast-moving; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/6/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a hazard in watersheds downstream of volcanic peaks.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s2/7" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">LiDAR.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">LiDAR</term>” means light detection and ranging.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s2/8" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Secretary</term>” means the Secretary of the Interior, acting through the Director of the United States Geological Survey.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s2/9" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">State.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">State</term>” means—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/9/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a State; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/9/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the District of Columbia.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s2/10" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="10">(10) </num><heading style="-uslm-dtd:header">State office.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">State office</term>” means any unit of State government that handles the identification, mapping, assessment, and research of landslide hazards or responding to landslide events, including—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/10/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a State geological survey office;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/10/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a State department of emergency response; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/10/C" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">a State department of transportation.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s2/11" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="11">(11) </num><heading style="-uslm-dtd:header">Territory.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">territory</term>” means—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/11/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Commonwealth of Puerto Rico;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/11/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Guam;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/11/C" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">American Samoa;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/11/D" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the Commonwealth of the Northern Mariana Islands;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/11/E" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the Federated States of Micronesia;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/11/F" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the Republic of the Marshall Islands;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/11/G" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">the Republic of Palau; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s2/11/H" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">the United States Virgin Islands.</content>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/323/s3" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s3102">43 U.S.C. 3102</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL LANDSLIDE HAZARDS REDUCTION PROGRAM. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s3/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall establish a program, to be known as the “National Landslide Hazards Reduction Program” (referred to in this section as the “program”)—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">to identify and understand landslide hazards and risks;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">to reduce losses from landslides;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">to protect communities at risk of landslide hazards; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">to help improve communication and emergency preparedness, including by coordinating with communities and entities responsible for infrastructure that are at risk of landslide hazards.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s3/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Description of Program.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Program activities.—</heading><chapeau style="-uslm-dtd:text">The Secretary, in coordination with the Interagency Coordinating Committee on Landslide Hazards established by subsection (c)(1) (referred to in this section as the “Committee”) and in coordination with existing activities of the United States Geological Survey and other Federal agencies, shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">identify, map, assess, and research landslide hazards;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">respond to landslide events; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">in coordination with State offices, units of local government, territories, and Indian tribes—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/1/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">establish working groups with State offices, units of local government, territories, and Indian tribes to identify regional and local priorities for researching, identifying, mapping, and assessing landslide hazards; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/1/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">develop and implement landslide hazard guidelines for—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/b/1/C/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">geologists;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/b/1/C/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">geological and geotechnical engineers;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/b/1/C/ii/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">emergency management personnel; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/b/1/C/ii/IV" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">land use and other decisionmakers.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">National strategy.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, and every 5 years thereafter, the Secretary, in coordination with the Committee, shall develop and publish a national strategy for landslide hazards, risk reduction, and response in the United States (including territories), which shall include—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">goals and priorities for the program;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">priorities for data acquisition, research, communications, and risk management on landslides and landslide hazards across relevant Federal agencies; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">a detailed interagency plan, which shall take into consideration national disaster preparedness, response, and recovery frameworks, to carry out the national strategy, including details about the programs, projects, and budgets that will be used to implement the national strategy.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">National landslide hazards database.—</heading><chapeau style="-uslm-dtd:text">In carrying out the program, the Secretary, in coordination with State offices, units of local government, territories, and Indian tribes, shall develop and maintain a publicly accessible national landslide hazard and risk inventory database to compile, maintain, standardize, and evaluate data regarding—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">landslide hazards and risks;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">the impact of landslides on—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/3/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">health and safety;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/3/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the economy and infrastructure; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/3/B/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the environment;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">landslide hazard stabilization; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/3/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">reduction of losses from landslides.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Landslide hazard and risk preparedness for communities.—</heading><chapeau style="-uslm-dtd:text">In carrying out the program, the Secretary, in coordination with the Secretary of the Army, the Secretary of Commerce, the Secretary of Homeland Security, the Secretary of Transportation, and the heads of other relevant Federal agencies, and in consultation with State offices, units of local government, territories, and Indian tribes, shall develop and disseminate—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">landslide planning and risk reduction guidance, guidelines, maps, tools, and training materials to help inform State, territorial, local, and Tribal governments and decisionmakers with respect to—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/4/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the use and implementation of landslide hazard assessments;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/4/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the applied use of the database developed under paragraph (3);</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/4/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">reducing losses from landslides; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/4/A/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">resources available for communities working to improve landslide hazard preparedness; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">landslide preparedness curricula and training modules for—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/4/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">State, territorial, local, and Tribal officials;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/4/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">Federal, State, territorial, local, and Tribal emergency managers; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/b/4/B/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the National Guard.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Debris flow early warning system.—</heading><chapeau style="-uslm-dtd:text">In carrying out the program, the Secretary, in coordination with the Secretary of Commerce and the Secretary of Homeland Security, shall expand the early warning system for debris flow by—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">expanding the early warning system for post-wildfire debris flow to include recently burned areas across the western United States;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">developing procedures with State, territorial, local, and Tribal governments to monitor stormwater drainage in areas with high debris flow risk; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/5/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">identifying high-risk debris flow areas, such as recently burned land and potential lahar hazard areas.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/b/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Emergency response activities.—</heading><chapeau style="-uslm-dtd:text">In carrying out the program, the Secretary, in coordination with the Secretary of Commerce, the Secretary of Homeland Security, the heads of other relevant Federal agencies, States offices, units of local government, territories, and Indian tribes, shall establish and support emergency response procedures for the rapid deployment of Federal scientists, equipment, and services to areas impacted by a significant landslide event—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/6/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to support emergency response efforts and improve the safety of emergency responders;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/6/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to improve data collection; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/b/6/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to conduct research to advance the understanding of the causes, impacts, and reduction of landslide hazards and risks.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s3/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Interagency Coordinating Committee on Landslide Hazards.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">There is established a committee, to be known as the “Interagency Coordinating Committee on Landslide Hazards”.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Membership.—</heading><chapeau style="-uslm-dtd:text">The Committee shall be composed of the following members (or their designees):</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The Secretary, who shall serve as Chairperson of the Committee.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The Secretary of Agriculture.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">The Secretary of the Army.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">The Secretary of Commerce.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">The Secretary of Homeland Security.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/2/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">The Secretary of Transportation.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/2/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">The Director of the National Science Foundation.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/2/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">The Director of the Office of Science and Technology Policy.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/2/I" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">The Director of the Office of Management and Budget.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Meetings.—</heading><content style="-uslm-dtd:text">The Committee shall meet at the call of the Chairperson.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Purpose and duties.—</heading><chapeau style="-uslm-dtd:text">The Committee shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">advise and oversee the program;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">facilitate communication and coordination across Federal agencies in the planning, management, budgeting, and execution of landslide activities; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/c/4/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">support the development and execution of the national strategy under subsection (b)(2), including by—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/c/4/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">supporting the development of national goals and priorities for the national strategy;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/c/4/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">articulating Federal agency roles, responsibilities, and resources for carrying out the national strategy; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/c/4/C/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">overseeing the implementation of the national strategy.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s3/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Advisory Committee.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall establish an advisory committee, to be known as the “Advisory Committee on Landslides” (referred to in this subsection as the “Advisory Committee”).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Membership.—</heading><chapeau style="-uslm-dtd:text">The Advisory Committee shall be composed of not fewer than 11 members—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/d/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">of whom none may be an individual described in any of subparagraphs (A) through (F) of section 7342(a)(1) of title 5, United States Code; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/d/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">who shall be representatives of—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/d/2/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">States, including State geological organizations;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/d/2/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">territories, including territorial geological organizations;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/d/2/B/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">Indian tribes, including Tribal geological organizations;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/d/2/B/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><chapeau style="-uslm-dtd:text">research institutions and institutions of higher education that are qualified—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/d/2/B/iv/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">to provide advice regarding landslide hazard and risk reduction; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/d/2/B/iv/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">to represent related scientific, architectural, engineering, and planning disciplines;</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/d/2/B/v" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">industry standards development organizations; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/d/2/B/vi" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">State, territorial, local, and Tribal emergency management agencies.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/d/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Recommendations.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/d/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Advisory Committee shall submit to the Committee recommendations for the implementation of the program, including recommendations regarding—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/d/3/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">landslide hazard and risk reduction and planning;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/d/3/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">tools for communities;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/d/3/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">research; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/d/3/A/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">such other topics as the Advisory Committee determines appropriate.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/d/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Consideration.—</heading><content style="-uslm-dtd:text">The Secretary and the agency heads described in subparagraphs (B) through (I) of subsection (c)(2) shall take into consideration any recommendation of the Advisory Committee submitted under subparagraph (A).</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s3/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Grant Programs.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/e/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Cooperative landslide hazard mapping and assessment program.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/e/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Subject to appropriations, the Secretary may—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/1/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">provide grants, on a competitive basis, to State, territorial, local, and Tribal governments to research, map, assess, and collect data on landslide hazards within the jurisdictions of those governments; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/1/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">accept and use funds received from other Federal and non-Federal partners to advance the purposes of the program.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/e/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Priority.—</heading>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall consult annually with the Committee, States, units of local government, territories, and Indian tribes to establish priorities for the grant program under this paragraph.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Funding prioritization.—</heading><chapeau style="-uslm-dtd:text">In providing grants under this paragraph, the Secretary shall give priority to projects—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/e/1/B/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">that will achieve the greatest landslide hazard and risk reduction;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/e/1/B/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">that reflect the goals and priorities of the national strategy established under subsection (b)(2)(A);</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/e/1/B/ii/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">not less than 50 percent of the total cost of which is matched by non-Federal sources; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/e/1/B/ii/IV" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">that include acquisition of enhanced elevation data consistent with the 3D Elevation Program.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/e/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Requirement.—</heading><chapeau style="-uslm-dtd:text">If the Secretary elects to provide grants under subparagraph (A)(i), the Secretary shall publish on a publicly available website a description of—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/1/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the grants; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/1/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the findings made from those grants.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/e/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">National landslide research grants.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/e/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">To advance the goals and priorities of the national strategy established under subsection (b)(2)(A), subject to appropriations, the Director of the National Science Foundation (referred to in this paragraph as the “Director”) may provide grants to eligible entities for landslide research, including research on—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/2/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the causes, mechanisms, triggers, hydrology, and geology of landslides;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/2/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">ways to reduce landslide hazards and risks to minimize loss of life and property, including landslide hazard and risk communication, perception, decisionmaking, tools, and technologies; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/2/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">other goals and priorities of the national strategy established under subsection (b)(2)(A).</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/e/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Eligible entities.—</heading><content style="-uslm-dtd:text">The Director shall determine whether an entity is eligible to receive a grant under this paragraph.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s3/e/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">In providing grants under this paragraph, the Director shall—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/2/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">ensure that the grants are provided on a competitive basis;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/2/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">consider grant applications submitted by eligible entities that have developed the application in partnership with 1 or more State geological surveys; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s3/e/2/C/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><chapeau style="-uslm-dtd:text">publish on a publicly available website a description of—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/e/2/C/iii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the grants; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s3/e/2/C/iii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the findings made from those grants.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s3/f" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Biennial Report.—</heading><chapeau style="-uslm-dtd:text">Through calendar year 2030, the Secretary shall submit to Congress a biennial report, including a description of, with respect to the 2-calendar-year period preceding the date of the report—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/f/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the goals and accomplishments of the Committee in carrying out the national strategy developed under subsection (b)(2);</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/f/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the results of the activities of the Committee under this section; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/f/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the extent to which any recommendations of the Advisory Committee under subsection (d)(3)(A) have been implemented.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s3/g" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Significant Events.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after a significant landslide event in the United States (including territories) occurs, the Secretary shall publish on a publicly available website—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/g/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a description of the landslide event and the implications of the event on communities, including life and property;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/g/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">recommendations on how the identification of the landslide risk could have been improved prior to the event;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/g/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">a description of the effectiveness of any warning and risk communication, including the dissemination of warnings by State, territorial, local, and Tribal partners in the affected area;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/g/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">recommendations to improve risk identification, reduction, and communication to landowners and units of local government;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/g/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">recommendations to improve landslide hazard preparedness and emergency response activities under this section; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/g/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">such other findings as the Secretary determines appropriate.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s3/h" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Funding.—</heading><chapeau style="-uslm-dtd:text">For each of fiscal years 2021 through 2024—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/h/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">there is authorized to be appropriated to the United States Geological Survey, $25,000,000 to carry out this section;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/h/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">there is authorized to be appropriated to the National Science Foundation, $11,000,000 to carry out this section; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s3/h/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">there is authorized to be appropriated to the National Oceanic and Atmospheric Administration, $1,000,000 to carry out this section.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s3/i" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Derivation of Funds.—</heading><content style="-uslm-dtd:text">Funds to carry out the activities under this section shall be derived from amounts authorized to be appropriated that are enacted after the date of the enactment of this section.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/323/s4" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s3103">43 U.S.C. 3103</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">GROUND SUBSIDENCE. </heading>
+            <content style="-uslm-dtd:text" class="block">As the Secretary determines to be appropriate and subject to appropriations, the Secretary, through existing programs, shall advance the identification, mapping, research, and monitoring of subsidence and groundwater resource accounting, particularly in areas affected by drought.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/323/s5" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t43/s3104">43 U.S.C. 3104</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">3D ELEVATION PROGRAM. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s5/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment of 3D Elevation Program.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall establish a program, to be known as the “3D Elevation Program”—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/a/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to provide 3D elevation data coverage for the United States;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/a/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to coordinate and facilitate the collection, dissemination, and use of 3D elevation data among Federal departments and agencies and non-Federal entities;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/a/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to produce standard, publicly accessible 3D elevation data products for the United States; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/a/1/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">to promote the collection, dissemination, and use of 3D elevation data among Federal, State, local, and Tribal governments, communities, institutions of higher education, and the private sector through—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/a/1/D/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">cooperative agreements;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/a/1/D/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the development and maintenance of spatial data infrastructure to provide quality control and deliver to the public 3D elevation data products;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/a/1/D/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">in coordination with the 3D Elevation Federal Interagency Coordinating Committee established under subsection (b), States, and industry and standards bodies, the development of standards and guidelines for 3D elevation data acquisition to increase accessibility to 3D elevation data in a standard, easy-to-use format; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/a/1/D/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">the identification, assessment, and adoption of emerging technologies to improve the accuracy and efficiency of the 3D Elevation Program.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Management.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/a/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall manage the 3D Elevation Program—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/a/2/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">to ensure efficiency with respect to related activities of the Department of the Interior and other participating Federal departments and agencies; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/a/2/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">to meet the needs of Department of the Interior programs, stakeholders, and the public.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/a/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Other federal departments and agencies.—</heading><chapeau style="-uslm-dtd:text">The head of each Federal department and agency involved in the acquisition, production, distribution, or application of 3D elevation data shall—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/a/2/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">coordinate with the 3D Elevation Federal Interagency Coordinating Committee established under subsection (b) to acquire additional, enhanced 3D elevation data;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/a/2/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">submit to the Secretary a description of priority areas of interest for 3D elevation data collection for use in providing grants and cooperative agreements under subsection (d);</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/a/2/B/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">implement policies and procedures for data acquisition and sharing that are consistent with standards and guidelines developed under the 3D Elevation Program;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/a/2/B/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">participate in, and share the results and benefits of, the 3D Elevation Program, in accordance with standards and guidelines developed under the 3D Elevation Program; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/a/2/B/v" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><chapeau style="-uslm-dtd:text">ensure that any 3D elevation data acquired with Federal grant funding—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s5/a/2/B/v/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">meets 3D Elevation Program standards; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s5/a/2/B/v/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">is included in the national holdings of those data.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s5/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">3D Elevation Federal Interagency Coordinating Committee.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">The Secretary, in coordination with the Secretary of Commerce and the Secretary of Homeland Security, shall establish an interagency coordinating committee, to be known as the “3D Elevation Federal Interagency Coordinating Committee” (referred to in this subsection as the “Committee”), to better coordinate 3D elevation data management across the Federal Government.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Membership.—</heading><chapeau style="-uslm-dtd:text">The Committee shall be composed of the following members (or their designees):</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The Secretary, who shall serve as Chairperson of the Committee.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The Secretary of Agriculture.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">The Secretary of Commerce.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">The Secretary of Homeland Security.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">The Director of the National Science Foundation.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/2/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">The Director of the Office of Science and Technology Policy.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/2/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">The Director of the Office of Management and Budget.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/2/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">The head of any other Federal department or agency, at the request of the Secretary.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Coordination.—</heading><chapeau style="-uslm-dtd:text">The Committee shall coordinate, as appropriate, with the existing activities of—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the 3D Elevation Program Executive Forum;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Alaska Mapping Executive Committee;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the 3D Elevation Working Group;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/3/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the 3D National Elevation Subcommittee; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/3/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">State offices.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Meetings.—</heading><content style="-uslm-dtd:text">The Committee shall meet at the call of the Chairperson.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Duties.—</heading><chapeau style="-uslm-dtd:text">The Committee shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">oversee the planning, management, and coordination of the 3D Elevation Program; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/b/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">develop, by not later than 1 year after the date of enactment of this Act, and update periodically thereafter—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/b/5/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a strategic plan that establishes goals and priorities for activities carried out under the 3D Elevation Program; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/b/5/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a detailed management plan to implement the strategic plan.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s5/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Subcommittee of National Geospatial Advisory Committee.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/c/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall establish, within the National Geospatial Advisory Committee, a subcommittee (referred to in this subsection as the “Subcommittee”).</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/c/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Membership.—</heading><chapeau style="-uslm-dtd:text">The Subcommittee shall—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/c/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">consist of not fewer than 11 members, of whom none may be a Federal officer or employee; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/c/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">include representatives of—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s5/c/1/B/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">research and academic institutions;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s5/c/1/B/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">industry standards development organizations;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s5/c/1/B/ii/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">units of State and local government; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s5/c/1/B/ii/IV" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">the private sector.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Duties.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/c/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Assessment.—</heading><chapeau style="-uslm-dtd:text">The Subcommittee shall conduct an assessment of—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/c/2/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">trends and developments in—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s5/c/2/A/i/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the collection, dissemination, and use of 3D elevation data; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/323/s5/c/2/A/i/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">science and technology relating to 3D elevation data;</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/c/2/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the effectiveness of the 3D Elevation Program in carrying out the activities described in subsection (a)(1);</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/c/2/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the need to revise or reorganize the 3D Elevation Program; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/c/2/A/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">the management, coordination, implementation, and activities of the 3D Elevation Program.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/323/s5/c/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, and every 2 years thereafter, the Subcommittee shall submit to the Secretary and the 3D Elevation Federal Interagency Coordinating Committee established under subsection (b) a report that includes—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/c/2/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the findings of the assessment under subparagraph (A); and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/323/s5/c/2/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">recommendations of the Subcommittee based on those findings, if any.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s5/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Grants and Cooperative Agreements.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary may make grants and enter into cooperative agreements with other Federal departments and agencies, units of State, local, or Tribal government, institutions of higher education, nonprofit research institutions, or other organizations to facilitate the improvement of nationwide coverage of 3D elevation data.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Applications.—</heading><content style="-uslm-dtd:text">To be eligible to receive a grant or enter into a cooperative agreement under this subsection, an entity described in paragraph (1) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/323/s5/d/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Terms and conditions.—</heading><content style="-uslm-dtd:text">A grant or cooperative agreement under this subsection shall be subject to such terms and conditions as the Secretary determines to be appropriate, including making data publically available and interoperable with other Federal datasets.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s5/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">For each of fiscal years 2021 through 2024, there is authorized to be appropriated to the Secretary $40,000,000 to carry out this section.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/323/s5/f" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Derivation of Funds.—</heading><content style="-uslm-dtd:text">Funds to carry out the activities under this section shall be derived from amounts authorized to be appropriated to the Secretary that are enacted after the date of the enactment of this section.</content>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

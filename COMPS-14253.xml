@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Public Law 113–55</dc:title>
+        <citableAs>Public Law 113–55, as amended</citableAs>
+        <citableAsShortTitle>Public Law 113–55</citableAsShortTitle>
+        <docNumber>55</docNumber>
+        <currentThroughPublicLaw>115–328</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Prematurity Research Expansion and Education for Mothers who deliver Infants Early Reauthorization Act</containsShortTitle>
+        <containsShortTitle>National Pediatric Research Network Act of 2013</containsShortTitle>
+        <containsShortTitle>PREEMIE Reauthorization Act</containsShortTitle>
+        <containsShortTitle>CHIMP Act Amendments of 2013</containsShortTitle>
+        <containsShortTitle>PREEMIE Reauthorization Act of 2018</containsShortTitle>
+        <property role="fileId">14253</property>
+        <congress>113</congress>
+        <approvedDate>2013-11-27</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Public Law 113–55</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 113–55</citableAs>; Approved on <date date="2013-11-27">November 27, 2013</date>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 115–328</currentThroughPublicLaw>, Enacted <date date="2018-12-18">December 18, 2018</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 113–55. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To reduce preterm labor and delivery and the risk of pregnancy-related deaths and complications due to pregnancy, and to reduce infant mortality caused by prematurity, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/55/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">TABLE OF CONTENTS. </heading>
+            <content style="-uslm-dtd:text" class="block">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Table of contents.</label></referenceItem>
+            <groupItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>PREEMIE ACT REAUTHORIZATION</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Short title.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Research and activities at the Centers for Disease Control and Prevention.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Activities at the Health Resources and Services Administration.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Other activities.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>NATIONAL PEDIATRIC RESEARCH NETWORK</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Short title.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> National Pediatric Research Network.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>CHIMP ACT AMENDMENTS</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Short title.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Care for NIH chimpanzees.</label></referenceItem>
+            </groupItem></toc></content>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/113/55/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">PREEMIE ACT REAUTHORIZATION </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/113/55/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s201">42 U.S.C. 201</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Prematurity Research Expansion and Education for Mothers who deliver Infants Early Reauthorization Act</inline></shortTitle>” or the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">PREEMIE Reauthorization Act</inline></shortTitle>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/113/55/tI/s102" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">RESEARCH AND ACTIVITIES AT THE CENTERS FOR DISEASE CONTROL AND PREVENTION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/55/tI/s102/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Epidemiological Studies.—</heading><content style="-uslm-dtd:text">Section 3 of the Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act (42 U.S.C. 247b-4f) is amended by striking subsection (b) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Studies and Activities on Preterm Birth. </heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general. </heading><chapeau style="-uslm-dtd:text">The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, may, subject to the availability of appropriations—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">conduct epidemiological studies on the clinical, biological, social, environmental, genetic, and behavioral factors relating to prematurity, as appropriate;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">conduct activities to improve national data to facilitate tracking the burden of preterm birth; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">continue efforts to prevent preterm birth, including late preterm birth, through the identification of opportunities for prevention and the assessment of the impact of such efforts.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Report. </heading><content style="-uslm-dtd:text">Not later than 2 years after the date of enactment of the PREEMIE Reauthorization Act, and every 2 years thereafter, the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the appropriate committees of Congress reports concerning the progress and any results of studies conducted under paragraph (1).”</content>
+                        </paragraph>
+                    </subsection></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/55/tI/s102/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Reauthorization.—</heading><content style="-uslm-dtd:text">Section 3(e) of the Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act (42 U.S.C. 247b-4f(e)) is amended by striking “<quotedText style="-uslm-dtd:quote">$5,000,000</quotedText>” and all that follows through “<quotedText style="-uslm-dtd:quote">2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$1,880,000 for each of fiscal years 2014 through 2018.</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/113/55/tI/s103" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">ACTIVITIES AT THE HEALTH RESOURCES AND SERVICES ADMINISTRATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/55/tI/s103/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Telemedicine and High-Risk Pregnancies.—</heading><content style="-uslm-dtd:text">Section 330I(i)(1)(B) of the Public Health Service Act (42 U.S.C. 254c-14(i)(1)(B)) is amended by striking “<quotedText style="-uslm-dtd:quote">or case management services</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">case management services, or prenatal care for high-risk pregnancies</quotedText>”;</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/55/tI/s103/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Public and Health Care Provider Education.—</heading><chapeau style="-uslm-dtd:text">Section 399Q of the Public Health Service Act (42 U.S.C. 280g-5) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tI/s103/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in subsection (b)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s103/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (1), by striking subparagraphs (A) through (F) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the core risk factors for preterm labor and delivery;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">medically indicated deliveries before full term;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><chapeau style="-uslm-dtd:text">the importance of preconception and prenatal care, including—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">smoking cessation;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">weight maintenance and good nutrition, including folic acid;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">the screening for and the treatment of infections; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">stress management;</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">treatments and outcomes for premature infants, including late preterm infants;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">the informational needs of families during the stay of an infant in a neonatal intensive care unit; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="F">“(F) </num><content style="-uslm-dtd:text">utilization of evidence-based strategies to prevent birth injuries;”</content>
+                            </subparagraph></quotedContent>; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s103/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking paragraph (2) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">programs to increase the availability, awareness, and use of pregnancy and post-term information services that provide evidence-based, clinical information through counselors,  community outreach efforts, electronic or telephonic communication, or other appropriate means regarding causes associated with prematurity, birth defects, or health risks to a post-term infant;”</content>
+                            </paragraph></quotedContent>; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tI/s103/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subsection (c), by striking “<quotedText style="-uslm-dtd:quote">$5,000,000</quotedText>” and all that follows through “<quotedText style="-uslm-dtd:quote">2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$1,900,000 for each of fiscal years 2014 through 2018.</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/113/55/tI/s104" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">OTHER ACTIVITIES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/55/tI/s104/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Interagency Coordinating Council on Prematurity and Low Birthweight.—</heading><content style="-uslm-dtd:text">The Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act is amended by striking section 5 (42 U.S.C. 247b-4g).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/55/tI/s104/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s247b-4f">42 U.S.C. 247b-4f note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Advisory Committee on Infant Mortality.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tI/s104/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">The Secretary of Health and Human Services (referred to in this section as the “<quotedText style="-uslm-dtd:quote">Secretary</quotedText>”) may establish an advisory committee known as the “<quotedText style="-uslm-dtd:quote">Advisory Committee on Infant Mortality</quotedText>” (referred to in this section as the “<quotedText style="-uslm-dtd:quote">Advisory Committee</quotedText>”).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tI/s104/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Duties.—</heading><chapeau style="-uslm-dtd:text">The Advisory Committee shall provide advice , recommendations, or information to the Secretary as may be necessary to improve activities and programs to reduce severe maternal morbidity, maternal mortality, infant mortality, and preterm birth, which may include recommendations, advice, or information related to the following:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s104/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Programs of the Department of Health and Human Services that are directed at reducing infant mortality , preterm birth, and improving the health status of pregnant women and infants, and information on cost-effectiveness and outcomes of such programs.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s104/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Strategies to coordinate the various Federal programs and activities with State, local, and private programs and efforts that address factors that affect infant mortality.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s104/b/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">The Healthy Start program under section 330H of the Public Health Service Act (42 U.S.C. 254c-8) and Healthy People 2020 infant mortality objectives.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s104/b/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">Implementation of Healthy People objectives related to maternal and infant health.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s104/b/2/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">Strategies to reduce racial, ethnic, geographic, and other health disparities in birth outcomes, including by increasing awareness of Federal programs related to appropriate access to, or information regarding, prenatal care to address risk factors for preterm labor and delivery.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s104/b/2/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">Strategies, including the implementation of such strategies, to address gaps in Federal research, programs, and education efforts related to the prevention of severe maternal morbidity, maternal mortality, infant mortality, and other adverse birth outcomes.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tI/s104/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Membership.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall ensure that the membership of the Advisory Committee includes the following:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s104/b/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Representatives provided for in the original charter of the Advisory Committee.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s104/b/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">A representative of the National Center for Health Statistics.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tI/s104/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Biennial report.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date of enactment of the <inline style="-uslm-dtd:short-title">PREEMIE Reauthorization Act of 2018</inline>, and every 2 years thereafter, the Advisory Committee shall—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s104/b/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">publish a report summarizing activities and recommendations of the Advisory Committee since the
+ publication of the previous report;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s104/b/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">submit such report to the Secretary and the appropriate Committees of Congress; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tI/s104/b/4/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">post such report on the Internet website of the Department of Health and Human Services.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/55/tI/s104/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Patient Safety Studies and Report.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tI/s104/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall designate an appropriate agency within the Department of Health and Human Services to coordinate existing studies on hospital readmissions of preterm infants.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tI/s104/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Report to secretary and congress.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, the agency designated under paragraph (1) shall submit to the Secretary and to Congress a report containing the findings and recommendations resulting from the studies coordinated under such paragraph, including recommendations for hospital discharge and followup procedures designed to reduce rates of preventable hospital readmissions for preterm infants.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/113/55/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">NATIONAL PEDIATRIC RESEARCH NETWORK </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/113/55/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s201">42 U.S.C. 201</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">National Pediatric Research Network Act of 2013</inline></shortTitle>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/113/55/tII/s202" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">NATIONAL PEDIATRIC RESEARCH NETWORK. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 409D of the Public Health Service Act (42 U.S.C. 284h; relating to the Pediatric Research Initiative) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tII/s202/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating subsection (d) as subsection (f); and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tII/s202/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after subsection (c) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">National Pediatric Research Network. </heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Network. </heading><chapeau style="-uslm-dtd:text">In carrying out the Initiative, the Director of NIH, in consultation with the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development and in collaboration with other appropriate national research institutes and national centers that carry out activities involving pediatric research, may provide for the establishment of a National Pediatric Research Network in order to more effectively support pediatric research and optimize the use of Federal resources. Such National Pediatric Research Network may be comprised of, as appropriate—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the pediatric research consortia receiving awards under paragraph (2); or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">other consortia, centers, or networks focused on pediatric research that are recognized by the Director of NIH and established pursuant to the authorities vested in the National Institutes of Health by other sections of this Act.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Pediatric research consortia. </heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general. </heading><chapeau style="-uslm-dtd:text">The Director of NIH may award funding, including through grants, contracts, or other mechanisms, to public or private nonprofit entities for providing support for pediatric research consortia, including with respect to—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">basic, clinical, behavioral, or translational research to meet unmet needs for pediatric research; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">training researchers in pediatric research techniques in order to address unmet pediatric research needs.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Research. </heading><chapeau style="-uslm-dtd:text">The Director of NIH shall, as appropriate, ensure that—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">each consortium receiving an award under subparagraph (A) conducts or supports at least one category of research described in subparagraph (A)(i) and collectively such consortia conduct or support such categories of research; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">one or more such consortia provide training described in subparagraph (A)(ii).</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Organization of consortium. </heading><chapeau style="-uslm-dtd:text">Each consortium receiving an award under subparagraph (A) shall—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">be formed from a collaboration of cooperating institutions;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">be coordinated by a lead institution or institutions;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><chapeau style="-uslm-dtd:text">agree to disseminate scientific findings, including from clinical trials, rapidly and efficiently, as appropriate, to—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">other consortia;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the National Institutes of Health;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">the Food and Drug Administration;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="IV">“(IV) </num><content style="-uslm-dtd:text">and other relevant agencies; and</content>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">meet such requirements as may be prescribed by the Director of NIH.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><heading style="-uslm-dtd:header">Supplement, not supplant. </heading><content style="-uslm-dtd:text">Any support received by a consortium under subparagraph (A) shall be used to supplement, and not supplant, other public or private support for activities authorized to be supported under this paragraph.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">“(E) </num><heading style="-uslm-dtd:header">Duration of support. </heading><content style="-uslm-dtd:text">Support of a consortium under subparagraph (A) may be for a period of not to exceed 5 years. Such period may be extended at the discretion of the Director of NIH.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Coordination of consortia activities. </heading><chapeau style="-uslm-dtd:text">The Director of NIH shall, as appropriate—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">provide for the coordination of activities (including the exchange of information and regular communication) among the consortia established pursuant to paragraph (2); and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">require the periodic preparation and submission to the Director of reports on the activities of each such consortium.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Assistance with registries. </heading><content style="-uslm-dtd:text">Each consortium receiving an award under paragraph (2)(A) may provide assistance, as appropriate, to the Centers for Disease Control and Prevention for activities related to patient registries and other surveillance systems upon request by the Director of the Centers for Disease Control and Prevention.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Research on Pediatric Rare Diseases or Conditions. </heading><chapeau style="-uslm-dtd:text">In making awards under subsection (d)(2) for pediatric research consortia, the Director of NIH shall ensure that an appropriate  number of such awards are awarded to such consortia that agree to—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">consider pediatric rare diseases or conditions, or those related to birth defects; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">conduct or coordinate one or more multisite clinical trials of therapies for, or approaches to, the prevention, diagnosis, or treatment of one or more pediatric rare diseases or conditions.”</content>
+                        </paragraph>
+                    </subsection></quotedContent>.</content>
+                </paragraph>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/113/55/tIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">CHIMP ACT AMENDMENTS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/113/55/tIII/s301" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s201">42 U.S.C. 201 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">CHIMP Act Amendments of 2013</inline></shortTitle>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/113/55/tIII/s302" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><heading style="-uslm-dtd:header">CARE FOR NIH CHIMPANZEES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/55/tIII/s302/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Section 404K(g) of the Public Health Service Act (42 U.S.C. 283m(g)) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tIII/s302/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by amending paragraph (1) to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general. </heading><chapeau style="-uslm-dtd:text">Of the amount appropriated for the National Institutes of Health, there are authorized to be appropriated to carry out this section and for the care, maintenance, and transportation of all chimpanzees otherwise under the ownership or control of the National Institutes of Health, and to enable the National Institutes of Health to operate more efficiently and economically by decreasing the overall Federal cost of providing for the care, maintenance, and transportation of chimpanzees—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">for fiscal year 2014, $12,400,000;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">for fiscal year 2015, $11,650,000;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">for fiscal year 2016, $10,900,000;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">for fiscal year 2017, $10,150,000; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">for fiscal year 2018, $9,400,000.”</content>
+                            </subparagraph>
+                        </paragraph></quotedContent>;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tIII/s302/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking paragraph (2);</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tIII/s302/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by redesignating paragraph (3) as paragraph (2); and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tIII/s302/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">in paragraph (2), as so redesignated—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tIII/s302/a/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">With respect to amounts reserved under paragraph (1)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">With respect to amounts authorized to be appropriated by paragraph (1)</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tIII/s302/a/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">board of directors</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Secretary in consultation with the board of directors</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/55/tIII/s302/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">GAO Study.—</heading><chapeau style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall conduct an independent evaluation, and submit to the appropriate committees of Congress a report, regarding chimpanzees under the ownership or control the National Institutes of Health. Such report shall review and assess—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tIII/s302/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the research status of such chimpanzees;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tIII/s302/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">the cost for the care, maintenance, and transportation of such chimpanzees, including the cost broken down by—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tIII/s302/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">research or retirement status;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tIII/s302/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">services included in the care, maintenance, and transportation; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/55/tIII/s302/b/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">location;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tIII/s302/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the extent to which matching requirements have been met pursuant to section 404K(e)(4) of the Public Health Service Act (42 U.S.C. 283m(e)(4)); and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/55/tIII/s302/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">any options for cost savings for the support and maintenance of such chimpanzees.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/55/tIII/s302/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Biennial Report.—</heading><content style="-uslm-dtd:text">Section 404K(g) of the Public Health Service Act (42 U.S.C. 283m(g)) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Biennial report. </heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date enactment of this Act, the Director of the National Institutes of Health shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations in the House of Representatives a report, to be updated biennially, regarding—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the care, maintenance, and transportation of the chimpanzees under the ownership or control of the National Institutes of Health;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">costs related to such care, maintenance, and transportation, and any other related costs; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">the research status of such chimpanzees.”</content>
+                        </subparagraph>
+                    </paragraph></quotedContent>.</content>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

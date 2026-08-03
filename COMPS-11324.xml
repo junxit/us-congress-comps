@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>E-LABEL Act</dc:title>
+        <citableAs>Public Law 113–197</citableAs>
+        <citableAsShortTitle>E-LABEL Act</citableAsShortTitle>
+        <docNumber>197</docNumber>
+        <currentThroughPublicLaw>113–197</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>E-LABEL Act</containsShortTitle>
+        <containsShortTitle>Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014</containsShortTitle>
+        <property role="fileId">11324</property>
+        <congress>113</congress>
+        <approvedDate>2014-11-26</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">E-LABEL Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 113–197</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 113-197. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To promote the non-exclusive use of electronic labeling for devices licensed by the Federal Communications Commission.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/197/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s609">47 U.S.C. 609 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content style="-uslm-dtd:text" class="block">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014</shortTitle>” or the “<shortTitle style="-uslm-dtd:quote">E-LABEL Act</shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/197/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s622">47 U.S.C. 622 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FINDINGS. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">Congress finds the following:</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/197/s2/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Federal Communications Commission (referred to in this section as the “<quotedText style="-uslm-dtd:quote">Commission</quotedText>”) first standardized physical labels for licensed products such as computers, phones, and other electronic devices in 1973, and the Commission has continually refined physical label requirements over time.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/197/s2/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">As devices become smaller, compliance with physical label requirements can become more difficult and costly.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/197/s2/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Many manufacturers and consumers of licensed devices in the United States would prefer to have the option to provide or receive important Commission labeling information digitally on the screen of the device, at the discretion of the user.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/197/s2/4" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">An electronic labeling option would give flexibility to manufacturers in meeting labeling requirements.</content>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/197/s3" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s622">47 U.S.C. 622</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">AUTHORIZATION FOR FEDERAL COMMUNICATIONS COMMISSION TO ALLOW ELECTRONIC LABELING. </heading>
+            <content style="-uslm-dtd:text" class="block">Title VII of the Communications Act of 1934 (47 U.S.C. 601 et seq.) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+            <section style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="720">“SEC. 720. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s621">47 U.S.C. 621</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">OPTIONAL ELECTRONIC LABELING OF COMMUNICATIONS EQUIPMENT </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">the term ‘<quotedText style="-uslm-dtd:quote">electronic labeling</quotedText>’ means displaying required labeling and regulatory information electronically; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">“(2) </num><chapeau style="-uslm-dtd:text">the term ‘<quotedText style="-uslm-dtd:quote">radiofrequency device with display</quotedText>’ means any equipment or device that—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">is required under regulations of the Commission to be authorized by the Commission before the equipment or device may be marketed or sold within the United States; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">has the capability to digitally display required labeling and regulatory information.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Requirement To Promulgate Regulations for Electronic Labeling.—</heading><content style="-uslm-dtd:text">Not later than 9 months after the date of enactment of the Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014, the Commission shall promulgate regulations or take other appropriate action, as necessary, to allow manufacturers of radiofrequency devices with display the option to use electronic labeling for the equipment in place of affixing physical labels to the equipment.”</content>
+                </subsection>
+            </section></quotedContent>.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/197/s4" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t47/s622">47 U.S.C. 622 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SAVINGS CLAUSE. </heading>
+            <content style="-uslm-dtd:text" class="block">The amendment made by section 3 shall not be construed to affect the authority of the Federal Communications Commission under section 302 of the Communications Act of 1934 (47 U.S.C. 302a) to provide for electronic labeling of devices.</content>
+        </section>
+    </main>
+</statuteCompilation>

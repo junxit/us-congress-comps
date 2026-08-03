@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Cybersecurity Enhancement Act of 2014</dc:title>
+        <citableAs>Public Law 113–274, as amended</citableAs>
+        <citableAsShortTitle>Cybersecurity Enhancement Act of 2014</citableAsShortTitle>
+        <docNumber>274</docNumber>
+        <currentThroughPublicLaw>117–167</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
+        <processedDate>2025-08-22</processedDate>
+        <containsShortTitle>Cybersecurity Enhancement Act of 2014</containsShortTitle>
+        <property role="fileId">12455</property>
+        <congress>113</congress>
+        <approvedDate>2014-12-18</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Cybersecurity Enhancement Act of 2014</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 113–274</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 117–167</currentThroughPublicLaw>, Enacted <date date="2022-08-09">August 9, 2022</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 113-274. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To provide for an ongoing, voluntary public-private partnership to improve cybersecurity, and to strengthen cybersecurity research and development, workforce development and education, and public awareness and preparedness, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/113/274/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection identifier="/us/sComp/113/274/s1/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7421">15 U.S.C. 7421 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Cybersecurity Enhancement Act of 2014</shortTitle>”.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/113/274/s1/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents of this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 2.</designator><label> Definitions.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 3.</designator><label> No regulatory authority.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 4.</designator><label> No additional funds authorized.</label></referenceItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE I—</designator><label>PUBLIC-PRIVATE COLLABORATION ON CYBERSECURITY</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 101.</designator><label> Public-private collaboration on cybersecurity.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE II—</designator><label>CYBERSECURITY RESEARCH AND DEVELOPMENT</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 201.</designator><label> Federal cybersecurity research and development.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 202.</designator><label> Computer and network security research centers.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 203.</designator><label> Cybersecurity automation and checklists for government systems.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 204.</designator><label> National Institute of Standards and Technology cybersecurity research and development.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><label>Sec. 205. National cybersecurity challenges.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE III—</designator><label>EDUCATION AND WORKFORCE DEVELOPMENT</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 301.</designator><label> Cybersecurity competitions and challenges.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 302.</designator><label> Federal cyber scholarship-for-service program.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 303.</designator><label> National cybersecurity awareness and education program.</label></referenceItem>
+                    <referenceItem><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>The items relating to title IV were repealed by section 9401(g)(3)(A) of Public Law 116–283.<b>]</b> </editorialNote></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE V—</designator><label>ADVANCEMENT OF CYBERSECURITY TECHNICAL STANDARDS</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 501.</designator><label> Definitions.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 502.</designator><label> International cybersecurity technical standards.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 503.</designator><label> Cloud computing strategy.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 504.</designator><label> Identity management research and development.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/113/274/s2" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7421">15 U.S.C. 7421</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">In this Act:</chapeau>
+            <paragraph identifier="/us/sComp/113/274/s2/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Cybersecurity mission.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">cybersecurity mission</term>” means activities that encompass the full range of threat reduction, vulnerability reduction, deterrence, international engagement, incident response, resiliency, and recovery policies  and activities, including computer network operations, information assurance, law enforcement, diplomacy, military, and intelligence missions as such activities relate to the security and stability of cyberspace.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/113/274/s2/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Information system.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">information system</term>” has the meaning given that term in section 3502 of title 44, United States Code.</content>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/113/274/s3" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7422">15 U.S.C. 7422</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NO REGULATORY AUTHORITY. </heading>
+            <content class="block" style="-uslm-dtd:text">Nothing in this Act shall be construed to confer any regulatory authority on any Federal, State, tribal, or local department or agency.</content>
+        </section>
+        <section identifier="/us/sComp/113/274/s4" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7423">15 U.S.C. 7423</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NO ADDITIONAL FUNDS AUTHORIZED. </heading>
+            <content class="block" style="-uslm-dtd:text">No additional funds are authorized to carry out this Act, and the amendments made by this Act. This Act, and the amendments made by this Act, shall be carried out using amounts otherwise authorized or appropriated.</content>
+        </section>
+        <title identifier="/us/sComp/113/274/tI" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">PUBLIC-PRIVATE COLLABORATION ON CYBERSECURITY </heading>
+            <section identifier="/us/sComp/113/274/tI/s101" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">PUBLIC-PRIVATE COLLABORATION ON CYBERSECURITY. </heading>
+                <subsection identifier="/us/sComp/113/274/tI/s101/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Cybersecurity.—</heading><chapeau style="-uslm-dtd:text">Section 2(c) of the National Institute of Standards and Technology Act (15 U.S.C. 272(c)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tI/s101/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating paragraphs (15) through (22) as paragraphs (16) through (23), respectively; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tI/s101/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after paragraph (14) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="15">“(15) </num><content style="-uslm-dtd:text">on an ongoing basis, facilitate and support the development of a voluntary, consensus-based, industry-led set of standards, guidelines, best practices, methodologies, procedures, and processes to cost-effectively reduce cyber risks to critical infrastructure (as defined under subsection (e));”</content>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tI/s101/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Scope and Limitations.—</heading><content style="-uslm-dtd:text">Section 2 of the National Institute of Standards and Technology Act (15 U.S.C. 272) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Cyber Risks.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">In carrying out the activities under subsection (c)(15), the Director—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">shall—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">coordinate closely and regularly with relevant private sector personnel and entities, critical infrastructure owners and operators, and other relevant industry organizations, including Sector Coordinating Councils and Information Sharing and Analysis Centers, and incorporate industry expertise;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">consult with the heads of agencies with national security responsibilities, sector-specific agencies and other appropriate agencies, State and local governments, the governments of other nations, and international organizations;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">identify a prioritized, flexible, repeatable, performance-based, and cost-effective approach, including information security measures and controls,  that may be voluntarily adopted by owners and operators of critical infrastructure to help them identify, assess, and manage cyber risks;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><chapeau style="-uslm-dtd:text">include methodologies—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">to identify and mitigate impacts of the cybersecurity measures or controls on business confidentiality; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">to protect individual privacy and civil liberties;</content>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">incorporate voluntary consensus standards and industry best practices;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="vi">“(vi) </num><content style="-uslm-dtd:text">align with voluntary international standards to the fullest extent possible;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="vii">“(vii) </num><content style="-uslm-dtd:text">prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="viii">“(viii) </num><content style="-uslm-dtd:text">include such other similar and consistent elements as the Director considers necessary; and</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">shall not prescribe or otherwise require—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the use of specific solutions;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the use of specific information or communications technology products or services; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">that information or communications technology products or services be designed, developed, or manufactured in a particular manner.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Limitation.—</heading><content style="-uslm-dtd:text">Information shared with or provided to the Institute for the purpose of the activities described under subsection (c)(15) shall not be used by any Federal, State, tribal, or local department or agency to regulate the activity of any entity. Nothing in this paragraph shall be construed to modify any regulatory requirement to report or submit information to a Federal, State, tribal, or local department or agency.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this subsection:</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Critical infrastructure.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">critical infrastructure</quotedText>’ has the meaning given the term in section 1016(e) of the USA PATRIOT Act of 2001 (42 U.S.C. 5195c(e)).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Sector-specific agency.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">sector-specific agency</quotedText>’ means the Federal department or agency responsible for providing institutional knowledge and specialized expertise as well as leading, facilitating, or supporting the security and resilience programs and associated activities of its designated critical infrastructure sector in the all-hazards environment.”</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection></quotedContent>.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tI/s101/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Study and Reports.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tI/s101/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Study.—</heading><chapeau style="-uslm-dtd:text">The Comptroller General of the United States shall conduct a study that assesses—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tI/s101/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the progress made by the Director of the National Institute of Standards and Technology in facilitating the development of standards and procedures to reduce cyber risks to critical infrastructure in accordance with section 2(c)(15) of the National Institute of Standards and Technology Act, as added by this section;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tI/s101/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the extent to which the Director’s facilitation efforts are consistent with the directive in such section that the  development of such standards and procedures be voluntary and led by industry representatives;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tI/s101/c/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the extent to which other Federal agencies have promoted and sectors of critical infrastructure (as defined in section 1016(e) of the USA PATRIOT Act of 2001 (42 U.S.C. 5195c(e))) have adopted a voluntary, industry-led set of standards, guidelines, best practices, methodologies, procedures, and processes to reduce cyber risks to critical infrastructure in accordance with such section 2(c)(15);</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tI/s101/c/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the reasons behind the decisions of sectors of critical infrastructure (as defined in subparagraph (C)) to adopt or to not adopt the voluntary standards described in subparagraph (C); and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tI/s101/c/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the extent to which such voluntary standards have proved successful in protecting critical infrastructure from cyber threats.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tI/s101/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Reports.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, and every 2 years thereafter for the following 6 years, the Comptroller General shall submit a report, which summarizes the findings of the study conducted under paragraph (1), to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/113/274/tII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">CYBERSECURITY RESEARCH AND DEVELOPMENT </heading>
+            <section identifier="/us/sComp/113/274/tII/s201" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7431">15 U.S.C. 7431</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FEDERAL CYBERSECURITY RESEARCH AND DEVELOPMENT. </heading>
+                <subsection identifier="/us/sComp/113/274/tII/s201/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Fundamental Cybersecurity Research.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Federal cybersecurity research and development strategic plan.—</heading><chapeau style="-uslm-dtd:text">The heads of the applicable agencies and departments, working through the National Science and Technology Council and the Networking and Information Technology Research and Development Program, shall develop and update every 4 years a Federal cybersecurity research and development strategic plan (referred to in this subsection as the “<quotedText style="-uslm-dtd:quote">strategic plan</quotedText>”) based on an assessment of cybersecurity risk to guide the overall direction of Federal cybersecurity and information assurance research and development for information technology and networking systems. The heads of the applicable agencies and departments shall build upon existing programs and plans to develop the strategic plan to meet objectives in cybersecurity, such as—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">how to design and build complex software-intensive systems that are secure and reliable when first deployed;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">how to test and verify that software and hardware, whether developed locally or obtained from a third party, is free of significant known security flaws;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">how to test and verify that software and hardware obtained from a third party correctly implements stated functionality, and only that functionality;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">how to guarantee the privacy of an individual, including that individual’s identity, information, and lawful transactions when stored in distributed systems or transmitted over networks;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">how to build new protocols to enable the Internet to have robust security as one of the key capabilities of the Internet;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">how to determine the origin of a message transmitted over the Internet;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">how to support privacy in conjunction with improved security;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/H" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">how to address the problem of insider threats;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/I" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">how improved consumer education and digital literacy initiatives can address human factors that contribute to cybersecurity;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/J" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="J">(J) </num><content style="-uslm-dtd:text">how to protect information processed, transmitted, or stored using cloud computing or transmitted through wireless services; </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/K" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="K">(K) </num><content style="-uslm-dtd:text">implementation of section 205 through research and development on the topics identified under subsection (a) of such section; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/1/L" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="L">(L) </num><content style="-uslm-dtd:text">any additional objectives the heads of the applicable agencies and departments, in coordination with the head of any relevant Federal agency and with input from stakeholders, including appropriate national laboratories, industry, and academia, determine appropriate.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirements.—</heading>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Contents of plan.—</heading><chapeau style="-uslm-dtd:text">The strategic plan shall—</chapeau>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">specify and prioritize near-term, mid-term, and long-term research objectives, including objectives associated with the research identified in section 4(a)(1) of the Cyber Security Research and Development Act (15 U.S.C. 7403(a)(1));</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">specify how the near-term objectives described in clause (i) complement research and development areas in which the private sector is actively engaged;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">describe how the heads of the applicable agencies and departments will focus on innovative, transformational technologies with the potential to enhance the security, reliability, resilience, and trustworthiness of the digital infrastructure, and to protect consumer privacy;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/A/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">describe how the heads of the applicable agencies and departments will foster the rapid transfer of research and development results into new cybersecurity technologies and applications for the timely benefit of society and the national interest, including through the dissemination of best practices and other outreach activities;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/A/v" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">describe how the heads of the applicable agencies and departments will establish and maintain a national research infrastructure for creating, testing, and evaluating the next generation of secure networking and information technology systems; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/A/vi" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">describe how the heads of the applicable agencies and departments will facilitate access by academic researchers to the infrastructure described in clause (v), as well as to relevant data, including event data.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Private sector efforts.—</heading><content style="-uslm-dtd:text">In developing, implementing, and updating the strategic plan, the heads of the applicable agencies and departments, working through the National Science and Technology Council and Networking and Information Technology Research and Development Program, shall work in close cooperation with  industry, academia, and other interested stakeholders to ensure, to the extent possible, that Federal cybersecurity research and development is not duplicative of private sector efforts.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Recommendations.—</heading><chapeau style="-uslm-dtd:text">In developing and updating the strategic plan the heads of the applicable agencies and departments shall solicit recommendations and advice from—</chapeau>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the advisory committee established under section 101(b)(1) of the High-Performance Computing Act of 1991 (15 U.S.C. 5511(b)(1)); and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a wide range of stakeholders, including industry, academia, including representatives of minority serving institutions and community colleges, National Laboratories, and other relevant organizations and institutions.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Implementation roadmap.—</heading><chapeau style="-uslm-dtd:text">The heads of the applicable agencies and departments, working through the National Science and Technology Council and Networking and Information Technology Research and Development Program, shall develop and annually update an implementation roadmap for the strategic plan. The implementation roadmap shall—</chapeau>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/D/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">specify the role of each Federal agency in carrying out or sponsoring research and development to meet the research objectives of the strategic plan, including a description of how progress toward the research objectives will be evaluated;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/D/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">specify the funding allocated to each major research objective of the strategic plan and the source of funding by agency for the current fiscal year;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/D/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">estimate the funding required for each major research objective of the strategic plan for the following 3 fiscal years; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tII/s201/a/2/D/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">track ongoing and completed Federal cybersecurity research and development projects.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Reports to congress.—</heading><chapeau style="-uslm-dtd:text">The heads of the applicable agencies and departments, working through the National Science and Technology Council and Networking and Information Technology Research and Development Program, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the strategic plan not later than 1 year after the date of enactment of this Act;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">each quadrennial update to the strategic plan; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/a/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the implementation roadmap under subparagraph (D), and its annual updates, which shall be appended to the annual report required under section 101(a)(2)(D) of the High-Performance Computing Act of 1991 (15 U.S.C. 5511(a)(2)(D)).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Definition of applicable agencies and departments.—</heading><content style="-uslm-dtd:text">In this subsection, the term “<quotedText style="-uslm-dtd:quote">applicable agencies and departments</quotedText>” means the agencies and departments identified in clauses (i) through (xi) of section 101(a)(3)(B) of the High-Performance Computing Act of 1991 (15 U.S.C. 5511(a)(3)(B)) or designated under clause (xii) of that section.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tII/s201/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Cybersecurity Practices Research.—</heading><chapeau style="-uslm-dtd:text">The Director of the National Science Foundation shall support research that—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">develops, evaluates, disseminates, and integrates new cybersecurity practices and concepts into the core curriculum of computer science programs and of other programs where graduates of such programs have a substantial probability of developing software after graduation, including new practices and concepts relating to secure coding education and improvement programs; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">develops new models for professional development of faculty in cybersecurity education, including secure coding development.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tII/s201/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Cybersecurity Modeling and Test Beds.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Review.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Director of the National Science Foundation, in coordination with the Director of the Office of Science and Technology Policy, shall conduct a review of cybersecurity test beds in existence on the date of enactment of this Act to inform the grants under paragraph (2). The review shall include an assessment of whether a sufficient number of cybersecurity test beds are available to meet the research needs under the Federal cybersecurity research and development strategic plan. Upon completion, the Director shall submit the review to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Additional cybersecurity modeling and test beds.—</heading>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/c/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">If the Director of the National Science Foundation, after the review under paragraph (1), determines that the research needs under the Federal cybersecurity research and development strategic plan require the establishment of additional cybersecurity test beds, the Director of the National Science Foundation, in coordination with the Secretary of Commerce and the Secretary of Homeland Security, may award grants to institutions of higher education or research and development non-profit institutions to establish cybersecurity test beds.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/c/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Requirement.—</heading><content style="-uslm-dtd:text">The cybersecurity test beds under subparagraph (A) shall be sufficiently robust in order to model the scale and complexity of real-time cyber attacks and defenses on real world networks and environments.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s201/c/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Assessment required.—</heading><content style="-uslm-dtd:text">The Director of the National Science Foundation, in coordination with the Secretary of Commerce and the Secretary of Homeland Security, shall evaluate the effectiveness of any grants awarded under this subsection in meeting the objectives of the Federal cybersecurity research and development strategic plan not later than 2 years after the review under paragraph (1) of this subsection, and periodically thereafter.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tII/s201/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Coordination With Other Research Initiatives.—</heading><chapeau style="-uslm-dtd:text">In accordance with the responsibilities under section 101 of the High-Performance Computing Act of 1991 (15 U.S.C. 5511), the Director of the Office of Science and Technology Policy shall coordinate, to the extent practicable, Federal research and development activities under this section with other ongoing research and development security-related initiatives, including research being conducted by—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the National Science Foundation;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the National Institute of Standards and Technology;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the Department of Homeland Security;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/d/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">other Federal agencies;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/d/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">other Federal and private research laboratories, research entities, and universities;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/d/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">institutions of higher education;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/d/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">relevant nonprofit organizations; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/d/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">international partners of the United States.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tII/s201/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">National Science Foundation Computer and Network Security Research Grant Areas.—</heading><chapeau style="-uslm-dtd:text">Section 4(a)(1) of the Cyber Security Research and Development Act (15 U.S.C. 7403(a)(1)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subparagraph (H), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subparagraph (I), by striking the period at the end and inserting a semicolon; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s201/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="J">“(J) </num><content style="-uslm-dtd:text">secure fundamental protocols that are integral to inter-network communications and data exchange;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="K">“(K) </num><chapeau style="-uslm-dtd:text">secure software engineering and software assurance, including—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">programming languages and systems that include fundamental security features;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">portable or reusable code that remains secure when deployed in various environments;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">verification and validation technologies to ensure that requirements and specifications have been implemented; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">models for comparison and metrics to assure that required standards have been met;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="L">“(L) </num><chapeau style="-uslm-dtd:text">holistic system security that—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">addresses the building of secure systems from trusted and untrusted components;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">proactively reduces vulnerabilities;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">addresses insider threats; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">supports privacy in conjunction with improved security;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="M">“(M) </num><content style="-uslm-dtd:text">monitoring and detection;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="N">“(N) </num><content style="-uslm-dtd:text">mitigation and rapid recovery methods;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="O">“(O) </num><content style="-uslm-dtd:text">security of wireless networks and mobile devices; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="P">“(P) </num><content style="-uslm-dtd:text">security of cloud infrastructure and services.”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tII/s201/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Research on the Science of Cybersecurity.—</heading><content style="-uslm-dtd:text">The head of each agency and department identified under section 101(a)(3)(B) of the High-Performance Computing Act of 1991 (15 U.S.C. 5511(a)(3)(B)), through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/113/274/tII/s202" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">COMPUTER AND NETWORK SECURITY RESEARCH CENTERS. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">Section 4(b) of the Cyber Security Research and Development Act (15 U.S.C. 7403(b)) is amended—</chapeau>
+                <paragraph identifier="/us/sComp/113/274/tII/s202/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (3), by striking “<quotedText style="-uslm-dtd:quote">the research areas</quotedText>” and inserting the following: “<quotedText style="-uslm-dtd:quote">improving the security and resiliency  of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas</quotedText>”;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/274/tII/s202/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">the center</quotedText>” in paragraph (4)(D) and inserting “<quotedText style="-uslm-dtd:quote">the Center</quotedText>”; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/274/tII/s202/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in paragraph (5)—</chapeau>
+                    <subparagraph identifier="/us/sComp/113/274/tII/s202/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end of subparagraph (C);</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/274/tII/s202/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking the period at the end of subparagraph (D) and inserting a semicolon; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/274/tII/s202/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">the demonstrated capability of the applicant to conduct high performance computation integral to complex computer and network security research, through on-site or off-site computing;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">“(F) </num><content style="-uslm-dtd:text">the applicant’s affiliation with private sector entities involved with industrial research described in subsection (a)(1);</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">“(G) </num><content style="-uslm-dtd:text">the capability of the applicant to conduct research in a secure environment;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="H">“(H) </num><content style="-uslm-dtd:text">the applicant’s affiliation with existing research programs of the Federal Government;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">the applicant’s experience managing public-private partnerships to transition new technologies into a commercial setting or the government user community;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="J">“(J) </num><content style="-uslm-dtd:text">the capability of the applicant to conduct interdisciplinary cybersecurity research, basic and applied, such as in law, economics, or behavioral sciences; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="K">“(K) </num><content style="-uslm-dtd:text">the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and high-performance computing, nanotechnology, or industrial control systems.”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </subparagraph>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/113/274/tII/s203" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="203">SEC. 203. </num><heading style="-uslm-dtd:header">CYBERSECURITY AUTOMATION AND CHECKLISTS FOR GOVERNMENT SYSTEMS. </heading>
+                <content class="block" style="-uslm-dtd:text">Section 8(c) of the Cyber Security Research and Development Act (15 U.S.C. 7406(c)) is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Security Automation and Checklists for Government Systems.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology shall, as necessary, develop and revise security automation standards, associated reference materials (including protocols), and checklists providing settings and option selections that minimize the security risks associated with each information technology hardware or software system and security tool that is, or is likely to become, widely used within the Federal Government, thereby enabling standardized and interoperable technologies, architectures, and frameworks for continuous monitoring of information security within the Federal Government.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Priorities for development.—</heading><chapeau style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology shall establish priorities for the development of standards, reference materials, and checklists under this subsection on the basis of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the security risks associated with the use of the system;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the number of agencies that use a particular system or security tool;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">the usefulness of the standards, reference materials, or checklists to Federal agencies that are users or potential users of the system;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">the effectiveness of the associated standard, reference material, or checklist in creating or enabling continuous monitoring of information security; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">such other factors as the Director of the National Institute of Standards and Technology determines to be appropriate.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Excluded systems.—</heading><content style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology may exclude from the application of paragraph (1) any information technology hardware or software system or security tool for which such Director determines that the development of a standard, reference material, or checklist is inappropriate because of the infrequency of use of the system, the obsolescence of the system, or the lack of utility or impracticability of developing a standard, reference material, or checklist for the system.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Dissemination of standards and related materials.—</heading><content style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology shall ensure that Federal agencies are informed of the availability of any standard, reference material, checklist, or other item developed under this subsection.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">“(5) </num><heading style="-uslm-dtd:header">Agency use requirements.—</heading><chapeau style="-uslm-dtd:text">The development of standards, reference materials, and checklists under paragraph (1) for an information technology hardware or software system or tool does not—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">require any Federal agency to select the specific settings or options recommended by the standard, reference material, or checklist for the system;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">establish conditions or prerequisites for Federal agency procurement or deployment of any such system;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">imply an endorsement of any such system by the Director of the National Institute of Standards and Technology; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">preclude any Federal agency from procuring or deploying other information technology hardware or software systems for which no such standard, reference material, or checklist has been developed or identified under paragraph (1).”</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection></quotedContent>.</content>
+            </section>
+            <section identifier="/us/sComp/113/274/tII/s204" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="204">SEC. 204. </num><heading style="-uslm-dtd:header">NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY CYBERSECURITY RESEARCH AND DEVELOPMENT. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">Section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g-3) is amended—</chapeau>
+                <paragraph identifier="/us/sComp/113/274/tII/s204/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating subsection (e) as subsection (f); and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/274/tII/s204/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after subsection (d) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Intramural Security Research.—</heading><chapeau style="-uslm-dtd:text">As part of the research activities conducted in accordance with subsection (d)(3), the Institute shall, to the extent practicable and appropriate—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">conduct a research program to develop a unifying and standardized identity, privilege, and access control management framework for the execution of a wide variety of resource protection policies and that is amenable to implementation within  a wide variety of existing and emerging computing environments;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">carry out research associated with improving the security of information systems and networks;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">carry out research associated with improving the testing, measurement, usability, and assurance of information systems and networks;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">carry out research associated with improving security of industrial control systems;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">carry out research associated with improving the security and integrity of the information technology supply chain; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">“(6) </num><content style="-uslm-dtd:text">carry out any additional research the Institute determines appropriate.”</content>
+                        </paragraph>
+                    </subsection></quotedContent>.</content>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/113/274/tII/s205" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="205">SEC. 205. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7432">15 U.S.C. 7432</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL CYBERSECURITY CHALLENGES. </heading>
+                <subsection identifier="/us/sComp/113/274/tII/s205/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment of National Cybersecurity Challenges.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tII/s205/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">To achieve high-priority breakthroughs in cybersecurity by 2028, the Secretary of Commerce shall establish the following national cybersecurity challenges:</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/a/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Economics of a cyber attack.—</heading><content style="-uslm-dtd:text">Building more resilient systems that measurably and exponentially raise adversary costs of carrying out common cyber attacks.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/a/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Cyber training.—</heading>
+                            <clause identifier="/us/sComp/113/274/tII/s205/a/1/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">Empowering the people of the United States with an appropriate and measurably sufficient level of digital literacy to make safe and secure decisions online.</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tII/s205/a/1/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">Developing a cybersecurity workforce with measurable skills to protect and maintain information systems.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/a/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Emerging technology.—</heading><content style="-uslm-dtd:text">Advancing cybersecurity efforts in response to emerging technology, such as artificial intelligence, quantum science, next generation communications, autonomy, data science, and computational technologies.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/a/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Reimagining digital identity.—</heading><content style="-uslm-dtd:text">Maintaining a high sense of usability while improving the privacy, security, and safety of online activity of individuals in the United States.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/a/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><heading style="-uslm-dtd:header">Federal agency resilience.—</heading><content style="-uslm-dtd:text">Reducing cybersecurity risks to Federal networks and systems, and improving the response of Federal agencies to cybersecurity incidents on such networks and systems.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s205/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Coordination.—</heading><content style="-uslm-dtd:text">In establishing the challenges under paragraph (1), the Secretary shall coordinate with the Secretary of Homeland Security on the challenges under subparagraphs (B) and (E) of such paragraph.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tII/s205/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Pursuit of National Cybersecurity Challenges.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tII/s205/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of this section, the Secretary, acting through the Under Secretary of Commerce for Standards and Technology, shall commence efforts to pursue the national cybersecurity challenges established under subsection (a).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s205/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Competitions.—</heading><content style="-uslm-dtd:text">The efforts required by paragraph (1) shall include carrying out programs to award prizes, including cash and noncash prizes, competitively pursuant to the authorities and processes established under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) or any other applicable provision of law.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s205/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Additional authorities.—</heading><content style="-uslm-dtd:text">In carrying out paragraph (1), the Secretary may enter into and perform such other transactions as the Secretary considers necessary and on such terms as the Secretary considers appropriate.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s205/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Coordination.—</heading><chapeau style="-uslm-dtd:text">In pursuing national cybersecurity challenges under paragraph (1), the Secretary shall coordinate with the following:</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/b/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The Director of the National Science Foundation.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/b/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The Secretary of Homeland Security.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/b/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">The Director of the Defense Advanced Research Projects Agency.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/b/4/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">The Director of the Office of Science and Technology Policy.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/b/4/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">The Director of the Office of Management and Budget.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/b/4/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">The Administrator of the General Services Administration.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/b/4/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">The Federal Trade Commission.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/b/4/H" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">The heads of such other Federal agencies as the Secretary of Commerce considers appropriate for purposes of this section.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s205/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Solicitation of acceptance of funds.—</heading>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/b/5/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), the Secretary shall request and accept funds from other Federal agencies, State, United States territory, local, or Tribal government agencies, private sector for-profit entities, and nonprofit entities to support efforts to pursue a national cybersecurity challenge under this section.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/b/5/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Rule of construction.—</heading><content style="-uslm-dtd:text">Nothing in subparagraph (A) may be construed to require any person or entity to provide funds or otherwise participate in an effort or competition under this section.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tII/s205/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Recommendations.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tII/s205/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">In carrying out this section, the Secretary of Commerce shall designate an advisory council to seek recommendations.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s205/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Elements.—</heading><chapeau style="-uslm-dtd:text">The recommendations required by paragraph (1) shall include the following:</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/c/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">A scope for efforts carried out under subsection (b).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tII/s205/c/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Metrics to assess submissions for prizes under competitions carried out under subsection (b) as the submissions pertain to the national cybersecurity challenges established under subsection (a).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tII/s205/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">No additional compensation.—</heading><content style="-uslm-dtd:text">The Secretary may not provide any additional compensation, except for travel expenses, to a member of the advisory council designated under paragraph (1) for participation in the advisory council.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/113/274/tIII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">EDUCATION AND WORKFORCE DEVELOPMENT </heading>
+            <section identifier="/us/sComp/113/274/tIII/s301" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7441">15 U.S.C. 7441</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">CYBERSECURITY COMPETITIONS AND CHALLENGES. </heading>
+                <subsection identifier="/us/sComp/113/274/tIII/s301/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Secretary of Commerce, Director of the National Science Foundation, and Secretary of Homeland Security, in consultation with the Director of the Office of Personnel Management, shall—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">support competitions and challenges under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) (as amended by section 105 of the America COMPETES Reauthorization Act of 2010 (124 Stat. 3989)) or any other provision of law, as appropriate—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s301/a/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to identify, develop, and recruit talented individuals to perform duties relating to the security of information technology in Federal, State, local, and tribal government agencies, and the private sector; or</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s301/a/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to stimulate innovation in basic and applied cybersecurity research, technology development, and prototype demonstration that has the potential for application to the information technology activities of the Federal Government; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">ensure the effective operation of the competitions and challenges under this section.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s301/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Participation.—</heading><chapeau style="-uslm-dtd:text">Participants in the competitions and challenges under subsection (a)(1) may include—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">students enrolled in grades 9 through 12;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">students enrolled in a postsecondary program of study leading to a baccalaureate degree at an institution of higher education;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">students enrolled in a postbaccalaureate program of study at an institution of higher education;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">institutions of higher education and research institutions;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">veterans; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">other groups or individuals that the Secretary of Commerce, Director of the National Science Foundation, and Secretary of Homeland Security determine appropriate.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s301/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Affiliation and Cooperative Agreements.—</heading><chapeau style="-uslm-dtd:text">Competitions and challenges under this section may be carried out through affiliation and cooperative agreements with—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Federal agencies;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">regional, State, or school programs supporting the development of cyber professionals;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">State, local, and tribal governments; or</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">other private sector organizations.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s301/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Areas of Skill.—</heading><chapeau style="-uslm-dtd:text">Competitions and challenges under subsection (a)(1)(A) shall be designed to identify, develop, and recruit exceptional talent relating to—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">ethical hacking;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">penetration testing;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">vulnerability assessment;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/d/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">continuity of system operations;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/d/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">security in design;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/d/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">cyber forensics;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/d/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">offensive and defensive cyber operations; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/d/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">other areas the Secretary of Commerce, Director of the National Science Foundation, and Secretary of Homeland Security consider necessary to fulfill the cybersecurity mission.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s301/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Topics.—</heading><chapeau style="-uslm-dtd:text">In selecting topics for competitions and challenges under subsection (a)(1), the Secretary of Commerce, Director of the National Science Foundation, and Secretary of Homeland Security—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">shall consult widely both within and outside the Federal Government; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s301/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">may empanel advisory committees.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s301/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Internships.—</heading><content style="-uslm-dtd:text">The Director of the Office of Personnel Management may support, as appropriate, internships or other work experience in the Federal Government to the winners of the competitions and challenges under this section.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/113/274/tIII/s302" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7442">15 U.S.C. 7442</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FEDERAL CYBER SCHOLARSHIP-FOR-SERVICE PROGRAM. </heading>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management and Secretary of Homeland Security, shall continue a Federal cyber scholarship-for-service program to recruit and train the next generation of information technology professionals, industrial control system security professionals, and security managers to meet the needs of the cybersecurity mission for Federal, State, local, and tribal governments.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Program Description and Components.—</heading><chapeau style="-uslm-dtd:text">The Federal Cyber Scholarship-for-Service Program shall—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">provide scholarships through qualified institutions of higher education, including community colleges, to students who are enrolled in programs of study at institutions of higher education leading to degrees or specialized program certifications in the cybersecurity fieldand cybersecurity-related aspects of other related fields as appropriate, including artificial intelligence, quantum computing and aerospace;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">provide the scholarship recipients with summer internship opportunities or other meaningful temporary appointments in the Federal information technology and cybersecurity workforce; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">prioritize the placement of scholarship recipients fulfilling the post-award employment obligation under this section to ensure that—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/b/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">not less than 70 percent of such recipients are placed in an executive agency (as defined in section 105 of title 5, United States Code);</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/b/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">not more than 10 percent of such recipients are placed as educators in the field of cybersecurity at qualified institutions of higher education that provide scholarships under this section; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/b/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">not more than 20 percent of such recipients are placed in positions described in paragraphs (2) through (5) of subsection (d); and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">provide awards to improve cybersecurity education, including by seeking to provide awards in coordination with other relevant agencies for summer cybersecurity camp or other experiences, including teacher training, in each of the 50 States, at the kindergarten through grade 12 level—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/b/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to increase interest in cybersecurity careers;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/b/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to help students practice correct and safe online behavior and understand the foundational principles of cybersecurity;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/b/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to improve teaching methods for delivering cybersecurity content for kindergarten through grade 12 computer science curricula; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/b/4/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">to promote teacher recruitment in the field of cybersecurity.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Scholarship Amounts.—</heading><content style="-uslm-dtd:text">Each scholarship under subsection (b) shall be in an amount that covers the student’s tuition and fees at the institution under subsection (b)(1) for not more than 3 years and provides the student with an additional stipend.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Post-award Employment Obligations.—</heading><chapeau style="-uslm-dtd:text">Each scholarship recipient, as a condition of receiving a scholarship under the program, shall enter into an agreement under which the recipient agrees to work for a period equal to the length of the scholarship, following receipt of the student’s degree, in the cybersecurity mission of—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">an executive agency (as defined in section 105 of title 5, United States Code);</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Congress, including any agency, entity, office, or commission established in the legislative branch;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">an interstate agency;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/d/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">a State, local, or Tribal government; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/d/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">a State, local, or Tribal government-affiliated non-profit that is considered to be critical infrastructure (as defined in section 1016(e) of the USA Patriot Act (42 U.S.C. 5195c(e)); or</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/d/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">as provided by subsection (b)(3)(B), a qualified institution of higher education.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Hiring Authority.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Appointment in excepted service.—</heading><content style="-uslm-dtd:text">Notwithstanding any provision of chapter 33 of title 5, United States Code, governing appointments in the competitive service, an agency shall appoint in the excepted service an individual who has completed the eligible degree program for which a scholarship was awarded.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Noncompetitive conversion.—</heading><content style="-uslm-dtd:text">Except as provided in paragraph (4), upon fulfillment of the service term, an employee appointed under paragraph (1) may be converted noncompetitively to term, career-conditional or career appointment.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Timing of conversion.—</heading><content style="-uslm-dtd:text">An agency may noncompetitively convert a term employee appointed under paragraph (2) to a career-conditional or career appointment before the term appointment expires.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/e/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Authority to decline conversion.—</heading><content style="-uslm-dtd:text">An agency may decline to make the noncompetitive conversion or appointment under paragraph (2) for cause.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Eligibility.—</heading><chapeau style="-uslm-dtd:text">To be eligible to receive a scholarship under this section, an individual shall—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/f/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">be a citizen or lawful permanent resident of the United States;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/f/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">demonstrate a commitment to a career in improving the security of information technology;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/f/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">have demonstrated a high level of competency in relevant knowledge, skills, and abilities, as defined by the national cybersecurity awareness and education program under section 303;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/f/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">be a full-time student in an eligible degree program at a qualified institution of higher education, as determined by the Director of the National Science Foundation, except that in the case of a student who is enrolled in a community college, be a student pursuing a degree on a less than full-time basis, but not less than half-time basis; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/f/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">enter into an agreement accepting and acknowledging the post award employment obligations, pursuant to section (d);</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/f/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">accept and acknowledge the conditions of support under section (g); and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/f/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">accept all terms and conditions of a scholarship under this section.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/g" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Conditions of Support.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/g/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">As a condition of receiving a scholarship under this section, a recipient shall agree to provide the Office of Personnel Management (in coordination with the National Science Foundation) and the qualified institution of higher education with annual verifiable documentation of post-award employment and up-to-date contact information.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/g/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Terms.—</heading><chapeau style="-uslm-dtd:text">A scholarship recipient under this section shall be liable to the United States as provided in subsection (i) if the individual—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/g/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">fails to maintain an acceptable level of academic standing at the applicable institution of higher education, as determined by the Director of the National Science Foundation;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/g/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">is dismissed from the applicable institution of higher education for disciplinary reasons;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/g/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">withdraws from the eligible degree program before completing the program;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/g/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">declares that the individual does not intend to fulfill the post-award employment obligation under this section; </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/g/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">fails to maintain or fulfill any of the post-graduation or post-award obligations or requirements of the individual; or</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/g/2/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">fails to fulfill the requirements of paragraph (1).</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/h" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Monitoring Compliance.—</heading><chapeau style="-uslm-dtd:text">As a condition of participating in the program, a qualified institution of higher education shall—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/h/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">enter into an agreement with the Director of the National Science Foundation, to monitor the compliance of scholarship recipients with respect to their post-award employment obligations; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/h/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">provide to the Director of the National Science Foundation and the Director of the Office of Personnel Management, on an annual basis, the post-award employment documentation required under subsection (g)(1) for scholarship recipients through the completion of their post-award employment obligations.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/i" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Amount of Repayment.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/i/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Less than 1 year of service.—</heading><chapeau style="-uslm-dtd:text">If a circumstance described in subsection (g)(2) occurs before the completion of 1 year of a post-award employment obligation under this section, the total amount of scholarship awards received by the individual under this section shall—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/i/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">be repaid; or</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/i/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">be treated as a loan to be repaid in accordance with subsection (j).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/i/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">
+<inline style="-uslm-dtd:enum-in-header">1</inline> or more years of service.—</heading><chapeau style="-uslm-dtd:text">If a circumstance described in subparagraph (D) or (E) of subsection (g)(2) occurs after the completion of 1 or more years of a post-award employment obligation under this section, the total amount of scholarship awards received by the individual under this section, reduced by the ratio of the number of years of service completed divided by the number of years of service required, shall—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/i/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">be repaid; or</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/i/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">be treated as a loan to be repaid in accordance with subsection (j).</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/j" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="j">(j) </num><heading style="-uslm-dtd:header">Repayments.—</heading><chapeau style="-uslm-dtd:text">A loan described subsection (i) shall—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/j/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">be treated as a Federal Direct Unsubsidized Stafford Loan under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.); and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/j/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">be subject to repayment, together with interest thereon accruing from the date of the scholarship award, in accordance with terms and conditions specified by the Director of the National Science Foundation (in consultation with the Secretary of Education) in regulations promulgated to carry out this subsection.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/k" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="k">(k) </num><heading style="-uslm-dtd:header">Collection of Repayment.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/k/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">In the event that a scholarship recipient is required to repay the scholarship award under this section, the qualified institution of higher education providing the scholarship shall—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/k/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">determine the repayment amounts and notify the recipient , the Director of the National Science Foundation, and the Director of the Office of Personnel Management of the amounts owed; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/k/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">collect the repayment amounts within a period of time as determined by the Director of the National Science Foundation, or the repayment amounts shall be treated as a loan in accordance with subsection (j).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/k/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Returned to treasury.—</heading><content style="-uslm-dtd:text">Except as provided in paragraph (3), any repayment under this subsection shall be returned to the Treasury of the United States.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/k/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Retain percentage.—</heading><content style="-uslm-dtd:text">A qualified institution of higher education may retain a percentage of any repayment the institution collects under this subsection to defray administrative costs associated with the collection. The Director of the National Science Foundation shall establish a single, fixed percentage that will apply to all eligible entities.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/l" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="l">(l) </num><heading style="-uslm-dtd:header">Exceptions.—</heading><content style="-uslm-dtd:text">The Director of the National Science Foundation may provide for the partial or total waiver or suspension of any service or payment obligation by an individual under this section whenever compliance by the individual with the obligation is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be unconscionable.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s302/m" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="m">(m) </num><heading style="-uslm-dtd:header">Public Information.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/m/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Evaluation.—</heading><chapeau style="-uslm-dtd:text">The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall periodically evaluate and make public, in a manner that protects the personally identifiable information of scholarship recipients, information on the success of recruiting individuals for scholarships under this section and on hiring and retaining those individuals in the public sector cybersecurity workforce, including information on—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">placement rates;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">where students are placed, including job titles and descriptions;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">salary ranges for students not released from obligations under this section;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">how long after graduation students are placed;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">how long students stay in the positions they enter upon graduation;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/1/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">how many students are released from obligations; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/1/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">what, if any, remedial training is required.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/m/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Reports.—</heading><chapeau style="-uslm-dtd:text">The Director of the National Science Foundation, in coordination with the Office of Personnel Management, shall submit, not less frequently than once every two years, to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology and the Committee on Oversight and Reform of the House of Representatives a report, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the results of the evaluation under paragraph (1);</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the disparity in any reporting between scholarship recipients and their respective institutions of higher education; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">any recent statistics regarding the size, composition, and educational requirements of the Federal cyber workforce..<ref class="footnoteRef" idref="IDC39C1CADF346460AB0D9E5534CA0C4D1" style="-uslm-dtd:footnote-ref">1</ref></content><footnote id="IDC39C1CADF346460AB0D9E5534CA0C4D1" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Two periods are so in law. See amendment made by section 9404(5) of Public Law 116–283.</p></footnote>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s302/m/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Resources.—</heading><chapeau style="-uslm-dtd:text">The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall provide consolidated and user-friendly online resources for prospective scholarship recipients, including, to the extent practicable—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">searchable, up-to-date, and accurate information about participating institutions of higher education and job opportunities related to the field of cybersecurity; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s302/m/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a modernized description of cybersecurity careers.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/113/274/tIII/s303" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="303">SEC. 303. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7443">15 U.S.C. 7443</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL CYBERSECURITY AWARENESS AND EDUCATION PROGRAM. </heading>
+                <subsection identifier="/us/sComp/113/274/tIII/s303/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">National Cybersecurity Awareness and Education Program.—</heading><chapeau style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology (referred to in this section as the “<quotedText style="-uslm-dtd:quote">Director</quotedText>”), in consultation with appropriate Federal agencies, industry, educational institutions, National Laboratories, the Networking and Information Technology Research and Development program, and other organizations shall continue to coordinate a national cybersecurity awareness and education program, that includes activities such as—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the widespread dissemination of cybersecurity technical standards and best practices identified by the Director;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">efforts to make cybersecurity best practices usable by individuals, small to medium-sized businesses, educational institutions, and State, local, and tribal governments;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">increasing public awareness of cybersecurity, cyber safety, and cyber ethics;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">increasing the understanding of State, local, and tribal governments, institutions of higher education, and private sector entities of—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/a/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the benefits of ensuring effective risk management of information technology versus the costs of failure to do so; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/a/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the methods to mitigate and remediate vulnerabilities;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">supporting formal cybersecurity education programs at all education levels to prepare and improve a skilled cybersecurity and computer science workforce for the private sector and Federal, State, local, and tribal government;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">supporting efforts to identify cybersecurity workforce skill gaps in public and private sectors;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/a/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">facilitating Federal programs to advance cybersecurity education, training, and workforce development;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/a/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">in coordination with the Department of Defense, the Department of Homeland Security, and other appropriate agencies, considering any specific needs of the cybersecurity workforce of critical infrastructure, including cyber physical systems and control systems;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/a/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">advising the Director of the Office of Management and Budget, as needed, in developing metrics to measure the effectiveness and effect of programs and initiatives to advance the cybersecurity workforce; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/a/10" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">promoting initiatives to evaluate and forecast future cybersecurity workforce needs of the Federal Government and develop strategies for recruitment, training, and retention.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s303/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Considerations.—</heading><content style="-uslm-dtd:text">In carrying out the authority described in subsection (a), the Director, in consultation with appropriate Federal agencies, shall leverage existing programs designed to inform the public of safety and security of products or services, including self-certifications and independently verified assessments regarding the quantification and valuation of information security risk.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s303/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Strategic Plan.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director, in cooperation with relevant Federal agencies and other stakeholders, shall build upon programs and plans in effect as of the date of enactment of this Act to develop and implement a strategic plan to guide Federal programs and activities in support of the national cybersecurity awareness and education program under subsection (a).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirement.—</heading><content style="-uslm-dtd:text">The strategic plan developed and implemented under paragraph (1) shall include an indication of how the Director will carry out this section.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s303/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, and every 5 years thereafter, the Director shall transmit the strategic plan under subsection (c) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s303/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Cybersecurity Metrics.—</heading><content style="-uslm-dtd:text">In carrying out subsection (a), the Director of the Office of Management and Budget may seek input from the Director of the National Institute of Standards and Technology, in coordination with the Department of Homeland Security, the Department of Defense, the Office of Personnel Management, and such agencies as the Director of the National Institute of Standards and Technology considers relevant, to develop quantifiable metrics for evaluating Federally funded cybersecurity workforce programs and initiatives based on the outcomes of such programs and initiatives.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tIII/s303/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Regional Alliances and Multistakeholder Partnerships.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/f/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Pursuant to section 2(b)(4) of the National Institute of Standards and Technology Act (15 U.S.C. 272(b)(4)), the Director shall establish cooperative agreements between the National Initiative for Cybersecurity Education (NICE) of the Institute and regional alliances or partnerships for cybersecurity education and workforce.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/f/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Agreements.—</heading><chapeau style="-uslm-dtd:text">The cooperative agreements established under paragraph (1) shall advance the goals of the National Initiative for Cybersecurity Education Cybersecurity Workforce Framework (NIST Special Publication 800–181), or successor framework, by facilitating local and regional partnerships to—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/f/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">identify the workforce needs of the local economy and classify such workforce in accordance with such framework;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/f/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">identify the education, training, apprenticeship, and other opportunities available in the local economy; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/f/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">support opportunities to meet the needs of the local economy.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/f/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Financial assistance.—</heading>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/f/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Financial assistance authorized.—</heading><content style="-uslm-dtd:text">The Director may award financial assistance to a regional alliance or partnership with whom the Director enters into a cooperative agreement under paragraph (1) in order to assist the regional alliance or partnership in carrying out the terms of the cooperative agreement.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/f/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Amount of assistance.—</heading><content style="-uslm-dtd:text">The aggregate amount of financial assistance awarded under subparagraph (A) per cooperative agreement shall not exceed $200,000.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/f/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Matching requirement.—</heading><content style="-uslm-dtd:text">The Director may not award financial assistance to a regional alliance or partnership under subparagraph (A) unless the regional alliance or partnership agrees that, with respect to the costs to be incurred by the regional alliance or partnership in carrying out the cooperative agreement for which the assistance was awarded, the regional alliance or partnership will make available (directly or through donations from public or private entities) non-Federal contributions, including in-kind contributions, in an amount equal to 50 percent of Federal funds provided under the award.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/f/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Application.—</heading>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/f/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">A regional alliance or partnership seeking to enter into a cooperative agreement under paragraph (1) and receive financial assistance under paragraph (3) shall submit to the Director an application therefore at such time, in such manner, and containing such information as the Director may require.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/f/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">Each application submitted under subparagraph (A) shall include the following:</chapeau>
+                            <clause identifier="/us/sComp/113/274/tIII/s303/f/4/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i)</num><subclause class="inline" identifier="/us/sComp/113/274/tIII/s303/f/4/B/i/I" style="-uslm-dtd:subclause" styleType="OLC"><num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">A plan to establish (or identification of, if it already exists) a multistakeholder workforce partnership that includes—</chapeau>
+                                <item identifier="/us/sComp/113/274/tIII/s303/f/4/B/i/I/aa" style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="aa">(aa)<ref class="footnoteRef" idref="IDEADE1A207C644958AF618A7A3BBAC3C0" style="-uslm-dtd:footnote-ref">2</ref> </num><content style="-uslm-dtd:text">at least one institution of higher education or nonprofit training organization; and</content><footnote id="IDEADE1A207C644958AF618A7A3BBAC3C0" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">2</sup><p style="-uslm-dtd:para; margin-left:1em">Margins for items (aa), (bb), and subclause (II) of subparagraph (B)(i)(I), as added by section 9401(f) of Public Law 116–283, are so in law.</p></footnote>
+                                </item>
+                                <item identifier="/us/sComp/113/274/tIII/s303/f/4/B/i/I/bb" style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">at least one local employer or owner or operator of critical infrastructure.</content>
+                                </item></subclause>
+                                <subclause identifier="/us/sComp/113/274/tIII/s303/f/4/B/i/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">Participation from academic institutions in the Federal Cyber Scholarships for Service Program, the National Centers of Academic Excellence in Cybersecurity Program, or advanced technological education programs, as well as elementary and secondary schools, training and certification providers, State and local governments, economic development organizations, or other community organizations is encouraged.</content>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tIII/s303/f/4/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">A description of how the workforce partnership would identify the workforce needs of the local economy.</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tIII/s303/f/4/B/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">A description of how the multistakeholder workforce partnership would leverage the programs and objectives of the National Initiative for Cybersecurity Education, such as the Cybersecurity Workforce Framework and the strategic plan of such initiative.</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tIII/s303/f/4/B/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">A description of how employers in the community will be recruited to support internships, externships, apprenticeships, or cooperative education programs in conjunction with providers of education and training. Inclusion of programs that seek to include veterans, Indian Tribes, and underrepresented groups, including women, minorities, persons from rural and underserved areas, and persons with disabilities is encouraged.</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tIII/s303/f/4/B/v" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">A definition of the metrics to be used in determining the success of the efforts of the regional alliance or partnership under the agreement.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/f/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Priority consideration.—</heading><content style="-uslm-dtd:text">In awarding financial assistance under paragraph (3)(A), the Director shall give priority consideration to a regional alliance or partnership that includes an institution of higher education that is designated as a National Center of Academic Excellence in Cybersecurity or which received an award under the Federal Cyber Scholarship for Service program located in the State or region of the regional alliance or partnership.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/f/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Audits.—</heading><content style="-uslm-dtd:text">Each cooperative agreement for which financial assistance is awarded under paragraph (3) shall be subject to audit requirements under part 200 of title 2, Code of Federal Regulations (relating to uniform administrative requirements, cost principles, and audit requirements for Federal awards), or successor regulation.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tIII/s303/f/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Reports.—</heading>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/f/6/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Upon completion of a cooperative agreement under paragraph (1), the regional alliance or partnership that participated in the agreement shall submit to the Director a report on the activities of the regional alliance or partnership under the agreement, which may include training and education outcomes.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tIII/s303/f/6/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">Each report submitted under subparagraph (A) by a regional alliance or partnership shall include the following:</chapeau>
+                            <clause identifier="/us/sComp/113/274/tIII/s303/f/6/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">An assessment of efforts made by the regional alliance or partnership to carry out paragraph (2).</content>
+                            </clause>
+                            <clause identifier="/us/sComp/113/274/tIII/s303/f/6/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">The metrics used by the regional alliance or partnership to measure the success of the efforts of the regional alliance or partnership under the cooperative agreement.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Title IV of the Cybersecurity Enhancement Act of 2014 was repealed by section 9403(g)(2) of Public Law 116-283.  Prior to the repeal,  section 401 of such title was amended by such section 9403(a)–(f), redesignated as section 303 and transferred to the end of title III of such Act.<b>]</b> </editorialNote>
+        </title>
+        <title identifier="/us/sComp/113/274/tV" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="V">TITLE V—</num><heading style="-uslm-dtd:header">ADVANCEMENT OF CYBERSECURITY TECHNICAL STANDARDS </heading>
+            <section identifier="/us/sComp/113/274/tV/s501" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="501">SEC. 501. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7461">15 U.S.C. 7461</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">In this title:</chapeau>
+                <paragraph identifier="/us/sComp/113/274/tV/s501/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Director.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Director</term>” means the Director of the National Institute of Standards and Technology.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/274/tV/s501/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Institute.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Institute</term>” means the National Institute of Standards and Technology.</content>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/113/274/tV/s502" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="502">SEC. 502. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7462">15 U.S.C. 7462</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">INTERNATIONAL CYBERSECURITY TECHNICAL STANDARDS. </heading>
+                <subsection identifier="/us/sComp/113/274/tV/s502/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Director, in coordination with appropriate Federal authorities, shall—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tV/s502/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">as appropriate, ensure coordination of Federal agencies engaged in the development of international technical standards related to information system security; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tV/s502/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">not later than 1 year after the date of enactment of this Act, develop and transmit to Congress a plan for ensuring such Federal agency coordination.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tV/s502/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Consultation With the Private Sector.—</heading><content style="-uslm-dtd:text">In carrying out the activities specified in subsection (a)(1), the Director shall ensure consultation with appropriate private sector stakeholders.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/113/274/tV/s503" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="503">SEC. 503. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7463">15 U.S.C. 7463</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">CLOUD COMPUTING STRATEGY. </heading>
+                <subsection identifier="/us/sComp/113/274/tV/s503/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Director, in coordination with the Office of Management and Budget, in collaboration with the Federal Chief Information Officers Council, and in consultation with other relevant Federal agencies and stakeholders from the private sector, shall continue to develop and encourage the implementation of a comprehensive strategy for the use and adoption of cloud computing services by the Federal Government.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tV/s503/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Activities.—</heading><chapeau style="-uslm-dtd:text">In carrying out the strategy described under subsection (a), the Director shall give consideration to activities that—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tV/s503/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">accelerate the development, in collaboration with the private sector, of standards that address interoperability and portability of cloud computing services;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tV/s503/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">advance the development of conformance testing performed by the private sector in support of cloud computing standardization; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tV/s503/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">support, in coordination with the Office of Management and Budget, and in consultation with the private sector, the development of appropriate security frameworks and reference materials, and the identification of best practices, for use by Federal agencies to address security and privacy requirements to enable the use and adoption of cloud computing services, including activities—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s503/b/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to ensure the physical security of cloud computing data centers and the data stored in such centers;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s503/b/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to ensure secure access to the data stored in cloud computing data centers;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s503/b/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to develop security standards as required under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g-3); and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s503/b/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">to support the development of the automation of continuous monitoring systems.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/113/274/tV/s504" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="504">SEC. 504. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s7464">15 U.S.C. 7464</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">IDENTITY MANAGEMENT RESEARCH AND DEVELOPMENT. </heading>
+                <subsection identifier="/us/sComp/113/274/tV/s504/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Director shall carry out a program of research to support the development of voluntary, consensus-based technical standards, best practices, benchmarks, methodologies, metrology, testbeds, and conformance criteria for identity management, taking into account appropriate user concerns to—</chapeau>
+                    <paragraph identifier="/us/sComp/113/274/tV/s504/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">improve interoperability and portability among identity management technologies;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tV/s504/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">strengthen identity proofing and verification methods used in identity management systems commensurate with the level of risk, including identity and attribute validation services provided by Federal, State, and local governments;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tV/s504/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">improve privacy protection in identity management systems; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tV/s504/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">improve the accuracy, usability, and inclusivity of identity management systems.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tV/s504/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Digital Identity Technical Roadmap.—</heading><content style="-uslm-dtd:text">The Director, in consultation with other relevant Federal agencies and stakeholders from the private sector, shall develop and maintain a technical roadmap for digital identity management research and development focused on enabling the voluntary use and adoption of modern digital identity solutions that align with the four criteria in subsection (a).</content>
+                </subsection>
+                <subsection identifier="/us/sComp/113/274/tV/s504/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Digital Identity Management Guidance.—</heading>
+                    <paragraph identifier="/us/sComp/113/274/tV/s504/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director shall develop, and periodically update, in collaboration with other public and private sector organizations, common definitions and voluntary guidance for digital identity management systems, including identity and attribute validation services provided by Federal, State, and local governments.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tV/s504/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Guidance.—</heading><chapeau style="-uslm-dtd:text">The Guidance shall—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s504/c/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">align with the four criteria in subsection (a), as practicable;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s504/c/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">provide case studies of implementation of guidance;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s504/c/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">incorporate voluntary technical standards and industry best practices; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s504/c/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">not prescribe or otherwise require the use of specific technology products or services.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/113/274/tV/s504/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Consultation.—</heading><chapeau style="-uslm-dtd:text">In carrying out this subsection, the Director shall consult with—</chapeau>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s504/c/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Federal and State agencies;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s504/c/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">industry;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s504/c/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">potential end-users and individuals that will use services related to digital identity verification; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/113/274/tV/s504/c/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">experts with relevant experience in the systems that enable digital identity verification, as determined by the Director.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

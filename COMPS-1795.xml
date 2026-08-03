@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>AMTRAK REFORM AND ACCOUNTABILITY ACT OF 1997</dc:title>
+        <citableAs>Public Law 105-134, as amended</citableAs>
+        <citableAsShortTitle>AMTRAK REFORM AND ACCOUNTABILITY ACT OF 1997</citableAsShortTitle>
+        <docNumber>134</docNumber>
+        <currentThroughPublicLaw>117–286</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20220916.1</processedBy>
+        <processedDate>2023-04-21</processedDate>
+        <containsShortTitle>Amtrak Reform and Accountability Act of 1997</containsShortTitle>
+        <containsShortTitle>Passenger Rail Expansion and Rail Safety Act of 2021</containsShortTitle>
+        <property role="fileId">1795</property>
+        <congress>105</congress>
+        <approvedDate>1997-12-02</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">AMTRAK REFORM AND ACCOUNTABILITY ACT OF 1997</property>
+        <citationNote style="-uslm-dtd:public-law">[<citableAs>Public Law 105-134</citableAs>]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 117–286</currentThroughPublicLaw>, Enacted <date date="2022-12-27">December 27, 2022</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 105-134. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To reform the statutes relating to Amtrak, to authorize appropriations for Amtrak, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/105/134/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; AMENDMENT OF TITLE 49; TABLE OF SECTIONS. </heading>
+            <subsection identifier="/us/sComp/105/134/s1/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Amtrak Reform and Accountability Act of 1997</inline></shortTitle>”.</content>
+            </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s20101">49 U.S.C. 20101</ref> nt<b>]</b> </editorialNote>
+            <subsection identifier="/us/sComp/105/134/s1/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Amendment of Title 49, United States Code.—</heading><content style="-uslm-dtd:text">Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or a repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 49, United States Code.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/105/134/s1/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Table of Sections.—</heading><content style="-uslm-dtd:text">The table of sections for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1.</designator><label> Short title; amendment of title 49; table of sections.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 2.</designator><label> Findings.</label></referenceItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE I—</designator><label>REFORMS</label></referenceItem>
+                    <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>
+<inline class="small-caps" style="-uslm-dtd:smallcaps">Subtitle A—</inline></designator><label><inline class="small-caps" style="-uslm-dtd:smallcaps">Operational Reforms</inline>
+</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 101.</designator><label> Basic system.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 102.</designator><label> Mail, express, and auto-ferry transportation.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 103.</designator><label> Route and service criteria.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 104.</designator><label> Additional qualifying routes.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 105.</designator><label> Transportation requested by States, authorities, and other persons.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 106.</designator><label> Amtrak commuter.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 107.</designator><label> Through service in conjunction with intercity bus operations.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 108.</designator><label> Rail and motor carrier passenger service.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 109.</designator><label> Passenger choice.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 110.</designator><label> Application of certain laws.</label></referenceItem>
+                    <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>
+<inline class="small-caps" style="-uslm-dtd:smallcaps">Subtitle B—</inline></designator><label><inline class="small-caps" style="-uslm-dtd:smallcaps">Procurement</inline>
+</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 121.</designator><label> Contracting out.</label></referenceItem>
+                    <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>
+<inline class="small-caps" style="-uslm-dtd:smallcaps">Subtitle C—</inline></designator><label><inline class="small-caps" style="-uslm-dtd:smallcaps">Employee Protection Reforms</inline>
+</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 141.</designator><label> Railway Labor Act Procedures.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 142.</designator><label> Service discontinuance.</label></referenceItem>
+                    <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>
+<inline class="small-caps" style="-uslm-dtd:smallcaps">Subtitle D—</inline></designator><label><inline class="small-caps" style="-uslm-dtd:smallcaps">Use of Railroad Facilities</inline>
+</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 161.</designator><label> Liability limitation.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 162.</designator><label> Retention of facilities.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE II—</designator><label>FISCAL ACCOUNTABILITY</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 201.</designator><label> Amtrak financial goals.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 202.</designator><label> Independent assessment.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 203.</designator><label> Amtrak Reform Council.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 204.</designator><label> Sunset trigger.<ref class="footnoteRef" idref="IDB145B7418ABA4B419882B45E11D0B1AE" style="-uslm-dtd:footnote-ref">1</ref></label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 205.</designator><label> Senate procedure for consideration of restructuring and liquidation plans.<ref class="footnoteRef" style="-uslm-dtd:dangling-footnote-ref">1</ref></label></referenceItem><footnote id="IDB145B7418ABA4B419882B45E11D0B1AE" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Section 218(a)(2) of division B of Public Law 110–432 provides for a repeal of sections 204 and 205 without a corresponding amendment to strike the items relating to such section in the table of contents (contained in section 2(c)).</p></footnote>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 206.</designator><label> Access to records and accounts.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 207.</designator><label> Officers' pay.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 208.</designator><label> Exemption from taxes.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 209.</designator><label> Limitation on use of tax refund.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE III—</designator><label>AUTHORIZATION OF APPROPRIATIONS</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 301.</designator><label> Authorization of appropriations.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE IV—</designator><label>MISCELLANEOUS</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 401.</designator><label> Status and applicable laws.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 402.</designator><label> Waste disposal.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 403.</designator><label> Assistance for upgrading facilities.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 404.</designator><label> Demonstration of new technology.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 405.</designator><label> Program master plan for Boston-New York main line.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 406.</designator><label> Americans with Disabilities Act of 1990.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 407.</designator><label> Definitions.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 408.</designator><label> Northeast Corridor cost dispute.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 409.</designator><label> Inspector General Act of 1978 amendment.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 410.</designator><label> Interstate rail compacts.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 411.</designator><label> Board of Directors.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 412.</designator><label> Educational participation.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 413.</designator><label> Report to Congress on Amtrak bankruptcy.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 414.</designator><label> Amtrak to notify Congress of lobbying relationships.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 415.</designator><label> Financial powers.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/105/134/s2" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">FINDINGS. </heading>
+            <subsection role="undesignated-level" style="-uslm-dtd:subsection" styleType="OLC"><chapeau style="-uslm-dtd:text">The Congress finds that—</chapeau>
+                <paragraph identifier="/us/sComp/105/134/s2/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">intercity rail passenger service is an essential component of a national intermodal passenger transportation system;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/105/134/s2/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Amtrak is facing a financial crisis, with growing and substantial debt obligations severely limiting its ability to cover operating costs and jeopardizing its long-term viability;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/105/134/s2/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">immediate action is required to improve Amtrak's financial condition if Amtrak is to survive;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/105/134/s2/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">all of Amtrak's stakeholders, including labor, management, and the Federal Government, must participate in efforts to reduce Amtrak's costs and increase its revenues;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/105/134/s2/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">additional flexibility is needed to allow Amtrak to operate in a businesslike manner in order to manage costs and maximize revenues;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/105/134/s2/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">Amtrak should ensure that new management flexibility produces cost savings without compromising safety;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/105/134/s2/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">Amtrak's management should be held accountable to ensure that all investment by the Federal Government and State governments is used effectively to improve the quality of service and the long-term financial health of Amtrak;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/105/134/s2/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">Amtrak and its employees should proceed quickly with proposals to modify collective bargaining agreements to make more efficient use of manpower and to realize cost savings which are necessary to reduce Federal financial assistance;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/105/134/s2/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">Amtrak and intercity bus service providers should work cooperatively and develop coordinated intermodal relationships promoting seamless transportation services which enhance travel options and increase operating efficiencies;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/105/134/s2/10" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><chapeau style="-uslm-dtd:text">Amtrak's Strategic Business Plan calls for the establishment of a dedicated source of capital funding for Amtrak in order to ensure that Amtrak will be able to fulfill the goals of maintaining—</chapeau>
+                    <subparagraph identifier="/us/sComp/105/134/s2/10/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a national passenger rail system; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/105/134/s2/10/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">that system without Federal operating assistance; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/105/134/s2/11" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">Federal financial assistance to cover operating losses incurred by Amtrak should be eliminated by the year 2002.</content>
+                </paragraph>
+            </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24101">49 U.S.C. 24101</ref> nt<b>]</b> </editorialNote>
+        </section>
+        <title identifier="/us/sComp/105/134/tI" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">REFORMS </heading>
+            <subtitle identifier="/us/sComp/105/134/tI/stA" style="-uslm-dtd:subtitle" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="A">Subtitle A—</num><heading style="-uslm-dtd:header">Operational Reforms </heading>
+                <section identifier="/us/sComp/105/134/tI/stA/s101" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">BASIC SYSTEM. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 101 made amendments to chapter 247 of title 49, United States Code, which is shown elsewhere in this compilation, along with associated conforming amendments.<b>]</b> </editorialNote>
+                </section>
+                <section identifier="/us/sComp/105/134/tI/stA/s102" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">MAIL, EXPRESS, AND AUTO-FERRY TRANSPORTATION. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 102 made amendments to section 24306 of title 49, United States Code, which is shown elsewhere in this compilation.<b>]</b> </editorialNote>
+                </section>
+                <section identifier="/us/sComp/105/134/tI/stA/s103" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">ROUTE AND SERVICE CRITERIA. </heading>
+                    <content class="block" style="-uslm-dtd:text">Section 24703 and the item relating thereto in the table of sections for chapter 247 are repealed.</content>
+                </section>
+                <section identifier="/us/sComp/105/134/tI/stA/s104" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">ADDITIONAL QUALIFYING ROUTES. </heading>
+                    <content class="block" style="-uslm-dtd:text">Section 24705 and the item relating thereto in the table of sections for chapter 247 are repealed.</content>
+                </section>
+                <section identifier="/us/sComp/105/134/tI/stA/s105" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><heading style="-uslm-dtd:header">TRANSPORTATION REQUESTED BY STATES, AUTHORITIES, AND OTHER PERSONS. </heading>
+                    <subsection identifier="/us/sComp/105/134/tI/stA/s105/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Repeal.—</heading><content style="-uslm-dtd:text">Section 24704 and the item relating thereto in the table of sections of chapter 247 are repealed.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stA/s105/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">State, Regional, and Local Cooperation.—</heading><content style="-uslm-dtd:text">Section 24101(c)(2) is amended by inserting “<quotedText style="-uslm-dtd:quote">, separately or in combination,</quotedText>” after “<quotedText style="-uslm-dtd:quote">and the private sector</quotedText>”.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stA/s105/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Conforming Amendment.—</heading><content style="-uslm-dtd:text">Section 24312(a)(1) is amended by striking “<quotedText style="-uslm-dtd:quote">or 24704(b)(2)</quotedText>”.</content>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/105/134/tI/stA/s106" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="106">SEC. 106. </num><heading style="-uslm-dtd:header">AMTRAK COMMUTER. </heading>
+                    <subsection identifier="/us/sComp/105/134/tI/stA/s106/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Repeal of Chapter 245.—</heading><content style="-uslm-dtd:text">Chapter 245 and the item relating thereto in the table of chapters for subtitle V of such title, are repealed.</content>
+                    </subsection><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 106(b) amended section 24301(f) of title 49, United States Code, which is shown elsewhere in this compilation.<b>]</b> </editorialNote>
+                    <subsection identifier="/us/sComp/105/134/tI/stA/s106/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Trackage Rights Not Affected.—</heading><content style="-uslm-dtd:text">The repeal of chapter 245 of title 49, United States Code, by subsection (a) of this section is without prejudice to the retention of trackage rights over property owned or leased by commuter authorities.</content>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/105/134/tI/stA/s107" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="107">SEC. 107. </num><heading style="-uslm-dtd:header">THROUGH SERVICE IN CONJUNCTION WITH INTERCITY BUS OPERATIONS. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 107 made amendments to section 24305 of title 49, United States Code, which is shown elsewhere in this compilation.<b>]</b> </editorialNote>
+                </section>
+                <section identifier="/us/sComp/105/134/tI/stA/s108" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="108">SEC. 108. </num><heading style="-uslm-dtd:header">RAIL AND MOTOR CARRIER PASSENGER SERVICE. </heading>
+                    <subsection identifier="/us/sComp/105/134/tI/stA/s108/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding any other provision of law (other than section 24305(a)(3) of title 49, United States Code), Amtrak and motor carriers of passengers are authorized—</chapeau>
+                        <paragraph identifier="/us/sComp/105/134/tI/stA/s108/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">to combine or package their respective services and facilities to the public as a means of increasing revenues; and</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/105/134/tI/stA/s108/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">to coordinate schedules, routes, rates, reservations, and ticketing to provide for enhanced intermodal surface transportation.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stA/s108/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Review.—</heading><content style="-uslm-dtd:text">The authority granted by subsection (a) is subject to review by the Surface Transportation Board and may be modified or revoked by the Board if modification or revocation is in the public interest.</content>
+                    </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24305">49 U.S.C. 24305</ref> nt<b>]</b> </editorialNote>
+                </section>
+                <section identifier="/us/sComp/105/134/tI/stA/s109" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="109">SEC. 109. </num><heading style="-uslm-dtd:header">PASSENGER CHOICE. </heading>
+                    <content class="block" style="-uslm-dtd:text">Federal employees are authorized to travel on Amtrak for official business where total travel cost from office to office is competitive on a total trip or time basis.</content><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24301">49 U.S.C. 24301</ref> nt<b>]</b> </editorialNote>
+                </section>
+                <section identifier="/us/sComp/105/134/tI/stA/s110" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="110">SEC. 110. </num><heading style="-uslm-dtd:header">APPLICATION OF CERTAIN LAWS. </heading>
+                    <subsection identifier="/us/sComp/105/134/tI/stA/s110/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Application of FOIA.—</heading><content style="-uslm-dtd:text">Section 24301(e) is amended by adding at the end thereof the following: “<quotedText style="-uslm-dtd:quote">Section 552 of title 5, United States Code, applies to Amtrak for any fiscal year in which Amtrak receives a Federal subsidy.</quotedText>”.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stA/s110/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Application of Federal Property and Administrative Services Act.—</heading><content style="-uslm-dtd:text">Section 303B(m) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253b(m)) applies to a proposal in the possession or control of Amtrak.</content>
+                    </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24301">49 U.S.C. 24301</ref> nt<b>]</b> </editorialNote>
+                </section>
+            </subtitle>
+            <subtitle identifier="/us/sComp/105/134/tI/stB" style="-uslm-dtd:subtitle" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="B">Subtitle B—</num><heading style="-uslm-dtd:header">Procurement </heading>
+                <section identifier="/us/sComp/105/134/tI/stB/s121" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="121">SEC. 121. </num><heading style="-uslm-dtd:header">CONTRACTING OUT. </heading>
+                    <subsection identifier="/us/sComp/105/134/tI/stB/s121/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Repeal of Ban on Contracting Out.—</heading><chapeau style="-uslm-dtd:text">Section 24312 is amended—</chapeau>
+                        <paragraph identifier="/us/sComp/105/134/tI/stB/s121/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking subsection (b);</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/105/134/tI/stB/s121/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">(1)</quotedText>” in subsection (a); and</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/105/134/tI/stB/s121/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">(2) Wage</quotedText>” in subsection (a) and inserting “<quotedText style="-uslm-dtd:quote">(b) <headingText style="-uslm-dtd:header-in-text">Wage Rates</headingText>.—Wage</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stB/s121/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Amendment of Existing Collective Bargaining Agreement.—</heading>
+                        <paragraph identifier="/us/sComp/105/134/tI/stB/s121/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Contracting out.—</heading><content style="-uslm-dtd:text">Any collective bargaining agreement entered into between Amtrak and an organization representing Amtrak employees before the date of enactment of this Act is deemed amended to include the language of section 24312(b) of title 49, United States Code, as that section existed on the day before the effective date of the amendments made by subsection (a).</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/105/134/tI/stB/s121/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Enforceability of amendment.—</heading><content style="-uslm-dtd:text">The amendment to any such collective bargaining agreement deemed to be made by paragraph (1) of this subsection is binding on all parties to the agreement and has the same effect as if arrived at by agreement of the parties under the Railway Labor Act.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stB/s121/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Contracting-out Issues To Be Included in Negotiations.—</heading><chapeau style="-uslm-dtd:text">Proposals on the subject matter of contracting out work, other than work related to food and beverage service, which results in the layoff of an Amtrak employee—</chapeau>
+                        <paragraph identifier="/us/sComp/105/134/tI/stB/s121/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">shall be included in negotiations under section 6 of the Railway Labor Act (45 U.S.C. 156) between Amtrak and an organization representing Amtrak employees, which shall be commenced by—</chapeau>
+                            <subparagraph identifier="/us/sComp/105/134/tI/stB/s121/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the date on which labor agreements under negotiation on the date of enactment of this Act may be re-opened; or</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/105/134/tI/stB/s121/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">November 1, 1999,</content>
+                            </subparagraph><continuation role="paragraph" style="-uslm-dtd:continuation-text">whichever is earlier;</continuation>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/105/134/tI/stB/s121/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">may, at the mutual election of Amtrak and an organization representing Amtrak employees, be included in any negotiation in progress under section 6 of the Railway Labor Act (45 U.S.C. 156) on the date of enactment of this Act; and</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/105/134/tI/stB/s121/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">may not be included in any negotiation in progress under section 6 of the Railway Labor Act (45 U.S.C. 156) on the date of enactment of this Act, unless both Amtrak and the organization representing Amtrak employees agree to include it in the negotiation.</content>
+                        </paragraph><continuation role="subsection" style="-uslm-dtd:continuation-text">No contract between Amtrak and an organization representing Amtrak employees, that is under negotiation on the date of enactment of this Act, may contain a moratorium that extends more than 5 years from the date of expiration of the last moratorium.</continuation>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stB/s121/d" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Furloughed Work.—</heading><content style="-uslm-dtd:text">Amtrak may not contract out work within the classification of work performed by an employee in a bargaining unit covered by a collective bargaining agreement entered into between Amtrak and an organization representing Amtrak employees during the period such employee has been laid off and has not been recalled to perform such work.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stB/s121/e" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Agreement Prohibitions on Contracting Out.—</heading><chapeau style="-uslm-dtd:text">This section does not—</chapeau>
+                        <paragraph identifier="/us/sComp/105/134/tI/stB/s121/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">supersede a prohibition or limitation on contracting out work covered by an agreement entered into between Amtrak and an organization representing Amtrak employees; or</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/105/134/tI/stB/s121/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">prohibit Amtrak and an organization representing Amtrak employees from entering into an agreement that allows for contracting out the work of a furloughed employee that would otherwise be prohibited under subsection (d).</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stB/s121/f" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">No Inference.—</heading><content style="-uslm-dtd:text">The amendment made by subsection (a)(1) is without prejudice to the power of Amtrak to contract out the provision of food and beverage services on board Amtrak trains or to contract out work not resulting in the layoff of Amtrak employees.</content>
+                    </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24312">49 U.S.C. 24312</ref> nt<b>]</b> </editorialNote>
+                </section>
+            </subtitle>
+            <subtitle identifier="/us/sComp/105/134/tI/stC" style="-uslm-dtd:subtitle" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="C">Subtitle C—</num><heading style="-uslm-dtd:header">Employee Protection Reforms </heading>
+                <section identifier="/us/sComp/105/134/tI/stC/s141" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="141">SEC. 141. </num><heading style="-uslm-dtd:header">RAILWAY LABOR ACT PROCEDURES. </heading>
+                    <subsection identifier="/us/sComp/105/134/tI/stC/s141/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Notices.—</heading><content style="-uslm-dtd:text">Notwithstanding any arrangement in effect before the date of the enactment of this Act, notices under section 6 of the Railway Labor Act (45 U.S.C. 156) with respect to all issues relating to employee protective arrangements and severance benefits which are applicable to employees of Amtrak, including all provisions of Appendix C–2 to the National Railroad Passenger Corporation Agreement, signed July 5, 1973, shall be deemed served and effective on the date which is 45 days after the date of the enactment of this Act. Amtrak, and each affected labor organization representing Amtrak employees, shall promptly supply specific information and proposals with respect to each such notice.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stC/s141/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">National Mediation Board Efforts.—</heading><content style="-uslm-dtd:text">Except as provided in subsection (c), the National Mediation Board shall complete all efforts, with respect to the dispute described in subsection (a), under section 5 of the Railway Labor Act (45 U.S.C. 155) not later than 120 days after the date of the enactment of this Act.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stC/s141/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Railway Labor Act Arbitration.—</heading><content style="-uslm-dtd:text">The parties to the dispute described in subsection (a) may agree to submit the dispute to arbitration under section 7 of the Railway Labor Act (45 U.S.C. 157), and any award resulting therefrom shall be retroactive to the date which is 120 days after the date of the enactment of this Act.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stC/s141/d" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Dispute Resolution.—</heading><paragraph class="inline" identifier="/us/sComp/105/134/tI/stC/s141/d/1" style="-uslm-dtd:paragraph" styleType="OLC"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">With respect to the dispute described in subsection (a) which—</chapeau>
+                        <subparagraph class="leftIndentDecrease1" identifier="/us/sComp/105/134/tI/stC/s141/d/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">is unresolved as of the date which is 120 days after the date of the enactment of this Act; and</content>
+                        </subparagraph>
+                        <subparagraph class="leftIndentDecrease1" identifier="/us/sComp/105/134/tI/stC/s141/d/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">is not submitted to arbitration as described in subsection (c),</content>
+                        </subparagraph><continuation role="paragraph" style="-uslm-dtd:continuation-text">Amtrak shall, and the labor organization parties to such dispute shall, within 127 days after the date of the enactment of this Act, each select an individual from the entire roster of arbitrators maintained by the National Mediation Board. Within 134 days after the date of the enactment of this Act, the individuals selected under the preceding sentence shall jointly select an individual from such roster to make recommendations with respect to such dispute under this subsection. If the National Mediation Board is not informed of the selection under the preceding sentence 134 days after the date of enactment of this Act, the Board shall immediately select such individual.</continuation></paragraph>
+                        <paragraph class="leftIndentDecrease1" identifier="/us/sComp/105/134/tI/stC/s141/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">No individual shall be selected under paragraph (1) who is pecuniarily or otherwise interested in any organization of employees or any railroad.</content>
+                        </paragraph>
+                        <paragraph class="leftIndentDecrease1" identifier="/us/sComp/105/134/tI/stC/s141/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The compensation of individuals selected under paragraph (1) shall be fixed by the National Mediation Board. The second paragraph of section 10 of the Railway Labor Act shall apply to the expenses of such individuals as if such individuals were members of a board created under such section 10.</content>
+                        </paragraph>
+                        <paragraph class="leftIndentDecrease1" identifier="/us/sComp/105/134/tI/stC/s141/d/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">If the parties to a dispute described in subsection (a) fail to reach agreement within 150 days after the date of the enactment of this Act, the individual selected under paragraph (1) with respect to such dispute shall make recommendations to the parties proposing contract terms to resolve the dispute.</content>
+                        </paragraph>
+                        <paragraph class="leftIndentDecrease1" identifier="/us/sComp/105/134/tI/stC/s141/d/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">If the parties to a dispute described in subsection (a) fail to reach agreement, no change shall be made by either of the parties in the conditions out of which the dispute arose for 30 days after recommendations are made under paragraph (4).</content>
+                        </paragraph>
+                        <paragraph class="leftIndentDecrease1" identifier="/us/sComp/105/134/tI/stC/s141/d/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">Section 10 of the Railway Labor Act (45 U.S.C. 160) shall not apply to a dispute described in subsection (a).</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stC/s141/e" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">No Precedent for Freight.—</heading><content style="-uslm-dtd:text">Nothing in this Act, or in any amendment made by this Act, shall affect the level of protection provided to freight railroad employees and mass transportation employees as it existed on the day before the date of enactment of this Act.</content>
+                    </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24706">49 U.S.C. 24706</ref> nt<b>]</b> </editorialNote>
+                </section>
+                <section identifier="/us/sComp/105/134/tI/stC/s142" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="142">SEC. 142. </num><heading style="-uslm-dtd:header">SERVICE DISCONTINUANCE. </heading>
+                    <subsection identifier="/us/sComp/105/134/tI/stC/s142/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Repeal.—</heading><content style="-uslm-dtd:text">Section 24706(c) is repealed.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stC/s142/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Existing Contracts.—</heading><content style="-uslm-dtd:text">Any provision of a contract entered into before the date of the enactment of this Act between Amtrak and a labor organization representing Amtrak employees relating to employee protective arrangements and severance benefits applicable to employees of Amtrak is extinguished, including all provisions of Appendix C–2 to the National Railroad Passenger Corporation Agreement, signed July 5, 1973.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stC/s142/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Special Effective Date.—</heading><content style="-uslm-dtd:text">Subsections (a) and (b) of this section shall take effect 180 days after the date of the enactment of this Act.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/105/134/tI/stC/s142/d" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Nonapplication of Bankruptcy Law Provision.—</heading><content style="-uslm-dtd:text">Section 1172(c) of title 11, United States Code, shall not apply to Amtrak and its employees.</content>
+                    </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24706">49 U.S.C. 24706</ref> nt<b>]</b> </editorialNote>
+                </section>
+            </subtitle>
+            <subtitle identifier="/us/sComp/105/134/tI/stD" style="-uslm-dtd:subtitle" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="D">Subtitle D—</num><heading style="-uslm-dtd:header">Use of Railroad Facilities </heading>
+                <section identifier="/us/sComp/105/134/tI/stD/s161" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="161">SEC. 161. </num><heading style="-uslm-dtd:header">LIABILITY LIMITATION. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 161 added a new section 28103 to title 49, United States Code, which is shown elsewhere in this compilation.<b>]</b> </editorialNote>
+                </section>
+                <section identifier="/us/sComp/105/134/tI/stD/s162" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="162">SEC. 162. </num><heading style="-uslm-dtd:header">RETENTION OF FACILITIES. </heading>
+                    <content class="block" style="-uslm-dtd:text">Section 24309(b) is amended by inserting “<quotedText style="-uslm-dtd:quote">or on January 1, 1997,</quotedText>” after “<quotedText style="-uslm-dtd:quote">1979,</quotedText>”.</content>
+                </section>
+            </subtitle>
+        </title>
+        <title identifier="/us/sComp/105/134/tII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">FISCAL ACCOUNTABILITY </heading>
+            <section identifier="/us/sComp/105/134/tII/s201" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">AMTRAK FINANCIAL GOALS. </heading>
+                <content class="block" style="-uslm-dtd:text">Section 24101(d) is amended by adding at the end thereof the following: “<quotedText style="-uslm-dtd:quote">Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.</quotedText>”.</content>
+            </section>
+            <section identifier="/us/sComp/105/134/tII/s202" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">INDEPENDENT ASSESSMENT. </heading>
+                <subsection identifier="/us/sComp/105/134/tII/s202/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Initiation.—</heading><content style="-uslm-dtd:text">Not later than 15 days after the date of enactment of this Act, the Secretary of Transportation shall contract with an entity independent of Amtrak and not in any contractual relationship with Amtrak, and independent of the Department of Transportation, to conduct a complete independent assessment of the financial requirements of Amtrak through fiscal year 2002. The entity shall have demonstrated knowledge about railroad industry accounting requirements, including the uniqueness of the industry and of Surface Transportation Board accounting requirements. The Department of Transportation, Office of Inspector General, shall approve the entity's statement of work and the award and shall oversee the contract. In carrying out its responsibilities under the preceding sentence, the Inspector General's Office shall perform such overview and validation or verification of data as may be necessary to assure that the assessment conducted under this subsection meets the requirements of this section.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s202/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Assessment Criteria.—</heading><content style="-uslm-dtd:text">The Secretary and Amtrak shall provide to the independent entity estimates of the financial requirements of Amtrak for the period described in subsection (a), using as a base the fiscal year 1997 appropriation levels established by the Congress. The independent assessment shall be based on an objective analysis of Amtrak's funding needs.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s202/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Certain Factors To Be Taken into Account.—</heading><chapeau style="-uslm-dtd:text">The independent assessment shall take into account all relevant factors, including Amtrak's—</chapeau>
+                    <paragraph identifier="/us/sComp/105/134/tII/s202/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">cost allocation process and procedures;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s202/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">expenses related to intercity rail passenger service, commuter service, and any other service Amtrak provides;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s202/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Strategic Business Plan, including Amtrak's projected expenses, capital needs, ridership, and revenue forecasts; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s202/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">assets and liabilities.</content>
+                    </paragraph><continuation role="subsection" style="-uslm-dtd:continuation-text">For purposes of paragraph (3), in the capital needs part of its Strategic Business Plan Amtrak shall distinguish between that portion of the capital required for the Northeast Corridor and that required outside the Northeast Corridor, and shall include rolling stock requirements, including capital leases, “<quotedText style="-uslm-dtd:quote">state of good repair</quotedText>” requirements, and infrastructure improvements.</continuation>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s202/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Bidding Practices.—</heading>
+                    <paragraph identifier="/us/sComp/105/134/tII/s202/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Study.—</heading><content style="-uslm-dtd:text">The independent assessment also shall determine whether, and to what extent, Amtrak has performed each year during the period from 1992 through 1996 services under contract at amounts less than the cost to Amtrak of performing such services with respect to any activity other than the provision of intercity rail passenger transportation, or mail or express transportation. For purposes of this clause, the cost to Amtrak of performing services shall be determined using generally accepted accounting principles for contracting. If identified, such contracts shall be detailed in the report of the independent assessment, as well as the methodology for preparation of bids to reflect Amtrak's actual cost of performance.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s202/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Reform.—</heading><content style="-uslm-dtd:text">If the independent assessment performed under this subparagraph reveals that Amtrak has performed services under contract for an amount less than the cost to Amtrak of performing such services, with respect to any activity other than the provision of intercity rail passenger transportation, or mail or express transportation, then Amtrak shall revise its methodology for preparation of bids to reflect its cost of performance.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s202/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Deadline.—</heading><content style="-uslm-dtd:text">The independent assessment shall be completed not later than 180 days after the contract is awarded, and shall be submitted to the Council established under section 203, the Secretary of Transportation, the Committee on Commerce, Science, and Transportation of the United States Senate, and the Committee on Transportation and Infrastructure of the United States House of Representatives.</content>
+                </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24101">49 U.S.C. 24101</ref> nt<b>]</b> </editorialNote>
+            </section>
+            <section identifier="/us/sComp/105/134/tII/s203" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="203">SEC. 203. </num><heading style="-uslm-dtd:header">AMTRAK REFORM COUNCIL. </heading>
+                <subsection identifier="/us/sComp/105/134/tII/s203/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">There is established an independent commission to be known as the Amtrak Reform Council.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s203/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Membership.—</heading>
+                    <paragraph identifier="/us/sComp/105/134/tII/s203/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Council shall consist of 11 members, as follows:</chapeau>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The Secretary of Transportation.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">Two individuals appointed by the President, of which—</chapeau>
+                            <clause identifier="/us/sComp/105/134/tII/s203/b/1/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">one shall be a representative of a rail labor organization; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/105/134/tII/s203/b/1/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">one shall be a representative of rail management.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/b/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Three individuals appointed by the Majority Leader of the United States Senate.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/b/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">One individual appointed by the Minority Leader of the United States Senate.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/b/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">Three individuals appointed by the Speaker of the United States House of Representatives.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/b/1/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">One individual appointed by the Minority Leader of the United States House of Representatives.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s203/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Appointment criteria.—</heading>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Time for initial appointments.—</heading><content style="-uslm-dtd:text">Appointments under paragraph (1) shall be made within 30 days after the date of enactment of this Act.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Expertise.—</heading><chapeau style="-uslm-dtd:text">Individuals appointed under subparagraphs (C) through (F) of paragraph (1)—</chapeau>
+                            <clause identifier="/us/sComp/105/134/tII/s203/b/2/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">may not be employees of the United States;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/105/134/tII/s203/b/2/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">may not be board members or employees of Amtrak;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/105/134/tII/s203/b/2/B/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">may not be representatives of rail labor organizations or rail management; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/105/134/tII/s203/b/2/B/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">shall have technical qualifications, professional standing, and demonstrated expertise in the field of corporate management, finance, rail or other transportation operations, labor, economics, or the law, or other areas of expertise relevant to the Council.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s203/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Term.—</heading><content style="-uslm-dtd:text">Members shall serve for terms of 5 years. If a vacancy occurs other than by the expiration of a term, the individual appointed to fill the vacancy shall be appointed in the same manner as, and shall serve only for the unexpired portion of the term for which, that individual's predecessor was appointed.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s203/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Chairman.—</heading><chapeau style="-uslm-dtd:text">The Council shall elect a chairman from among its membership within 15 days after the earlier of—</chapeau>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/b/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the date on which all members of the Council have been appointed under paragraph (2)(A); or</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/b/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">45 days after the date of enactment of this Act.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s203/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Majority required for action.—</heading><content style="-uslm-dtd:text">A majority of the members of the Council present and voting is required for the Council to take action. No person shall be elected chairman of the Council who receives fewer than 5 votes.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s203/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Administrative Support.—</heading><content style="-uslm-dtd:text">The Secretary of Transportation shall provide such administrative support to the Council as it needs in order to carry out its duties under this section.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s203/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Travel Expenses.—</heading><content style="-uslm-dtd:text">Each member of the Council shall serve without pay, but shall receive travel expenses, including per diem in lieu of subsistence, in accordance with section 5702 and 5703 of title 5, United States Code.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s203/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Meetings.—</heading><content style="-uslm-dtd:text">Each meeting of the Council, other than a meeting at which proprietary information is to be discussed, shall be open to the public.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s203/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Access to Information.—</heading><content style="-uslm-dtd:text">Amtrak shall make available to the Council all information the Council requires to carry out its duties under this section. The Council shall establish appropriate procedures to ensure against the public disclosure of any information obtained under this subsection that is a trade secret or commercial or financial information that is privileged or confidential.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s203/g" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Duties.—</heading>
+                    <paragraph identifier="/us/sComp/105/134/tII/s203/g/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Evaluation and recommendation.—</heading><chapeau style="-uslm-dtd:text">The Council shall—</chapeau>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/g/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">evaluate Amtrak's performance; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/g/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">make recommendations to Amtrak for achieving further cost containment and productivity improvements, and financial reforms.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s203/g/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Specific considerations.—</heading><chapeau style="-uslm-dtd:text">In making its evaluation and recommendations under paragraph (1), the Council shall consider all relevant performance factors, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/g/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Amtrak's operation as a national passenger rail system which provides access to all regions of the country and ties together existing and emerging rail passenger corridors;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/g/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">appropriate methods for adoption of uniform cost and accounting procedures throughout the Amtrak system, based on generally accepted accounting principles; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/g/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">management efficiencies and revenue enhancements, including savings achieved through labor and contracting negotiations.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s203/g/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Monitor work-rule savings.—</heading><chapeau style="-uslm-dtd:text">If, after January 1, 1997, Amtrak enters into an agreement involving work-rules intended to achieve savings with an organization representing Amtrak employees, then Amtrak shall report quarterly to the Council—</chapeau>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/g/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the savings realized as a result of the agreement; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tII/s203/g/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">how the savings are allocated.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s203/h" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Annual Report.—</heading><chapeau style="-uslm-dtd:text">Each year before the fifth anniversary of the date of enactment of this Act, the Council shall submit to the Congress a report that includes an assessment of—</chapeau>
+                    <paragraph identifier="/us/sComp/105/134/tII/s203/h/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Amtrak's progress on the resolution of productivity issues; or</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s203/h/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the status of those productivity issues,</content>
+                    </paragraph><continuation role="subsection" style="-uslm-dtd:continuation-text">and makes recommendations for improvements and for any changes in law it believes to be necessary or appropriate.</continuation>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s203/i" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There are authorized to be appropriated to the Council such sums as may be necessary to enable the Council to carry out its duties.</content>
+                </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24101">49 U.S.C. 24101</ref> nt<b>]</b> </editorialNote>
+            </section><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sections 204 and 205 were repealed by section 218(a)(2) of division B of Public Law 110–432<b>]</b> </editorialNote>
+            <section identifier="/us/sComp/105/134/tII/s206" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="206">SEC. 206. </num><heading style="-uslm-dtd:header">ACCESS TO RECORDS AND ACCOUNTS. </heading>
+                <content class="block" style="-uslm-dtd:text">Section 24315 is amended by adding at the end the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">“(h) </num><heading style="-uslm-dtd:header">Access to Records and Accounts.—</heading><content style="-uslm-dtd:text">A State shall have access to Amtrak's records, accounts, and other necessary documents used to determine the amount of any payment to Amtrak required of the State.”</content>
+                </subsection></quotedContent>.</content>
+            </section>
+            <section identifier="/us/sComp/105/134/tII/s207" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="207">SEC. 207. </num><heading style="-uslm-dtd:header">OFFICERS' PAY. </heading>
+                <content class="block" style="-uslm-dtd:text">Section 24303(b) is amended by adding at the end the following: “<quotedText style="-uslm-dtd:quote">The preceding sentence shall not apply for any fiscal year for which no Federal assistance is provided to Amtrak.</quotedText>”.</content>
+            </section>
+            <section identifier="/us/sComp/105/134/tII/s208" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="208">SEC. 208. </num><heading style="-uslm-dtd:header">EXEMPTION FROM TAXES. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 208 made amendments to section 24301(l)(1) of title 49, United States Code, which is shown elsewhere in this compilation.<b>]</b> </editorialNote>
+            </section>
+            <section identifier="/us/sComp/105/134/tII/s209" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="209">SEC. 209. </num><heading style="-uslm-dtd:header">LIMITATION ON USE OF TAX REFUND. </heading>
+                <subsection identifier="/us/sComp/105/134/tII/s209/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Amtrak may not use any amount received under section 977 of the Taxpayer Relief Act of 1997—</chapeau>
+                    <paragraph identifier="/us/sComp/105/134/tII/s209/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">for any purpose other than making payments to non-Amtrak States (pursuant to section 977(c) of that Act), or the financing of qualified expenses (as that term is defined in section 977(e)(1) of that Act); or</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tII/s209/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">to offset other amounts used for any purpose other than the financing of such expenses.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tII/s209/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report by ARC.—</heading><content style="-uslm-dtd:text">The Amtrak Reform Council shall report quarterly to the Congress on the use of amounts received by Amtrak under section 977 of the Taxpayer Relief Act of 1997.</content>
+                </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24104">49 U.S.C. 24104</ref> nt<b>]</b> </editorialNote>
+            </section>
+        </title>
+        <title identifier="/us/sComp/105/134/tIII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS </heading>
+            <section identifier="/us/sComp/105/134/tIII/s301" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 301(a) amended section 24104(a) of title 49, United States Code, which is shown elsewhere in this compilation.<b>]</b> </editorialNote>
+                <subsection identifier="/us/sComp/105/134/tIII/s301/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Amtrak Reform Legislation.—</heading><content style="-uslm-dtd:text">This Act constitutes Amtrak reform legislation within the meaning of section 977(f)(1) of the Taxpayer Relief Act of 1997.</content>
+                </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t26/s172">26 U.S.C. 172</ref> nt<b>]</b> </editorialNote>
+            </section>
+        </title>
+        <title identifier="/us/sComp/105/134/tIV" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">MISCELLANEOUS </heading>
+            <section identifier="/us/sComp/105/134/tIV/s401" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><heading style="-uslm-dtd:header">STATUS AND APPLICABLE LAWS. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 401 made amendments to section 24301 of title 49, United States Code, which is shown elsewhere in this compilation.<b>]</b> </editorialNote>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s402" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="402">SEC. 402. </num><heading style="-uslm-dtd:header">WASTE DISPOSAL. </heading>
+                <content class="block" style="-uslm-dtd:text">Section 24301(m)(1)(A) is amended by striking “<quotedText style="-uslm-dtd:quote">1996</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2001</quotedText>”.</content>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s403" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="403">SEC. 403. </num><heading style="-uslm-dtd:header">ASSISTANCE FOR UPGRADING FACILITIES. </heading>
+                <content class="block" style="-uslm-dtd:text">Section 24310 and the item relating thereto in the table of sections for chapter 243 are repealed.</content>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s404" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="404">SEC. 404. </num><heading style="-uslm-dtd:header">DEMONSTRATION OF NEW TECHNOLOGY. </heading>
+                <content class="block" style="-uslm-dtd:text">Section 24314 and the item relating thereto in the table of sections for chapter 243 are repealed.</content>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s405" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="405">SEC. 405. </num><heading style="-uslm-dtd:header">PROGRAM MASTER PLAN FOR BOSTON-NEW YORK MAIN LINE. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 405 made amendments to chapter 249 of title 49, United States Code, which is shown elsewhere in this compilation.<b>]</b> </editorialNote>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s406" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="406">SEC. 406. </num><heading style="-uslm-dtd:header">AMERICANS WITH DISABILITIES ACT OF 1990. </heading>
+                <subsection identifier="/us/sComp/105/134/tIV/s406/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Application to Amtrak.—</heading>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s406/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Access improvements at certain shared stations.—</heading><content style="-uslm-dtd:text">Amtrak is responsible for its share, if any, of the costs of accessibility improvements required by the Americans With Disabilities Act of 1990 at any station jointly used by Amtrak and a commuter authority.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s406/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Certain requirements not to apply until 1998.—</heading><content style="-uslm-dtd:text">Amtrak shall not be subject to any requirement under subsection (a)(1), (a)(3), or (e)(2) of section 242 of the Americans With Disabilities Act of 1990 (42 U.S.C. 12162) until January 1, 1998.</content>
+                    </paragraph>
+                </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24307">49 U.S.C. 24307</ref> nt<b>]</b> </editorialNote>
+                <subsection identifier="/us/sComp/105/134/tIV/s406/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conforming Amendment.—</heading><chapeau style="-uslm-dtd:text">Section 24307 is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s406/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking subsection (b); and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s406/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by redesignating subsection (c) as subsection (b).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s407" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="407">SEC. 407. </num><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                <subsection role="undesignated-level" style="-uslm-dtd:subsection" styleType="OLC"><chapeau style="-uslm-dtd:text">Section 24102 is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s407/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking paragraphs (2) and (11);</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s407/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by redesignating paragraphs (3) through (10) as paragraphs (2) through (9), respectively; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s407/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by inserting “<term style="-uslm-dtd:quote">, including a unit of State or local government,</term>” after “<term style="-uslm-dtd:quote">means a person</term>” in paragraph (7), as so redesignated.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s408" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="408">SEC. 408. </num><heading style="-uslm-dtd:header">NORTHEAST CORRIDOR COST DISPUTE. </heading>
+                <content class="block" style="-uslm-dtd:text">Section 1163 of the Northeast Rail Service Act of 1981 (45 U.S.C. 1111) is repealed.</content>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s409" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="409">SEC. 409. </num><heading style="-uslm-dtd:header">INSPECTOR GENERAL ACT OF 1978 AMENDMENT. </heading>
+                <subsection identifier="/us/sComp/105/134/tIV/s409/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Amendment.—</heading>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s409/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Section 8G(a)(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “<quotedText style="-uslm-dtd:quote">Amtrak,</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s409/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Effective date.—</heading><content style="-uslm-dtd:text">The amendment made by paragraph (1) shall take effect at the beginning of the first fiscal year after a fiscal year for which Amtrak receives no Federal subsidy.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tIV/s409/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t5/s415">5 U.S.C. 415 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Amtrak Not Federal Entity.—</heading><content style="-uslm-dtd:text">Amtrak shall not be considered a Federal entity for purposes of chapter 4 of title 5, United States Code. The preceding sentence shall apply for any fiscal year for which Amtrak receives no Federal subsidy.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tIV/s409/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t5/s415">5 U.S.C. 415 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Federal Subsidy.—</heading>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s409/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Assessment.—</heading><chapeau style="-uslm-dtd:text">In any fiscal year for which Amtrak requests Federal assistance, the Inspector General of the Department of Transportation shall review Amtrak's operations and conduct an assessment similar to the assessment required by section 202(a). The Inspector General shall report the results of the review and assessment to—</chapeau>
+                        <subparagraph identifier="/us/sComp/105/134/tIV/s409/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the President of Amtrak;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tIV/s409/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Secretary of Transportation;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tIV/s409/c/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the United States Senate Committee on Appropriations;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tIV/s409/c/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the United States Senate Committee on Commerce, Science, and Transportation;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tIV/s409/c/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the United States House of Representatives Committee on Appropriations; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tIV/s409/c/1/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the United States House of Representatives Committee on Transportation and Infrastructure.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s409/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">The report shall be submitted, to the extent practicable, before any such committee reports legislation authorizing or appropriating funds for Amtrak for capital acquisition, development, or operating expenses.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s409/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Special effective date.—</heading><content style="-uslm-dtd:text">This subsection takes effect 1 year after the date of enactment of this Act.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s410" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="410">SEC. 410. </num><heading style="-uslm-dtd:header">INTERSTATE RAIL COMPACTS. </heading>
+                <subsection identifier="/us/sComp/105/134/tIV/s410/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Consent to Compacts.—</heading><chapeau style="-uslm-dtd:text">Congress grants consent to States with an interest in a specific form, route, or corridor of intercity passenger rail service (including high speed rail service) to enter into interstate compacts to promote the provision of the service, including—</chapeau>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s410/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">retaining an existing service or commencing a new service;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s410/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">assembling rights-of-way; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s410/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">performing capital improvements, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/105/134/tIV/s410/a/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the construction and rehabilitation of maintenance facilities;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tIV/s410/a/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the purchase of locomotives; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tIV/s410/a/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">operational improvements, including communications, signals, and other systems.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tIV/s410/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Financing.—</heading><chapeau style="-uslm-dtd:text">An interstate compact established by States under subsection (a) may provide that, in order to carry out the compact, the States may—</chapeau>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s410/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">accept contributions from a unit of State or local government or a person;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s410/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">use any Federal or State funds made available for intercity passenger rail service ;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s410/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">on such terms and conditions as the States consider advisable—</chapeau>
+                        <subparagraph identifier="/us/sComp/105/134/tIV/s410/b/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">borrow money on a short-term basis and issue notes for the borrowing; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/105/134/tIV/s410/b/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">issue bonds; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s410/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">obtain financing by other means permitted under Federal or State law.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tIV/s410/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Notification Requirement.—</heading><content style="-uslm-dtd:text">Any State that enters into an interstate compact pursuant to subsection (a) shall notify the Secretary of Transportation of such compact not later than 60 days after it is formed. The failure of any State to notify the Secretary under this subsection shall not affect the status of the interstate compact.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tIV/s410/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Interstate Rail Compacts Program.—</heading><chapeau style="-uslm-dtd:text">The Secretary of Transportation shall—</chapeau>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s410/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">make available on a publicly accessible website a list of interstate rail compacts established under subsection (a) before the date of enactment of the <inline style="-uslm-dtd:short-title">Passenger Rail Expansion and Rail Safety Act of 2021</inline> and interstate rail compacts established after such date; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s410/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">make information regarding interstate rail compacts available to the public, including how States may establish interstate rail compacts under subsection (a), and update such information, as necessary.</content>
+                    </paragraph>
+                </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24101">49 U.S.C. 24101</ref> nt<b>]</b> </editorialNote>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s411" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="411">SEC. 411. </num><heading style="-uslm-dtd:header">BOARD OF DIRECTORS. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 411(a) amended section 24302 of title 49, United States Code, which is shown elsewhere in this compilation.<b>]</b> </editorialNote>
+                <subsection identifier="/us/sComp/105/134/tIV/s411/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Effect on Authorizations.—</heading><content style="-uslm-dtd:text">If the Reform Board has not assumed the responsibilities of the Board of Directors of Amtrak before July 1, 1998, all provisions authorizing appropriations under the amendments made by section 301(a) of this Act for a fiscal year after fiscal year 1998 shall cease to be effective. The preceding sentence shall have no effect on funds provided to Amtrak pursuant to section 977 of the Taxpayer Relief Act of 1997.</content>
+                </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24104">49 U.S.C. 24104</ref> nt<b>]</b> </editorialNote>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s412" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="412">SEC. 412. </num><heading style="-uslm-dtd:header">EDUCATIONAL PARTICIPATION. </heading>
+                <content class="block" style="-uslm-dtd:text">Amtrak shall participate in educational efforts with elementary and secondary schools to inform students on the advantages of rail travel and the need for rail safety.</content><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24305">49 U.S.C. 24305</ref> nt<b>]</b> </editorialNote>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s413" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="413">SEC. 413. </num><heading style="-uslm-dtd:header">REPORT TO CONGRESS ON AMTRAK BANKRUPTCY. </heading>
+                <content class="block" style="-uslm-dtd:text">Within 120 days after the date of enactment of this Act, the Comptroller General shall submit a report identifying financial and other issues associated with an Amtrak bankruptcy to the United States Senate Committee on Commerce, Science, and Transportation and to the United States House of Representatives Committee on Transportation and Infrastructure. The report shall include an analysis of the implications of such a bankruptcy on the Federal Government, Amtrak's creditors, and the Railroad Retirement System.</content>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s414" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="414">SEC. 414. </num><heading style="-uslm-dtd:header">AMTRAK TO NOTIFY CONGRESS OF LOBBYING RELATIONSHIPS. </heading>
+                <subsection role="undesignated-level" style="-uslm-dtd:subsection" styleType="OLC"><chapeau style="-uslm-dtd:text">If, at any time, during a fiscal year in which Amtrak receives Federal assistance, Amtrak enters into a consulting contract or similar arrangement, or a contract for lobbying, with a lobbying firm, an individual who is a lobbyist, or who is affiliated with a lobbying firm, as those terms are defined in section 3 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602), Amtrak shall notify the United States Senate Committee on Commerce, Science, and Transportation, and the United States House of Representatives Committee on Transportation and Infrastructure of—</chapeau>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s414/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the name of the individual or firm involved;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s414/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the purpose of the contract or arrangement; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/105/134/tIV/s414/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the amount and nature of Amtrak's financial obligation under the contract.</content>
+                    </paragraph><continuation role="subsection" style="-uslm-dtd:continuation-text">This section applies only to contracts, renewals or extensions of contracts, or arrangements entered into after the date of the enactment of this Act.</continuation>
+                </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24315">49 U.S.C. 24315</ref> nt<b>]</b> </editorialNote>
+            </section>
+            <section identifier="/us/sComp/105/134/tIV/s415" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="415">SEC. 415. </num><heading style="-uslm-dtd:header">FINANCIAL POWERS. </heading>
+                <subsection identifier="/us/sComp/105/134/tIV/s415/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Capitalization.—</heading><paragraph class="inline" identifier="/us/sComp/105/134/tIV/s415/a/1" style="-uslm-dtd:paragraph" styleType="OLC"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Section 24304 is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="24304">“§ 24304. </num><heading style="-uslm-dtd:header">Employee stock ownership plans </heading>
+                        <content class="block" style="-uslm-dtd:text">“In issuing stock pursuant to applicable corporate law, Amtrak is encouraged to include employee stock ownership plans.”</content>
+                    </section></quotedContent>.</content></paragraph>
+                    <paragraph class="leftIndentDecrease1" identifier="/us/sComp/105/134/tIV/s415/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The item relating to section 24304 in the table of sections of chapter 243 is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <toc style="-uslm-dtd:toc">
+                            <heading style="-uslm-dtd:toc-entry">“24304. Employee stock ownership plans.”</heading>
+                        </toc></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tIV/s415/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Redemption of Common Stock.—</heading><content style="-uslm-dtd:text">Amtrak shall, before October 1, 2002, redeem all common stock previously issued, for the fair market value of such stock.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/105/134/tIV/s415/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Elimination of Liquidation Preference and Voting Rights of Preferred Stock.—</heading><paragraph class="inline" identifier="/us/sComp/105/134/tIV/s415/c/1" style="-uslm-dtd:paragraph" styleType="OLC"><num style="-uslm-dtd:enum" value="1">(1)</num><subparagraph class="inline" identifier="/us/sComp/105/134/tIV/s415/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Preferred stock of Amtrak held by the Secretary of Transportation shall confer no liquidation preference.</content></subparagraph>
+                    <subparagraph class="leftIndentDecrease2" identifier="/us/sComp/105/134/tIV/s415/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Subparagraph (A) shall take effect 90 days after the date of the enactment of this Act.</content>
+                    </subparagraph></paragraph>
+                    <paragraph class="leftIndentDecrease1" identifier="/us/sComp/105/134/tIV/s415/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2)</num><subparagraph class="inline" identifier="/us/sComp/105/134/tIV/s415/c/2/A" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Preferred stock of Amtrak held by the Secretary of Transportation shall confer no voting rights.</content></subparagraph>
+                        <subparagraph class="leftIndentDecrease2" identifier="/us/sComp/105/134/tIV/s415/c/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Subparagraph (A) shall take effect 60 days after the date of the enactment of this Act.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t49/s24304">49 U.S.C. 24304</ref> nt<b>]</b> </editorialNote>
+                <subsection identifier="/us/sComp/105/134/tIV/s415/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Status and Applicable Laws.—</heading><paragraph class="inline" identifier="/us/sComp/105/134/tIV/s415/d/1" style="-uslm-dtd:paragraph" styleType="OLC"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Section 24301(a)(3) is amended by inserting “<quotedText style="-uslm-dtd:quote">, and shall not be subject to title 31</quotedText>” after “<quotedText style="-uslm-dtd:quote">United States Government</quotedText>”.</content></paragraph>
+                    <paragraph class="leftIndentDecrease1" identifier="/us/sComp/105/134/tIV/s415/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Section 9101(2) of title 31, United States Code, relating to Government corporations, is amended by striking subparagraph (A) and redesignating subparagraphs (B) through (L) as subparagraphs (A) through (K), respectively.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

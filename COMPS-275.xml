@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>INTERNATIONAL BANKING ACT OF 1978</dc:title>
+        <citableAs>Public Law 95-369, as amended</citableAs>
+        <citableAsShortTitle>INTERNATIONAL BANKING ACT OF 1978</citableAsShortTitle>
+        <docNumber>369</docNumber>
+        <currentThroughPublicLaw>111–203</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>International Banking Act of 1978</containsShortTitle>
+        <property role="fileId">275</property>
+        <congress>95</congress>
+        <approvedDate>1978-09-17</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">INTERNATIONAL BANKING ACT OF 1978</property>
+        <citationNote style="-uslm-dtd:public-law">[<citableAs>Public Law 95-369</citableAs>]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 111–203</currentThroughPublicLaw>, Enacted <date date="2010-07-21">July 21, 2010</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of Public Law 95-369. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To provide for Federal regulation of participation by foreign banks in domestic financial markets.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s1" styleType="traditional">
+            <heading style="-uslm-dtd:header">short title; definitions and rules of construction </heading>
+            <num style="-uslm-dtd:enum" value="1">Section 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3101">12 U.S.C. 3101 note</ref><b>]</b> </editorialNote><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s1/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">International Banking Act of 1978</shortTitle>”.</content></subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3101">12 U.S.C. 3101</ref><b>]</b> </editorialNote><chapeau style="-uslm-dtd:text">For the purposes of this Act—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">agency</term>” means any office or any place of business of a foreign bank located in any State of the United States at which credit balances are maintained incidental to or arising out of the exercise of banking powers, checks are paid, or money is lent but at which deposits may not be accepted from citizens or residents of the United States;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">Board</term>” means the Board of Governors of the Federal Reserve System;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">branch</term>” means any office or any place of business of a foreign bank located in any State of the United States at which deposits are received;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">Comptroller</term>” means the Comptroller of the Currency;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">Federal agency</term>” means an agency of a foreign bank established and operating under section 4 of this Act;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">Federal branch</term>” means a branch of a foreign bank established and operating under section 4 of this Act;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">foreign bank</term>” means any company organized under the laws of a foreign country, a territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands, which engages in the business of banking, or any subsidiary or affiliate, organized under such laws, of any such company. For the purposes of this Act the term “<term style="-uslm-dtd:term">foreign bank</term>” includes, without limitation, foreign commercial banks, foreign merchant banks and other foreign institutions that engage in banking activities usual in connection with the business of banking in the countries where such foreign institutions are organized or operating;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">foreign country</term>” means any country other than the United States, and includes any colony, dependency, or possession of any such country;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/9" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">commercial lending company</term>” means any institution, other than a bank or an organization operating under section 25 of the Federal Reserve Act, organized under the laws of any State of the United States, or the District of Columbia which maintains credit balances incidental to or arising out of the exercise of banking powers and engages in the business of making commercial loans;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/10" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">State</term>” means any State of the United States or the District of Columbia;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/11" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">State agency</term>” means an agency of a foreign bank established and operating under the laws of any State;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/12" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">State branch</term>” means a branch of a foreign bank established and operating under the laws of any State;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/13" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="13">(13) </num><content style="-uslm-dtd:text">the terms “<term style="-uslm-dtd:term">affiliate</term>”, “<quotedText style="-uslm-dtd:quote">bank</quotedText>”, “<quotedText style="-uslm-dtd:quote">bank holding company</quotedText>”, “<quotedText style="-uslm-dtd:quote">company</quotedText>”, “<quotedText style="-uslm-dtd:quote">control</quotedText>”, and “<quotedText style="-uslm-dtd:quote">subsidiary</quotedText>” have the same meanings assigned to those terms in the Bank Holding Company Act of 1956, and the terms “<term style="-uslm-dtd:term">controlled</term>” and “<quotedText style="-uslm-dtd:quote">controlling</quotedText>” shall be construed consistently with the term “<term style="-uslm-dtd:term">control</term>” as defined in section 2 of the Bank Holding Company Act of 1956;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/14" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="14">(14) </num><content style="-uslm-dtd:text">
+“<term style="-uslm-dtd:term">consolidated</term>” means consolidated in accordance with generally accepted accounting principles in the United States consistently applied;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/15" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="15">(15) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:term">representative office</term>” means any office of a foreign bank which is located in any State and is not a Federal branch, Federal agency, State branch, or State agency;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/16" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="16">(16) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:term">office</term>” means any branch, agency, or representative office; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s1/b/17" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="17">(17) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:term">State bank supervisor</term>” has the meaning given to such term in section 3 of the Federal Deposit Insurance Act.</content>
+                </paragraph>
+            </subsection>
+        </section><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>§§ 2 and 3 made amendments to other Acts<b>]</b> </editorialNote>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s4" styleType="traditional">
+            <heading style="-uslm-dtd:header">federal branches and agencies </heading>
+            <num style="-uslm-dtd:enum" value="4">Sec. 4. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3102">12 U.S.C. 3102</ref><b>]</b> </editorialNote><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s4/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment and Operation of Federal Branches and Agencies.—</heading>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s4/a/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Initial federal branch or agency.—</heading><content style="-uslm-dtd:text">Except as provided in section 5, a foreign bank which engages directly in a banking business outside the United States may, with the approval of the Comptroller, establish one or more Federal branches or agencies in any State in which (1) it is not operating a branch or agency pursuant to State law and (2) the establishment of a branch or agency, as the case may be, by a foreign bank is not prohibited by State law.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s4/a/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Board conditions required to be included.—</heading><content style="-uslm-dtd:text">In considering any application for approval under this subsection, the Comptroller of the Currency shall include any condition imposed by the Board under section 7(d)(5) as a condition for the approval of such application by the agency.</content>
+            </paragraph></subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s4/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">In establishing and operating a Federal branch or agency, a foreign bank shall be subject to such rules, regulations, and orders as the Comptroller considers appropriate to carry out this section, which shall include provisions for service of process and maintenance of branch and agency accounts separate from those of the parent bank. Except as otherwise specifically provided in this Act or in rules, regulations, or orders adopted by the Comptroller under this section, operations of a foreign bank at a Federal branch or agency shall be conducted with the same rights and privileges as a national bank at the same location and shall be subject to all the same duties, restrictions, penalties, liabilities, conditions, and limitations that would apply under the National Bank Act to a national bank doing business at the same location, except that (1) any limitation or restriction based on the capital stock and surplus of a national bank shall be deemed to refer, as applied to a Federal branch or agency, to the dollar equivalent of the capital stock and surplus of the foreign bank, and if the foreign bank has more than one Federal branch or agency the business transacted by all such branches and agencies shall be aggregated in determining compliance with the limitation; (2) a Federal branch or agency shall not be required to become a member bank, as that term is defined in section 1 of the Federal Reserve Act; and (3) a Federal agency shall not be required to become an insured bank as that term is defined in section 3(h) of the Federal Deposit Insurance Act. The Comptroller of the Currency shall coordinate examinations of Federal branches and agencies of foreign banks with examinations conducted by the Board under section 7(c)(1) and, to the extent possible, shall participate in any simultaneous examinations of the United States operations of a foreign bank requested by the Board under such section.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s4/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">In acting on any application to establish a Federal branch or agency, the Comptroller shall take into account the effects of the proposal on competition in the domestic and foreign commerce of the United States, the financial and managerial resources and future prospects of the applicant foreign bank and the branch or agency, and the convenience and needs of the community to be served.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s4/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">Notwithstanding any other provision of this section, a foreign bank shall not receive deposits or exercise fiduciary powers at any Federal agency. A foreign bank may, however, maintain at a Federal agency for the account of others credit balances incidental to, or arising out of, the exercise of its lawful powers.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s4/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">No foreign bank may maintain both a Federal branch and a Federal agency in the same State.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s4/f" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><content style="-uslm-dtd:text">Any branch or agency operated by a foreign bank in a State pursuant to State law and any commercial lending company controlled by a foreign bank may be converted into a Federal branch or agency with the approval of the Comptroller. In the event of any conversion pursuant to this subsection, all of the liabilities of such foreign bank previously payable at the State branch or agency, or all of the liabilities of the commercial lending company, shall thereafter be payable by such foreign bank at the branch or agency established under this subsection.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s4/g" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">(g)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s4/g/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Upon the opening of a Federal branch or agency in any State and thereafter, a foreign bank, in addition to any deposit requirements imposed under section 6 of this Act, shall keep on deposit, in accordance with such rules and regulations as the Comptroller may prescribe, with a member bank designated by such foreign bank, dollar deposits or investment securities of the type that may be held by national banks for their own accounts pursuant to paragraph “<quotedText style="-uslm-dtd:quote">Seventh</quotedText>” of section 5136 of the Revised Statutes, as amended, in an amount as hereinafter set forth. Such depository bank shall be located in the State where such branch or agency is located and shall be approved by the Comptroller if it is a national bank and by the Board of Governors of the Federal Reserve System if it is a State Bank.</content></paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s4/g/2" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The aggregate amount of deposited in investment securities (calculated on the basis of principal amount or market value, whichever is lower) and dollar deposits for each branch or agency established and operating under this section shall be not less than the greater of (1) that amount of capital (but not surplus) which would be required of a national bank being organized at this location, or (2) 5 per centum of the total liabilities of such branch or agency, including acceptances, but excluding (A) accrued expenses, and (B) amounts due and other liabilities to offices, branches, agencies, and subsidiaries of such foreign bank. The Comptroller may require that the assets deposited pursuant to this subsection shall be maintained in such amounts as he may from time to time deem necessary or desirable, for the maintenance of a sound financial condition, the protection of depositors, and the public interest, but such additional amount shall in no event be greater than would be required to conform to generally accepted banking practices as manifested by banks in the area in which the branch or agency is located.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s4/g/3" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The deposit shall be maintained with any such member bank pursuant to a deposit agreement in such form and containing such limitations and conditions as the Comptroller may prescribe. So long as it continues business in the ordinary course such foreign bank shall, however, be permitted to collect income on the securities and funds so deposited and from time to time examine and exchange such securities.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s4/g/4" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Subject to such conditions and requirements as may be prescribed by the Comptroller, each foreign bank shall hold in each State in which it has a Federal branch or agency, assets of such types and in such amount as the Comptroller may prescribe by general or specific regulation or ruling as necessary or desirable for the maintenance of a sound financial condition, the protection of depositors, creditors and the public interest. In determining compliance with any such prescribed asset requirements, the Comptroller shall give credit to (A) assets required to be maintained pursuant to paragraphs (1) and (2) of this subsection, (B) reserves required to be maintained pursuant to section 7(a) of this Act, and (C) assets pledged, and surety bonds payable, to the Federal Deposit Insurance Corporation to secure the payment of domestic deposits. The Comptroller may prescribe different asset requirements for branches or agencies in different States, in order to ensure competitive equality of Federal branches and agencies with State branches and agencies and domestic banks in those States.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s4/h" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Additional Branches or Agencies.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s4/h/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Approval of agency required.—</heading><content style="-uslm-dtd:text">A foreign bank with a Federal branch or agency operating in any State may (A) with the prior approval of the Comptroller establish and operate additional branches or agencies in the State in which such branch or agency is located on the same terms and conditions and subject to the same limitations and restrictions as are applicable to the establishment of branches by a national bank if the principal office of such national bank were located at the same place as the initial branch or agency in such State of such foreign bank and (B) change the designation of its initial branch or agency to any other branch or agency subject to the same limitations and restrictions as are applicable to a change in the designation of the principal office of a national bank if such principal office were located at the same place as such initial branch or agency.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s4/h/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Notice to and comment by board.—</heading><content style="-uslm-dtd:text">The Comptroller of the Currency shall provide the Board with notice and an opportunity for comment on any application to establish an additional Federal branch or Federal agency under this subsection.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s4/i" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">Authority to operate a Federal branch or agency shall terminate when the parent foreign bank voluntarily relinquishes it or when such parent foreign bank is dissolved or its authority or existence is otherwise terminated or canceled in the country of its organization. If (1) at any time the Comptroller is of the opinion or has reasonable cause to believe that such foreign bank has violated or failed to comply with any of the provisions of this section or any of the rules, regulations, or orders of the Comptroller made pursuant to this section, or (2) a conservator is appointed for such foreign bank or a similar proceeding is initiated in the foreign bank's country of organization, the Comptroller shall have the power, after opportunity for hearing, to revoke the foreign bank's authority to operate a Federal branch or agency. The Comptroller may, in his discretion, deny such opportunity for hearing if he determines such denial to be in the public interest. The Comptroller may restore any such authority upon due proof of compliance with the provisions of this section and the rules, regulations, or orders of the Comptroller made pursuant to this section.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s4/j" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="j">(j)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s4/j/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Whenever the Comptroller revokes a foreign bank's authority to operate a Federal branch or agency or whenever any creditor of any such foreign bank shall have obtained a judgment against it arising out of a transaction with a Federal branch or agency in any court of record of the United States or any State of the United States and made application, accompanied by a certificate from the clerk of the court stating that such judgment has been rendered and has remained unpaid for the space of thirty days, or whenever the Comptroller shall become satisfied that such foreign bank is insolvent, he may, after due consideration of its affairs, in any such case, appoint a receiver who shall take possession of all the property and assets of such foreign bank in the United States and exercise the same rights, privileges, powers, and authority with respect thereto as are now exercised by receivers of national banks appointed by the Comptroller.</content></paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s4/j/2" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">In any receivership proceeding ordered pursuant to this subsection (j), whenever there has been paid to each and every depositor and creditor of such foreign bank whose claim or claims shall have been proved or allowed, the full amount of such claims arising out of transactions had by them with any branch or agency of such foreign bank located in any State of the United States, except (A) claims that would not represent an enforceable legal obligation against such branch or agency if such branch or agency were a separate legal entity, and (B) amounts due and other liabilities to other offices or branches or agencies of, and wholly owned (except for a nominal number of directors' shares) subsidiaries of, such foreign bank, and all expenses of the receivership, the Comptroller or the Federal Deposit Insurance Corporation, where that Corporation has been appointed receiver of the foreign bank, shall turn over the remainder, if any, of the assets and proceeds of such foreign bank to the head office of such foreign bank, or to the duly appointed domiciliary liquidator or receiver of such foreign bank.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s5" styleType="traditional">
+            <heading style="-uslm-dtd:header">interstate banking operations </heading>
+            <num style="-uslm-dtd:enum" value="5">Sec. 5. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3103">12 U.S.C. 3103</ref><b>]</b> </editorialNote><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s5/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Interstate Branching and Agency Operations.—</heading>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/a/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Federal branch or agency.—</heading><content style="-uslm-dtd:text">Subject to the provisions of this Act and with the prior written approval by the Board and the Comptroller of the Currency of an application, a foreign bank may establish and operate a Federal branch or agency in any State outside the home State of such foreign bank to the extent that the establishment and operation of such branch would be permitted under section 5155(g) of the Revised Statutes or section 44 of the Federal Deposit Insurance Act if the foreign bank were a national bank whose home State is the same State as the home State of the foreign bank.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/a/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">State branch or agency.—</heading><content style="-uslm-dtd:text">Subject to the provisions of this Act and with the prior written approval by the Board and the appropriate State bank supervisor of an application, a foreign bank may establish and operate a State branch or agency in any State outside the home State of such foreign bank to the extent that such establishment and operation would be permitted under section 18(d)(4) or 44 of the Federal Deposit Insurance Act if the foreign bank were a State bank whose home State is the same State as the home State of the foreign bank.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/a/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Criteria for determination.—</heading><chapeau style="-uslm-dtd:text">In approving an application under paragraph (1) or (2), the Board and (in the case of an application under paragraph (1)) the Comptroller of the Currency—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s5/a/3/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">shall apply the standards applicable to the establishment of a foreign bank office in the United States under section 7(d);</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s5/a/3/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">may not approve an application unless the Board and (in the case of an application under paragraph (1)) the Comptroller of the Currency—</chapeau>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s5/a/3/B/i" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">determine that the foreign bank's financial resources, including the capital level of the bank, are equivalent to those required for a domestic bank to be approved for branching under section 5155 of the Revised Statutes and section 44 of the Federal Deposit Insurance Act; and</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s5/a/3/B/ii" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">consult with the Secretary of the Treasury regarding capital equivalency; and</content>
+                    </clause>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s5/a/3/C" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">shall apply the same requirements and conditions to which an application for an interstate merger transaction is subject under paragraphs (1), (3), and (4) of section 44(b) of the Federal Deposit Insurance Act.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/a/4" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Operation.—</heading><content style="-uslm-dtd:text">Subsections (c) and (d)(2) of section 44 of the Federal Deposit Insurance Act shall apply with respect to each branch and agency of a foreign bank which is established and operated pursuant to an application approved under this subsection in the same manner and to the same extent such provisions of such section apply to a domestic branch of a national or State bank (as such terms are defined in section 3 of such Act) which resulted from a merger transaction under such section 44.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/a/5" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Exclusive authority for additional branches.—</heading><content style="-uslm-dtd:text">Except as provided in this section, a foreign bank may not, directly or indirectly, acquire, establish, or operate a branch or agency in any State other than the home State of such bank.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/a/6" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Requirement for a separate subsidiary.—</heading><content style="-uslm-dtd:text">If the Board or the Comptroller of the Currency, taking into account differing regulatory or accounting standards, finds that adherence by a foreign bank to capital requirements equivalent to those imposed under section 5155 of the Revised Statutes and section 44 of the Federal Deposit Insurance Act could be verified only if the banking activities of such bank in the United States are carried out in a domestic banking subsidiary within the United States, the Board and (in the case of an application under paragraph (1)) the Comptroller of the Currency may approve an application under paragraph (1) or (2) subject to a requirement that the foreign bank or company controlling the foreign bank establish a domestic banking subsidiary in the United States.</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/a/7" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Additional authority for interstate branches and agencies of foreign banks, upgrades of certain foreign bank agencies and branches.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding paragraphs (1) and (2), a foreign bank may—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s5/a/7/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">with the approval of the Board and the Comptroller of the Currency, establish and operate a Federal branch or Federal agency or, with the approval of the Board and the appropriate State bank supervisor, a State branch or State agency in any State outside the foreign bank's home State if—</chapeau>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s5/a/7/A/i" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the establishment and operation of such branch or agency is permitted by the State in which the branch or agency is to be established; and</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s5/a/7/A/ii" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in the case of a Federal or State branch, the branch receives only such deposits as would be permitted for a corporation organized under section 25A of the Federal Reserve Act; or</content>
+                    </clause>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s5/a/7/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">with the approval of the Board and the relevant licensing authority (the Comptroller in the case of a Federal branch or the appropriate State supervisor in the case of a State branch), upgrade an agency, or a branch of the type referred to in subparagraph (A)(ii), located in a State outside the foreign bank's home State, into a Federal or State branch if—</chapeau>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s5/a/7/B/i" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the establishment and operation of such branch is permitted by such State; and</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s5/a/7/B/ii" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">such agency or branch—</chapeau>
+                        <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/369/s5/a/7/B/ii/I" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">was in operation in such State on the day before September 29, 1994; or</content>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/95/369/s5/a/7/B/ii/II" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">has been in operation in such State for a period of time that meets the State's minimum age requirement permitted under section 44(a)(5) of the Federal Deposit Insurance Act.</content>
+                        </subclause>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/a/8" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Continuing requirement for meeting community credit needs after initial interstate entry by acquisition.—</heading>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s5/a/8/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">If a foreign bank acquires a bank or a branch of a bank, in a State in which the foreign bank does not maintain a branch, and such acquired bank is, or is part of, a regulated financial institution (as defined in section 803 of the Community Reinvestment Act of 1977), the Community Reinvestment Act of 1977 shall continue to apply to each branch of the foreign bank which results from the acquisition as if such branch were a regulated financial institution.</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s5/a/8/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Exception for branch that receives only deposits permissible for an edge act corporation.—</heading><content style="-uslm-dtd:text">Paragraph (1) shall not apply to any branch that receives only such deposits as are permissible for a corporation organized under section 25A of the Federal Reserve Act to receive.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/a/9" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Home state of domestic bank defined.—</heading><chapeau style="-uslm-dtd:text">For purposes of this subsection, the term “<term style="-uslm-dtd:term">home State</term>” means—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s5/a/9/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">with respect to a national bank, the State in which the main office of the bank is located; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s5/a/9/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">with respect to a State bank, the State by which the bank is chartered.</content>
+                </subparagraph>
+            </paragraph></subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s5/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Unless its authority to do so is lawfully revoked otherwise than pursuant to this section, a foreign bank, notwithstanding any restriction or limitation imposed under subsection (a) of this section, may establish and operate, outside its home State, any State branch, State agency, or bank or commercial lending company subsidiary which commenced lawful operation or for which an application to commence business had been lawfully filed with the appropriate State or Federal authority, as the case may be, on or before July 27, 1978. Notwithstanding subsection (a), a foreign bank may continue to operate, after the enactment of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before the date of the enactment of such Act to the extent the branch, agency, or subsidiary continues, after the enactment of such Act, to engage in operations which were lawful under the laws in effect on the day before such date.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s5/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Determination of Home State of Foreign Bank.—</heading><chapeau style="-uslm-dtd:text">For the purposes of this section—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in the case of a foreign bank that has any branch, agency, subsidiary commercial lending company, or subsidiary bank in more than 1 State, the home State of the foreign bank is the 1 State of such States which is selected to be the home State by the foreign bank or, in default of any such selection, by the Board; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in the case of a foreign bank that does not have a branch, agency, subsidiary commercial lending company, or subsidiary bank in more than 1 State, the home State of the foreign bank is the State in which the foreign bank has a branch, agency, subsidiary commercial lending company, or subsidiary bank.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s5/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Clarification of Branching Rules in the Case of a Foreign Bank With a Domestic Bank Subsidiary.—</heading><chapeau style="-uslm-dtd:text">In the case of a foreign bank that has a domestic bank subsidiary within the United States—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the fact that such bank controls a domestic bank shall not affect the authority of the foreign bank to establish Federal and State branches or agencies to the extent permitted under subsection (a); and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s5/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the fact that the domestic bank is controlled by a foreign bank which has Federal or State branches or agencies in States other than the home State of such domestic bank shall not affect the authority of the domestic bank to establish branches outside the home State of the domestic bank to the extent permitted under section 5155(g) of the Revised Statutes or section 18(d)(4) or 44 of the Federal Deposit Insurance Act, as the case may be.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s6" styleType="traditional">
+            <heading style="-uslm-dtd:header">insurance of deposits </heading>
+            <num style="-uslm-dtd:enum" value="6">Sec. 6. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3104">12 U.S.C. 3104</ref><b>]</b> </editorialNote><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s6/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Objective.—</heading><content style="-uslm-dtd:text">In implementing this section, the Comptroller and the Federal Deposit Insurance Corporation shall each, by affording equal competitive opportunities to foreign and United States banking organizations in their United States operations, ensure that foreign banking organizations do not receive an unfair competitive advantage over United States banking organizations.</content></subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s6/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">No foreign bank may establish or operate a Federal branch which receives deposits of less than an amount equal to the standard maximum deposit insurance amount unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act, or unless the Comptroller determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s6/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s6/c/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">After the date of enactment of this Act no foreign bank may establish a branch, and after one year following such date no foreign bank may operate a branch, in any State in which the deposits of a bank organized and existing under the laws of that State would be required to be insured, unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act, or unless the branch will not thereafter accept deposits of less than an amount equal to the standard maximum deposit insurance amount or unless the Federal Deposit Insurance Corporation determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.</content></paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s6/c/2" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Notwithstanding the previous paragraph, a branch of a foreign bank in operation on the date of enactment of this Act which has applied for Federal deposit insurance pursuant to section 5 of the Federal Deposit Insurance Act by September 17, 1979, and has not had such application denied, may continue to accept domestic retail deposits until January 31, 1980.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s6/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Retail Deposit-Taking by Foreign Banks.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s6/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">in general.—</heading><chapeau style="-uslm-dtd:text">After the date of enactment of this subsection, notwithstanding any other provision of this Act or any provision of the Federal Deposit Insurance Act, in order to accept or maintain domestic retail deposit accounts having balances of less than an amount equal to the standard maximum deposit insurance amount, and requiring deposit insurance protection, a foreign bank shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s6/d/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">establish 1 or more banking subsidiaries in the United States for that purpose; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s6/d/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">obtain Federal deposit insurance for any such subsidiary in accordance with the Federal Deposit Insurance Act.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s6/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Exception.—</heading><content style="-uslm-dtd:text">Domestic retail deposit accounts with balances of less than an amount equal to the standard maximum deposit insurance amount that require deposit insurance protection may be accepted or maintained in a branch of a foreign bank only if such branch was an insured branch on the date of the enactment of this subsection.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s6/d/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Insured banks in u.s. territories.—</heading><content style="-uslm-dtd:text">For purposes of this subsection, the term “<term style="-uslm-dtd:term">foreign bank</term>” does not include any bank organized under the laws of any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands the deposits of which are insured by the Federal Deposit Insurance Corporation pursuant to the Federal Deposit Insurance Act.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s6/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Standard Maximum Deposit Insurance Amount Defined.—</heading><content style="-uslm-dtd:text">For purposes of this section, the term “<term style="-uslm-dtd:term">standard maximum deposit insurance amount</term>” means the amount of the maximum amount of deposit insurance as determined under section 11(a)(1) of the Federal Deposit Insurance Act.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s7" styleType="traditional">
+            <heading style="-uslm-dtd:header">authority of federal reserve system </heading>
+            <num style="-uslm-dtd:enum" value="7">Sec. 7. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3105">12 U.S.C. 3105</ref><b>]</b> </editorialNote><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s7/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/a/1/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Except as provided in paragraph (2) of this subsection, subsections (a), (b), (c), (d), (f), (g), (i), (j), (k), and the second sentence of subsection (e) of section 19 of the Federal Reserve Act shall apply to every Federal branch and Federal agency of a foreign bank in the same manner and to the same extent as if the Federal branch or Federal agency were a member bank as that term is defined in section 1 of the Federal Reserve Act; but the Board either by general or specific regulation or ruling may waive the minimum and maximum  reserve ratios prescribed under section 19 of the Federal Reserve Act and may prescribe any ratio, not more than 22 per centum, for any obligation of any such Federal branch or Federal agency that the Board may deem reasonable and appropriate, taking into consideration the character of business conducted by such institutions and the need to maintain vigorous and fair competition between and among such institutions and member banks. The Board may impose reserve requirements on Federal branches and Federal agencies in such graduated manner as it deems reasonable and appropriate.</content></subparagraph>
+            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/a/1/B" styleType="OLC" class="leftIndentDecrease2">
+                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">After consultation and in cooperation with the State bank supervisory authorities, the Board may make applicable to any State branch or State agency any requirement made applicable to, or which the Board has authority to impose upon, any Federal branch or agency under subparagraph (A) of this paragraph.</content>
+            </subparagraph></paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/a/2" styleType="OLC" class="leftIndentDecrease1">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">A branch or agency shall be subject to this subsection only if (A) its parent foreign bank has total worldwide consolidated bank assets in excess of $1,000,000,000; (B) its parent foreign bank is controlled by a foreign company which owns or controls foreign banks that in the aggregate have total worldwide consolidated bank assets in excess of $1,000,000,000; or (C) its parent foreign bank is controlled by a group of foreign companies that own or control foreign banks that in the aggregate have total worldwide consolidated bank assets in excess of $1,000,000,000.</content>
+            </paragraph></subsection><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 7(b) amended the Federal Reserve Act.<b>]</b> </editorialNote>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s7/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Foreign Bank Examinations and Reporting.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Examination of branches, agencies, and affiliates.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/c/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Board may examine each branch or agency of a foreign bank, each commercial lending company or bank controlled by 1 or more foreign banks or 1 or more foreign companies that control a foreign bank, and other office or affiliate of a foreign bank conducting business in any State.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/c/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Coordination of examinations.—</heading>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s7/c/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Board shall coordinate examinations under this paragraph with the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and appropriate State bank supervisors to the extent such coordination is possible.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s7/c/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Simultaneous examinations.—</heading><content style="-uslm-dtd:text">The Board may request simultaneous examinations of each office of a foreign bank and each affiliate of such bank operating in the United States.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s7/c/1/B/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><heading style="-uslm-dtd:header">Avoidance of duplication.—</heading><content style="-uslm-dtd:text">In exercising its authority under this paragraph, the Board shall take all reasonable measures to reduce burden and avoid unnecessary duplication of examinations.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/c/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">On-site examination.—</heading><content style="-uslm-dtd:text">Each Federal branch or agency, and each State branch or agency, of a foreign bank shall be subject to on-site examination by an appropriate Federal banking agency or State bank supervisor as frequently  as would a national bank or a State bank, respectively, by the appropriate Federal banking agency.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/c/1/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Cost of examinations.—</heading><content style="-uslm-dtd:text">The cost of any examination under subparagraph (A) shall be assessed against and collected from the foreign bank or the foreign company that controls the foreign bank, as the case may be, only to the same extent that fees are collected by the Board for examination of any State member bank.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/c/2" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="2">(2)<ref style="-uslm-dtd:footnote-ref" idref="ID540462CCF1B940B4886B04E27C9296A1" class="footnoteRef">1</ref> </num><heading style="-uslm-dtd:header">Reporting requirements.—</heading><content style="-uslm-dtd:text">Each branch or agency of a foreign bank, other than a Federal branch or agency, shall be subject to paragraph 20 and the provision requiring the reports of condition contained in paragraph 6 of section 9 of the Federal Reserve Act (12 U.S.C. 335 and 324) to the same extent and in the same manner as if the branch or agency were a State member bank. In addition to any requirements imposed under section 4 of this Act, each Federal branch and agency shall be subject to subparagraph (a) of section 11 of the Federal Reserve Act (12 U.S.C. 248(a)) and to paragraph 5 of section 21 of the Federal Reserve Act (12 U.S.C. 483) to the same extent and in the same manner as if it were a member bank.</content><footnote id="ID540462CCF1B940B4886B04E27C9296A1" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Indentation so in law.</p></footnote>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s7/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Establishment of Foreign Bank Offices in the United States.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Prior approval required.—</heading><content style="-uslm-dtd:text">No foreign bank may establish a branch or an agency, or acquire ownership or control of a commercial lending company, without the prior approval of the Board.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Required standards for approval.—</heading><chapeau style="-uslm-dtd:text">Except as provided in paragraph (6), the Board may not approve an application under paragraph (1) unless it determines that—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the foreign bank engages directly in the business of banking outside of the United States and is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the foreign bank has furnished to the Board the information it needs to adequately assess the application.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/d/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Standards for approval.—</heading><chapeau style="-uslm-dtd:text">In acting on any application under paragraph (1), the Board may take into account—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">whether the appropriate authorities in the home country of the foreign bank have consented to the proposed establishment of a branch, agency or commercial lending company in the United States by the foreign bank;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the financial and managerial resources of the foreign bank, including the bank's experience and capacity to engage in international banking;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">whether the foreign bank has provided the Board with adequate assurances that the bank will make available to the Board such information on the operations or activities of the foreign bank and any affiliate of the bank that the Board deems necessary to determine and enforce compliance with this Act, the Bank Holding Company Act of 1956, and other applicable Federal law;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/3/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">whether the foreign bank and the United States affiliates of the bank are in compliance with applicable United States law; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/3/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">for a foreign bank that presents a risk to the stability of United States financial system, whether the home country of the foreign bank has adopted, or is making demonstrable progress toward adopting, an appropriate system of financial regulation for the financial system of such home country to mitigate such risk.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/d/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Factor.—</heading><content style="-uslm-dtd:text">In acting on an application under paragraph (1), the Board shall not make the size of the foreign bank the sole determinant factor, and may take into account the needs of the community as well as the length of operation of the foreign bank and its relative size in its home country. Nothing in this paragraph shall affect the ability of the Board to order a State branch, agency, or commercial lending company subsidiary to terminate its activities in the United States pursuant to any standard set forth in this Act.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/d/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Establishment of conditions.—</heading><content style="-uslm-dtd:text">The Board may impose such conditions on its approval under this subsection as it deems necessary.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/d/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Exception.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/6/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">If the Board is unable to find, under paragraph (2), that a foreign bank is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country, the Board may nevertheless approve an application by such foreign bank under paragraph (1) if—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s7/d/6/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the appropriate authorities in the home country of the foreign bank are actively working to establish arrangements for the consolidated supervision of such bank; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s7/d/6/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">all other factors are consistent with approval.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/6/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Other considerations.—</heading><content style="-uslm-dtd:text">In deciding whether to use its discretion under subparagraph (A), the Board shall also consider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/6/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Additional conditions.—</heading><content style="-uslm-dtd:text">In approving an application under this paragraph, the Board, after requesting and taking into consideration the views of the appropriate State bank supervisor or the Comptroller of the Currency, as the case may be, may impose such conditions or restrictions relating to the activities or business operations of the proposed branch, agency, or commercial lending company subsidiary, including restrictions on sources of funding, as  are considered appropriate. The Board shall coordinate with the appropriate State bank supervisor or the Comptroller of the Currency, as appropriate, in the implementation of such conditions or restrictions.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/6/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Modification of conditions.—</heading><content style="-uslm-dtd:text">Any condition or restriction imposed by the Board in connection with the approval of an application under authority of this paragraph may be modified or withdrawn.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/d/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Time period for board action.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/7/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Final action.—</heading><content style="-uslm-dtd:text">The Board shall take final action on any application under paragraph (1) not later than 180 days after receipt of the application, except that the Board may extend for an additional 180 days the period within which to take final action on such application after providing notice of, and the reasons for, the extension to the applicant foreign bank and any appropriate State bank supervisor or the Comptroller of the Currency, as appropriate.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/7/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Failure to submit information.—</heading><content style="-uslm-dtd:text">The Board may deny any application if it does not receive information requested from the applicant foreign bank or appropriate authorities in the home country of the foreign bank in sufficient time to permit the Board to evaluate such information adequately within the time periods for final action set forth in subparagraph (A).</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/d/7/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Waiver.—</heading><content style="-uslm-dtd:text">A foreign bank may waive the applicability of this paragraph with respect to any application under paragraph (1).</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s7/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Termination of Foreign Bank Offices in the United States.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/e/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Standards for termination.—</heading><chapeau style="-uslm-dtd:text">The Board, after notice and opportunity for hearing and notice to any appropriate State bank supervisor, may order a foreign bank that operates a State branch or agency or commercial lending company subsidiary in the United States to terminate the activities of such branch, agency, or subsidiary if the Board finds that—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/e/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A)</num><clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s7/e/1/A/i" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the foreign bank is not subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country; and</content></clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s7/e/1/A/ii" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the appropriate authorities in the home country of the foreign bank are not making demonstrable progress in establishing arrangements for the comprehensive supervision or regulation of such foreign bank on a consolidated basis;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/e/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B)</num><clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s7/e/1/B/i" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">there is reasonable cause to believe that such foreign bank, or any affiliate of such foreign bank, has committed a violation of law or engaged in an unsafe or unsound banking practice in the United States; and</content></clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s7/e/1/B/ii" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">as a result of such violation or practice, the continued operation of the foreign bank's branch, agency or commercial lending company subsidiary in the United States would not be consistent with the public interest or with the purposes of this Act, the Bank Holding Company Act of 1956, or the Federal Deposit Insurance Act; or</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/e/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">for a foreign bank that presents a risk to the stability of the United States financial system, the home country of the foreign bank has not adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.</content>
+                    </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">However, in making findings under this paragraph, the Board shall not make size the sole determinant factor, and may take into account the needs of the community as well as the length of operation of the foreign bank and its relative size in its home country. Nothing in this paragraph shall affect the ability of the Board to order a State branch, agency, or commercial lending company subsidiary to terminate its activities in the United States pursuant to any standard set forth in this Act.</continuation>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/e/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Discretion to deny hearing.—</heading><content style="-uslm-dtd:text">The Board may issue an order under paragraph (1) without providing for an opportunity for a hearing if the Board determines that expeditious action is necessary in order to protect the public interest.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/e/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Effective date of termination order.—</heading><content style="-uslm-dtd:text">An order issued under paragraph (1) shall take effect before the end of the 120-day period beginning on the date such order is issued unless the Board extends such period.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/e/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Compliance with state and federal law.—</heading><content style="-uslm-dtd:text">Any foreign bank required to terminate activities conducted at offices or subsidiaries in the United States pursuant to this subsection shall comply with the requirements of applicable Federal and State law with respect to procedures for the closure or dissolution of such offices or subsidiaries.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/e/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Recommendation to agency for termination of a federal branch or agency.—</heading><content style="-uslm-dtd:text">The Board may transmit to the Comptroller of the Currency a recommendation that the license of any Federal branch or Federal agency of a foreign bank be terminated in accordance with section 4(i) if the Board has reasonable cause to believe that such foreign bank or any affiliate of such foreign bank has engaged in conduct for which the activities of any State branch or agency may be terminated under paragraph (1).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/e/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Enforcement of orders.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/e/6/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">In the case of contumacy of any office or subsidiary of the foreign bank against which—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s7/e/6/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the Board has issued an order under paragraph (1); or</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s7/e/6/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the Comptroller of the Currency has issued an order under section 4(i),</content>
+                        </clause><continuation style="-uslm-dtd:continuation-text" role="subparagraph">or a refusal by such office or subsidiary to comply with such order, the Board or the Comptroller of the Currency may invoke the aid of the district court of the United States within the jurisdiction of which the office or subsidiary is located.</continuation>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/e/6/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Court order.—</heading><content style="-uslm-dtd:text">Any court referred to in subparagraph (A) may issue an order requiring compliance with an order referred to in subparagraph (A).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/e/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Criteria relating to foreign supervision.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this subsection, the Board, in consultation with the Secretary of the Treasury, shall develop and publish criteria to be used in evaluating the operation of any foreign bank in the United States that the Board has determined is not subject to comprehensive supervision or regulation on a consolidated basis. In developing such criteria, the Board shall allow reasonable opportunity for public review and comment.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s7/f" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Judicial Review.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/f/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Jurisdiction of united states courts of appeals.—</heading><chapeau style="-uslm-dtd:text">Any foreign bank—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/f/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">whose application under subsection (d) or section 10(a) has been disapproved by the Board;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/f/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">against which the Board has issued an order under subsection (e) or section 10(b); or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/f/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">against which the Comptroller of the Currency has issued an order under section 4(i) of this Act,</content>
+                    </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">may obtain a review of such order in the United States court of appeals for any circuit in which such foreign bank operates a branch, agency, or commercial lending company that has been required by such order to terminate its activities, or in the United States Court of Appeals for the District of Columbia Circuit, by filing a petition for review in the court before the end of the 30-day period beginning on the date the order was issued.</continuation>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/f/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Scope of judicial review.—</heading><content style="-uslm-dtd:text">Section 706 of title 5, United States Code (other than paragraph (2)(F) of such section) shall apply with respect to any review under paragraph (1).</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s7/g" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Consultation With State Bank Supervisor.—</heading><content style="-uslm-dtd:text">The Board shall request and consider any views of the appropriate State bank supervisor with respect to any application or action under subsection (d) or (e).</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s7/h" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Limitations on Powers of State Branches and Agencies.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/h/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">After the end of the 1-year period beginning on the date of enactment of the Federal Deposit Insurance Corporation Improvement Act of 1991, a State branch or State agency may not engage in any type of activity that is not permissible for a Federal branch unless—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/h/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Board has determined that such activity is consistent with sound banking practice; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/h/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the case of an insured branch, the Federal Deposit Insurance Corporation has determined that the activity would pose no significant risk to the deposit insurance fund.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/h/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Single borrower lending limit.—</heading><content style="-uslm-dtd:text">A State branch or State agency shall be subject to the same limitations with respect to loans made to a single borrower as are applicable to a Federal branch or Federal agency under section 4(b).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/h/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Other authority not affected.—</heading><content style="-uslm-dtd:text">This section does not limit the authority of the Board or any State supervisory authority to impose more stringent restrictions.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s7/i" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Proceedings Related to Conviction for Money Laundering Offenses.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/i/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Notice of intention to issue order.—</heading><chapeau style="-uslm-dtd:text">If the Board finds or receives written notice from the Attorney General that—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/i/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any foreign bank which operates a State agency, a State branch which is not an insured branch, or a State commercial lending company subsidiary;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/i/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any State agency;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/i/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">any State branch which is not an insured branch; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/i/1/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">any State commercial lending subsidiary,</content>
+                    </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">has been found guilty of any money laundering offense, the Board shall issue a notice to the agency, branch, or subsidiary of the Board's intention to commence a termination proceeding under subsection (e).</continuation>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/i/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">For purposes of this subsection—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/i/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Insured branch.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">insured branch</term>” has the meaning given such term in section 3(s) of the Federal Deposit Insurance Act.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/i/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Money laundering offense defined.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">money laundering offense</term>” means any criminal offense under section 1956 or 1957 of title 18, United States Code, or under section 5322 of title 31, United States Code.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s7/j" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="j">(j) </num><heading style="-uslm-dtd:header">Study on Equivalence of Foreign Bank Capital.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after enactment of this subsection, the Board and the Secretary of the Treasury shall jointly submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a report—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/j/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">analyzing the capital standards contained in the framework for measurement of capital adequacy established by the Supervisory Committee of the Bank for International Settlements, foreign regulatory capital standards that apply to foreign banks conducting banking operations in the United States, and the relationship of the Basle and foreign standards to risk-based capital and leverage requirements for United States banks; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/j/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">establishing guidelines for the adjustments to be used by the Board in converting data on the capital of such foreign banks to the equivalent risk-based capital and leverage requirements for United States banks for purposes of determining whether a foreign bank's capital level is equivalent to that imposed on United States banks for purposes of determinations under section 7 of the International Banking Act of 1978 and sections 3 and 4 of the Bank Holding Company Act of 1956.</content>
+                </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">An update shall be prepared annually explaining any changes in the analysis under paragraph (1) and resulting changes in the guidelines pursuant to paragraph (2).</continuation>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s7/k" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="k">(k) </num><heading style="-uslm-dtd:header">Management of Shell Branches.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/k/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Transactions prohibited.—</heading><content style="-uslm-dtd:text">A branch or agency of a foreign bank shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that a bank organized under the laws of the United States, any State, or the District of Columbia is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s7/k/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Regulations.—</heading><chapeau style="-uslm-dtd:text">Any regulations promulgated to carry out this section—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/k/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">shall be promulgated in accordance with section 13; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s7/k/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">shall be uniform, to the extent practicable.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s8" styleType="traditional">
+            <heading style="-uslm-dtd:header">nonbanking activities </heading>
+            <num style="-uslm-dtd:enum" value="8">Sec. 8. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3106">12 U.S.C. 3106</ref><b>]</b> </editorialNote><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s8/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Except as otherwise provided in this section (1) any foreign bank that maintains a branch or agency in a State, (2) any foreign bank or foreign company controlling a foreign bank that controls a commercial lending company organized under State law, and (3) any company of which any foreign bank or company referred to in (1) and (2) is a subsidiary shall be subject to the provisions of the Bank Holding Company Act of 1956, and to sections 105 and 106 of the Bank Holding Company Act Amendments of 1970 in the same manner and to the same extent that bank holding companies are subject to such provisions.</content></subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s8/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Until December 31, 1985, a foreign bank or other company to which subsection (a) applies on the date of enactment of this Act may retain direct or indirect ownership or control of any voting shares of any nonbanking company in the United States that it owned, controlled, or held with power to vote on the date of enactment of this Act or engage in any nonbanking activities in the United States in which it was engaged on such date.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s8/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s8/c/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">After December 31, 1985, a foreign bank or other company to which subsection (a) applies on the date of enactment of this Act or on the date of the establishment of a branch in a State an application for which was filed on or before July 26, 1978 may continue to engage in nonbanking activities in the United States in which directly or through an affiliate it was lawfully engaged on July 26, 1978 (or on a date subsequent to July 26, 1978, in the case of activities carried on as the result of the direct or indirect acquisition, pursuant to a binding written contract entered into on or before July 26, 1978, of another company engaged in such activities at the time of acquisition), and may engage directly or through an affiliate in nonbanking activities in the United States which are covered by an application to engage in such activities which was filed on or before July 26, 1978; except that the Board by order, after opportunity for hearing, may terminate the authority conferred by this subsection (c) on any such foreign bank or company to engage directly or through an affiliate in any activity otherwise permitted by this subsection (c) if it determines having due regard to the purposes of this Act and the Bank Holding Company Act of 1956, that such action is necessary to prevent undue concentration of resources, decreased or unfair competition, conflicts of interest, or unsound banking practices in the United States. Notwithstanding subsection (a) of this section, a foreign bank or company referred to in this subsection may retain ownership or control of any voting shares (or, where necessary to prevent dilution of its voting interest, acquire additional voting shares) of any domestically-controlled affiliate covered in 1978 which since July 26, 1978, has engaged in the business of underwriting, distributing, or otherwise buying or selling stocks, bonds, and other securities in the United States, notwithstanding that such affiliate acquired after July 26, 1978, an interest in, or any or all of the assets of, a going concern, or commences to engage in any new activity or activities. Except in the case of affiliates described in the preceding sentence, nothing in this subsection (c) shall be construed to authorize any foreign bank or company referred to in this subsection (c), or any affiliate thereof, to engage in activities authorized by this subsection (c) through the acquisition, pursuant to a contract entered into after July 26, 1978, of any interest in or the assets of a going concern engaged in such activities. Any foreign bank or company that is authorized to engage in any activity pursuant to this subsection (c) but, as a result of action of the Board, is required to terminate such activity may retain the ownership of control of shares in any company carrying on such activity for a period of two years from the date on which its authority was so terminated by the Board. As used in this subsection, the term “<term style="-uslm-dtd:term">affiliate</term>” shall mean any company more than 5 per centum of whose voting shares is directly or indirectly owned or controlled or held with power to vote by the specified foreign bank or company, and the term “<term style="-uslm-dtd:term">domestically-controlled affiliate covered in 1978</term>” shall mean an affiliate organized under the laws of the United States or any State thereof if (i) no foreign bank or group of foreign banks acting in concert owns or controls, directly or indirectly, 45 per centum or more of its voting shares, and (ii) no more than 20 per centum of the number of directors as established from time to time to constitute the whole board of directors and 20 per centum of the executive officers of such affiliate are persons affiliated with any such foreign bank. For the purpose of the preceding sentence, the term “<term style="-uslm-dtd:term">persons affiliated with any such foreign bank</term>” shall mean (A) any person who is or was an employee, officer, agent, or director of such foreign bank or who otherwise has or had such a relationship with such foreign bank that would lead such person to represent the interests of such foreign bank, and (B) in the case of any director of such domestically controlled affiliate covered in 1978, any person in favor of whose election as a director votes were cast by less than two-thirds of all shares voting in connection with such election other than shares owned or controlled, directly or indirectly, by any such foreign bank.</content></paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s8/c/2" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The authority conferred by this subsection on a foreign bank or other company shall terminate 2 years after the date on which such foreign bank or other company becomes a “<quotedText style="-uslm-dtd:quote">bank holding company</quotedText>” as defined in section 2(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a)); except that the Board may, upon application of such foreign bank or other company, extend the 2-year period for not more than one year at a time, if, in its judgment, such an extension would not be detrimental to the public interest, but no such extensions shall exceed 3 years in the aggregate.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s8/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3)<ref style="-uslm-dtd:footnote-ref" idref="IDC40787D9442B468E9850A5F594D3F1FF" class="footnoteRef">2</ref> </num><heading style="-uslm-dtd:header">Termination of grandfathered rights.—</heading><footnote id="IDC40787D9442B468E9850A5F594D3F1FF" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">2</sup><p style="-uslm-dtd:para; margin-left:1em">Margin so in law.</p></footnote>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s8/c/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">If any foreign bank or foreign company files a declaration under section 4(l)(1)(C) of the Bank Holding Company Act of 1956, any authority conferred by this subsection on any foreign bank or company to engage in any activity that the Board has determined to be permissible for financial holding companies under section 4(k) of such Act shall terminate immediately.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s8/c/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Restrictions and requirements authorized.—</heading><content style="-uslm-dtd:text">If a foreign bank or company that engages, directly or through an affiliate pursuant to paragraph (1), in an activity that the Board has determined to be permissible for financial holding companies under section 4(k) of the Bank Holding Company Act of 1956 has not filed a declaration with the Board of its status as a financial holding company under such section by the end of the 2-year period beginning on the date of the enactment of the Gramm-Leach-Bliley Act, the Board, giving due regard to the principle of national treatment and equality of competitive opportunity, may impose such restrictions and requirements on the conduct of such activities by such foreign bank or company as are comparable to those imposed on a financial holding company organized under the laws of the United States, including a requirement to conduct such activities in compliance with any prudential safeguards established under section 114 of the Gramm-Leach-Bliley Act.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s8/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">Nothing in this section shall be construed to define a branch or agency of a foreign bank or a commercial lending company controlled by a foreign bank or foreign company that controls a foreign bank as a “<quotedText style="-uslm-dtd:quote">bank</quotedText>” for the purposes of any provisions of the Bank Holding Company Act of 1956, or section 105 of the Bank Holding Company Act Amendments of 1970, except that any such branch, agency or commercial lending company subsidiary shall be deemed a “<quotedText style="-uslm-dtd:quote">bank</quotedText>” or “<quotedText style="-uslm-dtd:quote">banking subsidiary</quotedText>”, as the case may be, for the purposes of applying the prohibitions of section 106 of the Bank Holding Company Act Amendments of 1970 and the exemptions provided in sections 4(c)(1), 4(c)(2), 4(c)(3), and 4(c)(4) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(c) (1), (2), (3), and (4)) to any foreign bank or other company to which subsection (a) applies.</content>
+            </subsection>
+        </section><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 8(e) amended the Bank Holding Company Act of 1956.<b>]</b> </editorialNote>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s9" styleType="traditional">
+            <heading style="-uslm-dtd:header">study of foreign treatment of united states banks </heading>
+            <num style="-uslm-dtd:enum" value="9">Sec. 9. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s601">12 U.S.C. 601</ref> nt.<b>]</b> </editorialNote><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s9/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Secretary of the Treasury, in conjunction with the Secretary of State, the Board, the Comptroller, and the Federal Deposit Insurance Corporation shall within 90 days after enactment of this bill commence a study of the extent to which banks organized under the laws of the United States or any State thereof are denied, whether by law or practice, national treatment in conducting banking operations in foreign countries, and the effects, if any, of such discrimination of United States exports to those countries. On or before one year after enactment of this section, the Secretary of the Treasury shall be required to report his findings, conclusions, and recommendations from such study to the Congress and describe the efforts undertaken by the United States to eliminate any foreign laws or practices  that discriminate against banks organized under the laws of the United States or any State thereof, or that serve as a barrier to the financing of United States exports to any foreign country.</content></subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s9/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3106a">12 U.S.C. 3106a</ref><b>]</b> </editorialNote><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s9/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1"> (1) </num><chapeau style="-uslm-dtd:text">Every branch or agency of a foreign bank and every commercial lending company controlled by one or more foreign banks or by one or more foreign companies that control a foreign bank shall conduct its operations in the United States in full compliance with provisions of any law of the United States or any State thereof which—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s9/b/1/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A)<ref style="-uslm-dtd:footnote-ref" idref="IDFE20928AFA9A4C4F8C02974DE230E6C6" class="footnoteRef">3</ref> </num><content style="-uslm-dtd:text">impose requirements that protect the rights of consumers in financial transactions, to the extent that the branch, agency, or commercial lending company engages in activities that are subject to such laws;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s9/b/1/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B)<ref style="-uslm-dtd:dangling-footnote-ref" class="footnoteRef">3</ref> </num><content style="-uslm-dtd:text">prohibit discrimination against any individual or other person on the basis of the race, color, religion, sex, marital status, age, or national origin of (i) such individual or other person or (ii) any officer, director, employee, or creditor of, or any owner of any interest in, such individual or other person; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s9/b/1/C" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C)<ref style="-uslm-dtd:dangling-footnote-ref" class="footnoteRef">3</ref> </num><content style="-uslm-dtd:text">apply to national banks or State-chartered banks doing business in the State in which such branch or agency or commercial lending company, as the case may be, is doing business.</content><footnote id="IDFE20928AFA9A4C4F8C02974DE230E6C6" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">3</sup><p style="-uslm-dtd:para; margin-left:1em">Indentation so in law.</p></footnote>
+                </subparagraph></paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s9/b/2" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">No application for a branch or agency shall be approved by the Comptroller or by a State bank supervisory authority, as the case may be, unless the entity making the application has agreed to conduct all of its operations in the United States in full compliance with provisions of any law of the United States or any State thereof which—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s9/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A)<ref style="-uslm-dtd:footnote-ref" idref="IDCEE696D7C4DB4832B4E3E8F2667761EB" class="footnoteRef">4</ref> </num><content style="-uslm-dtd:text">impose requirements that protect the rights of consumers in financial transactions, to the extent that the branch, agency, or commercial lending company engages in activities that are subject to such laws;</content><footnote id="IDCEE696D7C4DB4832B4E3E8F2667761EB" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">4</sup><p style="-uslm-dtd:para; margin-left:1em">Indentation so in law.</p></footnote>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s9/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B)<ref style="-uslm-dtd:dangling-footnote-ref" class="footnoteRef">4</ref> </num><content style="-uslm-dtd:text">prohibit discrimination against individuals or other persons on the basis of the race, color, religion, sex, marital status, age, or national origin of (i) such individual or other person or (ii) any officer, director, employee, or creditor of, or any owner of any interest in, such individual or other person; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s9/b/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C)<ref style="-uslm-dtd:dangling-footnote-ref" class="footnoteRef">4</ref> </num><content style="-uslm-dtd:text">apply to national banks or State-chartered banks doing business in the State in which the entity to be established is to do business.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s10" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="10">SEC. 10. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3107">12 U.S.C. 3107</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REPRESENTATIVE OFFICES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s10/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Prior Approval To Establish Representative Offices.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s10/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">No foreign bank may establish a representative office without the prior approval of the Board.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s10/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Standards for approval.—</heading><content style="-uslm-dtd:text">In acting on any application under this paragraph to establish a representative office, the Board shall take into account the standards contained in section 7(d)(2) and may impose any additional requirements that the Board determines to be necessary to carry out the purposes of this Act.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s10/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Termination of Representative Offices.—</heading><content style="-uslm-dtd:text">The Board may order the termination of the activities of a representative office of a foreign bank on the basis of the standards, procedures, and requirements applicable under section 7(e) with respect to branches and agencies.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s10/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Examinations.—</heading><content style="-uslm-dtd:text">The Board may make examinations of each representative office of a foreign bank, the cost of which shall be assessed against and paid by such foreign bank. The Board may also make examinations of any affiliate of a foreign bank conducting business in any State if the Board deems it necessary to determine and enforce compliance with this Act, the Bank Holding Company Act of 1956, or other applicable Federal banking law.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s10/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Compliance With State Law.—</heading><content style="-uslm-dtd:text">This Act does not authorize the establishment of a representative office in any State in contravention of State law.</content>
+            </subsection>
+        </section><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sections 11 and 12 amended other Acts.<b>]</b> </editorialNote>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s13" styleType="traditional">
+            <heading style="-uslm-dtd:header">regulation and enforcement </heading>
+            <num style="-uslm-dtd:enum" value="13">Sec. 13. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3108">12 U.S.C. 3108</ref><b>]</b> </editorialNote><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s13/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Comptroller, the Board, and the Federal Deposit Insurance Corporation, are authorized and empowered to issue such rules, regulations, and orders as each of them may deem necessary in order to perform their respective duties and functions under this Act and to administer and carry out the provisions and purposes of this Act and prevent evasions thereof.</content></subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s13/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Enforcement.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s13/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">In addition to any powers, remedies, or sanctions otherwise provided by law, compliance with the requirements imposed under this Act or any amendment made by this Act may be enforced under section 8 of the Federal Deposit Insurance Act by any appropriate Federal banking agency as defined in that Act.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s13/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authority to administer oaths; subpoena power.—</heading><chapeau style="-uslm-dtd:text">In the course of, or in connection with, an application, examination, investigation, or other proceeding under this Act, the Board, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation, as the case may be, any member of the Board or of the Board of Directors of the Corporation, and any designated representative of the Board, Comptroller, or Corporation (including any person designated to conduct any hearing under this Act) may—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s13/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">administer oaths and affirmations and take or cause to be taken depositions; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s13/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">issue, revoke, quash, or modify any subpoena, including any subpoena requiring the attendance and testimony of a witness or any subpoenas duces tecum.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s13/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Administrative aspects of subpoenas.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s13/b/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Attendance and production at designated site.—</heading><content style="-uslm-dtd:text">The attendance of any witness and the production of any document pursuant to a subpoena under paragraph (2) may be required at the place designated in the subpoena from any place in any State (as defined in section 3(a)(3) of the Federal Deposit Insurance Act) or other place subject to the jurisdiction of the United States.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s13/b/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Service of subpoena.—</heading><content style="-uslm-dtd:text">Service of a subpoena issued under this subsection may be made by registered mail, or in such other manner reasonably calculated to give actual notice as the Board, Comptroller of the Currency, or Federal Deposit Insurance Corporation may by regulation or otherwise provide.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s13/b/3/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Fees and travel expenses.—</heading><content style="-uslm-dtd:text">Witnesses subpoenaed under this subsection shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s13/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Contumacy or refusal.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s13/b/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">In the case of contumacy of any person issued a subpoena under this subsection or a refusal by such person to comply with such subpoena, the Board, Comptroller of the Currency, or Federal Deposit Insurance Corporation, or any other party to proceedings in connection with which subpoena was issued may invoke the aid of—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s13/b/4/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the United States District Court for the District of Columbia, or</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s13/b/4/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">any district court of the United States within the jurisdiction of which the proceeding is being conducted or the witness resides or carries on business.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s13/b/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Court order.—</heading><content style="-uslm-dtd:text">Any court referred to in subparagraph (A) may issue an order requiring compliance with a subpoena issued under this subsection.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s13/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Expenses and fees.—</heading><content style="-uslm-dtd:text">Any court having jurisdiction of any proceeding instituted under this subsection may allow any party to such proceeding such reasonable expenses and attorneys' fees as the court deems just and proper.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s13/b/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Criminal penalty.—</heading><content style="-uslm-dtd:text">Any person who willfully fails or refuses to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records in accordance with any subpoena under this subsection shall be fined under title 18, United States Code, imprisoned not more than 1 year, or both. Each day during which any such failure or refusal continues shall be treated as a separate offense.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s13/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">In the case of any provision of the Federal Reserve Act to which a foreign bank or branch thereof is subject under this Act, and which is made applicable to nonmember insured banks by the Federal Deposit Insurance Act, whether by cross-reference to the Federal Reserve Act or by a provision in substantially the same terms in the Federal Deposit Insurance Act, the administration, interpretation, and enforcement of such provision, insofar as it relates to any foreign bank or branch thereof as to which the Board is an appropriate Federal banking agency, are vested in the Board, but where the making of any report to the Board or a Federal Reserve bank is required under any such provision, the Federal Deposit Insurance Corporation may require that a duplicate of any such report be sent directly to it. This subsection shall not be construed to impair any power of the Federal Deposit Insurance Corporation to make regular or special examinations or to require special reports.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s14" styleType="traditional">
+            <heading style="-uslm-dtd:header">report on mc fadden act </heading>
+            <num style="-uslm-dtd:enum" value="14">Sec. 14. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s36">12 U.S.C. 36</ref> nt.<b>]</b> </editorialNote><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s14/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The President, in consultation with the Attorney General, the Secretary of the Treasury, the Board, the Comptroller, and the Federal Deposit Insurance Corporation, shall transmit a report to the Congress containing his recommendations concerning the applicability of the McFadden Act to the present financial, banking, and economic environment, including an analysis of the effects of any proposed amendment to such Act on the structure of the banking industry and on the financial and economic environment in general.</content></subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s14/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">The report required by subsection (a) shall be transmitted to the Congress not later than one year after the date of enactment of this Act.<ref style="-uslm-dtd:footnote-ref" idref="IDF9AC71AAAF8741B1BC6EA6E24E37CD32" class="footnoteRef">5</ref></content><footnote id="IDF9AC71AAAF8741B1BC6EA6E24E37CD32" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">5</sup><p style="-uslm-dtd:para; margin-left:1em">Such date of enactment was September 7, 1978.</p></footnote>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s15" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="15">SEC. 15. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3109">12 U.S.C. 3109</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">COOPERATION WITH FOREIGN SUPERVISORS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s15/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Disclosure of Supervisory Information to Foreign Supervisors.—</heading><content style="-uslm-dtd:text">Notwithstanding any other provision of law, the Board, Comptroller of the Currency, Federal Deposit Insurance Corporation, and Director of the Office of Thrift Supervision may disclose information obtained in the course of exercising supervisory or examination authority to any foreign bank regulatory or supervisory authority if the Board, Comptroller, Corporation, or Director determines that such disclosure is appropriate and will not prejudice the interests of the United States.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s15/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Requirement of Confidentiality.—</heading><content style="-uslm-dtd:text">Before making any disclosure of any information to a foreign authority, the Board, Comptroller of the Currency, Federal Deposit Insurance Corporation, and Director of the Office of Thrift Supervision shall obtain, to the extent necessary, the agreement of such foreign authority to maintain the confidentiality of such information to the extent possible under applicable law.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s15/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Confidential Information Received From Foreign Supervisors.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s15/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Except as provided in paragraph (3), a Federal banking agency may not be compelled to disclose information received from a foreign regulatory or supervisory authority if—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s15/c/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Federal banking agency determines that the foreign regulatory or supervisory authority has, in good faith, determined and represented in writing to such Federal banking agency that public disclosure of the information would violate the laws applicable to that foreign regulatory or supervisory authority; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s15/c/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">the relevant Federal banking agency obtained such information pursuant to—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s15/c/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">such procedures as the Federal banking agency may establish for use in connection with the administration and enforcement of Federal banking laws; or</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s15/c/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a memorandum of understanding or other similar arrangement between the Federal banking agency and the foreign regulatory or supervisory authority.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s15/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Treatment under title 5, united states code.—</heading><content style="-uslm-dtd:text">For purposes of section 552 of title 5, United States Code, this subsection shall be treated as a statute described in subsection (b)(3)(B) of such section.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s15/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Savings provision.—</heading><chapeau style="-uslm-dtd:text">No provision of this section shall be construed as—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s15/c/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">authorizing any Federal banking agency to withhold any information from any duly authorized committee of the House of Representatives or the Senate; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s15/c/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">preventing any Federal banking agency from complying with an order of a court of the United States in an action commenced by the United States or such agency.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s15/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Federal banking agency defined.—</heading><content style="-uslm-dtd:text">For purposes of this subsection, the term “<term style="-uslm-dtd:term">Federal banking agency</term>” means the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Director of the Office of Thrift Supervision.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s16" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="16">SEC. 16. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3110">12 U.S.C. 3110</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PENALTIES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s16/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Civil Money Penalty.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s16/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Any foreign bank, and any office or subsidiary of a foreign bank, that violates, and any individual who participates in a violation of, any provision of this Act, or any regulation prescribed or order issued under this Act, shall forfeit and pay a civil penalty of not more than $25,000 for each day during which such violation continues.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s16/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Assessment procedures.—</heading><content style="-uslm-dtd:text">Any penalty imposed under paragraph (1) may be assessed and collected by the Board or the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), (H), and (I) of section 8(i)(2) of the Federal Deposit Insurance Act for penalties imposed (under such section), and any such assessments shall be subject to the provisions of such section.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s16/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Hearing procedure.—</heading><content style="-uslm-dtd:text">Section 8(h) of the Federal Deposit Insurance Act shall apply to any proceeding under this section.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s16/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Disbursement.—</heading><content style="-uslm-dtd:text">All penalties collected under authority of this section shall be deposited into the Treasury.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s16/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Violate defined.—</heading><content style="-uslm-dtd:text">For purposes of this section, the term “<term style="-uslm-dtd:term">violate</term>” includes taking any action (alone or with others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s16/a/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Regulations.—</heading><content style="-uslm-dtd:text">The Board and the Comptroller of the Currency shall each prescribe regulations establishing such procedures as may be necessary to carry out this section.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s16/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Notice Under This Section After Separation From Service.—</heading><content style="-uslm-dtd:text">The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 3(u) of the Federal Deposit Insurance Act) with respect to a foreign bank, or any office or subsidiary of a foreign bank (including a separation caused by the termination of a location in the United States), shall not affect the jurisdiction or authority of the Board or the Comptroller of the Currency to issue any notice or to proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be an institution-affiliated party with respect to such foreign bank or such office or subsidiary of a foreign bank (whether such date occurs on, before, or after the date of the enactment of the Foreign Bank Supervision Enhancement Act of 1991).</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/95/369/s16/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Penalty for Failure to Make Reports. </heading><chapeau style="-uslm-dtd:text">
+<headingText style="-uslm-dtd:header-in-text">—</headingText>
+</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s16/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">First tier.—</heading><chapeau style="-uslm-dtd:text">Any foreign bank, or any office or subsidiary of a foreign bank, that—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s16/c/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such error—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s16/c/1/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">fails to make, submit, or publish such reports or information as may be required under this Act or under regulations prescribed by the Board or the Comptroller of the Currency under this Act, within the period of time specified by the agency; or</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/95/369/s16/c/1/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">submits or publishes any false or misleading report or information; or</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s16/c/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">inadvertently transmits or publishes any report that is minimally late,</content>
+                    </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. The foreign bank, or the office or subsidiary of a foreign bank, shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late.</continuation>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s16/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Second tier.—</heading><chapeau style="-uslm-dtd:text">Any foreign bank, or any office or subsidiary of a foreign bank, that—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s16/c/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">fails to make, submit, or publish such reports or information as may be required under this Act or under regulations prescribed by the Board or the Comptroller of the Currency pursuant to this Act, within the time period specified by such agency; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/95/369/s16/c/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">submits or publishes any false or misleading report or information,</content>
+                    </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">in a manner not described in paragraph (1) shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected.</continuation>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s16/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Third tier.—</heading><content style="-uslm-dtd:text">Notwithstanding paragraph (2), if any company knowingly or with reckless disregard for the accuracy of any information or report described in paragraph (2) submits or publishes any false or misleading report or information, the Board or the Comptroller of the Currency may, in the Board's or Comptroller's discretion, assess a penalty of not more than $1,000,000 or 1 percent of total assets of such foreign bank, or such office or subsidiary of a foreign bank, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s16/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Assessment of penalties.—</heading><content style="-uslm-dtd:text">Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Board or the Comptroller of the Currency in the manner provided in subsection (a)(2) (for penalties imposed under such subsection) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such subsection.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/95/369/s16/c/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Hearing procedure.—</heading><content style="-uslm-dtd:text">Section 8(h) of the Federal Deposit Insurance Act shall apply to any proceeding under this subsection.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/95/369/s17" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="17">SEC. 17. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s3111">12 U.S.C. 3111</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">CRIMINAL PENALTY. </heading>
+            <content style="-uslm-dtd:text" class="block">Whoever, with the intent to deceive, to gain financially, or to cause financial gain or loss to any person, knowingly violates any provision of this Act or any regulation or order issued by the appropriate Federal banking agency under this Act shall be imprisoned not more than 5 years or fined not more than $1,000,000 for each day during which a violation continues, or both.</content>
+        </section>
+    </main>
+</statuteCompilation>

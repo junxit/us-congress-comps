@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Veterans Benefits and Transition Act of 2018</dc:title>
+        <citableAs>Public Law 115–407, as amended</citableAs>
+        <citableAsShortTitle>Veterans Benefits and Transition Act of 2018</citableAsShortTitle>
+        <docNumber>407</docNumber>
+        <currentThroughPublicLaw>117–154</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
+        <processedDate>2025-08-22</processedDate>
+        <containsShortTitle>Veterans Benefits and Transition Act of 2018</containsShortTitle>
+        <containsShortTitle>VA Electronic Health Record Transparency Act of 2021</containsShortTitle>
+        <property role="fileId">15338</property>
+        <congress>115</congress>
+        <approvedDate>2018-12-31</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Veterans Benefits and Transition Act of 2018</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 115–407</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 117–154</currentThroughPublicLaw>, Enacted <date date="2022-06-23">June 23, 2022</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 115-407. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide certain burial benefits for spouses and children of veterans who are buried in tribal cemeteries, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/115/407/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s101">38 U.S.C. 101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection identifier="/us/sComp/115/407/s1/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Veterans Benefits and Transition Act of 2018</shortTitle>”.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/115/407/s1/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE I—</designator><label>EDUCATION</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 101.</designator><label> Inclusion of certain additional periods of active duty service for purposes of suspension of charges to entitlement during periods of suspended participation in Department of Veterans Affairs vocational rehabilitation programs.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 102.</designator><label> Provision of monthly housing stipend information under Post-9/11 Educational Assistance Program.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 103.</designator><label> Disapproval for purposes of educational assistance programs of Department of Veterans Affairs of certain courses of education that do not permit individuals to attend or participate in courses pending payment.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 104.</designator><label> Provision of information on required additional actions to allow individuals to stay enrolled in courses of education pending receipt of educational assistance from department of veterans affairs.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 105.</designator><label> Calculation of monthly housing stipend under high technology pilot program based on location of campus where veteran attends classes.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 106.</designator><label> Clarification regarding applicability of authority to use educational assistance to pursue independent study programs at certain educational institutions that are not institutions of higher learning.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE II—</designator><label>MEMORIAL AFFAIRS</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 201.</designator><label> Eligibility of spouses and children of veterans buried in tribal cemeteries for certain Department of Veterans Affairs burial benefits.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 202.</designator><label> Department of Veterans Affairs provision of headstones and markers for, and interment in national cemeteries of, spouses and dependent children of members of the Armed Forces serving on active duty.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE III—</designator><label>CIVIL RELIEF</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 301.</designator><label> Termination of leases of premises of deceased servicemembers who die while in military service.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 302.</designator><label> Residence of spouses of servicemembers for tax purposes.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 303.</designator><label> Residence of spouses of servicemembers for voting.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 304.</designator><label> Termination of multichannel video programming and internet access service contracts.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE IV—</designator><label>TRANSITION ASSISTANCE</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 401.</designator><label> Study of community-based transition assistance programs for members of the Armed Forces after separation, retirement, or discharge.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE V—</designator><label>DEPARTMENTAL ADMINISTRATION</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 501.</designator><label> Misuse of Department of Veterans Affairs purchase cards by Department employees.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 502.</designator><label> Updating dependent information.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 503.</designator><label> Oversight of Electronic Health Record Modernization Program.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 504.</designator><label> Department of Veterans Affairs notice relating to debt collection activities.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE VI—</designator><label>MEDICAL FACILITIES</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 601.</designator><label> Authorization of major medical facility projects for fiscal year 2019.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 602.</designator><label> Plans to improve medical facilities of the Department of Veterans Affairs.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE VII—</designator><label>OTHER MATTERS</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 701.</designator><label> Homeless veterans reintegration programs.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 702.</designator><label> Technical corrections.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 703.</designator><label> Medical Surgical Prime Vendor program.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 704.</designator><label> Report on expanding access to dental care for veterans eligible for health care from the Department of Veterans Affairs.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <title identifier="/us/sComp/115/407/tI" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">EDUCATION </heading>
+            <section identifier="/us/sComp/115/407/tI/s101" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">INCLUSION OF CERTAIN ADDITIONAL PERIODS OF ACTIVE DUTY SERVICE FOR PURPOSES OF SUSPENSION OF CHARGES TO ENTITLEMENT DURING PERIODS OF SUSPENDED PARTICIPATION IN DEPARTMENT OF VETERANS AFFAIRS VOCATIONAL REHABILITATION PROGRAMS. </heading><content style="-uslm-dtd:text">Section 3105(e)(2) of title 38, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">or 12304</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">12304, 12304a, or 12304b</quotedText>”.</content>
+            </section>
+            <section identifier="/us/sComp/115/407/tI/s102" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">PROVISION OF MONTHLY HOUSING STIPEND INFORMATION UNDER POST-9/11 EDUCATIONAL ASSISTANCE PROGRAM. </heading><content style="-uslm-dtd:text">Section 3313 of title 38, United States Code, is amended by adding at the end the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="k">“(k) </num><heading style="-uslm-dtd:header">Provision of Housing Stipend Payment Information.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall furnish to individuals receiving educational assistance under this chapter documentation that verifies the amount of the monthly housing stipend the individual receives under this section.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Manner.—</heading><content style="-uslm-dtd:text">The Secretary shall make such documentation available to the individual using an internet website in the same manner the Secretary provides documentation verifying compensation and other benefits furnished by the Secretary to individuals.”</content>
+                    </paragraph>
+                </subsection></quotedContent>.</content>
+            </section>
+            <section identifier="/us/sComp/115/407/tI/s103" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">DISAPPROVAL FOR PURPOSES OF EDUCATIONAL ASSISTANCE PROGRAMS OF DEPARTMENT OF VETERANS AFFAIRS OF CERTAIN COURSES OF EDUCATION THAT DO NOT PERMIT INDIVIDUALS TO ATTEND OR PARTICIPATE IN COURSES PENDING PAYMENT. </heading>
+                <subsection identifier="/us/sComp/115/407/tI/s103/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 3679 of title 38, United States Code, is amended by adding at the end the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">“(e)</num><paragraph class="inline" style="-uslm-dtd:paragraph" styleType="OLC"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Notwithstanding any other provision of this chapter, beginning on August 1, 2019, a State approving agency, or the Secretary when acting in the role of the State approving agency, shall disapprove a course of education provided by an educational institution that has in effect a policy that is inconsistent with any of the following:</chapeau>
+                        <subparagraph class="leftIndentDecrease1" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">A policy that permits any covered individual to attend or participate in the course of education during the period beginning on the date on which the individual provides to 
+the educational institution a certificate of eligibility for entitlement to educational assistance under chapter 31 or 33 of this title and ending on the earlier of the following dates:</chapeau>
+                            <clause class="leftIndentDecrease1" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">The date on which the Secretary provides payment for such course of education to such institution.</content>
+                            </clause>
+                            <clause class="leftIndentDecrease1" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">The date that is 90 days after the date on which the educational institution certifies for tuition and fees following receipt from the student such certificate of eligibility.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph class="leftIndentDecrease1" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">A policy that ensures that the educational institution will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that a covered individual borrow additional funds, on any covered individual because of the individual’s inability to meet his or her financial obligations to the institution due to the delayed disbursement of a payment to be provided by the Secretary under chapter 31 or 33 of this title.</content>
+                        </subparagraph></paragraph>
+                        <paragraph class="leftIndentDecrease1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">For purposes of this subsection, a covered individual is any individual who is entitled to educational assistance under chapter 31 or 33 of this title.</content>
+                        </paragraph>
+                        <paragraph class="leftIndentDecrease1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">The Secretary may waive such requirements of paragraph (1) as the Secretary considers appropriate.</content>
+                        </paragraph>
+                        <paragraph class="leftIndentDecrease1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><chapeau style="-uslm-dtd:text">It shall not be inconsistent with a policy described in paragraph (1) for an educational institution to require a covered individual to take the following additional actions:</chapeau>
+                            <subparagraph class="leftIndentDecrease1" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">Submit a certificate of eligibility for entitlement to educational assistance not later than the first day of a course of education for which the individual has indicated the individual wishes to use the individual’s entitlement to educational assistance.</content>
+                            </subparagraph>
+                            <subparagraph class="leftIndentDecrease1" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">Submit a written request to use such entitlement.</content>
+                            </subparagraph>
+                            <subparagraph class="leftIndentDecrease1" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">Provide additional information necessary to the proper certification of enrollment by the educational institution.”</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection></quotedContent>.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tI/s103/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s3680">38 U.S.C. 3680 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Prompt Payments.—</heading>
+                    <paragraph identifier="/us/sComp/115/407/tI/s103/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary of Veterans Affairs shall take such actions as may be necessary to ensure that the Secretary makes a payment to an educational institution on behalf of an individual, who is entitled to educational assistance under chapter 31 or 33 of title 38, United States Code, and who is using such assistance to pursue a program of education at the educational institution, not later than 60 days after the date on which the educational institution certifies to the Secretary the applicable tuition and fees for the individual.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tI/s103/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Semiannual reports.—</heading><content style="-uslm-dtd:text">Not later than May 1 and October 1 of each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a semiannual report summarizing any cases in which the Secretary failed to make a payment described in paragraph (1) within the period set forth in such paragraph and an explanation for each delayed disbursement of payment.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tI/s103/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s3679">38 U.S.C. 3679 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Rule of Construction.—</heading><content style="-uslm-dtd:text">In a case in which an individual is unable to meet a financial obligation to an educational institution due to the delayed disbursement of a payment to be provided by the Secretary under chapter 31 or 33 of such title and the amount of such disbursement is less than anticipated, nothing 
+in section 3679(e) of such title, as added by subsection (a), shall be construed to prohibit an educational institution from requiring additional payment or imposing a fee for the amount that is the difference between the amount of the financial obligation and the amount of the disbursement.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/407/tI/s104" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">PROVISION OF INFORMATION ON REQUIRED ADDITIONAL ACTIONS TO ALLOW INDIVIDUALS TO STAY ENROLLED IN COURSES OF EDUCATION PENDING RECEIPT OF EDUCATIONAL ASSISTANCE FROM DEPARTMENT OF VETERANS AFFAIRS. </heading><chapeau style="-uslm-dtd:text">Section 3698(c)(1)(C) of title 38, United States Code, is amended—</chapeau>
+                <paragraph identifier="/us/sComp/115/407/tI/s104/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in clause (x), by striking “<quotedText style="-uslm-dtd:quote">; and</quotedText>” and inserting a semicolon;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/115/407/tI/s104/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in clause (xi), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/115/407/tI/s104/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following new clause:<quotedContent style="-uslm-dtd:quoted-block">
+                    <clause class="leftIndentDecrease1" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="xii">“(xii) </num><content style="-uslm-dtd:text">information on whether the institution requires a covered individual to take additional action pursuant to section 3679(e)(4) of this title to stay enrolled in a course pending receipt of educational assistance under a law administered by the Secretary.”</content>
+                    </clause></quotedContent>.</content>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/115/407/tI/s105" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><heading style="-uslm-dtd:header">CALCULATION OF MONTHLY HOUSING STIPEND UNDER HIGH TECHNOLOGY PILOT PROGRAM BASED ON LOCATION OF CAMPUS WHERE VETERAN ATTENDS CLASSES. </heading><chapeau style="-uslm-dtd:text">Section 116(d)(1) of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115-48, 38 U.S.C. 3001 (note)), is amended—</chapeau>
+                <paragraph identifier="/us/sComp/115/407/tI/s105/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subparagraph (A), by striking “<quotedText style="-uslm-dtd:quote">the institution at which the individual is enrolled</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the campus of the institution where the individual physically participates in a majority of classes</quotedText>”; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/115/407/tI/s105/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subparagraph (B), by striking “<quotedText style="-uslm-dtd:quote">the amount payable</quotedText>” and all that follows through  “<quotedText style="-uslm-dtd:quote">subparagraph (A)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the national average of the monthly amount of the basic allowance for housing payable under section 403 of title 37, United States Code, for a member with dependents in pay grade E-5</quotedText>”.</content>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/115/407/tI/s106" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="106">SEC. 106. </num><heading style="-uslm-dtd:header">CLARIFICATION REGARDING APPLICABILITY OF AUTHORITY TO USE EDUCATIONAL ASSISTANCE TO PURSUE INDEPENDENT STUDY PROGRAMS AT CERTAIN EDUCATIONAL INSTITUTIONS THAT ARE NOT INSTITUTIONS OF HIGHER LEARNING. </heading><content style="-uslm-dtd:text">The section heading for section 302 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115-48; 131 Stat. 990) is amended to read as follows (and the table of contents for such Act is conformed accordingly):<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="302">“SEC. SEC. 302. </num><heading style="-uslm-dtd:header">AUTHORIZATION FOR USE OF EDUCATIONAL ASSISTANCE UNDER ANY OF THE EDUCATIONAL ASSISTANCE PROGRAMS OF THE DEPARTMENT OF VETERANS AFFAIRS TO PURSUE INDEPENDENT STUDY PROGRAMS AT CERTAIN EDUCATIONAL INSTITUTIONS THAT ARE NOT INSTITUTIONS OF HIGHER LEARNING”</heading>
+                </section></quotedContent>.</content>
+            </section>
+        </title>
+        <title identifier="/us/sComp/115/407/tII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">MEMORIAL AFFAIRS </heading>
+            <section identifier="/us/sComp/115/407/tII/s201" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">ELIGIBILITY OF SPOUSES AND CHILDREN OF VETERANS BURIED IN TRIBAL CEMETERIES FOR CERTAIN DEPARTMENT OF VETERANS AFFAIRS BURIAL BENEFITS. </heading><chapeau style="-uslm-dtd:text">Section 2306 of title 38, United States Code, is amended—</chapeau>
+                <paragraph identifier="/us/sComp/115/407/tII/s201/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (a)(4), by inserting “<quotedText style="-uslm-dtd:quote">or a veterans’ cemetery owned by a tribal organization or on land owned by or held in trust for a tribal organization</quotedText>” after  “<quotedText style="-uslm-dtd:quote">State</quotedText>”;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/115/407/tII/s201/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subsection (b)(1), by inserting “<quotedText style="-uslm-dtd:quote">, a veterans’ cemetery of a tribal organization or on land owned by or held in trust for a tribal organization</quotedText>” after  “<quotedText style="-uslm-dtd:quote">owned by a State</quotedText>”;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/115/407/tII/s201/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in subsection (f)—</chapeau>
+                    <subparagraph identifier="/us/sComp/115/407/tII/s201/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/115/407/tII/s201/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">The Secretary</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">(1) The Secretary</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/115/407/tII/s201/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under section 2408 of this title</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">a covered cemetery</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/115/407/tII/s201/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph class="leftIndentDecrease1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">covered cemetery</quotedText>’ means any of the following:</chapeau>
+                            <subparagraph class="leftIndentDecrease1" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">A national cemetery.</content>
+                            </subparagraph>
+                            <subparagraph class="leftIndentDecrease1" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">A veterans’ cemetery of a State for which the Department has provided a grant under section 2408 of this title.</content>
+                            </subparagraph>
+                            <subparagraph class="leftIndentDecrease1" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">A veterans’ cemetery of a tribal organization or on land owned by or held in trust for a tribal organization for which the Department has provided a grant under subsection (f) of such section.”</content>
+                            </subparagraph>
+                        </paragraph></quotedContent>; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/115/407/tII/s201/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">by adding at the end the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">In this section, the term ‘<quotedText style="-uslm-dtd:quote">tribal organization</quotedText>’ has the meaning given such term in section 3765 of this title.”</content>
+                    </subsection></quotedContent>.</content>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/115/407/tII/s202" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">DEPARTMENT OF VETERANS AFFAIRS PROVISION OF HEADSTONES AND MARKERS FOR, AND INTERMENT IN NATIONAL CEMETERIES OF, SPOUSES AND DEPENDENT CHILDREN OF MEMBERS OF THE ARMED FORCES SERVING ON ACTIVE DUTY. </heading>
+                <subsection identifier="/us/sComp/115/407/tII/s202/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Headstones and Markers.—</heading><chapeau style="-uslm-dtd:text">Section 2306(b)(2) of title 38, United States Code, is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tII/s202/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subparagraph (B), by inserting “<quotedText style="-uslm-dtd:quote">, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before October 1, 2024</quotedText>” after  “<quotedText style="-uslm-dtd:quote">veteran</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tII/s202/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subparagraph (C), by inserting “<quotedText style="-uslm-dtd:quote">, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as 132 STAT. 5373
+shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before October 1, 2024</quotedText>” after  “<quotedText style="-uslm-dtd:quote">veteran</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tII/s202/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Interment in National Cemeteries.—</heading><content style="-uslm-dtd:text">Section 2402(a)(5) of such title is amended by inserting “<quotedText style="-uslm-dtd:quote">, and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s or child’s death if such death occurs before October 1, 2024</quotedText>” after  “<quotedText style="-uslm-dtd:quote">paragraph (7)</quotedText>”.</content>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/115/407/tIII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">CIVIL RELIEF </heading>
+            <section identifier="/us/sComp/115/407/tIII/s301" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><heading style="-uslm-dtd:header">TERMINATION OF LEASES OF PREMISES OF DECEASED SERVICEMEMBERS WHO DIE WHILE IN MILITARY SERVICE. </heading><chapeau style="-uslm-dtd:text">Section 305(a) of the Servicemembers Civil Relief Act (50 U.S.C. 3955) is amended—</chapeau>
+                <paragraph identifier="/us/sComp/115/407/tIII/s301/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in the subsection heading, by striking “<quotedText style="-uslm-dtd:quote">by Lessee</quotedText>”;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/115/407/tIII/s301/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in the heading for paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">In general</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Termination by lessee</quotedText>”; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/115/407/tIII/s301/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following new paragraph:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Death of lessee.—</heading><content style="-uslm-dtd:text">The spouse of the lessee on a lease described in subsection (b)(1) may terminate the lease during the one-year period beginning on the date of the death of the lessee, if the lessee dies while in military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10, United States Code).”</content>
+                    </paragraph></quotedContent>.</content>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/115/407/tIII/s302" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><heading style="-uslm-dtd:header">RESIDENCE OF SPOUSES OF SERVICEMEMBERS FOR TAX PURPOSES. </heading>
+                <subsection identifier="/us/sComp/115/407/tIII/s302/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Residence for Tax Purposes.—</heading><chapeau style="-uslm-dtd:text">Section 511(a)(2) of the Servicemembers Civil Relief Act (50 U.S.C. 4001(a)(2)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s302/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">A spouse</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">A spouse”</content>
+                        </subparagraph></quotedContent>; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s302/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by adding at the end the following new subparagraph:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Election.—</heading><content style="-uslm-dtd:text">For any taxable year of the marriage, the spouse of a servicemember may elect to use the same residence for purposes of taxation as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tIII/s302/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t50/s4001">50 U.S.C. 4001 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Applicability.—</heading><content style="-uslm-dtd:text">The amendments made by subsection (a) shall apply with respect to any return of State or local income tax filed for any taxable year beginning with the taxable year that includes the date of the enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/407/tIII/s303" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="303">SEC. 303. </num><heading style="-uslm-dtd:header">RESIDENCE OF SPOUSES OF SERVICEMEMBERS FOR VOTING. </heading>
+                <subsection identifier="/us/sComp/115/407/tIII/s303/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Section 705(b) of the Servicemembers Civil Relief Act (50 U.S.C. 4025(b)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s303/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">State or local office</quotedText>” and all that follows through the period at the end of paragraph (3) and inserting “<quotedText style="-uslm-dtd:quote">State or local office—</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s303/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by adding at the end the following new paragraphs:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><chapeau style="-uslm-dtd:text">a person who is absent from a State because the person is accompanying the person’s spouse who is absent 
+from that same State in compliance with military or naval orders shall not, solely by reason of that absence—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">be deemed to have acquired a residence or domicile in any other State; or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">be deemed to have become a resident in or a resident of any other State; and</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">the spouse of a servicemember may elect to use the same residence as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.”</content>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tIII/s303/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t50/s4025">50 U.S.C. 4025 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by subsection (a) shall take effect on the date that is 90 days after the date of the enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/407/tIII/s304" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="304">SEC. 304. </num><heading style="-uslm-dtd:header">TERMINATION OF MULTICHANNEL VIDEO PROGRAMMING AND INTERNET ACCESS SERVICE CONTRACTS. </heading>
+                <subsection identifier="/us/sComp/115/407/tIII/s304/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Section 305A of the Servicemembers Civil Relief Act (50 U.S.C. 3956) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s304/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in the section heading, by inserting “<quotedText style="-uslm-dtd:quote">, multichannel video programming, and internet access</quotedText>” after  “<quotedText style="-uslm-dtd:quote">telephone</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s304/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subsection (b), by striking “<quotedText style="-uslm-dtd:quote">cellular telephone service or telephone exchange service</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">commercial mobile service, telephone exchange service, internet access service, or multichannel video programming service</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s304/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in subsection (c), by inserting “<quotedText style="-uslm-dtd:quote">for commercial mobile service or telephone exchange service</quotedText>” before  “<quotedText style="-uslm-dtd:quote">terminated</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s304/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in subsection (d), in the matter preceding paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">cellular telephone service</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">commercial mobile service</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s304/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">in subsection (e)—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tIII/s304/a/5/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">For any</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">For any”</content>
+                            </paragraph></quotedContent>;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tIII/s304/a/5/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">If the</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Reinstatement of service.—</heading><content style="-uslm-dtd:text">If the”</content>
+                            </paragraph></quotedContent>; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tIII/s304/a/5/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Return of provider-owned equipment.—</heading><content style="-uslm-dtd:text">If a servicemember terminates a contract under subsection (a), the servicemember shall return any provider-owned consumer premises equipment to the service provider not later than 10 days after the date on which service is disconnected.”</content>
+                            </paragraph></quotedContent>; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s304/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><chapeau style="-uslm-dtd:text">in subsection (g)—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tIII/s304/a/6/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by redesignating paragraph (2) as paragraph (4); and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tIII/s304/a/6/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking paragraph (1) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">commercial mobile service</quotedText>’ has the meaning given that term in section 332(d) of the Communications Act of 1934 (47 U.S.C. 332(d)).</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">multichannel video programming service</quotedText>’ means a subscription video service offered by a multichannel video programming distributor, as that term is defined in section 602 of the Communications Act of 1934 (47 U.S.C. 522), over a system the distributor owns or controls.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">provider-owned consumer premises equipment</quotedText>’ means any equipment that a provider of internet access service or multichannel video programming service rents or loans to a customer during the provision of that service, including gateways, routers, cable modems, voice-capable modems, CableCARDs, converters, digital adapters, remote controls, and any other equipment provided.”</content>
+                            </paragraph></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tIII/s304/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Clerical Amendments.—</heading>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s304/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Title heading.—</heading><content style="-uslm-dtd:text">The heading for title III of the Servicemembers Civil Relief Act is amended by striking “<quotedText style="-uslm-dtd:quote">TELEPHONE</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">COMMUNICATIONS</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tIII/s304/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Table of contents.—</heading><chapeau style="-uslm-dtd:text">The table of contents in section 1(b) of the Servicemembers Civil Relief Act is amended—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tIII/s304/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking the item relating to title III and inserting the following new item:and<quotedContent style="-uslm-dtd:quoted-block">
+                            <toc style="-uslm-dtd:toc">
+                                <groupItem>
+                                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>““TITLE III—</designator><label>RENT, INSTALLMENT CONTRACTS, MORTGAGES, LIENS, ASSIGNMENT, LEASES, COMMUNICATIONS SERVICE CONTRACTS”;”</label></referenceItem>
+                                </groupItem>
+                            </toc></quotedContent>
+</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tIII/s304/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking the item relating to section 305A and inserting the following new item:<quotedContent style="-uslm-dtd:quoted-block">
+                            <toc style="-uslm-dtd:toc">
+                                <referenceItem role="section" style="-uslm-dtd:toc-entry"><label>““Sec. 305A. Termination of telephone, multichannel video programming, and internet access service contracts.”.”</label></referenceItem>
+                            </toc></quotedContent>
+</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/115/407/tIV" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">TRANSITION ASSISTANCE </heading>
+            <section identifier="/us/sComp/115/407/tIV/s401" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><heading style="-uslm-dtd:header">STUDY OF COMMUNITY-BASED TRANSITION ASSISTANCE PROGRAMS FOR MEMBERS OF THE ARMED FORCES AFTER SEPARATION, RETIREMENT, OR DISCHARGE. </heading>
+                <subsection identifier="/us/sComp/115/407/tIV/s401/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Study.—</heading><chapeau style="-uslm-dtd:text">The Secretary of Veterans Affairs, in consultation with State entities that serve members of the Armed Forces who are retired, separated, or discharged from the Armed Forces, shall enter into an agreement with an appropriate non-Federal entity to carry out a study to identify community-based programs—</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tIV/s401/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">that provide transition assistance to such members; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tIV/s401/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">operated by nonprofit entities.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tIV/s401/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Transmission to Members.—</heading><content style="-uslm-dtd:text">The Secretary of Veterans Affairs shall transmit the list of programs identified under this section to the Secretary of Defense so the Secretaries of the military departments may provide information in the list to members of the Armed Forces who participate in the Transition Assistance Program under sections 1142 and 1144 of title 10, United States Code.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tIV/s401/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Online Publication.—</heading><content style="-uslm-dtd:text">The Secretary of Veterans Affairs shall publish the most recent version of the list of programs identified under this section on a public website of the Department of Veterans Affairs.</content>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/115/407/tV" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="V">TITLE V—</num><heading style="-uslm-dtd:header">DEPARTMENTAL ADMINISTRATION </heading>
+            <section identifier="/us/sComp/115/407/tV/s501" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="501">SEC. 501. </num><heading style="-uslm-dtd:header">MISUSE OF DEPARTMENT OF VETERANS AFFAIRS PURCHASE CARDS BY DEPARTMENT EMPLOYEES. </heading>
+                <subsection identifier="/us/sComp/115/407/tV/s501/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Subchapter I of chapter 7 of title 38, United States Code, is further amended by adding at the end the following new section:<quotedContent style="-uslm-dtd:quoted-block">
+                    <section style="-uslm-dtd:section" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="§ 728">“SEC. § 728. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s728">38 U.S.C. 728</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header"> Misuse of Department purchase card </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><paragraph class="inline" style="-uslm-dtd:paragraph" styleType="OLC"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Secretary shall prohibit any employee of the Department who the Secretary or the Inspector General of the Department determines has knowingly misused a purchase card from serving as a purchase card holder or approving official.</content></paragraph>
+                            <paragraph class="leftIndentDecrease1" style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">Such a prohibition shall be in addition to any other applicable penalty.</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Misuse.—</heading><chapeau style="-uslm-dtd:text">For purposes of this section, the term ‘<quotedText style="-uslm-dtd:quote">misuse</quotedText>’ means—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">splitting purchases;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">exceeding applicable purchase card limits or purchase thresholds;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">purchasing any unauthorized item;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">using a purchase card without being an authorized purchase card holder; or</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">violating ethics standards.”</content>
+                            </paragraph>
+                        </subsection>
+                    </section></quotedContent>.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tV/s501/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s701">38 U.S.C. 701</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Clerical Amendment.—</heading><content style="-uslm-dtd:text">The table of sections at the beginning of such chapteris amended by inserting after the item relating to section 728 the following new item:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem role="section" style="-uslm-dtd:toc-entry"><label>““728. Misuse of Department purchase cards.”.”</label></referenceItem>
+                    </toc></quotedContent>
+</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/407/tV/s502" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="502">SEC. 502. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s5701">38 U.S.C. 5701 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">UPDATING DEPENDENT INFORMATION. </heading><content style="-uslm-dtd:text">The Secretary of Veterans Affairs shall make such changes to such information technology systems of the Department of Veterans Affairs, including the eBenefits system or successor system, as may be necessary so that whenever the Secretary records in such systems information about a dependent of a person, the person is able to review and revise such information.</content>
+            </section>
+            <section identifier="/us/sComp/115/407/tV/s503" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="503">SEC. 503. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s5701">38 U.S.C. 5701 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">OVERSIGHT OF ELECTRONIC HEALTH RECORD MODERNIZATION PROGRAM. </heading>
+                <subsection identifier="/us/sComp/115/407/tV/s503/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Program Documents.—</heading><chapeau style="-uslm-dtd:text">Not later than 30 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the appropriate congressional committees the following documents concerning the Electronic Health Record Modernization Program:</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Integrated Master Plan.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Integrated Master Schedule.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Program Management Plan.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">Annual and lifecycle cost estimates, including, at a minimum, cost elements relating to—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/a/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Federal Government labor;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/a/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">contractor labor;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/a/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">hardware;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/a/4/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">software; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/a/4/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">testing and evaluation.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">Cost baseline.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">Risk Management Plan.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">Health IT Strategic Architecture Plan.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">Transition Plan for implementing updated architecture.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">Data Migration Plan.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/10" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">System and Data Security Plan.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/11" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">Application Implementation Plan.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/12" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">System Design Documents.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/13" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="13">(13) </num><content style="-uslm-dtd:text">Legacy Veterans Information Systems and Technology Architecture Standardization, Security Enhancement, and Consolidation Project Plan.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/14" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="14">(14) </num><content style="-uslm-dtd:text">Health Data Interoperability Management Plan.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/a/15" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="15">(15) </num><content style="-uslm-dtd:text">Community Care Vision and Implementation Plan, including milestones and a detailed description of how complete interoperability with non-Department health care providers will be achieved.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tV/s503/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Quarterly Updates.—</heading><chapeau style="-uslm-dtd:text">Not later than 30 days after the end of each fiscal quarter during the period beginning with the fiscal quarter in which this Act is enacted and ending on the date on which the Electronic Health Record Modernization Program is completed, the Secretary shall submit to the appropriate congressional committees the most recent updated versions, if any exist, of the following documents:</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Integrated Master Schedule.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Program Management Plan, including any written Program Management Review material developed for the Program Management Plan during the fiscal quarter covered by the submission.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Each document described in subsection (a)(4).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Performance Baseline Report for the fiscal quarter covered by the submission or for the fiscal quarter ending the fiscal year prior to the submission.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">Budget Reconciliation Report.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">Risk Management Plan and Risk Register.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tV/s503/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Contracts.—</heading><content style="-uslm-dtd:text">Not later than 5 days after awarding a contract, order, or agreement, including any modifications thereto, under the Electronic Health Record Modernization Program, the Secretary shall submit to the appropriate congressional committees a copy of the entire such contract, order, agreement, or modification.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tV/s503/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Notification.—</heading>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Requirement.—</heading><content style="-uslm-dtd:text">Not later than 10 days after an event described in paragraph (2) occurs, the Secretary shall notify the appropriate congressional committees of such occurrence, including a description of the event and an explanation for why such event occurred.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Event described.—</heading><chapeau style="-uslm-dtd:text">An event described in this paragraph is any of the following events regarding the Electronic Health Record Modernization Program:</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/d/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The delay of any milestone or deliverable by 30 or more days.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/d/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">A request for equitable adjustment, equitable adjustment, or change order exceeding $1,000,000 (as such terms are defined in the Federal Acquisition Regulation).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/d/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">The submission of any protest, claim, or dispute, and the resolution of any protest, claim, or dispute (as such terms are defined in the Federal Acquisition Regulation).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/d/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">A loss of clinical or other data.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/d/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><chapeau style="-uslm-dtd:text">A breach of patient privacy, including any—</chapeau>
+                            <clause identifier="/us/sComp/115/407/tV/s503/d/2/E/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">disclosure of protected health information that is not permitted under regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104-191; 42 U.S.C. 1320d-2 note); and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/407/tV/s503/d/2/E/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">breach of sensitive personal information (as defined in section 5727 of title 38, United States Code).</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tV/s503/e" style="-uslm-dtd:subsection" styleType="USC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Quarterly Reports.—</heading>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Reports on costs of ehrm program.—</heading><chapeau style="-uslm-dtd:text">Not later than 90 days after the date of the enactment of the <inline style="-uslm-dtd:short-title">VA Electronic Health Record Transparency Act of 2021</inline>, and every 30 days after the last day of each fiscal quarter thereafter until the termination date specified in paragraph (3), the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the costs of the Electronic Health Record Modernization program of the Department of Veterans Affairs. Each such report shall include, for the period covered by the report and for the total period beginning on the date of the enactment of the <inline style="-uslm-dtd:short-title">VA Electronic Health Record Transparency Act of 2021</inline> and ending on the date of the submittal of the report, a description of all actual expenses of, and driven by, such program, including any such expenses paid using—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/e/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any funds appropriated for the Department of Veterans Affairs, for any source or account, expended by any organizational element of the Department or by the Federal Electronic Health Record Modernization Office for the Electronic Health Record Modernization Program;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/e/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any funds, from any source or account, expended by any organizational element of the Department for physical or technology infrastructure modifications, enhancements, improvements, or expansions at a facility of the Department necessitated by, or related or pertaining to, the Electronic Health Record Modernization Program; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/e/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">any funds, from any source or account, expended by any organizational element of the Department or by the Federal Electronic Health Record Modernization Office for consultants, support contractors, or experts related or pertaining to the Electronic Health Record Modernization Program.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Reports on performance metrics and outcomes.—</heading><chapeau style="-uslm-dtd:text">Not later than 90 days after the date of the enactment of the <inline style="-uslm-dtd:short-title">VA Electronic Health Record Transparency Act of 2021</inline>, and every 30 days after the last day of each fiscal quarter thereafter until the termination date specified in paragraph (3), the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the performance metrics and outcomes of the Electronic Health Record Modernization Program. Each such report shall include, for the period covered by the report—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/e/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a list of the quality, performance, safety, or value metrics, key performance indicators, and other diagnostic or evaluation criteria in use to assess the Electronic Health Record Modernization Program and the electronic health record system, in general and at individual facilities, with respect to veterans, employees of the Department, and Departmental operations;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/e/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">an explanation of any change to any of such metrics, indicators, and criteria compared to the metrics, indicators, and criteria included in any previous report submitted under this paragraph;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/e/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the data supporting or demonstrating each such metric, indicator, and criteria compared to the data supporting or demonstrating such metric, indicator, or criteria as included in the previous report submitted under this paragraph; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/e/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">a list of patient safety reports, incidents, alerts, or disclosures at each facility of the Department where the electronic health record system has been implemented.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Termination date.—</heading><content style="-uslm-dtd:text">The requirement to submit a report under paragraph (1) shall terminate on the date that is 90 days after the date on which the Secretary submits to the Committees on Veterans’ Affairs of the Senate and House of Representatives certification that the Electronic Health Record Modernization program has been fully implemented.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tV/s503/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/f/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">appropriate congressional committees</quotedText>” means—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/f/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Committees on Veterans’ Affairs of the House of Representatives and the Senate; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/f/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Committees on Appropriations of the House of Representatives and the Senate.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/f/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">Electronic Health Record Modernization Program</quotedText>” means—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/f/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any activities by the Department of Veterans Affairs to procure or implement an electronic health or medical record system to replace any or all of the Veterans Information Systems and Technology Architecture, the Computerized Patient Record System, the Joint Legacy Viewer, or the Enterprise Health Management Platform; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s503/f/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any contracts or agreements entered into by the Secretary of Veterans Affairs to carry out, support, or analyze the activities under subparagraph (A).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/f/3" style="-uslm-dtd:paragraph" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">electronic health record system</quotedText>” means the electronic health record system implemented pursuant to the Electronic Health Record Modernization Program.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/f/4" style="-uslm-dtd:paragraph" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">Federal Electronic Health Record Management Office</quotedText>” means the office established under section 1635(b) of the Wounded Warrior Act (title XVI of Public Law 110–181; 10 U.S.C. 1071 note).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s503/f/5" style="-uslm-dtd:paragraph" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">facility of the Department</quotedText>” includes a joint facility of the Department of Veterans Affairs and the Department of Defense.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/407/tV/s504" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="504">SEC. 504. </num><heading style="-uslm-dtd:header">DEPARTMENT OF VETERANS AFFAIRS NOTICE RELATING TO DEBT COLLECTION ACTIVITIES. </heading>
+                <subsection identifier="/us/sComp/115/407/tV/s504/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s5301">38 U.S.C. 5301 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Debt Notification Letter Formats.—</heading><chapeau style="-uslm-dtd:text">The Secretary of Veterans Affairs shall collaborate with veterans service organizations to develop a standard format for any letter provided to an individual who the Secretary determines is indebted to the United States by virtue of such individual’s participation in a benefits program administered by the Secretary. Such letter shall be written in plain language and shall include a notice of the debt and a clear explanation of—</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tV/s504/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">why the individual is indebted to the United States by virtue of such person’s participation in a benefits program administered by the Secretary; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s504/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the options available to the individual.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tV/s504/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s5301">38 U.S.C. 5301 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Delivery of Debt Notices by Standard Mail and Electronic Means.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall develop a method by which individuals may elect to receive notice of debt by electronic means and shall ensure, to the extent practicable, that the letter developed under subsection (a) is delivered—</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tV/s504/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by both standard mail and by electronic means to intended recipients who have made such an election; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s504/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">only by standard mail to intended recipients who have not made such an election.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tV/s504/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s5301">38 U.S.C. 5301 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Notice to Congress.—</heading>
+                    <paragraph identifier="/us/sComp/115/407/tV/s504/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Notices of completion.—</heading><content style="-uslm-dtd:text">Upon completion of the development of the standard letter format required under subsection (a) and upon completion of development of the method by which individuals may elect to receive notice of debt by 
+electronic means under subsection (b), the Secretary shall submit to Congress notice of the completion of the respective development.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s504/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Progress reports.—</heading><chapeau style="-uslm-dtd:text">If the Secretary has not submitted each notice required by paragraph (1) by the date that is 90 days after the date of the enactment of this Act, the Secretary shall—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s504/c/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">submit to Congress a report describing the progress of the Secretary toward implementing subsections (a) and (b) and an explanation for why the respective development has not been completed; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s504/c/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">every 30 days thereafter until all of the notices required by paragraph (1) have been submitted, submit to Congress an update to the report under subparagraph (A) that includes an additional explanation for the failure to complete the respective development.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tV/s504/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Study and Report.—</heading>
+                    <paragraph identifier="/us/sComp/115/407/tV/s504/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Study.—</heading><content style="-uslm-dtd:text">The Secretary of Veterans Affairs, in coordination with the Secretary of the Treasury, shall conduct a study on the process by which individuals who are indebted to the United States by virtue of their participation in a benefits program administered by the Secretary of Veterans Affairs are notified of debt collection efforts relating to such indebtedness.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s504/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Elements.—</heading><chapeau style="-uslm-dtd:text">The study required by paragraph (1) shall include the following:</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s504/d/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">An analysis of the scope of the problem of individuals who are indebted to the United States by virtue of their participation in a benefits program administered by the Secretary of Veterans Affairs not receiving debt collection notices relating to such indebtedness.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s504/d/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Identification of administrative actions the Secretary of Veterans Affairs and the Secretary of the Treasury can carry out to reduce the number of incorrect or unknown addresses of such individuals in the databases of the Department Veterans Affairs and the Department of the Treasury and a timeline for carrying out such actions.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s504/d/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">An estimate of the costs associated with sending debt collection notices to such individuals by certified mail.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s504/d/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">An analysis of whether, or to what extent, sending debt collection notices to such individuals by certified mail would address the problem analyzed under subparagraph (A).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s504/d/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">An analysis of the requirements and resources that would be necessary for the Secretary of Veterans Affairs to establish a method for the Secretary to display in one consolidated document the details regarding all of the debts of an individual to the United States by virtue of such individual’s participation in a benefits program administered by the Secretary.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tV/s504/d/2/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">An analysis of the extent to which such individuals are so indebted by reason of actions by the Secretary or by actions of the individual, including any trends relating to whether the actions of the individual may be by reason of error, misrepresentation, or fraud.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tV/s504/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs,  
+in coordination with the Secretary of the Treasury, shall submit to Congress a report on the findings of the Secretaries with respect to the study conducted under paragraph (1).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/115/407/tVI" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="VI">TITLE VI—</num><heading style="-uslm-dtd:header">MEDICAL FACILITIES </heading>
+            <section identifier="/us/sComp/115/407/tVI/s601" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="601">SEC. 601. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF MAJOR MEDICAL FACILITY PROJECTS FOR FISCAL YEAR 2019. </heading>
+                <subsection identifier="/us/sComp/115/407/tVI/s601/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Secretary of Veterans Affairs may carry out the following major medical facility projects in fiscal year 2019 at the locations specified and in an amount for each project not to exceed the amount specified for such location:</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tVI/s601/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Construction of a community living center and renovation of domiciliary and outpatient facilities in Canandaigua, New York, in an amount not to exceed $351,980,000 (an increase of $193,000,000 as compared to the previous authorization for such project).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVI/s601/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Renovation of space for a simulation training education center in North Chicago, Illinois, in an amount not to exceed $15,980,000.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVI/s601/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Construction of a surgical intensive care unit and renovation to expand the operating room suite in Oklahoma City, Oklahoma, in an amount not to exceed $29,461,000.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVI/s601/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Construction of a new medical facility in Louisville, Kentucky, in an amount not to exceed $450,000,000 (an increase of $300,000,000 as compared to the previous authorization for such project).</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tVI/s601/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2019 or the year in which funds are appropriated for the Construction, Major Projects account, $847,421,000 for the projects authorized in subsection (a).</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/407/tVI/s602" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="602">SEC. 602. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s1701">38 U.S.C. 1701 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PLANS TO IMPROVE MEDICAL FACILITIES OF THE DEPARTMENT OF VETERANS AFFAIRS. </heading>
+                <subsection identifier="/us/sComp/115/407/tVI/s602/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Plans Required.—</heading>
+                    <paragraph identifier="/us/sComp/115/407/tVI/s602/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Plans of directors of medical facilities.—</heading><content style="-uslm-dtd:text">Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall require each director of a medical facility of the Department of Veterans Affairs to submit to the director of the Veterans Integrated Service Network that covers the facility a plan to improve such facility.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVI/s602/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Plans of directors of veterans integrated service networks.—</heading><content style="-uslm-dtd:text">The Secretary shall require each director of a Veterans Integrated Service Network to submit to the Secretary, not later than 60 days after receiving all of the plans under paragraph (1), a plan, based on the plans received under paragraph (1), to improve the facilities within that Veterans Integrated Service Network in such a fashion that would improve the ability of all facilities within that network to provide the best and most efficient care to patients.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tVI/s602/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Regular Reports.—</heading><content style="-uslm-dtd:text">The Secretary shall ensure that each director of a Veterans Integrated Service Network submits to the Secretary, not later than two years after the date of the enactment of this Act and not less frequently than once every two years thereafter, a report on the actions taken by the director to improve  
+the facilities within that Veterans Integrated Service Network and what further such actions might be necessary.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tVI/s602/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Sense of Congress on Use of Authorities to Investigate Medical Centers of the Department of Veterans Affairs.—</heading><content style="-uslm-dtd:text">It is the sense of Congress that the Secretary of Veterans Affairs should make full use of the authorities provided by section 2 of the Enhancing Veteran Care Act (Public Law 115-95; 38 U.S.C. 1701 note).</content>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/115/407/tVII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="VII">TITLE VII—</num><heading style="-uslm-dtd:header">OTHER MATTERS </heading>
+            <section identifier="/us/sComp/115/407/tVII/s701" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="701">SEC. 701. </num><heading style="-uslm-dtd:header">HOMELESS VETERANS REINTEGRATION PROGRAMS. </heading><chapeau style="-uslm-dtd:text">Section 2021(a) of title 38, United States Code, is amended—</chapeau>
+                <paragraph identifier="/us/sComp/115/407/tVII/s701/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">reintegration of homeless veterans into the labor force.</quotedText>” and inserting the following:  “<quotedText style="-uslm-dtd:quote">reintegration into the labor force of—</quotedText>”; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/115/407/tVII/s701/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by adding at the end the following new paragraphs:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">homeless veterans (including veterans who were homeless but found housing during the 60-day period preceding the date on which the veteran begins to participate in a program under this section);</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">veterans participating in the Department of Veterans Affairs supported housing program for which rental assistance is provided pursuant to section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)) or the Tribal HUD-VA Supportive Housing (Tribal HUD-VASH) program;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">Indians who are veterans and receiving assistance under the Native American Housing Assistance and Self Determination Act of 1996 (25 U.S.C. 4101 et seq.);</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">veterans described in section 2023(e) of this title or any other veterans who are transitioning from being incarcerated; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">veterans participating in the Department of Veterans Affairs rapid rehousing and prevention program authorized in section 2044 of this title.”</content>
+                    </paragraph></quotedContent>.</content>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/115/407/tVII/s702" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="702">SEC. 702. </num><heading style="-uslm-dtd:header">TECHNICAL CORRECTIONS. </heading>
+                <subsection identifier="/us/sComp/115/407/tVII/s702/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Title 38.—</heading><chapeau style="-uslm-dtd:text">Title 38, United States Code, is amended as follows:</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s702/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s5501">38 U.S.C. 5501</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">In the table of sections at the beginning of chapter 55, by inserting a period at the end of the item relating to section 5501A.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s702/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">In section 7463(c)(2)(B), by striking “<quotedText style="-uslm-dtd:quote">to answer to answer</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">to answer</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tVII/s702/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Veterans’ Benefits Improvements Act of 1996.—</heading><content style="-uslm-dtd:text">Section 504 of the Veterans’ Benefits Improvements Act of 1996 (Public Law 104-275; 38 U.S.C. 5101 note) is amended by redesignating the second subsection (c) as subsection (d).</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/407/tVII/s703" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="703">SEC. 703. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t38/s8125">38 U.S.C. 8125 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">MEDICAL SURGICAL PRIME VENDOR PROGRAM. </heading>
+                <subsection identifier="/us/sComp/115/407/tVII/s703/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Vendors.—</heading><chapeau style="-uslm-dtd:text">In procuring certain medical, surgical, and dental supplies or laboratory supplies for medical centers of the Department of Veterans Affairs, the Secretary of Veterans Affairs shall carry out the Medical Surgical Prime Vendor program, or successor program, in a manner that—</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s703/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">requires the Secretary to award contracts to multiple regional prime vendors instead of a single nationwide prime vendor; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s703/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">prohibits a prime vendor from solely designing the formulary of such supplies.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tVII/s703/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Clinically Driven Sourcing.—</heading>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s703/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Expertise.—</heading><content style="-uslm-dtd:text">In carrying out the formulary of supplies under the Medical Surgical Prime Vendor program, or successor program, the Secretary shall ensure that each employee of the Department of Veterans Affairs who conducts formulary analyses or makes decisions with respect to including items on the formulary has medical expertise relevant to the items for which the employee conducts such analyses or makes such decisions.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s703/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Lists.—</heading><content style="-uslm-dtd:text">Not later than 30 days after the date of the enactment of this Act, and every six months thereafter with respect to any updates, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a list of each employee described in paragraph (1) and the relevant medical expertise of the employee, listed by the categories of items in the formulary described in such paragraph.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/407/tVII/s704" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="704">SEC. 704. </num><heading style="-uslm-dtd:header">REPORT ON EXPANDING ACCESS TO DENTAL CARE FOR VETERANS ELIGIBLE FOR HEALTH CARE FROM THE DEPARTMENT OF VETERANS AFFAIRS. </heading>
+                <subsection identifier="/us/sComp/115/407/tVII/s704/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than 360 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the feasibility and advisability of expanding access to dental care for eligible veterans.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tVII/s704/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Elements.—</heading><chapeau style="-uslm-dtd:text">The report required by subsection (a) shall include the following:</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s704/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">An analysis of access to dental care for eligible veterans outside of the Department, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">the percentage of eligible veterans currently enrolled in dental insurance through a third-party payer, including—</chapeau>
+                            <clause identifier="/us/sComp/115/407/tVII/s704/b/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the dental insurance plan for veterans and survivors and dependents of veterans under section 1712C of title 38, United States Code;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/407/tVII/s704/b/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the Medicaid program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.); and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/407/tVII/s704/b/1/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">employer-sponsored dental insurance;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the affordability of dental insurance described in subparagraph (A); and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the comprehensiveness of benefits of dental insurance described in subparagraph (A).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s704/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">An analysis of the current oral health needs of eligible veterans, including an estimate of the number of eligible veterans who—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">experience untreated cavities or decay;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">require dentures, implants, or other restorative dental services; or</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">have not received regular dental cleanings within the two-year period preceding the report.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s704/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">An analysis of the financial impact to the Department of Veterans Affairs of providing dental care to eligible veterans, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">whether the provision of such services would result in a reduction in total health care costs;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a cost-benefit analysis that indicates potential cost savings to the Department over a 5-, 10-, and 20-year period; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">projected cost savings to the Department and across the broader health care system.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s704/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">An analysis of the number and types of dental providers necessary to treat eligible veterans, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">dentists;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">hygienists;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">dental technicians; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/407/tVII/s704/b/4/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">dental therapists.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tVII/s704/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Categories of Eligible Veterans.—</heading><chapeau style="-uslm-dtd:text">The report required by subsection (a) shall be disaggregated by each of the following categories of eligible veterans:</chapeau>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s704/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Veterans enrolled in the system of annual patient enrollment of the Department pursuant to the priority group under subsection (a)(6) of section 1705 of such title.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s704/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Veterans enrolled in such system pursuant to the priority group under subsection (a)(5) of such section.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s704/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Veterans enrolled in such system pursuant to a priority group under any of subsections (a)(1) through (a)(4) of such section.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/407/tVII/s704/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Veterans enrolled in such system pursuant to a priority group under subsection (a)(7) or (a)(8) of such section.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/407/tVII/s704/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Eligible Veterans Defined.—</heading><content style="-uslm-dtd:text">In this section, the term “<quotedText style="-uslm-dtd:quote">eligible veterans</quotedText>” means veterans enrolled in the system of annual patient enrollment of the Department of Veterans Affairs established and operated under section 1705 of title 38, United States Code.</content>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

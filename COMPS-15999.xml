@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Coordinated Ocean Observations and Research Act of 2020</dc:title>
+        <citableAs>Public Law 116–271</citableAs>
+        <citableAsShortTitle>Coordinated Ocean Observations and Research Act of 2020</citableAsShortTitle>
+        <docNumber>271</docNumber>
+        <currentThroughPublicLaw>116–271</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Coordinated Ocean Observations and Research Act of 2020</containsShortTitle>
+        <property role="fileId">15999</property>
+        <congress>116</congress>
+        <approvedDate>2020-12-31</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Coordinated Ocean Observations and Research Act of 2020</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 116–271</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 116–271. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To reauthorize the Integrated Coastal and Ocean Observation System Act of 2009, to clarify the authority of the Administrator of the National Oceanic and Atmospheric Administration with respect to post-storm assessments, and to require the establishment of a National Water Center, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t33/s3601">33 U.S.C. 3601 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Coordinated Ocean Observations and Research Act of 2020</shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows: <toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>REAUTHORIZATION OF INTEGRATED COASTAL AND OCEAN OBSERVATION SYSTEM ACT OF 2009</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Purposes.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Definitions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Integrated Coastal and Ocean Observation System.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Financing and agreements.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 105.</designator><label> Reports to Congress.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 106.</designator><label> Public-private use policy.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 107.</designator><label> Repeal of independent cost estimate.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 108.</designator><label> Authorization of appropriations.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 109.</designator><label> Reports and research plans.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 110.</designator><label> Strategic research plan.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 111.</designator><label> Stakeholder input on monitoring.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 112.</designator><label> Research activities.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>NAMED STORM EVENT MODEL AND POST-STORM ASSESSMENTS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Named Storm Event Model and post-storm assessments.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>WATER PREDICTION AND FORECASTING</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Water prediction and forecasting.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/116/271/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">REAUTHORIZATION OF INTEGRATED COASTAL AND OCEAN OBSERVATION SYSTEM ACT OF 2009 </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">PURPOSES. </heading>
+                <content style="-uslm-dtd:text" class="block">  Section 12302 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601) is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="12302">“SEC. 12302. </num><heading style="-uslm-dtd:header">PURPOSES </heading>
+                    <chapeau style="-uslm-dtd:text" class="block">“The purposes of this subtitle are—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">“(1) </num><chapeau style="-uslm-dtd:text">to establish and sustain a national integrated System of ocean, coastal, and Great Lakes observing systems, comprised of Federal and non-Federal components coordinated at the national level by the Council and at the regional level by a network of regional coastal observing systems, and that includes in situ, remote, and other coastal and ocean observation and modeling capabilities, technologies, data management systems, communication systems, and product development systems, and is designed to address regional and national needs for ocean and coastal information, to gather specific data on key ocean, coastal, and Great Lakes variables, and to ensure timely and sustained dissemination and availability of these data— </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">to the public; </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">to support national defense, search and rescue operations, marine commerce, navigation safety, weather, climate, and marine forecasting, energy siting and production, economic development, ecosystem-based marine, coastal, and Great Lakes resource management, public safety, and public outreach and education; </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">to promote greater public awareness and stewardship of the Nation’s ocean, coastal, and Great Lakes resources and the general public welfare; </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">to provide easy access to ocean, coastal, and Great Lakes data and promote data sharing between Federal and non-Federal sources and promote public data sharing; </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">to enable advances in scientific understanding to support the sustainable use, conservation, management, and understanding of healthy ocean, coastal, and Great Lakes resources to ensure the Nation can respond to opportunities to enhance food, economic, and national security; and </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">“(F) </num><content style="-uslm-dtd:text">to monitor and model changes in the oceans and Great Lakes, including with respect to chemistry, harmful algal blooms, hypoxia, water levels, and other phenomena; </content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">to improve the Nation’s capability to measure, track, observe, understand, and predict events related directly and indirectly to weather and climate, natural climate variability, and interactions between the oceanic and atmospheric environments, including the Great Lakes; </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">to sustain, upgrade, and modernize the Nation’s ocean and Great Lakes observing infrastructure to detect changes and ensure delivery of reliable and timely information; and </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">“(4) </num><chapeau style="-uslm-dtd:text">to authorize activities— </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">to promote basic and applied research to develop, test, and deploy innovations and improvements in coastal and ocean observation technologies, including advanced observing technologies such as unmanned maritime systems needed to address critical data gaps, modeling systems, other scientific and technological capabilities to improve the understanding of weather and climate, ocean-atmosphere dynamics, global climate change, and the physical, chemical, and biological dynamics of the ocean, coastal, and Great Lakes environments; and </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">to conserve healthy and restore degraded coastal ecosystems. ”</content>
+                        </subparagraph>
+                    </paragraph>
+                </section></quotedContent>.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s102" styleType="OLC" role="definitions">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">  Section 12303 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3602) is amended— </chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s102/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (2), by striking “<term style="-uslm-dtd:quote">section 7902</term>” and inserting “<term style="-uslm-dtd:quote">section 8932</term>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s102/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (5), by striking “<term style="-uslm-dtd:quote">integrated into the System and are managed through States, regional organizations, universities, nongovernmental organizations, or the private sector</term>” and inserting “<term style="-uslm-dtd:quote">managed through States, regional organizations, universities, nongovernmental organizations, or the private sector and integrated into the System by a regional coastal observing system, the National Oceanic and Atmospheric Administration, or the agencies participating in the Interagency Ocean Observation Committee</term>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s102/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by amending paragraph (6) to read as follows: <quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">“(6) </num><heading style="-uslm-dtd:header">Regional coastal observing system.—</heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:quote">regional coastal observing system</term>’ means an organizational body that is certified or established by contract or memorandum by the lead Federal agency designated in section 12304(c)(3) and coordinates State, Federal, local, tribal, and private interests at a regional level with the responsibility of engaging the private and public sectors in designing, operating, and improving regional coastal observing systems in order to ensure the provision of data and information that meet the needs of user groups from the respective regions.”</content>
+                    </paragraph></quotedContent>; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s102/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in paragraph (7), by striking “<term style="-uslm-dtd:quote">National Oceanic and Atmospheric Administration</term>” and inserting “<term style="-uslm-dtd:quote">Administrator</term>”.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s103" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">INTEGRATED COASTAL AND OCEAN OBSERVATION SYSTEM. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tI/s103/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">System Elements.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s103/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Section 12304(b) of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3603(b)) is amended by striking paragraph (1) and inserting the following: <quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">In order to fulfill the purposes of this subtitle, the System shall be national in scope and consist of— </chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">Federal assets to fulfill national and international observation missions and priorities; </content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">non-Federal assets, including a network of regional coastal observing systems identified under subsection (c)(4), to fulfill regional and national observation missions and priorities; </content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">observing, modeling, data management, and communication systems for the timely integration and dissemination of data and information products from the System, including reviews of data collection procedures across regions and programs to make recommendations for data collection standards across the System to meet national ocean, coastal, and Great Lakes observation, applied research, and weather forecasting needs; </content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">a product development system to transform observations into products in a format that may be readily used and understood; and </content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">“(E) </num><chapeau style="-uslm-dtd:text">a research and development program conducted under the guidance of the Council, consisting of—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><chapeau style="-uslm-dtd:text">basic and applied research and technology development— </chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">to improve understanding of coastal and ocean systems and their relationships to human activities; and </content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">to ensure improvement of operational assets and products, including related infrastructure, observing technologies such as unmanned maritime systems, and information and data processing and management technologies; </content>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">an advanced observing technology development program to fill gaps in technology; </content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">large scale computing resources and research to advance modeling of ocean, coastal, and Great Lakes processes; </content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">models to improve regional weather forecasting capabilities and regional weather forecasting products; and </content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">reviews of data collection procedures across regions and programs to make recommendations for data collection standards across the System to meet national ocean, coastal, and Great Lakes observation, applied research, and weather forecasting needs. ”</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s103/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Availability of data.—</heading><content style="-uslm-dtd:text">Section 12304(b)(3) of such Act (33 U.S.C. 3603(b)(3)) is amended by inserting “<quotedText style="-uslm-dtd:quote">for research and for use in the development of products to address societal needs</quotedText>” before the period at the end.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tI/s103/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Policy Oversight, Administration, and Regional Coordination.—</heading><content style="-uslm-dtd:text">Section 12304(c) of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3603(c)) is amended by striking paragraphs (2), (3), and (4), and inserting the following: <quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Interagency ocean observation committee.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">The Council shall establish or designate a committee, which shall be known as the ‘Interagency Ocean Observation Committee’. </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Duties.—</heading><chapeau style="-uslm-dtd:text">The Interagency Ocean Observation Committee shall— </chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">prepare annual and long-term plans for consideration and approval by the Council for the integrated design, operation, maintenance, enhancement, and expansion of the System to meet the objectives of this subtitle and the System Plan; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><chapeau style="-uslm-dtd:text">develop and transmit to Congress, along with the budget submitted by the President to Congress pursuant to section 1105(a) of title 31, United States Code, an annual coordinated, comprehensive budget—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">to operate all elements of the System identified in subsection (b); and </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">to ensure continuity of data streams from Federal and non-Federal assets; </content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">establish requirements for observation data variables to be gathered by both Federal and non-Federal assets and identify, in consultation with regional coastal observing systems, priorities for System observations;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">establish and define protocols and standards for System data processing, management, collection, configuration standards, formats, and communication for new and existing assets throughout the System network; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">“(v) </num><chapeau style="-uslm-dtd:text">develop contract requirements for each regional coastal observing system— </chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">to establish eligibility for integration into the System; </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">to ensure compliance with all applicable standards and protocols established by the Council; and </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">to ensure that regional observations are integrated into the System on a sustained basis; </content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">“(vi) </num><content style="-uslm-dtd:text">identify gaps in observation coverage or needs for capital improvements of both Federal assets and non-Federal assets; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vii">“(vii) </num><chapeau style="-uslm-dtd:text">subject to the availability of appropriations, establish through 1 or more Federal agencies participating in the Interagency Ocean Observation Committee, in consultation with the System advisory committee established under subsection (d), a competitive matching grant or other programs— </chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">to promote intramural and extramural research and development of new, innovative, and emerging observation technologies including testing and field trials; and </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">to facilitate the migration of new, innovative, and emerging scientific and technological advances from research and development to operational deployment; </content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="viii">“(viii) </num><chapeau style="-uslm-dtd:text">periodically— </chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">review the System Plan; and </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">submit to the Council such recommendations as the Interagency Ocean Observation Committee may have for improvements to the System Plan; </content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ix">“(ix) </num><content style="-uslm-dtd:text">ensure collaboration among Federal agencies participating in the Interagency Ocean Observation Committee; and </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="x">“(x) </num><content style="-uslm-dtd:text">perform such additional duties as the Council may delegate. </content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Lead federal agency.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The National Oceanic and Atmospheric Administration shall function as the lead Federal agency for the implementation and administration of the System. </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Consultation required.—</heading><content style="-uslm-dtd:text">In carrying out this paragraph, the Administrator shall consult with the Council, the Interagency Ocean Observation Committee, other Federal agencies that maintain portions of the System, and the regional coastal observing systems. </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">In carrying out this paragraph, the Administrator shall— </chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><chapeau style="-uslm-dtd:text">establish and operate an Integrated Ocean Observing System Program Office within the National Oceanic and Atmospheric Administration that—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">utilizes, to the extent necessary, personnel from Federal agencies participating in the Interagency Ocean Observation Committee; and </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">oversees daily operations and coordination of the System; </content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">implement policies, protocols, and standards approved by the Council and delegated by the Interagency Ocean Observation Committee; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><chapeau style="-uslm-dtd:text">promulgate program guidelines— </chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">to certify and integrate regional associations into the System; and </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">to provide regional coastal and ocean observation data that meet the needs of user groups from the respective regions; </content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">have the authority to enter into and oversee contracts, leases, grants, or cooperative agreements with non-Federal assets, including regional coastal observing systems, to support the purposes of this subtitle on such terms as the Administrator deems appropriate; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">implement and maintain a merit-based, competitive funding process to support non-Federal assets, including the development and maintenance of a national network of regional coastal observing systems, and develop and implement a process for the periodic review and evaluation of the regional associations; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">“(vi) </num><content style="-uslm-dtd:text">provide opportunities for competitive contracts and grants for demonstration projects to design, develop, integrate, deploy, maintain, and support components of the System; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vii">“(vii) </num><content style="-uslm-dtd:text">establish and maintain efficient and effective administrative procedures for the timely allocation of funds among contractors, grantees, and non-Federal assets, including regional coastal observing systems; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="viii">“(viii) </num><content style="-uslm-dtd:text">develop and implement a process for the periodic review and evaluation of the regional coastal observing systems; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ix">“(ix) </num><chapeau style="-uslm-dtd:text">formulate an annual process by which gaps in observation coverage or needs for capital improvements of Federal assets and non-Federal assets of the System are— </chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">identified by the regional associations described in the System Plan, the Administrator, or other members of the System; and </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">submitted to the Interagency Ocean Observation Committee; </content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="x">“(x) </num><content style="-uslm-dtd:text">develop and be responsible for a data management and communication system, in accordance with standards and protocols established by the Interagency Ocean Observation Committee, by which all data collected by the System regarding ocean and coastal waters of the United States including the Great Lakes, are processed, stored, integrated, and made available to all end-user communities;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="xi">“(xi) </num><content style="-uslm-dtd:text">not less frequently than once each year, submit to the Interagency Ocean Observation Committee a report on the accomplishments, operational needs, and performance of the System to contribute to the annual and long-term plans prepared pursuant to paragraph (2)(B)(i); </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="xii">“(xii) </num><content style="-uslm-dtd:text">develop and periodically update a plan to efficiently integrate into the System new, innovative, or emerging technologies that have been demonstrated to be useful to the System and which will fulfill the purposes of this subtitle and the System Plan; and </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="xiii">“(xiii) </num><content style="-uslm-dtd:text">work with users and regional associations to develop products to enable real-time data sharing for decision makers, including with respect to weather forecasting and modeling, search and rescue operations, corrosive seawater forecasts, water quality monitoring and communication, and harmful algal bloom forecasting. </content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Regional coastal observing systems.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">A regional coastal observing system described in the System Plan as a regional association may not be certified or established under this subtitle unless it— </chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">has been or shall be certified or established by contract or agreement by the Administrator; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><chapeau style="-uslm-dtd:text">meets— </chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">the certification standards and compliance procedure guidelines issued by the Administrator; and </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the information needs of user groups in the region while adhering to national standards; </content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><chapeau style="-uslm-dtd:text">demonstrates an organizational structure, that under funding limitations is capable of— </chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">gathering required System observation data; </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">supporting and integrating all aspects of coastal and ocean observing and information programs within a region; and </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">reflecting the needs of State, local, and tribal governments, commercial interests, and other users and beneficiaries of the System and other requirements specified under this subtitle and the System Plan; </content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">“(iv) </num><chapeau style="-uslm-dtd:text">identifies— </chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">gaps in observation coverage needs for capital improvements of Federal assets and non-Federal assets of the System; and </content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">other recommendations to assist in the development of the annual and long-term plans prepared pursuant to paragraph (2)(B)(i) and transmits such information to the Interagency Ocean Observation Committee through the Program Office established under paragraph (3)(C)(i); </content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">develops and operates under a strategic plan that will ensure the efficient and effective administration of programs and assets to support daily data  observations for integration into the System, pursuant to the standards approved by the Council; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">“(vi) </num><content style="-uslm-dtd:text">works cooperatively with governmental and nongovernmental entities at all levels to identify and provide information products of the System for multiple users within the service area of the regional coastal observing system; and </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vii">“(vii) </num><content style="-uslm-dtd:text">complies with all financial oversight requirements established by the Administrator, including requirements relating to audits. </content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Participation.—</heading><content style="-uslm-dtd:text">For the purposes of this subtitle, employees of Federal agencies are permitted to be members of the governing body for the regional coastal observing systems and may participate in the functions of the regional coastal observing systems. ”</content>
+                        </subparagraph>
+                    </paragraph></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tI/s103/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">System Advisory Committee.—</heading><chapeau style="-uslm-dtd:text">Section 12304(d) of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3603(d)) is amended— </chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s103/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">or the Interagency Ocean Observing Committee.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">or the Council under this subtitle</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s103/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in paragraph (2)— </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tI/s103/c/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subparagraph (A), by inserting “<quotedText style="-uslm-dtd:quote">, data sharing,</quotedText>” after  “<quotedText style="-uslm-dtd:quote">data management</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tI/s103/c/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subparagraph (C), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tI/s103/c/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by striking subparagraph (D) and inserting the following: <quotedContent style="-uslm-dtd:quoted-block">
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><chapeau style="-uslm-dtd:text">additional priorities, including— </chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><chapeau style="-uslm-dtd:text">a national surface current mapping network designed to improve fine scale sea surface mapping using high frequency radar technology and other emerging technologies to address national priorities, including Coast Guard search and rescue operation planning and harmful algal bloom forecasting and detection that— </chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">is comprised of existing high frequency radar and other sea surface current mapping infrastructure operated by national programs and regional coastal observing systems; </content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">incorporates new high frequency radar assets or other fine scale sea surface mapping technology assets, and other assets needed to fill gaps in coverage on United States coastlines; and </content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">follows a deployment plan that prioritizes closing gaps in high frequency radar infrastructure in the United States, starting with areas demonstrating significant sea surface current data needs, especially in areas where additional data will improve Coast Guard search and rescue models; </content>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">fleet acquisition for unmanned maritime systems for deployment and data integration to fulfill the purposes of this subtitle; </content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">an integrative survey program for application of unmanned maritime systems to the real-time or near real-time collection and transmission of sea floor,  water column, and sea surface data on biology, chemistry, geology, physics, and hydrography; </content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">remote sensing and data assimilation to develop new analytical methodologies to assimilate data from the System into hydrodynamic models; </content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">integrated, multi-State monitoring to assess sources, movement, and fate of sediments in coastal regions; </content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="vi">“(vi) </num><chapeau style="-uslm-dtd:text">a multi-region marine sound monitoring system to be— </chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">planned in consultation with the Interagency Ocean Observation Committee, the National Oceanic and Atmospheric Administration, the Department of the Navy, and academic research institutions; and </content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">developed, installed, and operated in coordination with the National Oceanic and Atmospheric Administration, the Department of the Navy, and academic research institutions; and </content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">any other purpose identified by the Administrator or the Council. ”</content>
+                            </subparagraph></quotedContent>;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tI/s103/c/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">in paragraph (3)(B), by inserting “<quotedText style="-uslm-dtd:quote">The Administrator may stagger the terms of the System advisory committee members.</quotedText>” before  “<quotedText style="-uslm-dtd:quote">Members</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tI/s103/c/2/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><chapeau style="-uslm-dtd:text">in paragraph (4)— </chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tI/s103/c/2/E/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in subparagraph (A), by striking “<quotedText style="-uslm-dtd:quote">and the Interagency Ocean Observing Committee</quotedText>”; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tI/s103/c/2/E/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subparagraph (C), by striking “<quotedText style="-uslm-dtd:quote">Observing</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Observation</quotedText>”.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tI/s103/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Civil Liability.—</heading><chapeau style="-uslm-dtd:text">Section 12304(e) of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3603(e)) is amended— </chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s103/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">information coordination entity</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">coastal observing system</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s103/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">contract, lease, grant, or cooperative agreement under subsection (c)(3)(D)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">a memorandum of agreement of certification under subsection (c)(3)(C)(iii)</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tI/s103/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Conforming Amendments.—</heading><content style="-uslm-dtd:text">The Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 et seq.) is amended by striking “<quotedText style="-uslm-dtd:quote">regional information coordination entities</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">regional coastal observing systems</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s104" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">FINANCING AND AGREEMENTS. </heading>
+                <content style="-uslm-dtd:text" class="block">  Section 12305(a) of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3604(a)) is amended to read as follows: <quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary of Commerce may execute an agreement, on a reimbursable or nonreimbursable basis, with any State or subdivision thereof, any Federal agency, any public or private organization, or any individual to carry out activities under this subtitle. ”</content>
+                </subsection></quotedContent>.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s105" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><heading style="-uslm-dtd:header">REPORTS TO CONGRESS. </heading>
+                <content style="-uslm-dtd:text" class="block">  Section 12307 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3606) is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="12307">“SEC. 12307. </num><heading style="-uslm-dtd:header">REPORT TO CONGRESS </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Requirement.—</heading><content style="-uslm-dtd:text">Not later than March 30, 2022, and every 5 years thereafter, the Administrator shall prepare, and the President acting through the Council shall approve and transmit to Congress, a report on progress made in implementing this subtitle. </content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">Each report required under subsection (a) shall include— </chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">a description of activities carried out under this subtitle and the System Plan; </content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">an evaluation of the effectiveness of the System, including an evaluation of progress made by the Council to achieve the goals identified under the System Plan; </content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">the identification of Federal and non-Federal assets as determined by the Council that have been integrated into the System, including assets essential to the gathering of required observation data variables necessary to meet the respective missions of Council agencies; </content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">a review of procurements, planned or initiated, by each department or agency represented on the Council to enhance, expand, or modernize the observation capabilities and data products provided by the System, including data management and communication subsystems; </content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">“(5) </num><chapeau style="-uslm-dtd:text">a summary of the existing gaps in observation infrastructure and monitoring data collection, including— </chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">priorities considered by the System advisory committee; </content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the national sea surface current mapping network; </content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">coastal buoys; </content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">ocean chemistry monitoring; </content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">marine sound monitoring; and </content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="F">“(F) </num><content style="-uslm-dtd:text">unmanned maritime systems technology gaps; </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">“(6) </num><content style="-uslm-dtd:text">an assessment regarding activities to integrate Federal and non-Federal assets, nationally and on the regional level, and discussion of the performance and effectiveness of regional coastal observing systems to coordinate regional observation operations; </content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="7">“(7) </num><content style="-uslm-dtd:text">a description of benefits of the program to users of data products resulting from the System (including the general public, industries, scientists, resource managers, emergency responders, policy makers, and educators); </content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="8">“(8) </num><chapeau style="-uslm-dtd:text">recommendations, if any, concerning— </chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">modifications to the System; and </content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">funding levels for the System in subsequent fiscal years; and </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="9">“(9) </num><content style="-uslm-dtd:text">the results of a periodic external independent programmatic audit of the System. ”</content>
+                        </paragraph>
+                    </subsection>
+                </section></quotedContent>.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s106" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="106">SEC. 106. </num><heading style="-uslm-dtd:header">PUBLIC-PRIVATE USE POLICY. </heading>
+                <content style="-uslm-dtd:text" class="block">  Section 12308 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3607) is amended to read as follows: <quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="12308">“SEC. 12308. </num><heading style="-uslm-dtd:header">PUBLIC-PRIVATE USE POLICY </heading>
+                    <content style="-uslm-dtd:text" class="block">“The Council shall maintain a policy that defines processes for making decisions about the roles of the Federal Government, the States, regional coastal observing systems, the academic community, and the private sector in providing to end-user communities environmental information, products, technologies, and services  related to the System. The Administrator shall ensure that the National Oceanic and Atmospheric Administration adheres to the decision making process developed by the Council regarding the roles of the Federal Government, the States, the regional coastal observing systems, the academic community, and the private sector in providing end-user communities environmental information, data products, technologies, and services related to the System. ”</content>
+                </section></quotedContent>.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s107" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="107">SEC. 107. </num><heading style="-uslm-dtd:header">REPEAL OF INDEPENDENT COST ESTIMATE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tI/s107/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 et seq.) is amended by striking section 12309 (33 U.S.C. 3608). </content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tI/s107/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents Amendment.—</heading><content style="-uslm-dtd:text">The table of contents in section 1(b) of the Omnibus Public Land Management Act of 2009 (Public Law 111-11; 123 Stat. 991) is amended by striking the item related to section 12309. </content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s108" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="108">SEC. 108. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+                <content style="-uslm-dtd:text" class="block">  Section 12311 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3610) is amended to read as follows: <quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="12311">“SEC. 12311. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS </heading>
+                    <chapeau style="-uslm-dtd:text" class="block">“There are authorized to be appropriated to the Secretary of Commerce to support the integrated oceans observations under this subtitle— </chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">$48,000,000 for fiscal year 2021; </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">$50,000,000 for fiscal year 2022; </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">$52,000,000 for fiscal year 2023; </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">$54,000,000 for fiscal year 2024; and </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">$56,000,000 for fiscal year 2025. ”</content>
+                    </paragraph>
+                </section></quotedContent>.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s109" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="109">SEC. 109. </num><heading style="-uslm-dtd:header">REPORTS AND RESEARCH PLANS. </heading>
+                <content style="-uslm-dtd:text" class="block">  Section 12404(c) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3703(c)) is amended by adding at the end the following: <quotedContent style="-uslm-dtd:quoted-block">
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Economic vulnerability report.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Not later than 2 years after the date of the enactment of the Coordinated Ocean Observations and Research Act of 2020, and every 6 years thereafter, the Subcommittee shall transmit to the appropriate committees of Congress a report that— </chapeau>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">is named the ‘Ocean Chemistry Coastal Community Vulnerability Assessment’; </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">identifies gaps in ocean acidification monitoring by public, academic, and private assets in the network of regional coastal observing systems; </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">identifies geographic areas which have gaps in ocean acidification research; </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">identifies United States coastal communities, including island communities, fishing communities, low-population rural communities, tribal and subsistence communities, and island communities, that may be impacted by ocean acidification; </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">identifies impacts of changing ocean carbonate chemistry on the communities described in clause (iv), including impacts from changes in ocean and coastal marine resources that are not managed by the Federal Government;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vi">“(vi) </num><content style="-uslm-dtd:text">identifies gaps in understanding of the impacts of ocean acidification on economically or commercially important species, particularly those which support United States commercial, recreational, and tribal fisheries and aquaculture; </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vii">“(vii) </num><content style="-uslm-dtd:text">identifies habitats that may be particularly vulnerable to corrosive sea water, including areas experiencing multiple stressors such as hypoxia, sedimentation, and harmful algal blooms; </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="viii">“(viii) </num><content style="-uslm-dtd:text">identifies areas in which existing National Integrated Coastal and Ocean Observation System assets, including unmanned maritime systems, may be leveraged as platforms for the deployment of new sensors or other applicable observing technologies; </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ix">“(ix) </num><chapeau style="-uslm-dtd:text">is written in collaboration with Federal agencies responsible for carrying out this subtitle, including representatives of— </chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">the National Marine Fisheries Service and the Office for Coastal Management of the National Oceanic and Atmospheric Administration; </content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">regional coastal observing systems established under section 12304(c)(4); </content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">regional ocean acidification networks; and </content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">“(IV) </num><content style="-uslm-dtd:text">sea grant programs (as defined in section 203 of the National Sea Grant College Program Act (33 U.S.C. 1122)); and </content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="x">“(x) </num><content style="-uslm-dtd:text">is written in consultation with experts, including subsistence users, academia, and stakeholders familiar with the economic, social, ecological, geographic, and resource concerns of coastal communities in the United States. </content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Form of report.—</heading>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">Initial report.—</heading><content style="-uslm-dtd:text">The initial report required under subparagraph (A) shall include the information described in clauses (i) through (viii) of that subparagraph on a national level. </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Subsequent reports.—</heading><chapeau style="-uslm-dtd:text">Each report required under subparagraph (A) after the initial report— </chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">may describe the information described in clauses (i) through (viii) of that subparagraph on a national level; or </content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">may consist of separate reports for each region of the National Oceanic and Atmospheric Administration. </content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">“(iii) </num><heading style="-uslm-dtd:header">Regional reports.—</heading><content style="-uslm-dtd:text">If the Subcommittee opts to prepare a report required under subparagraph (A) as separate regional reports under clause (ii)(II), the Subcommittee shall submit a report for each region of the National Oceanic and Atmospheric Administration not less frequently than once during each 6-year reporting period. </content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Appropriate committees of congress defined.—</heading><content style="-uslm-dtd:text">In this paragraph and in paragraph (5), the term ‘<quotedText style="-uslm-dtd:quote">appropriate committees of Congress</quotedText>’ means the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology  of the House of Representatives, and the Committee on Natural Resources of the House of Representatives. </content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">“(5) </num><heading style="-uslm-dtd:header">Monitoring prioritization plan.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of the submission of the initial report under paragraph (4)(A), the Subcommittee shall transmit to the appropriate committees of Congress a report that develops a plan to deploy new sensors or other applicable observing technologies such as unmanned maritime systems— </chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">based on such initial report; </content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">prioritized by— </chapeau>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the threat to coastal economies and ecosystems; </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">gaps in data; and </content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">research needs; and </content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">that leverage existing platforms, where possible. ”</content>
+                    </subparagraph>
+                </paragraph></quotedContent>.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s110" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="110">SEC. 110. </num><heading style="-uslm-dtd:header">STRATEGIC RESEARCH PLAN. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tI/s110/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">Section 12405(b) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704(b)) is amended— </chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s110/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (8), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s110/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (9), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s110/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following: <quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="10">“(10) </num><content style="-uslm-dtd:text">make recommendations for research to be conducted, including in the social sciences and economics, to address the key knowledge gaps identified in the Ocean Chemistry Coastal Community Vulnerability Assessment conducted under section 12404(c)(4). ”</content>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tI/s110/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Program Elements.—</heading><content style="-uslm-dtd:text">Section 12405(c) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704(c)) is amended by adding at the end the following: <quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">“(6) </num><content style="-uslm-dtd:text">Research to understand the combined impact of changes in ocean chemistry and other stressors, including sediment delivery, hypoxia, and harmful algal blooms, on each other and on living marine resources, including aquaculture and coastal ecosystems. </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">“(7) </num><content style="-uslm-dtd:text">Applied research to identify adaptation strategies for species impacted by changes in ocean chemistry including vegetation-based systems, shell recycling, species and genetic diversity, applied technologies, aquaculture methodologies, and management recommendations. ”</content>
+                    </paragraph></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tI/s110/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Participation.—</heading><content style="-uslm-dtd:text">Section 12405(e) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704(e)) is amended in the first sentence by inserting “<quotedText style="-uslm-dtd:quote">, tribal governments, and subsistence users</quotedText>” after  “<quotedText style="-uslm-dtd:quote">groups</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tI/s110/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t33/s3704">33 U.S.C. 3704 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Revised Strategic Research Plan.—</heading><content style="-uslm-dtd:text">Not later than one year after the date of the enactment of this Act, the Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall submit to Congress a revised strategic research plan under section 12405 of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704) that includes the matters required by the amendments made by this section. </content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s111" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="111">SEC. 111. </num><heading style="-uslm-dtd:header">STAKEHOLDER INPUT ON MONITORING. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">  Section 12406(a) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3705(a)) is amended— </chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s111/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (2), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s111/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (3), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tI/s111/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following: <quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">includes an ongoing mechanism that allows industry members, coastal stakeholders, fishery management councils and commissions, non-Federal resource managers, community acidification networks, indigenous knowledge groups, and scientific experts to provide input on monitoring needs that are necessary to support on the ground management, decision making, and adaptation related to ocean acidification and its impacts. ”</content>
+                    </paragraph></quotedContent>.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tI/s112" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="112">SEC. 112. </num><heading style="-uslm-dtd:header">RESEARCH ACTIVITIES. </heading>
+                <content style="-uslm-dtd:text" class="block">  Section 12407(a) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3706(a)) is amended to read as follows: <quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Research Activities.—</heading><chapeau style="-uslm-dtd:text">The Director of the National Science Foundation shall continue to carry out research activities on ocean acidification which shall support competitive, merit-based, peer-reviewed proposals for research, observation, and monitoring of ocean acidification and its impacts, including— </chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">impacts on marine organisms, including species cultured for aquaculture, and marine ecosystems; </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">impacts on ocean, coastal, and estuarine biogeochemistry; </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">the development of methodologies and technologies to evaluate ocean acidification and its impacts; and </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">impacts of multiple stressors on ecosystems exhibiting hypoxia, harmful algal blooms, or sediment delivery, combined with changes in ocean chemistry. ”</content>
+                    </paragraph>
+                </subsection></quotedContent>.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/116/271/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">NAMED STORM EVENT MODEL AND POST-STORM ASSESSMENTS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">NAMED STORM EVENT MODEL AND POST-STORM ASSESSMENTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tII/s201/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Amendments to the Omnibus Public Land Management Act of 2009.—</heading><chapeau style="-uslm-dtd:text">Section 12312 of the Omnibus Public Land Management Act of 2009 (33 U.S.C. 3611) is amended— </chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tII/s201/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in subsection (a)— </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (2), by striking the period at the end and inserting the following:  “<quotedText style="-uslm-dtd:quote">, except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system.</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (6), by inserting “<quotedText style="-uslm-dtd:quote">sustained</quotedText>” before  “<quotedText style="-uslm-dtd:quote">winds</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/a/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in paragraph (7), by striking “<quotedText style="-uslm-dtd:quote">that threaten any portion of a coastal State</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">for which post-storm assessments are conducted</quotedText>”;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tII/s201/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subsection (b)— </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in paragraph (1)— </chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tII/s201/a/2/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">in subparagraph (A)— </chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/271/tII/s201/a/2/A/i/I" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">540 days after the date of the enactment of the Consumer Option for an 134 STAT. 3345
+Alternative System to Allocate Losses Act of 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">December 31, 2020</quotedText>”; and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/271/tII/s201/a/2/A/i/II" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">by regulation</quotedText>”;</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tII/s201/a/2/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subparagraph (B), by striking “<quotedText style="-uslm-dtd:quote">every</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">an</quotedText>”; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tII/s201/a/2/A/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by adding at the end the following: <quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Public review.—</heading><content style="-uslm-dtd:text">The Administrator shall seek input and suggestions from the public before the Named Storm Event Model, or any modification to the Named Storm Event Model, takes effect. ”</content>
+                                </subparagraph></quotedContent>; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in paragraph (2)— </chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tII/s201/a/2/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by redesignating subparagraphs (B) and (C) as subparagraphs (D) and (E), respectively; </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tII/s201/a/2/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by inserting after subparagraph (A) the following: <quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Data collection.—</heading>
+                                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Upon identification of a named storm under subparagraph (A), and pursuant to the protocol established under subsection (c), the Administrator may deploy sensors to enhance the collection of covered data in the areas in coastal States that the Administrator determines are at the highest risk of experiencing geophysical events that would cause indeterminate losses. </content>
+                                    </clause>
+                                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Rule of construction.—</heading><content style="-uslm-dtd:text">If the Administrator takes action under clause (i), that action may not be construed as indicating that a post-storm assessment will be developed for any coastal State in which that action is taken. </content>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Identification of indeterminate losses in coastal states.—</heading><content style="-uslm-dtd:text">Not later than 30 days after the first date on which sustained winds of not less than 39 miles per hour are measured in a coastal State during a named storm identified under subparagraph (A), the Secretary of Homeland Security shall notify the Administrator with respect to the existence of any indeterminate losses in that coastal State resulting from that named storm. ”</content>
+                                </subparagraph></quotedContent>;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tII/s201/a/2/B/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><chapeau style="-uslm-dtd:text">in subparagraph (D), as so redesignated— </chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/271/tII/s201/a/2/B/iii/I" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">identification of a named storm under subparagraph (A)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">confirmation of indeterminate losses identified under subparagraph (C) with respect to a named storm</quotedText>”; and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/271/tII/s201/a/2/B/iii/II" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">assessment for such named storm</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">assessment for each coastal State that suffered such indeterminate losses as a result of the named storm</quotedText>”;</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tII/s201/a/2/B/iv" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><chapeau style="-uslm-dtd:text">in subparagraph (E), as so redesignated— </chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/271/tII/s201/a/2/B/iv/I" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">an identification of a named storm is made under subparagraph (A)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">any indeterminate losses are identified under subparagraph (C)</quotedText>”; and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/116/271/tII/s201/a/2/B/iv/II" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">for such storm under subparagraph (B)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">under subparagraph (D) for any coastal State that suffered such indeterminate losses</quotedText>”; and</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tII/s201/a/2/B/v" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="F">“(F) </num><heading style="-uslm-dtd:header">Separate post-storm assessments for a single named storm.—</heading>
+                                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Administrator may conduct a separate post-storm assessment for each coastal State in which indeterminate losses are identified under subparagraph (C). </content>
+                                    </clause>
+                                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Timeline.—</heading><content style="-uslm-dtd:text">If the Administrator conducts a separate post-storm assessment under clause (i), the Administrator shall complete the assessment based on the dates of actions that the Administrator takes under subparagraph (D). ”</content>
+                                    </clause>
+                                </subparagraph></quotedContent>; and</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tII/s201/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in subsection (c)— </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/a/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">540 days after the date of the enactment of the Consumer Option for an Alternative System to Allocate Losses Act of 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">December 31, 2020</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/a/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (2), by inserting “<quotedText style="-uslm-dtd:quote">, in the discretion of the Administrator,</quotedText>” after  “<quotedText style="-uslm-dtd:quote">of sensors as may</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/a/3/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in paragraph (4)(B), by inserting “<quotedText style="-uslm-dtd:quote">and expend</quotedText>” after  “<quotedText style="-uslm-dtd:quote">receive</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tII/s201/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Amendments to the National Flood Insurance Act of 1968.—</heading><chapeau style="-uslm-dtd:text">Section 1337 of the National Flood Insurance Act of 1968 (42 U.S.C. 4057) is amended— </chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tII/s201/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in subsection (a)— </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (3), by striking the period at the end and inserting the following:  “<quotedText style="-uslm-dtd:quote">, except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system.</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (5), by inserting “<quotedText style="-uslm-dtd:quote">sustained</quotedText>” after  “<quotedText style="-uslm-dtd:quote">maximum</quotedText>”;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tII/s201/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subsection (b)— </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">establish by rule</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">publish for comment in the Federal Register</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (2)(B), by inserting after  “<quotedText style="-uslm-dtd:quote">Elevation Certificate</quotedText>” the following:  “<quotedText style="-uslm-dtd:quote">, or other data or information used to determine a property’s current risk of flood, as determined by the Administrator,</quotedText>”;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tII/s201/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in subsection (c)(3)(A)(i), by striking “<quotedText style="-uslm-dtd:quote">the issuance of the rule establishing the COASTAL Formula</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">publication of the COASTAL Formula in the Federal Register as required by subsection (b)(1)</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tII/s201/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in subsection (d), by striking “<quotedText style="-uslm-dtd:quote">section 12312(b)(2)(C)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 12312(b)(2)(E)</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tII/s201/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">in subsection (h)— </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/b/5/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">that issues a standard flood insurance policy under the national flood insurance program</quotedText>” after  “<quotedText style="-uslm-dtd:quote">company</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tII/s201/b/5/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">or the COASTAL Formula</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">, the COASTAL Formula, or any other loss allocation or post-storm assessment arising under the laws or ordinances of any State</quotedText>”;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tII/s201/b/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">in subsection (i), by striking “<quotedText style="-uslm-dtd:quote">after the date on which the Administrator issues the rule establishing the COASTAL Formula under subsection (b)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">60 days after 134 STAT. 3347
+publication of the COASTAL Formula in the Federal Register as required by subsection (b)(1)</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tII/s201/b/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">by adding at the end the following: <quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="k">“(k) </num><heading style="-uslm-dtd:header">Rule of Construction.—</heading><content style="-uslm-dtd:text">Nothing in this section shall be construed to create a cause of action under this Act. ”</content>
+                        </subsection></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/116/271/tIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">WATER PREDICTION AND FORECASTING </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/116/271/tIII/s301" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s10371">42 U.S.C. 10371</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">WATER PREDICTION AND FORECASTING. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tIII/s301/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">National Water Center.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tIII/s301/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Under Secretary of Commerce for Oceans and Atmosphere shall establish a center— </chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tIII/s301/a/1/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">to serve as the research and operational center of excellence for hydrologic analyses, forecasting, and related decision support services within the National Oceanic and Atmospheric Administration and the National Weather Service; and </content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/116/271/tIII/s301/a/1/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">to facilitate collaboration across Federal and State departments and agencies, academia, and the private sector on matters relating to water resources. </content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Designation.—</heading><content style="-uslm-dtd:text">The center established under subparagraph (A) shall be known as the “National Water Center”. </content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tIII/s301/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Functions.—</heading><chapeau style="-uslm-dtd:text">The functions of the National Water Center shall include the following: </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Improving understanding of water resources, stakeholder needs regarding water resources, and identifying science and services gaps relating to water resources. </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Developing and implementing advanced water resources modeling capabilities. </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/a/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Facilitating the transition of hydrologic research into operations. </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/a/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">Delivering analyses, forecasts, and inundation information and guidance for all hydrologic events in the United States, including flash flooding, riverine flooding, and water resources outlooks. </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/a/2/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">In coordination with warning coordination meteorologists, providing decision-support services to inform emergency management and water resources decisions. </content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tIII/s301/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">National Instructions.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tIII/s301/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than one year after the date of the enactment of this Act, the Under Secretary, acting through the Director of the National Weather Service, shall make public an operations and services policy directive for the National Water Center. </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tIII/s301/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">The directive required by paragraph (1) shall include national instructions to perform the functions of the National Water Center, including the following: </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Operational staff responsibilities. </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Guidelines for content, format, and provision of hydrologic and inundation products developed by the National Water Center. </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/b/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Procedures for cooperation and coordination between the National Water Center, the National Weather  Service National Centers for Environmental Prediction, National Weather Service River Forecast Centers, and National Weather Service Weather Forecast Offices. </content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tIII/s301/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Total Water Prediction.—</heading><chapeau style="-uslm-dtd:text">The Under Secretary, acting through the Director of the Office of Water Prediction of the National Weather Service, shall— </chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tIII/s301/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">initiate and lead research and development activities to develop operational water resource prediction and related decision support products; </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tIII/s301/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">collaborate with, and provide decision support regarding total water prediction to— </chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/c/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the relevant Federal agencies represented on the National Science and Technology Council, Committee on Environment, Natural Resources, and Sustainability and the Subcommittee on Disaster Reduction; </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/c/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">State water resource agencies; and </content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/116/271/tIII/s301/c/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">State and local emergency management agencies; and </content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tIII/s301/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in carrying out the responsibilities described in paragraphs (1) and (2), collaboratively develop capabilities necessary for total water predictive capacity, including observations, modeling, data management, supercomputing, social science, and communications. </content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tIII/s301/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><chapeau style="-uslm-dtd:text">There are authorized to be appropriated to carry out the activities under this section amounts as follows: </chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tIII/s301/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">$44,500,000 for fiscal year 2021. </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tIII/s301/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">$45,000,000 for fiscal year 2022. </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tIII/s301/d/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">$45,500,000 for fiscal year 2023. </content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/271/tIII/s301/d/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">$46,000,000 for fiscal year 2024. </content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/271/tIII/s301/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Derivation of Funds.—</heading><content style="-uslm-dtd:text">Funds to carry out this section shall be derived from amounts authorized to be appropriated to the National Weather Service and the National Ocean Service that are enacted after the date of the enactment of this Act. </content>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

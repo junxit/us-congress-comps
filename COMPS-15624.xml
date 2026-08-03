@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Grant Reporting Efficiency and Agreements Transparency Act of 2019</dc:title>
+        <citableAs>Public Law 116–103</citableAs>
+        <citableAsShortTitle>Grant Reporting Efficiency and Agreements Transparency Act of 2019</citableAsShortTitle>
+        <docNumber>103</docNumber>
+        <currentThroughPublicLaw>116–103</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Grant Reporting Efficiency and Agreements Transparency Act of 2019</containsShortTitle>
+        <containsShortTitle>GREAT Act</containsShortTitle>
+        <property role="fileId">15624</property>
+        <congress>116</congress>
+        <approvedDate>2019-12-30</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Grant Reporting Efficiency and Agreements Transparency Act of 2019</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 116–103</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 116–103. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To modernize Federal grant reporting, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/103/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6401">31 U.S.C. 6401 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Grant Reporting Efficiency and Agreements Transparency Act of 2019</shortTitle>” or the “<shortTitle style="-uslm-dtd:quote">GREAT Act</shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 2.</designator><label> Purposes.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 3.</designator><label> Definitions.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 4.</designator><label> Data standards for grant reporting.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 5.</designator><label> Single Audit Act.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 6.</designator><label> Consolidation of assistance-related information; publication of public information as open data.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 7.</designator><label> Evaluation of nonproprietary identifiers.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 8.</designator><label> Rule of construction.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 9.</designator><label> No additional funds authorized.</label></referenceItem></toc></content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/103/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6401">31 U.S.C. 6401 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PURPOSES. </heading><chapeau style="-uslm-dtd:text">The purposes of this Act are to—</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/103/s2/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">modernize reporting by recipients of Federal grants and cooperative agreements by creating and imposing data standards for the information that those recipients are required by law to report to the Federal Government;</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/103/s2/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">implement the recommendation by the Director of the Office of Management and Budget contained in the report submitted under section 5(b)(6) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) relating to the development of a “<quotedText style="-uslm-dtd:quote">comprehensive taxonomy of standard definitions for core data elements required for managing Federal financial assistance awards</quotedText>”;</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/103/s2/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">reduce burden and compliance costs of recipients of Federal grants and cooperative agreements by enabling technology solutions, existing or yet to be developed, for use in both the public and private sectors to better manage the data that recipients already provide to the Federal Government; and</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/103/s2/4" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">strengthen oversight and management of Federal grants and cooperative agreements by agencies by consolidating the collection and display of and access to open data that has been standardized and, where appropriate, increasing transparency to the public.</content>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/103/s3" styleType="OLC" role="definitions">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6401">31 U.S.C. 6401 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading><content style="-uslm-dtd:text">In this Act, the terms “<term style="-uslm-dtd:quote">agency</term>”, “<term style="-uslm-dtd:quote">Director</term>”, “<term style="-uslm-dtd:quote">Federal award</term>”, and “<term style="-uslm-dtd:quote">Secretary</term>” have the meanings given those terms in section 6401 of title 31, United States Code, as added by section 4(a) of this Act.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/103/s4" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><heading style="-uslm-dtd:header">DATA STANDARDS FOR GRANT REPORTING. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s4/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6401">31 U.S.C. 6401</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Amendment.—</heading><content style="-uslm-dtd:text">Subtitle V of title 31, United States Code, is amended by inserting after chapter 63 the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <chapter style="-uslm-dtd:chapter" styleType="USC">
+                    <num style="-uslm-dtd:enum" value=" 64">“CHAPTER  64—</num><heading style="-uslm-dtd:header">DATA STANDARDS FOR GRANT REPORTING </heading>
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><label>“Sec.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“6401.</designator><label> Definitions.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“6402.</designator><label> Data standards for grant reporting.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“6403.</designator><label> Guidance applying data standards for grant reporting.</label></referenceItem>
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“6404.</designator><label> Agency requirements.</label></referenceItem>
+                    </toc>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="6401">“§ 6401. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6401">31 U.S.C. 6401</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header"> Definition </heading><chapeau style="-uslm-dtd:text">In this chapter:</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Agency.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">agency</quotedText>’ has the meaning given the term in section 552(f) of title 5.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Core data elements.—</heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">core data elements</quotedText>’ means data elements relating to financial management, administration, or management that—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">are not program-specific in nature or program-specific outcome measures, as defined in section 1115(h) of this title; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">are required by agencies for all or the vast majority of recipients of Federal awards for purposes of reporting.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Director.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">Director</quotedText>’ means the Director of the Office of Management and Budget.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Executive department.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">Executive department</quotedText>’ has the meaning given the term in section 101 of title 5.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">“(5) </num><heading style="-uslm-dtd:header">Federal award.—</heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">Federal award</quotedText>’—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">means the transfer of anything of value for a public purpose of support or stimulation authorized by a law of the United States, including financial assistance and Government facilities, services, and property;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">includes a grant, a subgrant, a cooperative agreement, or any other transaction; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><chapeau style="-uslm-dtd:text">does not include a transaction or agreement—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">that provides for conventional public information services or procurement of property or services for the direct benefit or use of the Government; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><chapeau style="-uslm-dtd:text">that provides only—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">direct Government cash assistance to an individual;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">a subsidy;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">a loan;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="IV">“(IV) </num><content style="-uslm-dtd:text">a loan guarantee; or</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="V">“(V) </num><content style="-uslm-dtd:text">insurance.</content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">“(6) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">Secretary</quotedText>’ means the head of the standard-setting agency.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="7">“(7) </num><heading style="-uslm-dtd:header">Standard-setting agency.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">standard-setting agency</quotedText>’ means the Executive department designated under section 6402(a)(1).</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="8">“(8) </num><heading style="-uslm-dtd:header">State.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">State</quotedText>’ means each State of the United States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian Tribe.</content>
+                        </paragraph>
+                    </section>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="6402">“§ 6402. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6402">31 U.S.C. 6402</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header"> Data standards for grant reportin </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Designation of standard-setting agency.—</heading><content style="-uslm-dtd:text">The Director shall designate the Executive department that administers the greatest number of programs under which Federal awards are issued in a calendar year as the standard-setting agency.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Establishment of standards.—</heading><content style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this chapter, the Secretary and the Director shall establish Governmentwide data standards for information reported by recipients of Federal awards.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Data elements.—</heading><chapeau style="-uslm-dtd:text">The data standards established under paragraph (2) shall include, at a minimum—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">standard definitions for data elements required for managing Federal awards; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">unique identifiers for Federal awards and recipients of Federal awards that can be consistently applied Governmentwide.</content>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Scope.—</heading><chapeau style="-uslm-dtd:text">The data standards established under subsection (a)—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">shall include core data elements;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">may cover information required by law to be reported to any agency by recipients of Federal awards, including audit-related information reported under chapter 75 of this title; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">may not be used by the Director or any agency to require the collection of any data not otherwise required under Federal law.</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">The data standards established under subsection (a) shall, to the extent reasonable and practicable—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">render information reported by recipients of Federal awards fully searchable and machine-readable;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">be nonproprietary;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">incorporate standards developed and maintained by voluntary consensus standards bodies;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">be consistent with and implement applicable accounting and reporting principles; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">incorporate the data standards established under the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Consultation.—</heading><chapeau style="-uslm-dtd:text">In establishing the data standards under subsection (a), the Secretary and the Director shall consult with—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">the Secretary of the Treasury to ensure that the data standards established under subsection (a) incorporate the data standards established under the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note);</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">the head of each agency that issues Federal awards;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">recipients of Federal awards and organizations representing recipients of Federal awards;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">private sector experts;</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">members of the public, including privacy experts, privacy advocates, auditors, and industry stakeholders; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="6">“(6) </num><content style="-uslm-dtd:text">State and local governments.</content>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="6403">“§ 6403. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6403">31 U.S.C. 6403</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header"> Guidance applying data standards for grant reportin </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Not later than 3 years after the date of enactment of this chapter—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">the Secretary and the Director shall jointly issue guidance to all agencies directing the agencies to apply the data standards established under section 6402(a) to all applicable reporting by recipients of Federal awards; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">the Director shall prescribe guidance applying the data standards established under section 6402(a) to audit-related information reported under chapter 75 of this title.</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Guidance.—</heading><chapeau style="-uslm-dtd:text">The guidance issued under subsection (a) shall—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><chapeau style="-uslm-dtd:text">to the extent reasonable and practicable—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">minimize the disruption of existing reporting practices of, and not increase the reporting burden on, agencies or recipients of Federal awards; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">explore opportunities to implement modern technologies in reporting relating to Federal awards;</content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">allow the Director to permit exceptions for classes of Federal awards, including exceptions for Federal awards granted to Indian Tribes and Tribal organizations consistent with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.), if the Director publishes a list of those exceptions and submits the list to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">take into consideration the consultation required under section 6402(d).</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Updating Guidance.—</heading>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not less frequently than once every 10 years, the Director shall update the guidance issued under subsection (a).</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Procedures.—</heading><content style="-uslm-dtd:text">In updating guidance under paragraph (1), the Director shall, to the maximum extent practicable, follow the procedures for the development of the data standards and guidance prescribed under this section and section 6402.</content>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="6404">“§ 6404. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6404">31 U.S.C. 6404</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header"> Agency requirement </heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date on which guidance is issued or updated under subsection (b) or (c), respectively, of section 6403, the head of each agency shall—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">ensure that all of the Federal awards that the agency issues use data standards for all future information collection requests; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">amend existing information collection requests under chapter 35 of title 44 (commonly known as the ‘Paperwork Reduction Act’) to comply with the data standards established under section 6402 of this chapter, in accordance with the guidance issued by the Secretary and the Director under section 6403 of this chapter.”</content>
+                        </paragraph>
+                    </section>
+                </chapter></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s4/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6101">31 U.S.C. 6101</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Technical and Conforming Amendment.—</heading><content style="-uslm-dtd:text">The table of chapters for subtitle V of title 31, United States Code,is amended by inserting after the item relating to chapter 63 the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <toc style="-uslm-dtd:toc">
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“64.</designator><label> Data standards for grant reporting”</label></referenceItem>
+                </toc></quotedContent>
+</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/103/s5" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><heading style="-uslm-dtd:header">SINGLE AUDIT ACT. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s5/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Amendments.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/103/s5/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Audit requirements.—</heading><content style="-uslm-dtd:text">Section 7502(h) of title 31, United States Code, is amended, in the matter preceding paragraph (1), by inserting “<quotedText style="-uslm-dtd:quote">in an electronic form in accordance with the data standards established under chapter 64 and</quotedText>” after  “<quotedText style="-uslm-dtd:quote">the reporting package,</quotedText>”.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/116/103/s5/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Regulations.—</heading><content style="-uslm-dtd:text">Section 7505 of title 31, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">“(d) </num><content style="-uslm-dtd:text">Such guidance shall require audit-related information reported under this chapter to be reported in an electronic form in accordance with the data standards established under chapter 64.”</content>
+                    </subsection></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s5/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s7505">31 U.S.C. 7505 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Guidance.—</heading><content style="-uslm-dtd:text">Not later than 3 years after the date of enactment of this Act, the Director shall issue guidance requiring audit-related information reported under chapter 75 of title 31, United States Code, to be reported in an electronic form consistent with the data standards established under chapter 64 of that title, as added by section 4(a) of this Act.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/103/s6" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6402">31 U.S.C. 6402 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">CONSOLIDATION OF ASSISTANCE-RELATED INFORMATION; PUBLICATION OF PUBLIC INFORMATION AS OPEN DATA. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s6/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Collection of Information.—</heading><content style="-uslm-dtd:text">Not later than 5 years after the date of enactment of this Act, the Secretary and the Director shall, using the data standards established under chapter 64 of title 31, United States Code, as added by section 4(a) of this Act, enable the collection, public display, and maintenance of Federal award information as a Governmentwide data set, subject to reasonable restrictions established by the Director to ensure protection of personally identifiable information and otherwise sensitive information.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s6/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Publication of Information.—</heading><content style="-uslm-dtd:text">The Secretary and the Director shall require the publication of data reported by recipients of Federal awards that is collected from all agencies on a single public portal, which may be an existing Governmentwide website, as determined appropriate by the Director.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s6/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">FOIA.—</heading><content style="-uslm-dtd:text">Nothing in this section shall require the disclosure to the public of information that would be exempt from disclosure under section 552 of title 5, United States Code (commonly known as the “<quotedText style="-uslm-dtd:quote">Freedom of Information Act</quotedText>”).</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/103/s7" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6402">31 U.S.C. 6402 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EVALUATION OF NONPROPRIETARY IDENTIFIERS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s7/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Determination Required.—</heading><content style="-uslm-dtd:text">The Director and the Secretary shall determine whether to use nonproprietary identifiers described in section 6402(a)(3)(B) of title 31, United States Code, as added by section 4(a) of this Act.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s7/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Factors to Be Considered.—</heading><content style="-uslm-dtd:text">In making the determination under subsection (a), the Director and the Secretary shall consider factors such as accessibility and cost to recipients of Federal awards, agencies that issue Federal awards, private sector experts, and members of the public, including privacy experts, privacy advocates, transparency experts, and transparency advocates.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/116/103/s7/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Publication and Report on Determination.—</heading><content style="-uslm-dtd:text">Not later than the earlier of 1 year after the date of enactment of this Act or the date on which the Director and the Secretary establish data standards under section 6402(a)(2) of title 31, United States Code, as added by section 4(a) of this Act, the Director and the Secretary shall publish and submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report explaining the reasoning for the determination made under subsection (a).</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/103/s8" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t31/s6401">31 U.S.C. 6401 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">RULE OF CONSTRUCTION. </heading><content style="-uslm-dtd:text">Nothing in this Act, or the amendments made by this Act, shall be construed to require the collection of data that is not otherwise required under any Federal law, rule, or regulation.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/116/103/s9" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="9">SEC. 9. </num><heading style="-uslm-dtd:header">NO ADDITIONAL FUNDS AUTHORIZED. </heading><content style="-uslm-dtd:text">No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.</content>
+        </section>
+    </main>
+</statuteCompilation>

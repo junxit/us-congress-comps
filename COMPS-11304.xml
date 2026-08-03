@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Presidential and Federal Records Act Amendments of 2014</dc:title>
+        <citableAs>Public Law 113–187, as amended</citableAs>
+        <citableAsShortTitle>Presidential and Federal Records Act Amendments of 2014</citableAsShortTitle>
+        <docNumber>187</docNumber>
+        <currentThroughPublicLaw>115–85</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Presidential and Federal Records Act Amendments of 2014</containsShortTitle>
+        <property role="fileId">11304</property>
+        <congress>113</congress>
+        <approvedDate>2014-11-26</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Presidential and Federal Records Act Amendments of 2014</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 113–187</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 115–85</currentThroughPublicLaw>, Enacted <date date="2017-11-21">November 21, 2017</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 113-187. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend chapter 22 of title 44, United States Code, popularly known as the Presidential Records Act, to establish procedures for the consideration of claims of constitutionally based privilege against disclosure of Presidential records, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/187/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t44/s101">44 U.S.C. 101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Presidential and Federal Records Act Amendments of 2014</shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 2.</designator><label> Presidential records.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 3.</designator><label> National Archives and Records Administration.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 4.</designator><label> Records management by Federal agencies.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 5.</designator><label> Disposal of records.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 6.</designator><label> Procedures to prevent unauthorized removal of classified records from National Archives.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 7.</designator><label> Repeal of provisions related to the National Study Commission on Records and Documents of Federal Officials.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 8.</designator><label> Pronoun amendments.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 9.</designator><label> Records management by the Archivist.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 10.</designator><label> Disclosure requirement for official business conducted using non-official electronic messaging account.</label></referenceItem></toc></content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/187/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">PRESIDENTIAL RECORDS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s2/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Procedures for Consideration of Claims of Constitutionally Based Privilege Against Disclosure.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Amendment.—</heading><content style="-uslm-dtd:text">Chapter 22 of title 44, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <section style="-uslm-dtd:section" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2208">“SEC. 2208. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t44/s2208">44 U.S.C. 2208</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Claims of constitutionally based privilege against disclosure </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a)</num><paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">When the Archivist determines under this chapter to make available to the public any Presidential record that has not previously been made available to the public, the Archivist shall—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">promptly provide notice of such determination to—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the former President during whose term of office the record was created; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the incumbent President; and</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">make the notice available to the public.</content>
+                            </subparagraph></paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><chapeau style="-uslm-dtd:text">The notice under paragraph (1)—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">shall be in writing; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">shall include such information as may be prescribed in regulations issued by the Archivist.</content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="3">“(3)</num><subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Upon the expiration of the 60-day period (excepting Saturdays, Sundays, and legal public holidays) beginning on the date the Archivist provides notice under paragraph (1)(A), the Archivist shall make available to the public the Presidential record covered by the notice, except any record (or reasonably segregable part of a record) with respect to which the Archivist receives from a former President or the incumbent President notification of a claim of constitutionally based privilege against disclosure under subsection (b).</content></subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">A former President or the incumbent President may extend the period under subparagraph (A) once for not more than 30 additional days (excepting Saturdays, Sundays, and legal public holidays) by filing with the Archivist a statement that such an extension is necessary to allow an adequate review of the record.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">Notwithstanding subparagraphs (A) and (B), if the 60-day period under subparagraph (A), or any extension of that period under subparagraph (B), would otherwise expire during the 6-month period after the incumbent President first takes office, then that 60-day period or extension, respectively, shall expire at the end of that 6-month period.</content>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b)</num><paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">For purposes of this section, the decision to assert any claim of constitutionally based privilege against disclosure of a Presidential record (or reasonably segregable part of a record) must be made personally by a former President or the incumbent President, as applicable.</content></paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">A former President or the incumbent President shall notify the Archivist, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate of a privilege claim under paragraph (1) on the same day that the claim is asserted under such paragraph.</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c)</num><paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">If a claim of constitutionally based privilege against disclosure of a Presidential record (or reasonably segregable part of a record) is asserted under subsection (b) by a former President, the Archivist shall consult with the incumbent President, as soon as practicable during the period specified in paragraph (2)(A), to determine whether the incumbent President will uphold the claim asserted by the former President.</content></paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="2">“(2)</num><subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Not later than the end of the 30-day period beginning on the date on which the Archivist receives notification from a former President of the assertion of a claim of constitutionally based privilege against disclosure, the Archivist shall provide notice to the former President and the public of the decision of the incumbent President under paragraph (1) regarding the claim.</content></subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">If the incumbent President upholds the claim of privilege asserted by the former President, the Archivist shall not make the Presidential record (or reasonably segregable part of a record) subject to the claim publicly available unless—</chapeau>
+                                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the incumbent President withdraws the decision upholding the claim of privilege asserted by the former President; or</content>
+                                    </clause>
+                                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the Archivist is otherwise directed by a final court order that is not subject to appeal.</content>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">If the incumbent President determines not to uphold the claim of privilege asserted by the former President, or fails to make the determination under paragraph (1) before the end of the period specified in subparagraph (A), the Archivist shall release  the Presidential record subject to the claim at the end of the 90-day period beginning on the date on which the Archivist received notification of the claim, unless otherwise directed by a court order in an action initiated by the former President under section 2204(e) of this title or by a court order in another action in any Federal court.</content>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="d">“(d) </num><chapeau style="-uslm-dtd:text">The Archivist shall not make publicly available a Presidential record (or reasonably segregable part of a record) that is subject to a privilege claim asserted by the incumbent President unless—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">the incumbent President withdraws the privilege claim; or</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">the Archivist is otherwise directed by a final court order that is not subject to appeal.</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="e">“(e) </num><content style="-uslm-dtd:text">The Archivist shall adjust any otherwise applicable time period under this section as necessary to comply with the return date of any congressional subpoena, judicial subpoena, or judicial process.”</content>
+                        </subsection>
+                    </section></quotedContent>.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Conforming amendments.—</heading><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s2/a/2/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Section 2204(d) of title 44, United States Code, is amended by inserting “<quotedText style="-uslm-dtd:quote">, except section 2208,</quotedText>” after “<quotedText style="-uslm-dtd:quote">chapter</quotedText>”.</content></subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s2/a/2/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">Section 2205 of title 44, United States Code, is amended—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s2/a/2/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in the matter preceding paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">section 2204</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">sections 2204 and 2208 of this title</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s2/a/2/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in paragraph (2)(A), by striking “<quotedText style="-uslm-dtd:quote">subpena</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subpoena</quotedText>”.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s2/a/2/C" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Section 2207 of title 44, United States Code, is amended in the second sentence by inserting “<quotedText style="-uslm-dtd:quote">, except section 2208,</quotedText>” after “<quotedText style="-uslm-dtd:quote">chapter</quotedText>”.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Clerical Amendment.—</heading><content style="-uslm-dtd:text">The table of sections at the beginning of chapter 22 of title 44, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“2208.</designator><label> Claims of constitutionally based privilege against disclosure.”</label></referenceItem>
+                    </toc></quotedContent>.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t44/s2207">44 U.S.C. 2207 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Rule of construction.—</heading><chapeau style="-uslm-dtd:text">Nothing in the amendment made by paragraph (2)(C) shall be construed to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s2/a/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">affect the requirement of section 2207 of title 44, United States Code, that Vice Presidential records shall be subject to chapter 22 of that title in the same manner as Presidential records; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s2/a/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">affect any claim of constitutionally based privilege by a President or former President with respect to a Vice Presidential record.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s2/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">Section 2201 of title 44, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in paragraph (1)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s2/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">memorandums</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">memoranda</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s2/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">audio, audiovisual</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">audio and visual records</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s2/b/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">, whether in analog, digital, or any other form</quotedText>” after “<quotedText style="-uslm-dtd:quote">mechanical recordations</quotedText>”; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (2), by striking “<quotedText style="-uslm-dtd:quote">advise and assist</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">advise or assist</quotedText>”.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s2/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Management and Custody of Presidential Records.—</heading><chapeau style="-uslm-dtd:text">Section 2203 of title 44, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (a), by striking “<quotedText style="-uslm-dtd:quote">maintained</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">preserved and maintained</quotedText>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subsection (b), by striking “<quotedText style="-uslm-dtd:quote">advise and assist</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">advise or assist</quotedText>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by redesignating subsection (f) as subsection (g);</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">by inserting after subsection (e) the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">“(f) </num><content style="-uslm-dtd:text">During a President’s term of office, the Archivist may maintain and preserve Presidential records on behalf of the President, including records in digital or electronic form. The President shall remain exclusively responsible for custody, control, and access to such Presidential records. The Archivist may not disclose any such records, except under direction of the President, until the conclusion of a President’s term of office, if a President serves consecutive terms upon the conclusion of the last term, or such other period provided for under section 2204 of this title.”</content>
+                    </subsection></quotedContent>; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/c/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">in subsection (g)(1), as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">Act</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">chapter</quotedText>”.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s2/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Restrictions on Access to Presidential Records.—</heading><content style="-uslm-dtd:text">Section 2204 of title 44, United States Code, is amended by adding at the end the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">“(f) </num><content style="-uslm-dtd:text">The Archivist shall not make available any original Presidential records to any individual claiming access to any Presidential record as a designated representative under section 2205(3) of this title if that individual has been convicted of a crime relating to the review, retention, removal, or destruction of records of the Archives.”</content>
+                </subsection></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s2/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Disclosure Requirement for Official Business Conducted Using Non-Official Electronic Messaging Account.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/e/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Amendment.—</heading><content style="-uslm-dtd:text">Chapter 22 of title 44, United States Code, as amended by subsection (a)(1), is further amended by adding at the end the following new section:<quotedContent style="-uslm-dtd:quoted-block">
+                    <section style="-uslm-dtd:section" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2209">“SEC. 2209. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t44/s2209">44 U.S.C. 2209</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Disclosure requirement for official business conducted using non-official electronic messaging accounts </heading>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The President, the Vice President, or a covered employee may not create or send a Presidential or Vice Presidential record using a non-official electronic message account unless the President, Vice President, or covered employee—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">copies an official electronic messaging account of the President, Vice President, or covered employee in the original creation or transmission of the Presidential record or Vice Presidential record; or</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">forwards a complete copy of the Presidential or Vice Presidential record to an official electronic messaging account of the President, Vice President, or covered employee not later than 20 days after the original creation or transmission of the Presidential or Vice Presidential record.</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Adverse Actions.—</heading><content style="-uslm-dtd:text">The intentional violation of subsection (a) by a covered employee (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of title 5, as the case may be.</content>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Covered employee.—</heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">covered employee</quotedText>’ means—</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the immediate staff of the President;</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the immediate staff of the Vice President;</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">a unit or individual of the Executive Office of the President whose function is to advise and assist the President; and</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">a unit or individual of the Office of the Vice President whose function is to advise and assist the Vice President.</content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Electronic messages.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">electronic messages</quotedText>’ means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals.</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Electronic messaging account.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">electronic messaging account</quotedText>’ means any account that sends electronic messages.”</content>
+                            </paragraph>
+                        </subsection>
+                    </section></quotedContent>.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s2/e/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Clerical Amendment.—</heading><content style="-uslm-dtd:text">The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (a)(3), is further amended by adding at the end the following new item:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“2209.</designator><label> Disclosure requirement for official business conducted using non-official electronic messaging accounts.”</label></referenceItem>
+                    </toc></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/187/s3" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><heading style="-uslm-dtd:header">NATIONAL ARCHIVES AND RECORDS ADMINISTRATION. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s3/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Acceptance of Records for Historical Preservation.—</heading><content style="-uslm-dtd:text">Section 2107 of title 44, United States Code, is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2107">“SEC. 2107. </num><heading style="-uslm-dtd:header">Acceptance of records for historical preservation </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">When it appears to the Archivist to be in the public interest, the Archivist may—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">accept for deposit with the National Archives of the United States the records of a Federal agency, the Congress, the Architect of the Capitol, or the Supreme Court determined by the Archivist to have sufficient historical or other value to warrant their continued preservation by the United States Government;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">direct and effect the transfer of records of a Federal agency determined by the Archivist to have sufficient historical or other value to warrant their continued preservation by the United States Government to the National Archives of the United States, as soon as practicable, and at a time mutually agreed upon by the Archivist and the head of that Federal agency not later than thirty years after such records were created or received by that agency, unless the head of such agency has certified in writing to the Archivist that such records must be retained in the custody of such agency for use in the conduct of the regular business of the agency;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">direct and effect, with the approval of the head of the originating Federal agency, or if the existence of the agency has been terminated, with the approval of the head of that agency’s successor in function, if any, the transfer of records, deposited or approved for deposit with the National Archives of the United States to public or educational institutions or  associations; title to the records to remain vested in the United States unless otherwise authorized by Congress; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">transfer materials from private sources authorized to be received by the Archivist by section 2111 of this title.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Early Transfer of Records.—</heading><chapeau style="-uslm-dtd:text">The Archivist—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">in consultation with the head of the originating Federal agency, is authorized to accept a copy of the records described in subsection (a)(2) that have been in existence for less than thirty years; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><chapeau style="-uslm-dtd:text">may not disclose any such records until the expiration of—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the thirty-year period described in paragraph (1);</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">any longer period established by the Archivist by order; or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">any shorter period agreed to by the originating Federal agency.”</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                </section></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s3/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Material Accepted for Deposit.—</heading><content style="-uslm-dtd:text">Section 2111 of title 44, United States Code, is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2111">“SEC. 2111. </num><heading style="-uslm-dtd:header">Material accepted for deposit </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">When the Archivist considers it to be in the public interest the Archivist may accept for deposit—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">the papers and other historical materials of a President or former President of the United States, or other official or former official of the Government, and other papers relating to and contemporary with a President or former President of the United States, subject to restrictions agreeable to the Archivist as to their use; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">recorded information (as such term is defined in section 3301(a)(2) of this title) from private sources that are appropriate for preservation by the Government as evidence of its organization, functions, policies, decisions, procedures, and transactions.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Exception.—</heading><content style="-uslm-dtd:text">This section shall not apply in the case of any Presidential records which are subject to the provisions of chapter 22 of this title.”</content>
+                    </subsection>
+                </section></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s3/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Preservation of Audio and Visual Records.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s3/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 2114 of title 44, United States Code, is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <section style="-uslm-dtd:section" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2114">“SEC. 2114. </num><heading style="-uslm-dtd:header">Preservation of audio and visual records </heading>
+                        <content style="-uslm-dtd:text" class="block">“The Archivist may make and preserve audio and visual records, including motion-picture films, still photographs, and sound recordings, in analog, digital, or any other form, pertaining to and illustrative of the historical development of the United States Government and its activities, and provide for preparing, editing, titling, scoring, processing, duplicating, reproducing, exhibiting, and releasing for non-profit educational purposes, motion-picture films, still photographs, and sound recordings in the Archivist’s custody.”</content>
+                    </section></quotedContent>.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s3/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Clerical amendment.—</heading><content style="-uslm-dtd:text">The table of sections at the beginning of chapter 21 of title 44, United States Code, is amended by striking the item for section 2114 and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“2114.</designator><label> Preservation of audio and visual records.”</label></referenceItem>
+                    </toc></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s3/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Legal Status of Reproductions; Official Seal; Fees for Copies and Reproductions.—</heading><content style="-uslm-dtd:text">Section 2116(a) of title 44,  United States Code, is amended by inserting “<quotedText style="-uslm-dtd:quote">digital,</quotedText>” after “<quotedText style="-uslm-dtd:quote">microphotographic,</quotedText>”, each place it appears.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/187/s4" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><heading style="-uslm-dtd:header">RECORDS MANAGEMENT BY FEDERAL AGENCIES. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 3106 of title 44, United States Code, is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+            <section style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3106">“SEC. 3106. </num><heading style="-uslm-dtd:header">Unlawful removal, destruction of records </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Federal Agency Notification.—</heading><content style="-uslm-dtd:text">The head of each Federal agency shall notify the Archivist of any actual, impending, or threatened unlawful removal, defacing, alteration, corruption, deletion, erasure, or other destruction of records in the custody of the agency, and with the assistance of the Archivist shall initiate action through the Attorney General for the recovery of records the head of the Federal agency knows or has reason to believe have been unlawfully removed from that agency, or from another Federal agency whose records have been transferred to the legal custody of that Federal agency.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Archivist Notification.—</heading><content style="-uslm-dtd:text">In any case in which the head of a Federal agency does not initiate an action for such recovery or other redress within a reasonable period of time after being notified of any such unlawful action described in subsection (a), or is participating in, or believed to be participating in any such unlawful action, the Archivist shall request the Attorney General to initiate such an action, and shall notify the Congress when such a request has been made.”</content>
+                </subsection>
+            </section></quotedContent>.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/187/s5" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><heading style="-uslm-dtd:header">DISPOSAL OF RECORDS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s5/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definition of Records.—</heading><content style="-uslm-dtd:text">Section 3301 of title 44, United States Code, is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3301">“SEC. 3301. </num><heading style="-uslm-dtd:header">Definition of records </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Records Defined.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">As used in this chapter, the term ‘<quotedText style="-uslm-dtd:quote">records</quotedText>’—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">includes all recorded information, regardless of form or characteristics, made or received by a Federal agency under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the United States Government or because of the informational value of data in them; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">does not include—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">library and museum material made or acquired and preserved solely for reference or exhibition purposes; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">duplicate copies of records preserved only for convenience.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Recorded information defined.—</heading><content style="-uslm-dtd:text">For purposes of paragraph (1), the term ‘<quotedText style="-uslm-dtd:quote">recorded information</quotedText>’ includes all traditional forms of records, regardless of physical form or characteristics, including information created, manipulated, communicated, or stored in digital or electronic form.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Determination of Definition.—</heading><content style="-uslm-dtd:text">The Archivist’s determination whether recorded information, regardless of whether it  exists in physical, digital, or electronic form, is a record as defined in subsection (a) shall be binding on all Federal agencies.”</content>
+                    </subsection>
+                </section></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s5/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Regulations Covering Lists of Records for Disposal, Procedure for Disposal, and Standards for Reproduction.—</heading><content style="-uslm-dtd:text">Section 3302(3) of title 44, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">photographic or microphotographic processes</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">photographic, microphotographic, or digital processes</quotedText>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s5/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Lists and Schedules of Records To Be Submitted to the Archivist by Head of Each Government Agency.—</heading><content style="-uslm-dtd:text">Section 3303(1) of title 44, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">photographed or microphotographed</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">photographed, microphotographed, or digitized</quotedText>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s5/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Examination by Archivist of Lists and Schedules of Records Lacking Preservation Value; Disposal of Records.—</heading><content style="-uslm-dtd:text">Section 3303a(c) of title 44, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate</quotedText>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s5/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Photographs or Microphotographs of Records Considered as Originals; Certified Reproductions Admissible in Evidence.—</heading><chapeau style="-uslm-dtd:text">Section 3312 of title 44, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s5/e/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in the first sentence, by striking “<quotedText style="-uslm-dtd:quote">Photographs or microphotographs of records</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Photographs, microphotographs of records, or digitized records</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s5/e/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in the second sentence, by striking “<quotedText style="-uslm-dtd:quote">photographs or microphotographs</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">photographs, microphotographs, or digitized records</quotedText>”, each place it appears.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/187/s6" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t44/s2108">44 U.S.C. 2108 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PROCEDURES TO PREVENT UNAUTHORIZED REMOVAL OF CLASSIFIED RECORDS FROM NATIONAL ARCHIVES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s6/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Classified Records.—</heading><chapeau style="-uslm-dtd:text">Not later than 90 days after the date of the enactment of this Act, the Archivist shall prescribe internal procedures to prevent the unauthorized removal of classified records from the National Archives and Records Administration or the destruction or damage of such records, including when such records are accessed or searched electronically. Such procedures shall include, at a minimum, the following prohibitions:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s6/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">An individual, other than covered personnel, may not view classified records in any room that is not secure, except in the presence of National Archives and Records Administration personnel or under video surveillance.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s6/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">An individual, other than covered personnel, may not be left alone with classified records, unless that individual is under video surveillance.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s6/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">An individual, other than covered personnel, may not review classified records while possessing any cellular phone, electronic personal communication device, or any other devices capable of photographing, recording, or transferring images or content.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s6/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">An individual seeking access to review classified records, as a precondition to such access, must consent to a search of their belongings upon conclusion of their records review.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s6/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">All notes and other writings prepared by an individual, other than covered personnel, during the course of a review of classified records shall be retained by the National Archives  and Records Administration in a secure facility until such notes and other writings are determined to be unclassified, are declassified, or are securely transferred to another secure facility.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s6/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s6/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Covered personnel.—</heading><chapeau style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">covered personnel</quotedText>” means any individual—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s6/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">who has an appropriate and necessary reason for accessing classified records, as determined by the Archivist; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s6/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">who is either—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s6/b/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">an officer or employee of the United States Government with appropriate security clearances; or</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s6/b/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">any personnel with appropriate security clearances of a Federal contractor authorized in writing to act for purposes of this section by an officer or employee of the United States Government.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s6/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Records.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">records</quotedText>” has the meaning given that term under section 3301 of title 44, United States Code.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/187/s7" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><heading style="-uslm-dtd:header">REPEAL OF PROVISIONS RELATED TO THE NATIONAL STUDY COMMISSION ON RECORDS AND DOCUMENTS OF FEDERAL OFFICIALS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s7/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Sections 3315 through 3324 of title 44, United States Code, are repealed.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s7/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Clerical amendment.—</heading><content style="-uslm-dtd:text">The table of sections at the beginning of chapter 33 of title 44, United States Code, is amended by striking the items relating to sections 3315 through 3324.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/187/s8" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><heading style="-uslm-dtd:header">PRONOUN AMENDMENTS. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">Title 44, United States Code, is amended—</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in section 2116(c), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist’s</quotedText>”;</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in section 2201(2), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the President’s</quotedText>”, each place it appears;</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in section 2203—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/3/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subsection (a), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the President’s</quotedText>”;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/3/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subsection (b), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the President’s</quotedText>”;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/3/C" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">in subsection (c)—</chapeau>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s8/3/C/i" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">in the matter preceding paragraph (1)—</chapeau>
+                        <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/113/187/s8/3/C/i/I" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the President’s</quotedText>”; and</content>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/113/187/s8/3/C/i/II" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">those of his Presidential records</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">those Presidential records of such President</quotedText>”; and</content>
+                        </subclause>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s8/3/C/ii" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in paragraph (2), by striking “<quotedText style="-uslm-dtd:quote">he</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist</quotedText>”;</content>
+                    </clause>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/3/D" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">in subsection (d), by striking “<quotedText style="-uslm-dtd:quote">he</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist</quotedText>”;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/3/E" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">in subsection (e), by striking “<quotedText style="-uslm-dtd:quote">he</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist</quotedText>”; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/3/F" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">in subsection (g), as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">he</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist</quotedText>”;</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/4" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">in section 2204—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/4/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in subsection (a)—</chapeau>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s8/4/A/i" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in the matter preceding paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">a President’s</quotedText>”; and</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s8/4/A/ii" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in paragraph (5), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the President’s</quotedText>”; and</content>
+                    </clause>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/4/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in subsection (b)—</chapeau>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s8/4/B/i" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in paragraph (1)(B), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the President’s</quotedText>”; and</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s8/4/B/ii" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">in paragraph (3)—</chapeau>
+                        <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/113/187/s8/4/B/ii/I" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” the first place it appears and inserting “<quotedText style="-uslm-dtd:quote">the Archivist’s</quotedText>”; and</content>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/113/187/s8/4/B/ii/II" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">his designee</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist’s designee</quotedText>”;</content>
+                        </subclause>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/5" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">in section 2205—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/5/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (2)(B), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the incumbent President’s</quotedText>”; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/5/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (3), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the former President’s</quotedText>”;</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/6" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">in section 2901(11), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist’s</quotedText>”;</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/7" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">in section 2904(c)(6), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist’s</quotedText>”;</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/8" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="8">(8) </num><chapeau style="-uslm-dtd:text">in section 2905(a)—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/8/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">He</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">The Archivist</quotedText>”; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/8/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist’s</quotedText>”;</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/9" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">in section 3103, by striking “<quotedText style="-uslm-dtd:quote">he</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the head of such agency</quotedText>”;</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/10" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="10">(10) </num><chapeau style="-uslm-dtd:text">in section 3104—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/10/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” the first place it appears and inserting “<quotedText style="-uslm-dtd:quote">such official’s</quotedText>”; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/10/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">him or his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">such official or such official’s</quotedText>”;</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/11" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">in section 3105, by striking “<quotedText style="-uslm-dtd:quote">he</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the head of such agency</quotedText>”;</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/12" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">in section 3302(1), by striking “<quotedText style="-uslm-dtd:quote">him</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist</quotedText>”; and</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s8/13" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="13">(13) </num><chapeau style="-uslm-dtd:text">in section 3303a—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/13/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in subsection (a)—</chapeau>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s8/13/A/i" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">him</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist</quotedText>”, each place it appears; and</content>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s8/13/A/ii" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">he</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist</quotedText>”;</content>
+                    </clause>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/13/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subsection (c), by striking “<quotedText style="-uslm-dtd:quote">he</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist</quotedText>”;</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/13/C" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in subsection (e), by striking “<quotedText style="-uslm-dtd:quote">his</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist’s</quotedText>”; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s8/13/D" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">in subsection (f), by striking “<quotedText style="-uslm-dtd:quote">he</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist</quotedText>”.</content>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/187/s9" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="9">SEC. 9. </num><heading style="-uslm-dtd:header">RECORDS MANAGEMENT BY THE ARCHIVIST. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s9/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Objectives of Records Management.—</heading><chapeau style="-uslm-dtd:text">Section 2902 of title 44, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (4), by striking “<quotedText style="-uslm-dtd:quote">creation and of records maintenance and use</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">creation, maintenance, transfer, and use</quotedText>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (6), by inserting after “<quotedText style="-uslm-dtd:quote">Federal paperwork</quotedText>” the following: “<quotedText style="-uslm-dtd:quote">and the transfer of records from Federal agencies to the National Archives of the United States in digital or electronic form to the greatest extent possible</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in paragraph (7), by striking “<quotedText style="-uslm-dtd:quote">the Administrator or the Archivist</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist or the Administrator</quotedText>”.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s9/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Records Centers and Centralized Microfilming Services.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Amendment.—</heading><chapeau style="-uslm-dtd:text">Section 2907 of title 44, United States Code, is amended—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in the section heading by inserting “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">or digitization</headingText></quotedText>” after “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">microfilming</headingText></quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">or digitization</quotedText>” after “<quotedText style="-uslm-dtd:quote">microfilming</quotedText>”.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Conforming amendment.—</heading><content style="-uslm-dtd:text">The table of sections at the beginning of chapter 29 of title 44, United States Code, is amended in the item relating to section 2907 by inserting “<quotedText style="-uslm-dtd:quote">or digitization</quotedText>” after “<quotedText style="-uslm-dtd:quote">microfilming</quotedText>”.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s9/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">General Responsibilities for Records Management.—</heading><chapeau style="-uslm-dtd:text">Section 2904 of title 44, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by amending subsection (a) to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><chapeau style="-uslm-dtd:text">The Archivist shall provide guidance and assistance to Federal agencies with respect to ensuring—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">economical and effective records management;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">adequate and proper documentation of the policies and transactions of the Federal Government; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">proper records disposition.”</content>
+                        </paragraph>
+                    </subsection></quotedContent>;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subsection (b), by striking “<quotedText style="-uslm-dtd:quote">effective records management by such agencies</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">effective processing of mail by Federal agencies</quotedText>”;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in subsection (c)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/c/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in the matter preceding paragraph (1)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/c/3/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">their</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/c/3/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">subsection (a) or (b), respectively</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subsection (a)</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/c/3/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and the Administrator</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/c/3/A/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">each</quotedText>”; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/c/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (8), by striking “<quotedText style="-uslm-dtd:quote">or the Administrator (as the case may be)</quotedText>”; </content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">subsection (d) is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">“(d) </num><content style="-uslm-dtd:text">The Archivist shall promulgate regulations requiring all Federal agencies to transfer all digital or electronic records to the National Archives of the United States in digital or electronic form to the greatest extent possible.”</content>
+                    </subsection></quotedContent>; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/c/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">by inserting at the end the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">“(e) </num><content style="-uslm-dtd:text">The Administrator, in carrying out subsection (b), shall have the responsibility to promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for processing mail at Federal facilities.”</content>
+                    </subsection></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s9/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Inspection of Agency Records.—</heading><chapeau style="-uslm-dtd:text">Section 2906 of title 44, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in subsection (a)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/d/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in paragraph (1)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/d/1/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">their respective</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/d/1/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">the Administrator of General Services and</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/d/1/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">designee of either</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist’s designee</quotedText>”;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/d/1/A/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">solely</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/d/1/A/v" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">by inserting after “<quotedText style="-uslm-dtd:quote">for the improvement of records management practices and programs</quotedText>” the following: “<quotedText style="-uslm-dtd:quote">and for determining whether the records of Federal agencies have sufficient value to warrant continued preservation or lack sufficient value to justify continued preservation</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/d/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in paragraph (2)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/d/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">the Administrator and</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/d/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by striking the second sentence; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/d/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">in paragraph (3)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/d/1/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">in the matter preceding subparagraph (A)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/113/187/s9/d/1/C/i/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">the Administrator or</quotedText>”; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/113/187/s9/d/1/C/i/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">designee of either</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Archivist’s designee</quotedText>”; and</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/113/187/s9/d/1/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subparagraph (A), by striking “<quotedText style="-uslm-dtd:quote">the Administrator, the Archivist,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Archivist</quotedText>”;</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subsection (b)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/d/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">the Administrator and</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/d/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">designee of either</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Archivist’s designee</quotedText>”; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/d/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by inserting at the end the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><content style="-uslm-dtd:text">The Administrator (or the Administrator’s designee) may inspect the mail processing practices and programs of any Federal agency for the purpose of rendering recommendations for the improvement of mail processing practices and programs. Officers and employees of such agencies shall cooperate fully in such inspections of mail processing practices and programs.”</content>
+                    </subsection></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s9/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Reports; Correction of Violations.—</heading><chapeau style="-uslm-dtd:text">Section 2115 of title 44, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/e/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in subsection (a)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/e/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">their respective</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/e/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and the Administrator</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/e/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">each</quotedText>”; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/113/187/s9/e/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subsection (b)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/e/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">either</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/e/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">or the Administrator</quotedText>”, each place it appears; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/113/187/s9/e/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">inaugurated</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">demonstrably commenced</quotedText>”.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s9/f" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Establishment of Program of Management.—</heading><content style="-uslm-dtd:text">Section 3102(2) of title 44, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">the Administrator of General Services and</quotedText>”.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/113/187/s10" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="10">SEC. 10. </num><heading style="-uslm-dtd:header">DISCLOSURE REQUIREMENT FOR OFFICIAL BUSINESS CONDUCTED USING NON-OFFICIAL ELECTRONIC MESSAGING ACCOUNT. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s10/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Amendment.—</heading><content style="-uslm-dtd:text">Chapter 29 of title 44, United States Code, is amended by adding at the end the following new section:<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2911">“SEC. 2911. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t44/s2911">44 U.S.C. 2911</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Disclosure requirement for official business conducted using non-official electronic messaging accounts </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">An officer or employee of an executive agency may not create or send a record using a non-official electronic messaging account unless such officer or employee—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">copies an official electronic messaging account of the officer or employee in the original creation or transmission of the record; or</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">forwards a complete copy of the record to an official electronic messaging account of the officer or employee not later than 20 days after the original creation or transmission of the record.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Adverse Actions.—</heading><content style="-uslm-dtd:text">The intentional violation of subsection (a) (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of title 5, as the case may be.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Electronic messages.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">electronic messages</quotedText>’ means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Electronic messaging account.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">electronic messaging account</quotedText>’ means any account that sends electronic messages.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Executive agency.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">executive agency</quotedText>’ has the meaning given that term in section 105 of title 5.”</content>
+                        </paragraph>
+                    </subsection>
+                </section></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/113/187/s10/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Clerical amendment.—</heading><content style="-uslm-dtd:text">The table of sections at the beginning of chapter 29 of title 44, United States Code, is amended by adding at the end the following new item:<quotedContent style="-uslm-dtd:quoted-block">
+                <toc style="-uslm-dtd:toc">
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“2911.</designator><label> Disclosure requirement for official business conducted using non-official electronic messaging accounts.”</label></referenceItem>
+                </toc></quotedContent>.</content>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>SBA Cyber Awareness Act</dc:title>
+        <citableAs>Public Law 117–259</citableAs>
+        <citableAsShortTitle>SBA Cyber Awareness Act</citableAsShortTitle>
+        <docNumber>259</docNumber>
+        <currentThroughPublicLaw>117–259</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2023-01-20</processedDate>
+        <containsShortTitle>SBA Cyber Awareness Act</containsShortTitle>
+        <property role="fileId">17177</property>
+        <congress>117</congress>
+        <approvedDate>2022-12-21</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">SBA Cyber Awareness Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 117–259</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 117–259. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To require an annual report on the cybersecurity of the Small Business Administration, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section identifier="/us/sComp/117/259/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s631">15 U.S.C. 631 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content class="block" style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">SBA Cyber Awareness Act</shortTitle>”.</content>
+        </section>
+        <section identifier="/us/sComp/117/259/s2" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">CYBERSECURITY AWARENESS REPORTING. </heading>
+            <subsection identifier="/us/sComp/117/259/s2/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 10 of the Small Business Act (15 U.S.C. 639) is amended by inserting after subsection (a) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Cybersecurity Reports.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Annual report.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this subsection, and every year thereafter, the Administrator shall submit a report to the appropriate congressional committees that includes—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">a strategy to increase the cybersecurity of information technology infrastructure of the Administration;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">a supply chain risk management strategy and an implementation plan to address the risks of foreign manufactured information technology equipment utilized by the Administration, including specific risk mitigation activities for components originating from entities with principal places of business located in the People’s Republic of China; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><chapeau style="-uslm-dtd:text">an account of—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">any incident that occurred at the Administration during the 2-year period preceding the date on which the first report is submitted, and, for subsequent reports, the 1-year period preceding the date of submission; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">any action taken by the Administrator to respond to or remediate any such incident.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">FISMA reports.—</heading><content style="-uslm-dtd:text">Each report required under paragraph (1) may be submitted as part of the report required under section 3554 of title 44, United States Code.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Rule of construction.—</heading><content style="-uslm-dtd:text">Nothing in this subsection shall be construed to affect the reporting requirements of the Administrator under chapter 35 of title 44, United States Code, in particular the requirement to notify the Federal information security incident center under section 3554(b)(7)(C)(ii) of such title, any guidance issued by the Office of Management and Budget, or any other provision of law or Federal policy.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this subsection:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Appropriate congressional committees.—</heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">appropriate congressional committees</quotedText>’ means—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the Committee on Small Business and Entrepreneurship of the Senate;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the Committee on Homeland Security and Governmental Affairs of the Senate;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">the Committee on Small Business of the House of Representatives; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">the Committee on Oversight and Reform of the House of Representatives.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Incident.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">incident</quotedText>’ has the meaning given the term in section 3552 of title 44, United States Code.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Information technology.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">information technology</quotedText>’ has the meaning given the term in section 3502 of title 44, United States Code.”</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection></quotedContent>.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/259/s2/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Administrator of the Small Business Administration shall, to the greatest extent practicable, provide to the Committee on Small Business and Entrepreneurship of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Small Business of the House of Representatives, and the Committee on Oversight and Reform of the House of Representatives a detailed account of information technology (as defined in section 3502 of title 44, United States Code) of the Small Business Administration that was manufactured by an entity that has its principal place of business located in the People’s Republic of China.</content>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

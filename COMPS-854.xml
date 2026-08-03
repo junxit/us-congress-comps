@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>FEDERAL ENERGY ADMINISTRATION ACT OF 1974</dc:title>
+        <citableAs>Public Law 93–275, as amended</citableAs>
+        <citableAsShortTitle>FEDERAL ENERGY ADMINISTRATION ACT OF 1974</citableAsShortTitle>
+        <docNumber>275</docNumber>
+        <currentThroughPublicLaw>105–28</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Federal Energy Administration Act of 1974</containsShortTitle>
+        <property role="fileId">854</property>
+        <congress>93</congress>
+        <approvedDate>1974-05-07</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">FEDERAL ENERGY ADMINISTRATION ACT OF 1974</property>
+        <citationNote style="-uslm-dtd:public-law">[<citableAs>Public Law 93–275</citableAs>]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 105–28</currentThroughPublicLaw>, Enacted <date date="1997-07-18">July 18, 1997</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 93-275. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To reorganize and consolidate certain functions of the Federal Government in a new Federal Energy Administration in order to promote more efficient management of such functions.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <part style="-uslm-dtd:part" identifier="/us/sComp/93/275/ptA" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="A">Part A—</num><heading style="-uslm-dtd:header">Federal Energy Administration </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s1" styleType="traditional">
+                <heading style="-uslm-dtd:header">short title </heading>
+                <num style="-uslm-dtd:enum" value="1">Section 1. </num><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Federal Energy Administration Act of 1974</inline></shortTitle>”.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s761">15 U.S.C. 761 note</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s2" styleType="traditional">
+                <heading style="-uslm-dtd:header">declaration of purpose </heading>
+                <num style="-uslm-dtd:enum" value="2">Sec. 2. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s2/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Congress hereby declares that the general welfare and the common defense and security require positive and effective action to conserve scarce energy supplies, to insure fair and efficient distribution of, and the maintenance of fair and reasonable consumer prices for, such supplies, to promote the expansion of readily usable energy sources, and to assist in developing policies and plans to meet the energy needs of the Nation.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s2/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">The Congress finds that to help achieve these objectives, and to assure a coordinated and effective approach to overcoming energy shortages, it is necessary to reorganize certain agencies and functions of the executive branch and to establish a Federal Energy Administration.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s2/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">The sole purpose of this Act is to create an administration in the executive branch, called the Federal Energy Administration, to vest in the Administration certain functions as provided in this Act, and to transfer to such Administration certain executive branch functions authorized by other laws, where such transfer is necessary on an interim basis to deal with the Nation's energy shortages.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s761">15 U.S.C. 761</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s3" styleType="traditional">
+                <heading style="-uslm-dtd:header">establishment </heading>
+                <num style="-uslm-dtd:enum" value="3">Sec. 3. </num><content style="-uslm-dtd:text">There is hereby established an independent agency in the executive branch to be known as the Federal Energy Administration (hereinafter in this Act referred to as the “<quotedText style="-uslm-dtd:quote">Administration</quotedText>”).</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s762">15 U.S.C. 762</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s4" styleType="traditional-inline">
+                <num style="-uslm-dtd:enum" value="4">Sec. 4. </num><content style="-uslm-dtd:text">Repealed by section 709(a)(1) of Public Law 95–91, 91 Stat. 607.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s5" styleType="traditional">
+                <heading style="-uslm-dtd:header">functions and purposes of the federal energy administration </heading>
+                <num style="-uslm-dtd:enum" value="5">Sec. 5. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s5/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">Subject to the provisions and procedures set forth in this Act, the Administrator shall be responsible for such actions as are taken to assure that adequate provision is made to meet the energy needs of the Nation. To that end, he shall make such plans and direct and conduct such programs related to the production, conservation, use, control, distribution, rationing, and allocation of all forms of energy as are appropriate in connection with only those authorities or functions—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">specifically transferred to or vested in him by or pursuant to this Act;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">delegated to him by the President pursuant to specific authority vested in the President by law; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">otherwise specifically vested in the Administrator by the Congress.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s5/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">To the extent authorized by subsection (a) of this section, the Administrator shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">advise the President and the Congress with respect to the establishment of a comprehensive national energy policy in relation to the energy matters for which the Administration has responsibility, and, in coordination with the Secretary of State, the integration of domestic and foreign policies relating to energy resource management;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">assess the adequacy of energy resources to meet demands in the immediate and longer range future for all sectors of the economy and for the general public;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">develop effective arrangements for the participation of State and local governments in the resolution of energy problems;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">develop plans and programs for dealing with energy production shortages;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">promote stability in energy prices to the consumer, promote free and open competition in all aspects of the energy field, prevent unreasonable profits within the various segments of the energy industry, and promote free enterprise;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">assure that energy programs are designed and implemented in a fair and efficient manner so as to minimize hardship and inequity while assuring that the priority needs of the Nation are met;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">develop and oversee the implementation of equitable voluntary and mandatory energy conservation programs and promote efficiencies in the use of energy resources;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/8" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">develop and recommend policies on the import and export of energy resources;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/9" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">collect, evaluate, assemble, and analyze energy information on reserves, production, demand, and related economic data;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/10" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">work with business, labor, consumer and other interests and obtain their cooperation;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/11" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">in administering any pricing authority, provide by rule, for equitable allocation of all component costs of producing propane gas. Such rules may require that (a) only those costs directly related to the production of propane may be allocated by any producer to such gas for purposes of establishing any price for propane, and (b) prices for propane shall be based on the prices for propane in effect on May 15, 1973. The Administrator shall not allow costs attributable to changes in ownership and movement of propane gas where, in the opinion of the Administrator, such changes in ownership and movement occur primarily for the purpose of establishing a higher price; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/b/12" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">perform such other functions as may be prescribed by law.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s5/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/c/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Administrator shall not exercise the discretion delegated to him by the President, pursuant to section 5(b) of the Emergency Petroleum Allocation Act of 1973, to submit to the Congress as one energy action any amendment to the regulation under section 4(a) of such Act, pursuant to section 12 of such Act, which amendment exempts any oil, refined petroleum product, or refined product category from both the allocation and pricing provisions of the regulation under section 4 of such Act.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s5/c/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Nothing in this subsection shall prevent the Administrator from concurrently submitting an energy action relating to price together with an energy action relating to allocation of the same oil, refined petroleum product, or refined product category.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s764">15 U.S.C. 764</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s6" styleType="traditional">
+                <heading style="-uslm-dtd:header">transfers </heading>
+                <num style="-uslm-dtd:enum" value="6">Sec. 6. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s6/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">There are hereby transferred to and vested in the Admininstrator all functions of the Secretary of the Interior, the Department of the Interior, and officers and components of that Department—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s6/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">as relate to or are utilized by the Office of Petroleum Allocation;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s6/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">as relate to or are utilized by the Office of Energy Conseration;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s6/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">as relate to or are utilized by the Office of Energy Data and Analysis; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s6/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">as relate to or are utilized by the Office of Oil and Gas.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s6/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">There are hereby transferred to and vested in the Administrator all functions of the Chairman of the Cost of Living Council, the Executive Director of the Cost of Living Council, and the Cost of Living Council, and officers and components thereof, as relate to or are utilized by the Energy Division of the Cost of Living Council.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s765">15 U.S.C. 765</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s7" styleType="traditional">
+                <heading style="-uslm-dtd:header">administrative provisions </heading>
+                <num style="-uslm-dtd:enum" value="7">Sec. 7. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s7/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">The Administrator may promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him: <i style="-uslm-dtd:italic">Provided, </i>That:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s7/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Administrator shall, before promulgating proposed rules, regulations, or policies affecting the quality of the environment, provide a period of not less than five working days during which the Administrator of the Environmental Protection Agency may provide written comments concerning the impact of such rules, regulations, or policies on the quality of the environment. Such comments shall be published together with publication of notice of the proposed action.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s7/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The review required by paragraph (1) of this subsection may be waived for a period of fourteen days if there is an emergency situation which, in the judgment of the Administrator, requires making effective the action proposed to be taken at a date earlier than would permit the Administrator of the Environmental Protection Agency the five working days opportunity for prior comment required by paragraph (1). Notice of any such waiver shall be given to the Administrator of the Environmental Protection Agency and filed with the Federal Register with the publication of notice of proposed or final agency action and shall include an explanation of the reasons for such waiver, together with supporting data and a description of the factual situation in such detail as the Administrator determines will apprise such agency and the public of the reasons for such waiver.</content>
+                </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">The review required by paragraphs (1) and (2) of this subsection may be waived for a period of fourteen days if there is an emergency situation which, in the judgment of the Administrator, requires immediate action.</continuation></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s7/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Any officer or agency authorized to issue any rule or regulation, or any order having the applicability and effect of a rule as defined in section 551(4) of title 5, United States Code, pursuant to this Act shall provide for the making of such adjustments, consistent with the other purposes of this Act, as may be necessary to prevent special hardship, inequity, or unfair distribution of burdens and shall, by rule, establish procedures which are available to any person for the purpose of seeking an interpretation, modification, rescission of, exception to, or exemption from, such rules, regulations, and orders. Such officer or agency shall, within ninety days after the date of the enactment of the Federal Energy Administration Act Amendments of 1976, establish criteria and guidelines by which such special hardship, inequity, or unfair distribution of burdens shall be evaluated. Such officer or agency shall additionally insure that each decision on any application or petition requesting an adjustment shall specify the standards of hardship, inequity, or unfair distribution of burden by which any disposition was made, and the specific application of such standards to the facts contained in any such application or petition. If any person is aggrieved or adversely affected by a denial of a request for adjustment under the preceding sentences, he may request a review of such denial by the agency and may obtain judicial review in accordance with subsection (c) when such a denial becomes final. The agency shall, by rule, establish appropriate procedures, including a hearing when requested, for review of a denial, and where deemed advisable by the agency, for considering other requests for action under this paragraph, except that no review of a denial under this subparagraph shall be controlled by the same officer denying the adjustment pursuant to this subparagraph.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s7/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><chapeau style="-uslm-dtd:text">Judicial review of administrative rulemaking of general and national applicability done under this Act, except that done pursuant to the Emergency Petroleum Allocation Act of 1973, may be obtained only by filing a petition for review in the United States Court of Appeals for the District of Columbia within thirty days from the date of promulgation of any such rule, regulation, or order, and judicial review of administrative rulemaking of general, but less than national, applicability done under this Act, except that done pursuant to the Emergency Petroleum Allocation Act of 1973, may be obtained only by filing a petition for review in the United States Court of Appeals for the appropriate circuit within thirty days from the date of promulgation of any such rule, regulation, or order, the appropriate circuit being defined as the circuit which contains the area or the greater part of the area within which the rule, regulation, or order is to have effect.</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC" role="undesignated-level">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" role="undesignated-level">
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/93/275/ptA/s7/c/l" styleType="OLC" class="leftIndentDecrease3">
+                                <num style="-uslm-dtd:enum" value="l">(l)<ref style="-uslm-dtd:footnote-ref" idref="IDB5FEBAB264E54F2F8F3BD57257FC6019" class="footnoteRef">1</ref> </num><content style="-uslm-dtd:text">Effective beginning July 1, 1977, amounts authorized to be appropriated under this Act or any other Act shall not be available for the payment of salaries and other expenses with respect to any office of regional counsel of the Administration unless such office is under the direct supervision and control of the General Counsel of the Administration.</content><footnote id="IDB5FEBAB264E54F2F8F3BD57257FC6019" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Public Law 95–70 added “<quotedText style="-uslm-dtd:quote">(l)</quotedText>”. Should be “<quotedText style="-uslm-dtd:quote">(d)</quotedText>”.</p></footnote>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s766">15 U.S.C. 766</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s8" styleType="traditional">
+                <heading style="-uslm-dtd:header">transitional and savings provisions </heading>
+                <num style="-uslm-dtd:enum" value="8">Sec. 8. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s8/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s8/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">which have been issued, made, granted, or allowed to become effective by the President, by any Federal department or agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under this Act, and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s8/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">which are in effect at the time this Act takes effect,</content>
+                </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked by the President, the Administrator, other authorized officials, a court of competent jurisdiction, or by operation of law.</continuation></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s8/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">This Act shall not affect any proceeding pending, at the time this Act takes effect, before any department or agency (or component thereof) regarding functions which are transferred by this Act; but such proceedings, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals (except as provided in section 7(i)(2) of this Act) shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions, and to the same extent, that such proceeding could have been discontinued if this Act had not been enacted.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s8/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><chapeau style="-uslm-dtd:text">Except as provided in subsection (e)—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s8/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the provisions of this Act shall not affect suits commenced prior to the date this Act takes effect, and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s8/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect, as if this Act had not been enacted.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s8/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of any department or agency, functions of which are transferred by this Act, shall abate by reason of the enactment of this Act. No cause of action by or against any department or agency, functions of which are transferred by this Act, or by or against any officer thereof in his official capacity shall abate by reason of the enactment of this Act. Causes of actions, suits, actions, or other proceedings may be asserted by or against the United States or such official as may be appropriate and, in any litigation pending when this Act takes effect, the court may at any time, on its own motion or that of any party, enter any order which will give effect to the provisions of this section.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s8/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">If, before the date on which this Act takes effect, any department or agency, or officer thereof in his official capacity, is a party to a suit, and under this Act any function of such department, agency, or officer is transferred to the Administrator, or any other official, then such suit shall be continued as if this Act had not been enacted, with the Administrator, or other official as the case may be, substituted.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s8/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><content style="-uslm-dtd:text">Final orders and actions, of any official or component in the performance of functions transferred by this Act shall be subject to judicial review to the same extent and in the same manner as if such orders or actions had been made or taken by the officer, department, agency, or instrumentality in the performance of such functions immediately preceding the effective date of this Act. Any statutory requirements relating to notices, hearings, action upon the record, or administrative review that apply to any function transferred or delegated by this Act shall apply to the performance of those functions by the Administrator, or any officer or component of the Administration. In the event of any inconsistency between the provisions of this subsection and section 7, the provisions of section 7 shall govern.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s8/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><content style="-uslm-dtd:text">With respect to any function transferred by this Act and performed after the effective date of this Act, reference in any other law to any department or agency or any officer or office, the functions of which are so transferred, shall be deemed to refer to the Administration, Administrator, or other office or officers in which this Act vests such functions.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s8/h" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><content style="-uslm-dtd:text">Nothing contained in this Act shall be construed to limit, curtail, abolish, or terminate any function of the President which he had immediately before the effective date of this Act; or to limit, curtail, abolish, or terminate his authority to perform such function; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegations of functions.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s8/i" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">Any reference in this Act to any provision of law shall be deemed to include, as appropriate, references thereto as now or hereafter amended or supplemented.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s767">15 U.S.C. 767</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s9" styleType="traditional-inline">
+                <num style="-uslm-dtd:enum" value="9">Sec. 9. </num><content style="-uslm-dtd:text">Repealed by section 709(a)(1) of Public Law 95–91, 91 Stat. 607.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s10" styleType="traditional" role="definitions">
+                <heading style="-uslm-dtd:header">definitions </heading>
+                <num style="-uslm-dtd:enum" value="10">Sec. 10. </num><chapeau style="-uslm-dtd:text">As used in this Act—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s10/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">any reference to “<term style="-uslm-dtd:quote">function</term>” or “<term style="-uslm-dtd:quote">functions</term>” shall be deemed to include references to duty, obligation, power, authority, responsibility, right, privilege, and activity, or the plural thereof, as the case may be; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s10/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">any reference to “<term style="-uslm-dtd:quote">perform</term>” or “<term style="-uslm-dtd:quote">performance</term>”, when used in relation to functions, shall be deemed to include the exercise of power, authority, rights, and privileges.</content>
+                </paragraph><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s769">15 U.S.C. 769</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s11" styleType="traditional">
+                <heading style="-uslm-dtd:header">appointments </heading>
+                <num style="-uslm-dtd:enum" value="11">Sec. 11. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s11/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Funds available to any department or agency (or any official or component thereof), and lawfully authorized for any of the specific functions which are transferred to the Administrator by this Act, may, with the approval of the President, be used to pay the compensation and expenses of any officer appointed pursuant to this Act until such times as funds for that purpose are otherwise available.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s11/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">In the event that any officer required by this Act to be appointed by and with the advice and consent of the Senate shall not have entered upon office on the effective date of this Act, the President may designate any officer, whose appointment was required to be made by and with the advice and consent of the Senate and who was such an officer immediately prior to the effective date of this Act, or any officer who was performing essentially the same functions immediately prior to the effective date of this Act, to act in such office until the office is filled as provided in this Act: <i style="-uslm-dtd:italic">Provided, </i>That any officer acting pursuant to the provisions of this subsection may act no longer than a period of thirty days unless during such period his appointment as such an officer is submitted to the Senate for its advice and consent.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s11/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Transfer of nontemporary personnel pursuant to this Act shall not cause any such employee to be separated or reduced in grade or compensation, except for cause, for one year after such transfer.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s11/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">Any person who, on the effective date of this Act, held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5 of the United States Code, and who, without a break in service, is appointed in the Administration to a position having duties comparable to those performed immediately preceding his appointment, shall continue to be compensated in his new position at not less than the rate provided for his previous position.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s770">15 U.S.C. 770</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s12" styleType="traditional">
+                <heading style="-uslm-dtd:header">access to information by the comptroller general </heading>
+                <num style="-uslm-dtd:enum" value="12">Sec. 12. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s12/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">For the duration of this Act, the Comptroller General of the United States shall monitor and evaluate the operations of the Administration including its reporting activities. The Comptroller General shall (1) conduct studies of existing statutes and regulations governing the Administration's programs; (2) review the policies and practices of the Administration; (3) review and evaluate the procedures followed by the Administrator in gathering, analyzing, and interpreting energy statistics, data, and information related to the management and conservation of energy, including but not limited to data related to energy costs, supply, demand, industry structure, and environmental impacts; and (4) evaluate particular projects or programs. The Comptroller General shall have access to such data within the possession or control of the Administration from any public or private source whatever, notwithstanding the provisions of any other law, as are necessary to carry out his responsibilities under this Act and shall report to the Congress at such times as he deems appropriate with respect to the Administration's programs, including his recommendations for modifications in existing laws, regulations, procedures, and practices.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s12/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">The Comptroller General or any of his authorized representatives in carrying out his responsibilities under this section may request access to any books, documents, papers, statistics data, records, and information of any person owning or operating facilities or business premises who is engaged in any phase of energy supply or major energy consumption, where such material relates to the purposes of this Act, including but not limited to energy costs, demand, and supply, industry structure, and environmental impacts. The Comptroller General may request such person to submit in writing such energy information as the Comptroller General may prescribe.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s12/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">The Comptroller General of the United States, or any of his duly authorized representatives, shall have access to and the right to examine any books, documents, papers, records, or other recorded information of any recipients of Federal funds or assistance under contracts, leases, cooperative agreements, or other transactions entered into pursuant to subsection (d) or (g) of section 7 of this Act which in the opinion of the Comptroller General may be related or pertinent to such contracts, leases, cooperative agreements, or similar transactions.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s12/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">To assist in carrying out his responsibilities under this section, the Comptroller General may, with the concurrence of a duly established committee of Congress having legislative or investigative jurisdiction over the subject matter and upon the adoption of a resolution by such a committee which sets forth specifically the scope and necessity therefor, and the specific identity of those persons from whom information is sought, sign and issue subpenas requiring the production of the books, documents, papers, statistics, data, records, and information referred to in subsection (b) of this section.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s12/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">In case of disobedience to a subpena issued under subsection (d) of this section, the Comptroller General may invoke the aid of any district court of the United States in requiring the production of the books, documents, papers, statistics, data, records, and information referred to in subsection (b) of this section. Any district court of the United States within the jurisdiction where such person is found or transacts business may, in case of contumacy or refusal to obey a subpena issued by the Comptroller General, issue an order requiring such person to produce the books, documents, papers, statistics, data, records, or information; and any failure to obey such order of the court shall be punished by the court as a contempt thereof.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s12/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><chapeau style="-uslm-dtd:text">Reports submitted by the Comptroller General to the Congress pursuant to this section shall be available to the public at reasonable cost and upon identifiable request. The Comptroller General may not disclose to the public any information which concerns or relates to a trade secret or other matter referred to in section 1905 of title 18, United States Code, except that such information shall be disclosed by the Comptroller General or the Administrator, in a manner designed to preserve its confidentiality—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s12/f/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">to other Federal Government departments, agencies, and officials for official use upon request;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s12/f/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">to committees of Congress upon request; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s12/f/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">to a court in any judicial proceeding under court order.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s771">15 U.S.C. 771</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s13" styleType="traditional">
+                <heading style="-uslm-dtd:header">information-gathering power </heading>
+                <num style="-uslm-dtd:enum" value="13">Sec. 13. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s13/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Administrator shall collect, assemble, evaluate, and analyze energy information by categorical groupings, established by the Administrator, of sufficient comprehensiveness and particularity to permit fully informed monitoring and policy guidance with respect to the exercise of his functions under this Act.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s13/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">All persons owning or operating facilities or business premises who are engaged in any phase of energy supply or major energy consumption shall make available to the Administrator such information and periodic reports, records, documents, and other data, relating to the purposes of this Act, including full identification of all data and projections as to source, time, and methodology of development, as the Administrator may prescribe by regulation or order as necessary or appropriate for the proper exercise of functions under this Act.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s13/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">The Administrator may require, by general or special orders, any person engaged in any phase of energy supply or major energy consumption to file with the Administrator in such form as he may prescribe, reports or answers in writing to such specific questions, surveys, or questionnaires as may be necessary to enable the Administrator to carry out his functions under this Act. Such reports and answers shall be made under oath, or otherwise, as the Administrator may prescribe, and shall be filed with the Administrator within such reasonable period as he may prescribe.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s13/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">The Administrator, to verify the accuracy of information he has received or otherwise to obtain information necessary to perform his functions under this Act, is authorized to conduct investigations, and in connection therewith, to conduct, at reasonable times and in a reasonable manner, physical inspections at energy facilities and business premises, to inventory and sample any stock of fuels or energy sources therein, to inspect and copy records, reports, and documents from which energy information has been or is being compiled, and to question such persons as he may deem necessary.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s13/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s13/e/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Administrator, or any of his duly authorized agents, shall have the power to require by subpena the attendance and testimony of witnesses, and the production of all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence which the Administrator is authorized to obtain pursuant to this section.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s13/e/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Any appropriate United States district court may, in case of contumacy or refusal to obey a subpena issued pursuant to this section, issue an order requiring the party to whom such subpena is directed to appear before the Administration and to give testimony touching on the matter in question, or to produce any matter described in paragraph (1) of this subsection, and any failure to obey such order of the court may be punished by such court as a contempt thereof.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s13/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><content style="-uslm-dtd:text">The Administrator shall collect from departments, agencies and instrumentalities of the executive branch of the Government (including independent agencies), and each such department, agency, and instrumentality is authorized and directed to furnish, upon his request, information concerning energy resources on lands owned by the Government of the United States. Such information shall include, but not be limited to quantities of reserves, current or proposed leasing agreements, environmental considerations, and economic impact analyses.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s13/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><content style="-uslm-dtd:text">With respect to any person who is subject to any rule, regulation, or order promulgated by the Administrator or to any provision of law the administration of which is vested in or transferred or delegated to the Administrator, the Administrator may require, by rule, the keeping of such accounts or records as he determines are necessary or appropriate for determining compliance with such rule, regulation, order, or any applicable provision of law.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s13/h" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><content style="-uslm-dtd:text">In exercising his authority under this Act and any other provision of law relating to the collection of energy information, the Administrator shall take into account the size of businesses required to submit reports with the Administrator so as to avoid, to the greatest extent practicable, overly burdensome reporting requirements on small marketers and distributors of petroleum products and other small business concerns required to submit reports to the Administrator.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s13/i" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">Any failure to make information available to the Administrator under subsection (b), any failure to comply with any general or special order under subsection (c), or any failure to allow the Administrator to act under subsection (d) shall be subject to the same penalties as any violation of section 11 of the Energy Supply and Environmental Coordination Act of 1974 or any rule, regulation, or order issued under such section.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s772">15 U.S.C. 772</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s14" styleType="traditional">
+                <heading style="-uslm-dtd:header">public disclosure of information </heading>
+                <num style="-uslm-dtd:enum" value="14">Sec. 14. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s14/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Administrator shall make public, on a continuing basis, any statistical and economic analyses, data, information, and whatever reports and summaries are necessary to keep the public fully and currently informed as to the nature, extent, and projected duration of shortages of energy supplies, the impact of such shortages, and the steps being taken to minimize such impacts.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s14/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Subject to the provisions of this Act, section 552 of title 5, United States Code, shall apply to public disclosure of information by the Administrator: <i style="-uslm-dtd:italic">Provided, </i>That notwithstanding said section, the provisions of section 1905 of title 18, United States Code, or any other provision of law, (1) all matters reported to, or otherwise obtained by, any person exercising authority under this Act containing trade secrets or other matter referred to in section 1905 of title 18, United States Code, may be disclosed to other persons authorized to perform functions under this Act solely to carry out the purposes of the Act, or when relevant in any proceeding under this Act; and (2) the Administrator shall disclose to the public, at a reasonable cost, and upon a request which reasonably describes the matter sought, any matter of the type which could not be excluded from public annual reports to the Securities and Exchange Commission pursuant to section 13 or 15(d) of the Securities Exchange Act of 1934 by a business enterprise exclusively engaged in the manufacture or sale of a single product, unless such matter concerns or relates to the trade secrets, processes, operations, style of work, or apparatus of a business enterprise.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s14/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">To protect and assure privacy of individuals and confidentiality of personal information, the Administrator is directed to establish guidelines and procedures for handling any information which the Administration obtains pertaining to individuals. He shall provide to the extent practicable, in such guidelines and procedures a method for allowing any such individual to gain access to such information pertaining to himself.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s773">15 U.S.C. 773</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s15" styleType="traditional">
+                <heading style="-uslm-dtd:header">reports and recommendations </heading>
+                <num style="-uslm-dtd:enum" value="15">Sec. 15. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s15/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Not later than one year after the effective date of this Act, the Administrator shall submit a report to the President and Congress which will provide a complete and independent analysis of actual oil and gas reserves and resources in the United States and its Outer Continental Shelf, as well as of the existing productive capacity and the extent to which such capacity could be increased for crude oil and each major petroleum product each year for the next ten years through full utilization of available technology and capacity. The report shall also contain the Administration's recommendations for improving the utilization and effectiveness of Federal energy data and its manner of collection. The data collection and analysis portion of this report shall be prepared by the Federal Trade Commission for the Administration. Unless specifically prohibited by law, all Federal agencies shall make available estimates, statistics, data and other information in their files which, in the judgment of the Commission or Administration, are necessary for the purposes of this subsection.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s15/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">The Administrator shall prepare and submit directly to the Congress and the President every year after the date of enactment of this Act a report which shall include—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s15/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a review and analysis of the major actions taken by the Administrator;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s15/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">an analysis of the impact these actions have had on the Nation's civilian requirements for energy supplies for materials and commodities;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s15/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">a projection of the energy supply for the midterm and long term for each of the major types of fuel and the potential size and impact of any anticipated shortages, including recommendations for measures to—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s15/b/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">minimize deficiencies of energy supplies in relation to needs;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s15/b/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">maintain the health and safety of citizens;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s15/b/3/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">maintain production and employment at the highest feasible level;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s15/b/3/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">equitably share the burden of shortages among individuals and business firms; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s15/b/3/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">minimize any distortion of voluntary choices of individuals and firms;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s15/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">a summary listing of all recipients of funds and the amount thereof within the preceding period;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s15/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">a summary listing of information-gathering activities conducted under section 13 of this Act; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s15/b/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">an analysis of the energy needs of the United States and the methods by which such needs can be met, including both tax and nontax proposals and energy conservation strategies.</content>
+                    </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">In the first annual report submitted after the date of enactment of the Energy Conservation and Production Act, the Administrator shall include in such report with respect to the analysis referred to in paragraph (6) a specific discussion of the utility and relative benefits of employing a Btu tax as a means for obtaining national energy goals.</continuation>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s15/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Not later than thirty days after the effective date of this Act, the Administrator shall issue preliminary summer guidelines for citizen fuel use.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s15/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">The Administrator shall provide interim reports to the Congress from time to time and when requested by committees of Congress.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s15/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><chapeau style="-uslm-dtd:text">The analysis referred to in subsection (b)(6) shall include, for each of the next five fiscal years following the year in which the annual report is submitted and for the tenth fiscal year following such year—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s15/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the effect of various conservation programs on such energy needs;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s15/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">the alternate methods of meeting the energy needs identified in such annual report and of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s15/e/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the relative capital and other economic costs of each such method;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s15/e/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the relative environmental, national security, and balance-of-trade risks of each such method;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s15/e/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the other relevant advantages and disadvantages of each such method; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s15/e/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">recommendations for the best method or methods of meeting the energy needs identified in such annual report and for legislation needed to meet those needs.</content>
+                    </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">Notwithstanding the termination of this Act, the President shall designate an appropriate Federal agency to conduct the analysis specified in subsection (b)(6).</continuation>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s774">15 U.S.C. 774</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s16" styleType="traditional">
+                <heading style="-uslm-dtd:header">sex discrimination </heading>
+                <num style="-uslm-dtd:enum" value="16">Sec. 16. </num><content style="-uslm-dtd:text">No individual shall on the grounds of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity carried on or receiving Federal assistance under this Act. This provision will be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964. However, this remedy is not exclusive and will not prejudice or remove any other legal remedies available to any individual alleging discrimination.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s775">15 U.S.C. 775</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s17" styleType="traditional-inline">
+                <num style="-uslm-dtd:enum" value="17">Sec. 17. </num><content style="-uslm-dtd:text">Repealed by Pub. Law 105–28; 111 Stat. 245.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s18" styleType="traditional">
+                <heading style="-uslm-dtd:header">economic analysis of proposed actions </heading>
+                <num style="-uslm-dtd:enum" value="18">Sec. 18. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s18/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">In carrying out the provisions of this Act, the Administrator shall, to the greatest extent practicable, insure that the potential economic impacts of proposed regulatory and other actions are evaluated and considered, including but not limited to an analysis of the effect of such actions on—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s18/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the fiscal integrity of State and local governments;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s18/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">vital industrial sectors of the economy;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s18/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">employment, by industrial and trade sectors, as well as on a national, regional, State, and local basis;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s18/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the economic vitality of regional, State, and local areas;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s18/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the availability and price of consumer goods and services;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s18/a/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">the gross national product;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s18/a/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">low and middle income families as defined by the Bureau of Labor Statistics;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s18/a/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">competition in all sectors of industry; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s18/a/9" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">small business.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s18/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">The Administrator shall develop analyses of the economic impact of various conservation measures on States or significant sectors thereof, considering the impact on both energy for fuel and energy as feed stock for industry.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s18/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Such analyses shall, wherever possible, be made explicit, and to the extent possible, other Federal agencies and agencies of State and local governments which have special knowledge and expertise relevant to the impact of proposed regulatory or other actions shall be consulted in making the analyses, and all Federal agencies are authorized and directed to cooperate with the Administrator in preparing such analyses: <i style="-uslm-dtd:italic">Provided, </i>That the Administrator's actions pursuant to this section shall not create any right of review or cause of action except as would otherwise exist under other provisions of law.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s18/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">The Administrator, together with the Secretaries of Labor and Commerce, shall monitor the economic impact of any energy actions taken by the Administrator, and shall provide the Congress with an annual report on the impact of the energy shortage and the Administrator's actions on employment and the economy. Such report shall contain recommendations as to whether additional Federal programs of employment and economic assistance should be put into effect to minimize the impact of the energy shortage and any actions taken.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s18/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">The Administrator shall formulate and implement regulatory and other actions in a manner (1) which does not unduly discriminate against any industry or any region of the United States; and (2) designed to insure that, to the greatest extent possible, the costs and burdens of meeting energy shortages shall be borne equally by every sector and segment of the country and of the economy.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s777">15 U.S.C. 777</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s19" styleType="traditional">
+                <heading style="-uslm-dtd:header">management oversight review </heading>
+                <num style="-uslm-dtd:enum" value="19">Sec. 19. </num><content style="-uslm-dtd:text">The Administrator may, for a period not to exceed thirty days in any one calendar year, provide for the exercise or performance of a management oversight review with respect to the conduct of any Federal or State (with consent of the Governor) energy program conducted pursuant to this Act. Such review may be conducted by contract or by any Federal department or agency. A written report shall be submitted to the Administrator concerning the findings of the review.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s778">15 U.S.C. 778</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s20" styleType="traditional">
+                <heading style="-uslm-dtd:header">coordination with, and technical assistance to, state governments </heading>
+                <num style="-uslm-dtd:enum" value="20">Sec. 20. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s20/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">The Administrator shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s20/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">coordinate Federal energy programs and policies with such programs and policies of State governments by providing—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s20/a/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">within sixty days of the effective date of this Act, the Congress and State governments with a report on the manner in which he has organized the Administration based upon the functions delegated by the President or assigned to the Administrator by this Act or under the authority of other Acts; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s20/a/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">within one hundred and twenty days of the effective date of this Act, the public, State governments, and all Members of the Congress with a report in nontechnical language which—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/93/275/ptA/s20/a/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">describes the functions performed by the Administration;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/93/275/ptA/s20/a/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">sets forth in detail the organization of the Administration, the location of its offices (including regional, State, and local offices), the names and phone numbers of Administration officials, and other appropriate information concerning the operation of the Administration;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/93/275/ptA/s20/a/1/B/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">delineates the role that State, and Federal governments will or may perform in achieving the purposes of this Act; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/93/275/ptA/s20/a/1/B/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">provides the public with a clear understanding of their duties and obligations, rights, and responsibilities under any of the programs or functions of the Administration;</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s20/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">before promulgating any rules, regulations, or policies, and before establishing any programs under the authority of this Act, provide, where practicable, a reasonable period in which State governments may provide written comments if such rules, regulations, policies, or programs substantially affect the authority or responsibility of such State governments;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s20/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">provide, in accordance with the provisions of this Act, upon request, to State governments all relevant information he possesses concerning the status and impact of energy shortages, the extent and location of available supplies and shortages of crude oil, petroleum products, natural gas, and coal, within the distribution area serving that particular State government; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s20/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">provide for a central clearinghouse for Federal agencies and State governments seeking energy information and assistance from the Federal Government.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s20/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">Pursuant to his responsibility under this section, the Administrator shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s20/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">provide technical assistance—including advice and consultation relating to State programs, and, where necessary, the use of task forces of public officials and private persons assigned to work with State governments—to assist State governments in dealing with energy problems and shortages and their impact and in the development of plans, programs, and policies to meet the problems and shortages so identified;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s20/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">convene conferences of State and Federal officials, and such other persons as the Administrator designates, to promote the purposes of this Act, and the Administrator is authorized to pay reasonable expenses incurred in the participation of individuals in such conferences;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s20/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">draft and make available to State governments model legislation with respect to State energy programs and policies; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s20/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">promote the promulgation of uniform criteria, procedures, and forms for grant or contract applications for energy proposals submitted by State governments.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s779">15 U.S.C. 779</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s21" styleType="traditional">
+                <heading style="-uslm-dtd:header">office of private grievances and redress </heading>
+                <num style="-uslm-dtd:enum" value="21">Sec. 21. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s21/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Administrator shall establish and maintain an Office of Private Grievances and Redress, headed by a director, to receive and evaluate petitions filed in accordance with subsection (b) of this section, and to make recommendations to the Administrator for appropriate action.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s21/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Any person, adversely affected by any order, rule, or regulation issued by the Administrator in carrying out the functions assigned to him under this Act, may petition the Administrator for special redress, relief, or other extraordinary assistance, apart from, or in addition to, any right or privilege to seek redress of grievances provided in section 7.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s21/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">The Administrator shall submit to the Secretary for inclusion in the annual report required by section 657 of the Department of Energy Organization Act a statement on the nature and number of the grievances which have been filed, and the action taken and relief provided, pursuant to this section; and he shall make recommendations to the Congress from time to time concerning legislative or administrative actions which may be taken to better assist persons adversely affected by the energy shortages and to distribute more equitably the burdens resulting from any measures adopted, or actions taken, by him.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s780">15 U.S.C. 780</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s22" styleType="traditional">
+                <heading style="-uslm-dtd:header">comprehensive energy plan </heading>
+                <num style="-uslm-dtd:enum" value="22">Sec. 22. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s22/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">Pursuant and subject to the provisions and procedures set forth in this Act, the Administrator shall, within six months from the date of the enactment of this Act, develop and report to the Congress and the President a comprehensive plan designed to alleviate the energy shortage, for the time period covered by this Act. Such plan shall be accompanied by full analytical justication for the actions proposed therein. Such analysis shall include, but not be limited to—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s22/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">estimates of the energy savings of each action and of the program as a whole;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s22/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">estimates of any windfall losses and gains to be experienced by corporations, industries, and citizens grouped by socioeconomic class;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s22/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">estimates of the impact on supplies and consumption of energy forms consequent to such price changes as are or may be proposed; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s22/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">a description of alternative actions which the Administrator has considered together with a rationale in explanation of the rejection of any such alternatives in preference to the measures actually proposed.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s22/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">The Administrator may, from time to time, modify or otherwise alter any such plan, except that, upon request of an appropriate committee of the Congress, the Administrator shall supply analytical justifications for any such alterations.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s22/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">The Administrator shall be responsible for monitoring any such plans as are implemented with respect to their effectiveness in achieving the anticipated benefits.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s781">15 U.S.C. 781</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s23" styleType="traditional">
+                <heading style="-uslm-dtd:header">petrochemical report </heading>
+                <num style="-uslm-dtd:enum" value="23">Sec. 23. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s23/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">Within ninety days after he has entered upon the office of Administrator or has been designated by the President to act in such office, the Administrator, or acting Administrator, as the case may be, with the assistance of the Department of Commerce, the Cost of Living Council, and the United States Tariff Commission shall, by written report, inform the Congress as to the—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s23/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">effect of current petrochemical prices upon the current level of petrochemical exports, and export levels expected for 1975;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s23/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">effect of current and expected 1975 petrochemical export levels upon domestic petrochemical raw materials and products available to petrochemical producers, converters, and fabricators currently and in 1975;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s23/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">current contribution of petrochemical imports to domestic supplies and the expected contribution in 1975;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s23/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">anticipated economic effects of current and expected 1975 levels of domestic supplies of petrochemicals upon domestic producers, converters, and fabricators of petrochemical raw materials and products; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s23/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">exact nature, extent, and sources of data and other information available to the Federal Government regarding the matters set forth in paragraphs (1) through (4) of this subsection, including the exact nature, extent, and sources of such data and information utilized in connection with the report required by this subsection.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s23/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">As used in this section, the term “<term style="-uslm-dtd:term">petrochemical</term>” includes organic chemicals, cyclic intermediates, plastics and resins, synthetic fibers, elastomers, organic dyes, organic pigments, detergents, surface active agents, carbon black and ammonia.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s782">15 U.S.C. 782</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s24" styleType="traditional">
+                <heading style="-uslm-dtd:header">hydroelectric generating facilities </heading>
+                <num style="-uslm-dtd:enum" value="24">Sec. 24. </num><chapeau style="-uslm-dtd:text">Within ninety days of the effective date of this Act, the Administrator of the Federal Energy Administration, in consultation with the Secretary of the Interior and the Secretary of the Army, shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s24/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">transmit to the Congress—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s24/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a list of hydroelectric generating facilities and electric power transmission facilities which have been authorized for construction by the Congress and which are not yet completed, and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s24/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a list of opportunities to increase the capacity of existing hydroelectric generating facilities, and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s24/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">provide, for such facility which is listed—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s24/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a construction schedule and cost estimates for an expedited construction program which would make the facility available for service at the earliest practicable date, and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s24/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a statement of the accomplishments which could be provided by the expedited completion of each facility and a statement of any funds which have been appropriated but not yet obligated.</content>
+                    </subparagraph>
+                </paragraph><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s783">15 U.S.C. 783</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s25" styleType="traditional">
+                <heading style="-uslm-dtd:header">information concerning transaction, sale, exchange or shipment involving the export from the united states to a foreign nation of coal and any refined petroleum product </heading>
+                <num style="-uslm-dtd:enum" value="25">Sec. 25. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s25/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Administrator is authorized and directed to establish and maintain a file which shall contain information concerning every transaction, sale, exchange or shipment involving the export from the United States to a foreign nation of coal, crude oil, residual oil or any refined petroleum product. Information to be included in the file shall be current and shall include, but shall not be limited to, the name of the exporter (including the name or names of the holders of any beneficial interests), the volume and type of product involved in the export transaction, the manner of shipment and identification of the vessel or carrier, the destination, the name of the purchaser if a sale, exchange or other transaction is involved, and a statement of reasons justifying the export.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s25/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Upon request of any committee of Congress or the head of any Federal agency, the Administrator shall promptly provide any information maintained in the file and a report thereon to such committee, or agency head, except where the President finds such disclosure to be detrimental to national security.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s25/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Notwithstanding any other provision of law, any Federal agency which collects or has information relevant to the functions required by this section shall make such information available to the Administrator.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s25/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">The Administrator shall not be required to collect independently information described in subsection (a) if he can secure the information described in subsection (a) from other Federal agencies and the information secured from such agencies is available to the Congress pursuant to a request under subsection (b).</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s784">15 U.S.C. 784</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s26" styleType="traditional">
+                <heading style="-uslm-dtd:header">foreign ownership </heading>
+                <num style="-uslm-dtd:enum" value="26">Sec. 26. </num><content style="-uslm-dtd:text">The Administrator shall conduct a comprehensive review of foreign ownership of, influence on, and control of domestic energy sources and supplies. Such review shall draw upon existing information, where available, and any independent investigation necessary by the Administration. The Administrator shall, on or before the expiration of the one hundred and eighty day period following the effective date of this Act, report to the Congress in sufficient detail so as to apprise the Congress as to the extent and forms of such foreign ownership of, influence on, and control of domestic energy sources and supplies, and shall thereafter continue to monitor such ownership, influence and control.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s785">15 U.S.C. 785</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s27" styleType="traditional">
+                <heading style="-uslm-dtd:header">separability </heading>
+                <num style="-uslm-dtd:enum" value="27">Sec. 27. </num><content style="-uslm-dtd:text">If any provision of this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s761">15 U.S.C. 761 note</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s29" styleType="traditional">
+                <heading style="-uslm-dtd:header">authorization of appropriations </heading>
+                <num style="-uslm-dtd:enum" value="29">Sec. 29. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s29/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">There are authorized to be appropriated to the Federal Energy Administration the following sums:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s29/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">subject to the restrictions specified in subsection (b), to carry out the functions identified as assigned to Executive Direction and Administration of the Federal Energy Administration as of January 1, 1977—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1977, not to exceed $35,627,000; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1978, not to exceed $41,017,000.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s29/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">to carry out the functions identified as assigned to the Office of Energy Information and Analysis as of January 1, 1977—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1977, not to exceed $34,971,000; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1978, not to exceed $43,544,000.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s29/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">to carry out the functions identified as assigned to the Office of Regulatory Programs as of January 1, 1977—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/3/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1977, not to exceed $62,459,000; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/3/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1978, not to exceed $62,459,000.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s29/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">to carry out the functions identified as assigned to the Office of Conservation and Environment as of January 1, 1977 (other than functions described in part A and part D of title IV of the Energy Conservation and Production Act, parts B and C of title III of the Energy Policy and Conservation Act and, for the fiscal year ending September 30, 1977, functions described in title II of the Energy Conservation and Production Act and in paragraph (7) of this subsection)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1977, not to exceed $38,603,000.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1978, not to exceed $46,908,000.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s29/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">to carry out the functions identified as assigned to the Office of Energy Resource Development as of January 1, 1977—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1977, not to exceed $16,934,000; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1978, not to exceed $26,017,000.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s29/a/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><chapeau style="-uslm-dtd:text">to carry out the functions identified as assigned to the Office of International Energy Affairs as of January 1, 1977—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/6/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1977, not to exceed $1,921,000; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s29/a/6/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">for the fiscal year ending September 30, 1978, not to exceed $1,846,000.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s29/a/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">subject to the restriction specified in subsection (c), to carry out a program to develop the policies, plans, implementation strategies, and program definitions for promoting accelerated utilization and widespread commercialization of solar energy and to provide overall coordination of Federal solar energy commercialization activities, for the fiscal year ending September 30, 1977, not to exceed $2,500,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s29/a/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">for the purpose of permitting public use of the Project Independence Evaluation System pursuant to section 31 of this Act, not to exceed the aggregate amount of the fees estimated to be charged for such use.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s29/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">The following restrictions shall apply to the authorization of appropriations specified in paragraph (1) of subsection (a)—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s29/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">amounts to carry out the functions identified as assigned to the Office of Communication and Public Affairs as of January 1, 1977, shall not exceed $2,112,000 for the fiscal year ending September 30, 1977; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s29/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">no amounts authorized to be appropriated in such paragraph may be used to carry out the functions identified as assigned to the Office of Nuclear Affairs as of January 1, 1976.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s29/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">No amounts authorized to be appropriated in paragraphs (5) (B) and (7) of subsection (a) may be used to carry out solar energy research, development, or demonstration activities.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s29/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">Subject to the provisions of any other law enacted after the date of the enactment of this subsection, if any function for which funds are authorized to be appropriated by this section is transferred by or pursuant to any such provision of law to any department, agency, or office, the unexpended balances of appropriations, authorizations, allocations, and other funds, held, used, arising from, available to, or to be made available in connection with such function shall be transferred to such department, agency, or office, but shall continue to be subject to any restriction to which they were subject before such transfer.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s761">15 U.S.C. 761 note</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s31" styleType="traditional">
+                <heading style="-uslm-dtd:header">project independence evaluation system documentation and access </heading>
+                <num style="-uslm-dtd:enum" value="31">Sec. 31. </num><chapeau style="-uslm-dtd:text">The Administrator of the Federal Energy Administration shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s31/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">submit to the Congress, not later than September 1, 1976, full and complete structural and parametric documentation, and not later than January 1, 1977, operating documentation, of the Project Independence Evaluation System computer model;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s31/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">provide access to such model to representatives of committees of the Congress in an expeditious manner; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s31/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">permit the use of such model on the computer system maintained by the Federal Energy Administration by any member of the public upon such reasonable terms and conditions as the Administrator shall, by rule, prescribe. Such rules shall provide that any member of the public who uses such model may be charged a fair and reasonable fee, as determined by the Administrator, for using such model.</content>
+                </paragraph><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s787">15 U.S.C. 787</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptA/s32" styleType="traditional">
+                <heading style="-uslm-dtd:header">use of commercial standards </heading>
+                <num style="-uslm-dtd:enum" value="32">Sec. 32. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s32/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">If any proposed rule by the Administrator contains any commercial standards, or specifically authorizes or requires the use of any such standards, then any general notice of the proposed rulemaking shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">identify, by name, the organization which promulgated such standards; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">state whether or not, in the judgment of the Administrator, such organization complied with the requirements of subsection (b) in the promulgation of such standards.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s32/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">An organization complies with the requirements of this subsection in promulgating any commercial standards if—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">it gives interested persons adequate notice of the proposed promulgation of the standards and an opportunity to participate in the promulgation process through the presentation of their views in hearings or meetings which are open to the public;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the membership of the organization at the time of the promulgation of the standards is sufficiently balanced so as to allow for the effective representation of all interested persons;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">before promulgating such standards, it makes available to the public any records of proceedings of the organization, and any documents, letters, memorandums, and materials, relating to such standards; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">it has procedures allowing interested persons to—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s32/b/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">obtain a reconsideration of any action taken by the organization relating to the promulgation of such standards, and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptA/s32/b/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">obtain a review of the standards (including a review of the basis or adequacy of such standards).</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s32/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">The Administrator shall not incorporate within any rule, nor prescribe any rule specifically authorizing or requiring the use of, any commercial standards unless he has consulted with the Attorney General and the Chairman of the Federal Trade Commission concerning the impact of such standards on competition and neither such individual recommends against such incorporation or use.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s32/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">The foregoing provisions of this section shall not apply with respect to rules prescribed by the Administrator which relate to the procurement activities of the Administration.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s32/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">Not later than 90 days after the date of the enactment of this section, the Administrator shall prescribe, by rule, guidelines or criteria which set forth the extent to which, and the terms and conditions under which, employees of the Administration may participate in their official capacity in the activities of any organization (which is not a Federal entity) which relate to the promulgation of commercial standards. Such guidelines and criteria may allow for such participation if it is in the public interest and relates to the purposes of this Act, but in no event may such employees who are participating in their official capacity be allowed under such guidelines or criteria to vote on any matter relating to commercial standards.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptA/s32/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><chapeau style="-uslm-dtd:text">As used in this section, the term “<term style="-uslm-dtd:term">commercial standards</term>” means—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/f/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">specifications of materials;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/f/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">methods of testing;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/f/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">criteria for adequate performance or operation;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/f/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">model codes;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/f/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">classification of components;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/f/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">delineation of procedures or definition of terms;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/f/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">measurement of quantity or quality for evaluating or referring to materials, products, systems, services, or practices; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptA/s32/f/8" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">similar rules, procedures, requirements, or standards;</content>
+                    </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">which are promulgated by any organization which is not a Federal entity. For purposes of the preceding sentence, any revision by any such organization of any such rule, procedure, requirements, or standard shall be considered to be the same as the promulgation of such standard.</continuation>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s788">15 U.S.C. 788</ref><b>]</b> </editorialNote>
+            </section>
+        </part>
+        <part style="-uslm-dtd:part" identifier="/us/sComp/93/275/ptB" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="B">Part B—</num><heading style="-uslm-dtd:header">Office of Energy Information and Analysis </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptB/s51" styleType="traditional">
+                <heading style="-uslm-dtd:header">establishment of office of energy information and analysis </heading>
+                <num style="-uslm-dtd:enum" value="51">Sec. 51. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s51/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s51/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">There is established within the Federal Energy Administration an Office of Energy Information and Analysis (hereinafter in this Act referred to as the “<quotedText style="-uslm-dtd:quote">Office</quotedText>”) which shall be headed by a Director who shall be appointed by the President, by and with the advice and consent of the Senate.</content></paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s51/a/2" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The Director shall be a person who, by reason of professional background and experience, is specially qualified to manage an energy information system.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s51/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">The Administrator shall delegate (which delegation may be on a nonexclusive basis as the Administrator may determine may be necessary to assure the faithful execution of his authorities and responsibilities under law) the authority vested in him under section 11 of the Energy Supply and Environmental Coordination Act of 1974 and section 13 of this Act and the Director may act in the name of the Administrator under section 12 of the Energy Supply and Environmental Coordination Act of 1974 and section 13 of this Act for the purpose of obtaining enforcement of the authorities delegated to him.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s51/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">As used in this Act the term “<term style="-uslm-dtd:term">energy information</term>” shall have the meaning described in section 11 of the Energy Supply and Environmental Coordination Act of 1974.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s790">15 U.S.C. 790</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptB/s52" styleType="traditional">
+                <heading style="-uslm-dtd:header">national energy information system </heading>
+                <num style="-uslm-dtd:enum" value="52">Sec. 52. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s52/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">It shall be the duty of the Director to establish a National Energy Information System (hereinafter referred to in this Act as the “<quotedText style="-uslm-dtd:quote">System</quotedText>”), which shall be operated and maintained by the Office. The System shall contain such information as is required to provide a description of and facilitate analysis of energy supply and consumption within and affecting the United States on the basis of such geographic areas and economic sectors as may be appropriate to meet adequately the needs of—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s52/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Federal Energy Administration in carrying out its lawful functions;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s52/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the Congress;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s52/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">other officers and employees of the United States in whom have been vested, or to whom have been delegated, energy-related policy decisionmaking responsibilities; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s52/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the States to the extent required by the Natural Gas Act and the Federal Power Act.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s52/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">At a minimum, the System shall contain such energy information as is necessary to carry out the Administration's statistical and forecasting activities, and shall include, at the earliest date and to the maximum extent practical subject to the resources available and the Director's ordering of those resources to meet the responsibilities of his Office, such energy information as is required to define and permit analysis of—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s52/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the institutional structure of the energy supply system including patterns of ownership and control of mineral fuel and nonmineral energy resources and the production, distribution, and marketing of mineral fuels and electricity;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s52/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the consumption of mineral fuels, nonmineral energy resources, and electricity by such classes, sectors, and regions as may be appropriate for the purposes of this Act;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s52/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the sensitivity of energy resource reserves, exploration, development, production, transportation, and consumption to economic factors, environmental constraints, technological improvements, and substitutability of alternate energy sources;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s52/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the comparability of energy information and statistics that are supplied by different sources;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s52/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">industrial, labor, and regional impacts of changes in patterns of energy supply and consumption;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s52/b/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">international aspects, economic and otherwise, of the evolving energy situation; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s52/b/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">long-term relationships between energy supply and consumption in the United States and world communities.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s790a">15 U.S.C. 790a</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptB/s53" styleType="traditional">
+                <heading style="-uslm-dtd:header">administrative provisions </heading>
+                <num style="-uslm-dtd:enum" value="53">Sec. 53. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s53/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Director of the Office shall receive compensation at the rate now or hereafter prescribed for offices and positions at level IV of the Executive Schedule as specified in section 5315 of title 5, United States Code.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s53/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">To carry out the functions of the Office, the Director, on behalf of the Administrator, is authorized to appoint and fix the compensation of such professionally qualified employees as he deems necessary, including up to ten of the employees in grade GS–16, GS–17, or GS–18 authorized by section 7 of this Act.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s53/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">The functions and powers of the Office shall be vested in or delegated to the Director, who may from time to time, and to the extent permitted by law, consistent with the purposes of this Act, delegate such of his functions as he deems appropriate. Such delegation may be made, upon request, to any officer or agency of the Federal Government.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s53/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s53/d/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Director shall be available to the Congress to provide testimony on such subjects under his authority and responsibility as the Congress may request, including but not limited to energy information and analyses thereof.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s53/d/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Any request for appropriations for the Federal Energy Administration submitted to the Congress shall identify the portion of such request intended for the support of the Office, and a statement of the differences, if any, between the amounts requested and the Director's assessment of the budgetary needs of the Office.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s790b">15 U.S.C. 790b</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptB/s54" styleType="traditional">
+                <heading style="-uslm-dtd:header">analytical capability </heading>
+                <num style="-uslm-dtd:enum" value="54">Sec. 54. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s54/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">The Director shall establish and maintain the scientific, engineering, statistical, or other technical capability to perform analysis of energy information to—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s54/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">verify the accuracy of items of energy information submitted to the Director; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s54/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">insure the coordination and comparability of the energy information in possession of the Office and other Federal agencies.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s54/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">The Director shall establish and maintain the professional and analytic capability to evaluate independently the adequacy and comprehensiveness of the energy information in possession of the Office and other agencies of the Federal Government in relation to the purposes of this Act and for the performance of the analyses described in section 52 of this Act. Such analytic capability shall include—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s54/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">expertise in economics, finance, and accounting;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s54/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the capability to evaluate estimates of reserves of mineral fuels and nonmineral energy resources utilizing alternative methodologies;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s54/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the development and evaluation of energy flow and accounting models describing the production, distribution, and consumption of energy by the various sectors of the economy and lines of commerce in the energy industry;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s54/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the development and evaluation of alternative forecasting models describing the short- and long-term relationships between energy supply and consumption and appropriate variables; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s54/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">such other capabilities as the Director deems necessary to achieve the purposes of this Act.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s790c">15 U.S.C. 790c</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptB/s55" styleType="traditional-inline">
+                <num style="-uslm-dtd:enum" value="55">Sec. 55. </num><content style="-uslm-dtd:text">Repealed by section 1051(k) of Public Law 104–66 (109 Stat. 717).</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptB/s56" styleType="traditional">
+                <heading style="-uslm-dtd:header">coordination of energy information activities </heading>
+                <num style="-uslm-dtd:enum" value="56">Sec. 56. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s56/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">In carrying out the purposes of this Act the Director shall, as he deems appropriate, review the energy information gathering activities of Federal agencies with a view toward avoiding duplication of effort and minimizing the compliance burden on business enterprises and other persons.</content></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s56/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">In exercising his responsibilities under subsection (a) of this section, the Director shall recommend policies which, to the greatest extent practicable—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s56/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">provide adequately for the energy information needs of the various departments and agencies of the Federal Government, the Congress, and the public;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s56/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">minimize the burden of reporting energy information on businesses, other persons, and especially small businesses;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s56/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">reduce the cost to Government of obtaining information; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s56/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">utilize files of information and existing facilities of established Federal agencies.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s56/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s56/c/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">At the earliest practicable date after the date of enactment of this section, each Federal agency which is engaged in the gathering of energy information as a part of an established program, function, or other activity shall promptly provide the Administrator with a report on energy information which—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptB/s56/c/1/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">identifies the statutory authority upon which the energy information collection activities of such agency is based;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptB/s56/c/1/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">lists and describes the energy information needs and requirements of such agency; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/93/275/ptB/s56/c/1/C" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">lists and describes the categories, definitions, levels of detail, and frequency of collection of the energy information collected by such agency.</content>
+                    </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">Such agencies shall cooperate with the Administrator and provide such other descriptive information with respect to energy information activities as the Administrator may request. The Administrator shall prepare a report on his activities under this subsection, which report shall include recommendations with respect to the coordination of energy information activities of the Federal Government. Such report shall be available to the Congress and shall be transmitted to the President and to the Energy Resources Council for use in preparation of the plan required under subsection (c) of section 108 of the Energy Reorganization Act of 1974.</continuation></paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s790e">15 U.S.C. 790e</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptB/s57" styleType="traditional">
+                <heading style="-uslm-dtd:header">reports </heading>
+                <num style="-uslm-dtd:enum" value="57">Sec. 57. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s57/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">The Director shall make periodic reports and may make special reports to the Congress and the public, including but not limited to—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s57/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">such reports as the Director determines are necessary to provide a comprehensive picture of the quarterly, monthly, and, as appropriate, weekly supply and consumption of the various nonmineral energy resources, mineral fuels, and electricity in the United States; the information reported may be organized by company, by States, by regions, or by such other producing and consuming sectors, or combinations thereof, and shall be accompanied by an appropriate discussion of the evolution of the energy supply and consumption situation and such national and international trends and their effects as the Director may find to be significant; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s57/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">an annual report which includes, but is not limited to, a description of the activities of the Office and the National Energy Information System during the preceding year; a summary of all special reports published during the preceding year; a summary of statistical information collected during the preceding year; short-, medium-, and long-term energy consumption and supply trends and forecasts under various assumptions; and, to the maximum extent practicable, a summary or schedule of the amounts of mineral fuel resources, nonmineral energy resources, and mineral fuels that can be brought to market at various prices and technologies and their relationship to forecasted demands.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s57/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s57/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Director, on behalf of the Administrator, shall insure that adequate documentation for all statistical and forecast reports prepared by the Director is made available to the public at the time of publication of such reports. The Director shall periodically audit and validate analytical methodologies employed in the preparation of periodic statistical and forecast reports.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s57/b/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The Director shall, on a regular basis, make available to the public information which contains validation and audits of periodic statistical and forecast reports.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s57/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Prior to publication, the Director may not be required to obtain the approval of any other officer or employee of the United States with respect to the substance of any statistical or forecasting technical reports which he has prepared in accordance with the law.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s790f">15 U.S.C. 790f</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptB/s58" styleType="traditional">
+                <heading style="-uslm-dtd:header">energy information in possession of other federal agencies </heading>
+                <num style="-uslm-dtd:enum" value="58">Sec. 58. </num><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s58/a" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">In furtherance and not in limitation of any other authority, the Director, on behalf of the Administrator, shall have access to energy information in the possession of any Federal agency except information—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s58/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the disclosure of which to another Federal agency is expressly prohibited by law; or</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/93/275/ptB/s58/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the disclosure of which the agency so requested determines would significantly impair the discharge of authorities and responsibilities which have been delegated to, or vested by law, in such agency.</content>
+                </paragraph></subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/93/275/ptB/s58/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">In the event that energy information in the possession of another Federal agency which is required to achieve the purposes of this Act is denied the Director or the Administrator pursuant to paragraph (1) or paragraph (2) of subsection (a) of this section, the Administrator, or the Director, on behalf of the Administrator, shall take appropriate action, pursuant to authority granted by law, to obtain said information from the original sources or a suitable alternate source. Such source shall be notified of the reason for this request for information.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s790g">15 U.S.C. 790g</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/93/275/ptB/s59" styleType="traditional">
+                <heading style="-uslm-dtd:header">congressional access to information in possession of the office </heading>
+                <num style="-uslm-dtd:enum" value="59">Sec. 59. </num><content style="-uslm-dtd:text">The Director shall promptly provide upon request any energy information in the possession of the Office to any duly established committee of the Congress. Such information shall be deemed the property of such committee and may not be disclosed except in accordance with the rules of such committee and the Rules of the House of Representatives or the Senate and as permitted by law.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s790h">15 U.S.C. 790h</ref><b>]</b> </editorialNote>
+            </section>
+        </part>
+    </main>
+</statuteCompilation>

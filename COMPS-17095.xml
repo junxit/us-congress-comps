@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Medical Marijuana and Cannabidiol Research Expansion Act</dc:title>
+        <citableAs>Public Law 117–215</citableAs>
+        <citableAsShortTitle>Medical Marijuana and Cannabidiol Research Expansion Act</citableAsShortTitle>
+        <docNumber>215</docNumber>
+        <currentThroughPublicLaw>117–215</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2023-01-20</processedDate>
+        <containsShortTitle>Medical Marijuana and Cannabidiol Research Expansion Act</containsShortTitle>
+        <property role="fileId">17095</property>
+        <congress>117</congress>
+        <approvedDate>2022-12-02</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Medical Marijuana and Cannabidiol Research Expansion Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 117–215</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 117–215. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To expand research on cannabidiol and marijuana, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section identifier="/us/sComp/117/215/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t21/s801">21 U.S.C. 801 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection identifier="/us/sComp/117/215/s1/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Medical Marijuana and Cannabidiol Research Expansion Act</shortTitle>”.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/215/s1/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 2.</designator><label> Definitions.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 3.</designator><label> Determination of budgetary effects.</label></referenceItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE I—</designator><label>REGISTRATIONS FOR MARIJUANA RESEARCH</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 101.</designator><label> Marijuana research applications.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 102.</designator><label> Research protocols.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 103.</designator><label> Applications to manufacture marijuana for research.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 104.</designator><label> Adequate and uninterrupted supply.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 105.</designator><label> Security requirements.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 106.</designator><label> Prohibition against reinstating interdisciplinary review process for non-NIH-funded researchers.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE II—</designator><label>DEVELOPMENT OF FDA-APPROVED DRUGS USING CANNABIDIOL AND MARIJUANA</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 201.</designator><label> Medical research on cannabidiol.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 202.</designator><label> Registration for the commercial production and distribution of Food and Drug Administration-approved drugs.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE III—</designator><label>DOCTOR-PATIENT RELATIONSHIP</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 301.</designator><label> Doctor-patient relationship.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE IV—</designator><label>FEDERAL RESEARCH</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 401.</designator><label> Federal research.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/215/s2" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <subsection identifier="/us/sComp/117/215/s2/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t21/s801">21 U.S.C. 801 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">In this Act—</chapeau>
+                <paragraph identifier="/us/sComp/117/215/s2/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:quote">appropriately registered</term>” means that an individual or entity is registered under the Controlled Substances Act (21 U.S.C. 801 et seq.) to engage in the type of activity that is carried out by the individual or entity with respect to a controlled substance on the schedule that is applicable to cannabidiol or marijuana, as applicable;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/s2/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">the term “<term style="-uslm-dtd:quote">cannabidiol</term>” means—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/215/s2/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the substance, cannabidiol, as derived from marijuana that has a delta-9-tetrahydrocannabinol level that is greater than 0.3 percent; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/215/s2/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the synthetic equivalent of the substance described in subparagraph (A);</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/s2/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the terms “controlled substance”, “dispense”, “distribute”, “manufacture”, “marijuana”, and “practitioner” have the meanings given such terms in section 102 of the Controlled Substances Act (21 U.S.C. 802), as amended by this Act;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/s2/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">the term “<term style="-uslm-dtd:quote">covered institution of higher education</term>” means an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) that—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/215/s2/a/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A)</num><clause class="inline" identifier="/us/sComp/117/215/s2/a/4/A/i" style="-uslm-dtd:clause" styleType="OLC"><num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">has highest or higher research activity, as defined by the Carnegie Classification of Institutions of Higher Education; or</content></clause>
+                        <clause identifier="/us/sComp/117/215/s2/a/4/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">is an accredited medical school or an accredited school of osteopathic medicine; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/215/s2/a/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">is appropriately registered under the Controlled Substances Act (21 U.S.C. 801 et seq.);</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/s2/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:quote">drug</term>” has the meaning given the term in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1));</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/s2/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><chapeau style="-uslm-dtd:text">the term “<term style="-uslm-dtd:quote">medical research for drug development</term>” means medical research that is—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/215/s2/a/6/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a preclinical study or clinical investigation conducted in accordance with section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) or otherwise permitted by the Department of Health and Human Services to determine the potential medical benefits of marijuana or cannabidiol as a drug; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/215/s2/a/6/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">conducted by a covered institution of higher education, practitioner, or manufacturer that is appropriately registered under the Controlled Substances Act (21 U.S.C. 801 et seq.); and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/s2/a/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:quote">State</term>” means any State of the United States, the District of Columbia, and any territory of the United States.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/215/s2/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Updating Term.—</heading><chapeau style="-uslm-dtd:text">Section 102(16) of the Controlled Substances Act (21 U.S.C. 802(16)) is amended—</chapeau>
+                <paragraph identifier="/us/sComp/117/215/s2/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subparagraph (A), by striking “<term style="-uslm-dtd:quote">the term ‘marihuana’ means</term>” and inserting “<term style="-uslm-dtd:quote">the terms ‘marihuana’ and ‘marijuana’ mean</term>”; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/s2/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subparagraph (B), by striking “<term style="-uslm-dtd:quote">The term ‘marihuana’ does not</term>” and inserting “<term style="-uslm-dtd:quote">The terms ‘marihuana’ and ‘marijuana’ do not</term>”.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/215/s3" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><heading style="-uslm-dtd:header">DETERMINATION OF BUDGETARY EFFECTS. </heading>
+            <content class="block" style="-uslm-dtd:text">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</content>
+        </section>
+        <title identifier="/us/sComp/117/215/tI" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">REGISTRATIONS FOR MARIJUANA RESEARCH </heading>
+            <section identifier="/us/sComp/117/215/tI/s101" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">MARIJUANA RESEARCH APPLICATIONS. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">Section 303(f) of the Controlled Substances Act (21 U.S.C. 823(f)) is amended—</chapeau>
+                <paragraph identifier="/us/sComp/117/215/tI/s101/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/tI/s101/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">(f) The Attorney General</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">(f)(1) The Attorney General</quotedText>”;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/tI/s101/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Registration applications</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">“(2)</num><subparagraph class="inline" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Registration applications”</content></subparagraph>
+                    </paragraph></quotedContent>;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/tI/s101/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Article 7</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">Article 7”</content>
+                    </paragraph></quotedContent>; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/tI/s101/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">by inserting after paragraph (2)(A), as so designated, the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B)</num><clause class="inline" style="-uslm-dtd:clause" styleType="OLC"><num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">The Attorney General shall register a practitioner to conduct research with marijuana (including any derivative, extract, preparation, and compound thereof) if—</chapeau>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">“(I) </num><chapeau style="-uslm-dtd:text">the applicant’s research protocol has been reviewed and allowed—</chapeau>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">by the Secretary of Health and Human Services under section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i));</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">by the National Institutes of Health or another Federal agency that funds scientific research; or</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="cc">“(cc) </num><content style="-uslm-dtd:text">pursuant to sections 1301.18 and 1301.32 of title 21, Code of Federal Regulations, or any successors thereto; and</content>
+                            </item>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the applicant has demonstrated to the Attorney General that there are effective procedures in place to adequately safeguard against diversion of the controlled substance for legitimate medical or scientific use pursuant to section 105 of the Medical Marijuana and Cannabidiol Research Expansion Act, including demonstrating that the security measures are adequate for storing the quantity of marijuana the applicant would be authorized to possess.</content>
+                        </subclause></clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><chapeau style="-uslm-dtd:text">The Attorney General may deny an application for registration under this subparagraph only if the Attorney General determines that the issuance of the registration would be inconsistent with the public interest. In determining the public interest, the Attorney General shall consider the factors listed in—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">subparagraphs (B) through (E) of paragraph (1); and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">subparagraph (A) of paragraph (1), if the applicable State requires practitioners conducting research to register with a board or authority described in such subparagraph (A).</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">“(iii)</num><subclause class="inline" style="-uslm-dtd:subclause" styleType="OLC"><num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">Not later than 60 days after the date on which the Attorney General receives a complete application for registration under this subparagraph, the Attorney General shall—</chapeau>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">approve the application; or</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">request supplemental information.</content>
+                            </item></subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">For purposes of subclause (I), an application shall be deemed complete when the applicant has submitted documentation showing that the requirements under clause (i) are satisfied.</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">Not later than 30 days after the date on which the Attorney General receives supplemental information as described in clause (iii)(I)(bb) in connection with an application described in this subparagraph, the Attorney General shall approve or deny the application.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">If an application described in this subparagraph is denied, the Attorney General shall provide a written explanation of the basis of denial to the applicant.”</content>
+                        </clause>
+                    </subparagraph></quotedContent>.</content>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/117/215/tI/s102" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">RESEARCH PROTOCOLS. </heading>
+                <subsection identifier="/us/sComp/117/215/tI/s102/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Paragraph (2)(B) of section 303(f) of the Controlled Substances Act (21 U.S.C. 823(f)), as added by section 101 of this Act, is further amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="vi">“(vi)</num><subclause class="inline" style="-uslm-dtd:subclause" styleType="OLC"><num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">If the Attorney General grants an application for registration under clause (i), the registrant may amend or supplement the research protocol without notification to, or review by, the Drug Enforcement Administration if the registrant does not change—</chapeau>
+                        <item style="-uslm-dtd:item" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">the quantity or type of marijuana or cannabidiol (including any derivative, extract, preparation, and compound thereof);</content>
+                        </item>
+                        <item style="-uslm-dtd:item" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">the source of such marijuana or cannabidiol; or</content>
+                        </item>
+                        <item style="-uslm-dtd:item" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="cc">“(cc) </num><content style="-uslm-dtd:text">the conditions under which such marijuana or cannabidiol is stored, tracked, or administered.</content>
+                        </item></subclause>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="II">“(II)</num><item class="inline" style="-uslm-dtd:item" styleType="OLC"><num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">If a registrant under clause (i) seeks to change the type of marijuana or cannabidiol (including any derivative, extract, preparation, and compound thereof), the source of such marijuana or cannabidiol, or the conditions under which such marijuana or cannabidiol is stored, tracked, or administered, the registrant shall notify the Attorney General via registered mail, or an electronic means permitted by the Attorney General, not later than 30 days before implementing an amended or supplemental research protocol.</content></item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">A registrant may proceed with an amended or supplemental research protocol described in item (aa) if the Attorney General does not explicitly object during the 30-day period beginning on the date on which the Attorney General receives the notice under item (aa).</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="cc">“(cc) </num><content style="-uslm-dtd:text">The Attorney General may only object to an amended or supplemental research protocol under this subclause if additional security measures are needed to safeguard against diversion or abuse.</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="dd">“(dd) </num><content style="-uslm-dtd:text">If a registrant under clause (i) seeks to address additional security measures identified by the Attorney General under item (cc), the registrant shall notify the Attorney General via registered mail, or an electronic means permitted by the Attorney General, not later than 30 days before implementing an amended or supplemental research protocol.</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ee">“(ee) </num><content style="-uslm-dtd:text">A registrant may proceed with an amended or supplemental research protocol described in item (dd) if the Attorney General does not explicitly object during the 30-day period beginning on the date on which the Attorney General receives the notice under item (dd).</content>
+                            </item>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="III">“(III)</num><item class="inline" style="-uslm-dtd:item" styleType="OLC"><num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">If a registrant under clause (i) seeks to change the quantity of marijuana needed for research and the change in quantity does not impact the factors described in item (bb) or (cc) of subclause (I) of this clause, the registrant shall notify the Attorney General via registered mail or using an electronic means permitted by the Attorney General.</content></item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="bb">“(bb) </num><chapeau style="-uslm-dtd:text">A notification under item (aa) shall include—</chapeau>
+                                <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="AA">“(AA) </num><content style="-uslm-dtd:text">the Drug Enforcement Administration registration number of the registrant;</content>
+                                </subitem>
+                                <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="BB">“(BB) </num><content style="-uslm-dtd:text">the quantity of marijuana or cannabidiol already obtained;</content>
+                                </subitem>
+                                <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="CC">“(CC) </num><content style="-uslm-dtd:text">the quantity of additional marijuana or cannabidiol needed to complete the research; and</content>
+                                </subitem>
+                                <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="DD">“(DD) </num><content style="-uslm-dtd:text">an attestation that the change in quantity does not impact the source of the marijuana or cannabidiol or the conditions under which the marijuana or cannabidiol is stored, tracked, or administered.</content>
+                                </subitem>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="cc">“(cc) </num><chapeau style="-uslm-dtd:text">The Attorney General shall ensure that—</chapeau>
+                                <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="AA">“(AA) </num><content style="-uslm-dtd:text">any registered mail return receipt with respect to a notification under item (aa) is submitted for delivery to the registrant providing the notification not later than 3 days after receipt of the notification by the Attorney General; and</content>
+                                </subitem>
+                                <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="BB">“(BB) </num><content style="-uslm-dtd:text">notice of receipt of a notification using an electronic means permitted under item (aa) is provided to the registrant providing the notification not later than 3 days after receipt of the notification by the Attorney General.</content>
+                                </subitem>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="dd">“(dd)</num><subitem class="inline" style="-uslm-dtd:subitem" styleType="OLC"><num style="-uslm-dtd:enum" value="AA">(AA) </num><content style="-uslm-dtd:text">On and after the date described in subitem (BB), a registrant that submits a notification in accordance with item (aa) may proceed with the research as if the change in quantity has been approved on such date, unless the Attorney General notifies the registrant of an objection described in item (ee).</content></subitem>
+                                <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="BB">“(BB) </num><content style="-uslm-dtd:text">The date described in this subitem is the date on which a registrant submitting a notification under item (aa) receives the registered mail return receipt with respect to the notification or the date on which the registrant receives notice that the notification using an electronic means permitted under item (aa) was received by the Attorney General, as the case may be.</content>
+                                </subitem>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ee">“(ee) </num><chapeau style="-uslm-dtd:text">A notification submitted under item (aa) shall be deemed to be approved unless the Attorney General, not later than 10 days after receiving the notification, explicitly objects based on a finding that the change in quantity—</chapeau>
+                                <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="AA">“(AA) </num><content style="-uslm-dtd:text">does impact the source of the marijuana or cannabidiol or the conditions under which the marijuana or cannabidiol is stored, tracked, or administered; or</content>
+                                </subitem>
+                                <subitem style="-uslm-dtd:subitem" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="BB">“(BB) </num><content style="-uslm-dtd:text">necessitates that the registrant implement additional security measures to safeguard against diversion or abuse.</content>
+                                </subitem>
+                            </item>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="IV">“(IV) </num><chapeau style="-uslm-dtd:text">Nothing in this clause shall limit the authority of the Secretary of Health and Human Services over requirements related to research protocols, including changes in—</chapeau>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">the method of administration of marijuana or cannabidiol;</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">the dosing of marijuana or cannabidiol; and</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="cc">“(cc) </num><content style="-uslm-dtd:text">the number of individuals or patients involved in research.”</content>
+                            </item>
+                        </subclause>
+                    </clause></quotedContent>.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/117/215/tI/s102/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t21/s823">21 U.S.C. 823 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Regulations.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Attorney General shall promulgate regulations to carry out the amendment made by this section.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/117/215/tI/s103" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">APPLICATIONS TO MANUFACTURE MARIJUANA FOR RESEARCH. </heading>
+                <subsection identifier="/us/sComp/117/215/tI/s103/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Section 303 of the Controlled Substances Act (21 U.S.C. 823), as amended by sections 101 and 102 of this Act, is further amended—</chapeau>
+                    <paragraph identifier="/us/sComp/117/215/tI/s103/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating subsections (c) through (k) as subsections (d) through (l), respectively;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tI/s103/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after subsection (b) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c)</num><paragraph class="inline" style="-uslm-dtd:paragraph" styleType="OLC"><num style="-uslm-dtd:enum" value="1">(1)</num><subparagraph class="inline" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">As it relates to applications to manufacture marijuana for research purposes, when the Attorney General places a notice in the Federal Register to increase the number of entities registered under this Act to manufacture marijuana to supply appropriately  
+registered researchers in the United States, the Attorney General shall, not later than 60 days after the date on which the Attorney General receives a completed application—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">approve the application; or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">request supplemental information.</content>
+                            </clause></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">For purposes of subparagraph (A), an application shall be deemed complete when the applicant has submitted documentation showing each of the following:</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">The requirements designated in the notice in the Federal Register are satisfied.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">The requirements under this Act are satisfied.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><chapeau style="-uslm-dtd:text">The applicant will limit the transfer and sale of any marijuana manufactured under this subsection—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">to researchers who are registered under this Act to conduct research with controlled substances in schedule I; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">for purposes of use in preclinical research or in a clinical investigation pursuant to an investigational new drug exemption under 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)).</content>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">The applicant will transfer or sell any marijuana manufactured under this subsection only with prior, written consent for the transfer or sale by the Attorney General.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">The applicant has completed the application and review process under subsection (a) for the bulk manufacture of controlled substances in schedule I.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="vi">“(vi) </num><content style="-uslm-dtd:text">The applicant has established and begun operation of a process for storage and handling of controlled substances in schedule I, including for inventory control and monitoring security in accordance with section 105 of the Medical Marijuana and Cannabidiol Research Expansion Act.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="vii">“(vii) </num><content style="-uslm-dtd:text">The applicant is licensed by each State in which the applicant will conduct operations under this subsection, to manufacture marijuana, if that State requires such a license.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">Not later than 30 days after the date on which the Attorney General receives supplemental information requested under subparagraph (A)(ii) with respect to an application, the Attorney General shall approve or deny the application.</content>
+                            </subparagraph></paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">If an application described in this subsection is denied, the Attorney General shall provide a written explanation of the basis of denial to the applicant.”</content>
+                            </paragraph>
+                        </subsection></quotedContent>;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tI/s103/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in subsection (h)(2), as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">subsection (f)</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">subsection (g)</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tI/s103/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in subsection (j)(1), as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">subsection (d)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subsection (e)</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tI/s103/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">in subsection (k), as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">subsection (f)</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">subsection (g)</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/117/215/tI/s103/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Technical and Conforming Amendments.—</heading>
+                    <paragraph identifier="/us/sComp/117/215/tI/s103/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">The Controlled Substances Act (21 U.S.C. 801 et seq.) is amended—</chapeau>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in section 102 (21 U.S.C. 802)—</chapeau>
+                            <clause identifier="/us/sComp/117/215/tI/s103/b/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">in paragraph (52)(B)—</chapeau>
+                                <subclause identifier="/us/sComp/117/215/tI/s103/b/1/A/i/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">303(f)</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>”; and</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/117/215/tI/s103/b/1/A/i/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">in clause (i), by striking “<quotedText style="-uslm-dtd:quote">(d), or (e)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">(e), or (f)</quotedText>”; and</content>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/117/215/tI/s103/b/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in paragraph (54), by striking “<quotedText style="-uslm-dtd:quote">303(f)</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>”;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in section 302(g)(5)(A)(iii)(I)(bb) (21 U.S.C. 822(g)(5)(A)(iii)(I)(bb)), by striking “<quotedText style="-uslm-dtd:quote">303(f)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in section 304 (21 U.S.C. 824), by striking “<quotedText style="-uslm-dtd:quote">303(g)(1)</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">303(h)(1)</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">in section 307(d)(2) (21 U.S.C. 827(d)(2)), by striking “<quotedText style="-uslm-dtd:quote">303(f)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">in section 309A(a)(2) (21 U.S.C. 829a(a)(2)), in the matter preceding subparagraph (A), by striking “<quotedText style="-uslm-dtd:quote">303(g)(2)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(h)(2)</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/1/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">in section 311(h) (21 U.S.C. 831(h)), by striking “<quotedText style="-uslm-dtd:quote">303(f)</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/1/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">in section 401(h)(2) (21 U.S.C. 841(h)(2)), by striking “<quotedText style="-uslm-dtd:quote">303(f)</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/1/H" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">in section 403(c)(2)(B) (21 U.S.C. 843(c)(2)(B)), by striking “<quotedText style="-uslm-dtd:quote">303(f)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/1/I" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">in section 512(c)(1) (21 U.S.C. 882(c)(1)) by striking “<quotedText style="-uslm-dtd:quote">303(f)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tI/s103/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">Section 1008(c) of the Controlled Substances Import and Export Act (21 U.S.C. 958(c)) is amended—</chapeau>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">303(d)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(e)</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (2)(B), by striking “<quotedText style="-uslm-dtd:quote">303(h)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(i)</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tI/s103/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">Title V of the Public Health Service Act (42 U.S.C. 290aa et seq.) is amended—</chapeau>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in section 520E-4(c) (42 U.S.C. 290bb-36d(c)), by striking “<quotedText style="-uslm-dtd:quote">303(g)(2)(B)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(h)(2)(B)</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in section 544(a)(3) (42 U.S.C. 290dd-3(a)(3)), by striking “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(h)</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tI/s103/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended—</chapeau>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in section 1833(bb)(3)(B) (42 U.S.C. 1395l(bb)(3)(B)), by striking “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(h)</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in section 1834(o)(3)(C)(ii) (42 U.S.C. 1395m(o)(3)(C)(ii)), by striking “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(h)</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tI/s103/b/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in section 1866F(c)(3)(C) (42 U.S.C. 1395cc-6(c)(3)(C)), by striking “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">303(h)</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tI/s103/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">Section 1903(aa)(2)(C)(ii) of the Social Security Act (42 U.S.C. 1396b(aa)(2)(C)(ii)) is amended by striking “<quotedText style="-uslm-dtd:quote">303(g)</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">303(h)</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/117/215/tI/s104" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t21/s823">21 U.S.C. 823 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ADEQUATE AND UNINTERRUPTED SUPPLY. </heading>
+                <subsection identifier="/us/sComp/117/215/tI/s104/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">On an annual basis, the Attorney General, in consultation with the Secretary of Health and Human Services, shall assess whether there is an adequate and uninterrupted supply of marijuana, including of specific strains, for research purposes.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/117/215/tI/s104/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report to Congress.—</heading><chapeau style="-uslm-dtd:text">If the Attorney General, in consultation with the Secretary of Health and Human Services, determines there is an inadequate or interrupted supply of marijuana, including of specific strains for research purposes, the Attorney General shall 
+report to Congress within 60 days of the determination on at least—</chapeau>
+                    <paragraph identifier="/us/sComp/117/215/tI/s104/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the factors contributing to the inadequate or interrupted supply of marijuana;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tI/s104/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">expected impacts of the inadequate or interrupted supply on ongoing research protocols; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tI/s104/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">specific steps the Attorney General will take to restore an adequate and uninterrupted supply of marijuana, including of specific strains, for research purposes.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/117/215/tI/s105" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t21/s823">21 U.S.C. 823 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SECURITY REQUIREMENTS. </heading>
+                <subsection identifier="/us/sComp/117/215/tI/s105/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">An individual or entity engaged in researching marijuana or its components shall store it in a securely locked, substantially constructed cabinet.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/117/215/tI/s105/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Requirements for Other Measures.—</heading><content style="-uslm-dtd:text">Any other security measures required by the Attorney General to safeguard against diversion shall be consistent with those required for practitioners conducting research on other controlled substances in schedules I and II in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) that have a similar risk of diversion and abuse.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/117/215/tI/s106" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="106">SEC. 106. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s241">42 U.S.C. 241 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PROHIBITION AGAINST REINSTATING INTERDISCIPLINARY REVIEW PROCESS FOR NON-NIH-FUNDED RESEARCHERS. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">The Secretary of Health and Human Services may not—</chapeau>
+                <paragraph identifier="/us/sComp/117/215/tI/s106/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">reinstate the Public Health Service interdisciplinary review process described in the guidance entitled “Guidance on Procedures for the Provision of Marijuana for Medical Research” (issued on May 21, 1999); or</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/tI/s106/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">require another review of scientific protocols that is applicable only to research on marijuana or its components.</content>
+                </paragraph>
+            </section>
+        </title>
+        <title identifier="/us/sComp/117/215/tII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">DEVELOPMENT OF FDA-APPROVED DRUGS USING CANNABIDIOL AND MARIJUANA </heading>
+            <section identifier="/us/sComp/117/215/tII/s201" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t21/s823">21 U.S.C. 823 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">MEDICAL RESEARCH ON CANNABIDIOL. </heading>
+                <content class="block" style="-uslm-dtd:text">Notwithstanding any provision of the Controlled Substances Act (21 U.S.C. 801 et seq.), the Safe and Drug-Free Schools and Communities Act (20 U.S.C. 7101 et seq.), chapter 81 of title 41, United States Code, or any other Federal law, an appropriately registered covered institution of higher education, practitioner, or manufacturer may manufacture, distribute, dispense, or possess marijuana or cannabidiol if the marijuana or cannabidiol is manufactured, distributed, dispensed, or possessed, respectively, for purposes of medical research for drug development or subsequent commercial production in accordance with section 202.</content>
+            </section>
+            <section identifier="/us/sComp/117/215/tII/s202" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">REGISTRATION FOR THE COMMERCIAL PRODUCTION AND DISTRIBUTION OF FOOD AND DRUG ADMINISTRATION-APPROVED DRUGS. </heading>
+                <content class="block" style="-uslm-dtd:text">The Attorney General shall register an applicant to manufacture or distribute cannabidiol or marijuana for the purpose of commercial production of a drug containing or derived from marijuana that is approved by the Secretary of Health and Human Services under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), in accordance with the applicable requirements  
+under subsection (a) or (b) of section 303 of the Controlled Substances Act (21 U.S.C. 823).</content>
+            </section>
+        </title>
+        <title identifier="/us/sComp/117/215/tIII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">DOCTOR-PATIENT RELATIONSHIP </heading>
+            <section identifier="/us/sComp/117/215/tIII/s301" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t21/s801">21 U.S.C. 801 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DOCTOR-PATIENT RELATIONSHIP. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">It shall not be a violation of the Controlled Substances Act (21 U.S.C. 801 et seq.) for a State-licensed physician to discuss—</chapeau>
+                <paragraph identifier="/us/sComp/117/215/tIII/s301/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the currently known potential harms and benefits of marijuana derivatives, including cannabidiol, as a treatment with the legal guardian of the patient of the physician if the patient is a child; or</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/215/tIII/s301/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the currently known potential harms and benefits of marijuana and marijuana derivatives, including cannabidiol, as a treatment with the patient or the legal guardian of the patient of the physician if the patient is a legal adult.</content>
+                </paragraph>
+            </section>
+        </title>
+        <title identifier="/us/sComp/117/215/tIV" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">FEDERAL RESEARCH </heading>
+            <section identifier="/us/sComp/117/215/tIV/s401" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s284">42 U.S.C. 284 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FEDERAL RESEARCH. </heading>
+                <subsection identifier="/us/sComp/117/215/tIV/s401/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, in coordination with the Director of the National Institutes of Health and the heads of other relevant Federal agencies, shall submit to the Caucus on International Narcotics Control, the Committee on the Judiciary, and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on the Judiciary of the House of Representatives a report on—</chapeau>
+                    <paragraph identifier="/us/sComp/117/215/tIV/s401/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the potential therapeutic effects of cannabidiol or marijuana on serious medical conditions, including intractable epilepsy;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tIV/s401/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">the potential effects of marijuana, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/117/215/tIV/s401/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the effect of increasing delta-9-tetrahydrocannabinol levels on the human body and developing adolescent brains; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tIV/s401/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the effect of various delta-9-tetrahydrocannabinol levels on cognitive abilities, such as those that are required to operate motor vehicles or other heavy equipment; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/117/215/tIV/s401/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">the barriers associated with researching marijuana or cannabidiol in States that have legalized the use of such substances, which shall include—</chapeau>
+                        <subparagraph identifier="/us/sComp/117/215/tIV/s401/a/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">recommendations as to how such barriers might be overcome, including whether public-private partnerships or Federal-State research partnerships may or should be implemented to provide researchers with access to additional strains of marijuana and cannabidiol; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/117/215/tIV/s401/a/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">recommendations as to what safeguards must be in place to verify—</chapeau>
+                            <clause identifier="/us/sComp/117/215/tIV/s401/a/3/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the levels of tetrahydrocannabinol, cannabidiol, or other cannabinoids contained in products obtained from such States is accurate; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/117/215/tIV/s401/a/3/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">that such products do not contain harmful or toxic components.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/117/215/tIV/s401/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Activities.—</heading><content style="-uslm-dtd:text">To the extent practicable, the Secretary of Health and Human Services, either directly or through awarding grants, contacts, or cooperative agreements, shall expand and coordinate the activities of the National Institutes of Health and other relevant Federal agencies to better determine the effects of cannabidiol and marijuana, as outlined in the report submitted under paragraphs (1) and (2) of subsection (a).</content>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

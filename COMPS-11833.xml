@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Medicare Prescription Drug, Improvement, and Modernization Act of 2003</dc:title>
+        <citableAs>Public Law 108–173, as amended</citableAs>
+        <citableAsShortTitle>Medicare Prescription Drug, Improvement, and Modernization Act of 2003</citableAsShortTitle>
+        <docNumber>173</docNumber>
+        <currentThroughPublicLaw>116–260</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Medicare Prescription Drug, Improvement, and Modernization Act of 2003</containsShortTitle>
+        <property role="fileId">11833</property>
+        <congress>108</congress>
+        <approvedDate>2003-12-08</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Medicare Prescription Drug, Improvement, and Modernization Act of 2003</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 108–173</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 116–260</currentThroughPublicLaw>, Enacted <date date="2020-12-27">December 27, 2020</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 108-173. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend title XVIII of the Social Security Act to provide for a voluntary program for prescription drug coverage under the Medicare Program, to modernize the Medicare Program, to amend the Internal Revenue Code of 1986 to allow a deduction to individuals for amounts contributed to health savings security accounts and health savings accounts, to provide for the disposition of unused health benefits in cafeteria plans and flexible spending arrangements, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/108/173/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; AMENDMENTS TO SOCIAL SECURITY ACT; REFERENCES TO BIPA AND SECRETARY; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1305">42 U.S.C. 1305 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Medicare Prescription Drug, Improvement, and Modernization Act of 2003</inline></shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Amendments to Social Security Act.—</heading><content style="-uslm-dtd:text">Except as otherwise specifically provided, whenever in division A of this Act an amendment is expressed in 1301terms of an amendment to or repeal of a section or other provision, the reference shall be considered to be made to that section or other provision of the Social Security Act.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/s1/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1301">42 U.S.C. 1301 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">BIPA; Secretary.—</heading><chapeau style="-uslm-dtd:text">In this Act:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/s1/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">BIPA.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">BIPA</term>” means the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, as enacted into law by section 1(a)(6) of Public Law 106-554.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/s1/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Secretary</term>” means the Secretary of Health and Human Services.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/s1/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; amendments to Social Security Act; references to BIPA and Secretary; table of contents.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>MEDICARE PRESCRIPTION DRUG BENEFIT</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Medicare prescription drug benefit.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Medicare Advantage conforming amendments.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Medicaid amendments.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Medigap amendments.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 105.</designator><label> Additional provisions relating to medicare prescription drug discount card and transitional assistance program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 106.</designator><label> State Pharmaceutical Assistance Transition Commission.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 107.</designator><label> Studies and reports.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 108.</designator><label> Grants to physicians to implement electronic prescription drug programs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 109.</designator><label> Expanding the work of medicare Quality Improvement Organizations to include parts C and D.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 110.</designator><label> Conflict of interest study.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 111.</designator><label> Study on employment-based retiree health coverage. </label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>MEDICARE ADVANTAGE</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Implementation of Medicare Advantage Program</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Implementation of Medicare Advantage program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Immediate Improvements</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 211.</designator><label> Immediate improvements.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle C—</designator><label>Offering of Medicare Advantage (MA) Regional Plans; Medicare Advantage Competition</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 221.</designator><label> Establishment of MA regional plans.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 222.</designator><label> Competition program beginning in 2006.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 223.</designator><label> Effective date.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle D—</designator><label>Additional Reforms</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 231.</designator><label> Specialized MA plans for special needs individuals.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 232.</designator><label> Avoiding duplicative State regulation.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 233.</designator><label> Medicare MSAs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 234.</designator><label> Extension of reasonable cost contracts.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 235.</designator><label> Two-year extension of municipal health service demonstration projects.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 236.</designator><label> Payment by PACE providers for medicare and medicaid services furnished by noncontract providers.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 237.</designator><label> Reimbursement for federally qualified health centers providing services under MA plans.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 238.</designator><label> Institute of Medicine evaluation and report on health care performance measures.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle E—</designator><label>Comparative Cost Adjustment (CCA) Program</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 241.</designator><label> Comparative Cost Adjustment (CCA) program.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>COMBATTING WASTE, FRAUD, AND ABUSE</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Medicare secondary payor (MSP) provisions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Payment for durable medical equipment; competitive acquisition of certain items and services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 303.</designator><label> Payment reform for covered outpatient drugs and biologicals.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 304.</designator><label> Extension of application of payment reform for covered outpatient drugs and biologicals to other physician specialties.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 305.</designator><label> Payment for inhalation drugs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 306.</designator><label> Demonstration project for use of recovery audit contractors.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 307.</designator><label> Pilot program for national and State background checks on direct patient access employees of long-term care facilities or providers.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE IV—</designator><label>RURAL PROVISIONS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Provisions Relating to Part A Only</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 401.</designator><label> Equalizing urban and rural standardized payment amounts under the medicare inpatient hospital prospective payment system.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 402.</designator><label> Enhanced disproportionate share hospital (DSH) treatment for rural hospitals and urban hospitals with fewer than 100 beds.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 403.</designator><label> Adjustment to the medicare inpatient hospital prospective payment system wage index to revise the labor-related share of such index.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 404.</designator><label> More frequent update in weights used in hospital market basket.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 405.</designator><label> Improvements to critical access hospital program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 406.</designator><label> Medicare inpatient hospital payment adjustment for low-volume hospitals.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 407.</designator><label> Treatment of missing cost reporting periods for sole community hospitals.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 408.</designator><label> Recognition of attending nurse practitioners as attending physicians to serve hospice patients.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 409.</designator><label> Rural hospice demonstration project.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 410.</designator><label> Exclusion of certain rural health clinic and federally qualified health center services from the prospective payment system for skilled nursing facilities.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 410A.</designator><label> Rural community hospital demonstration program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Provisions Relating to Part B Only</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 411.</designator><label> Two-year extension of hold harmless provisions for small rural hospitals and sole community hospitals under the prospective payment system for hospital outpatient department services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 412.</designator><label> Establishment of floor on work geographic adjustment.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 413.</designator><label> Medicare incentive payment program improvements for physician scarcity. </label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 414.</designator><label> Payment for rural and urban ambulance services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 415.</designator><label> Providing appropriate coverage of rural air ambulance services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 416.</designator><label> Treatment of certain clinical diagnostic laboratory tests furnished to hospital outpatients in certain rural areas.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 417.</designator><label> Extension of telemedicine demonstration project.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 418.</designator><label> Report on demonstration project permitting skilled nursing facilities to be originating telehealth sites; authority to implement.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle C—</designator><label>Provisions Relating to Parts A and B</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 421.</designator><label> One-year increase for home health services furnished in a rural area.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 422.</designator><label> Redistribution of unused resident positions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle D—</designator><label>Other Provisions</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 431.</designator><label> Providing safe harbor for certain collaborative efforts that benefit medically underserved populations.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 432.</designator><label> Office of Rural Health Policy improvements.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 433.</designator><label> MedPAC study on rural hospital payment adjustments.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 434.</designator><label> Frontier extended stay clinic demonstration project.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE V—</designator><label>PROVISIONS RELATING TO PART A</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Inpatient Hospital Services</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 501.</designator><label> Revision of acute care hospital payment updates.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 502.</designator><label> Revision of the indirect medical education (IME) adjustment percentage.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 503.</designator><label> Recognition of new medical technologies under inpatient hospital prospective payment system.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 504.</designator><label> Increase in Federal rate for hospitals in Puerto Rico.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 505.</designator><label> Wage index adjustment reclassification reform.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 506.</designator><label> Limitation on charges for inpatient hospital contract health services provided to Indians by medicare participating hospitals.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 507.</designator><label> Clarifications to certain exceptions to medicare limits on physician referrals.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 508.</designator><label> One-time appeals process for hospital wage index classification.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Other Provisions</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 511.</designator><label> Payment for covered skilled nursing facility services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 512.</designator><label> Coverage of hospice consultation services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 513.</designator><label> Study on portable diagnostic ultrasound services for beneficiaries in skilled nursing facilities.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE VI—</designator><label>PROVISIONS RELATING TO PART B</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Provisions Relating to Physicians’ Services</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 601.</designator><label> Revision of updates for physicians’ services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 602.</designator><label> Treatment of physicians’ services furnished in Alaska.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 603.</designator><label> Inclusion of podiatrists, dentists, and optometrists under private contracting authority.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 604.</designator><label> GAO study on access to physicians’ services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 605.</designator><label> Collaborative demonstration-based review of physician practice expense geographic adjustment data.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 606.</designator><label> MedPAC report on payment for physicians’ services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Preventive Services</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 611.</designator><label> Coverage of an initial preventive physical examination.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 612.</designator><label> Coverage of cardiovascular screening blood tests.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 613.</designator><label> Coverage of diabetes screening tests.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 614.</designator><label> Improved payment for certain mammography services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle C—</designator><label>Other Provisions</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 621.</designator><label> Hospital outpatient department (HOPD) payment reform.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 622.</designator><label> Limitation of application of functional equivalence standard.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 623.</designator><label> Payment for renal dialysis services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 624.</designator><label> Two-year moratorium on therapy caps; provisions relating to reports.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 625.</designator><label> Waiver of part B late enrollment penalty for certain military retirees; special enrollment period.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 626.</designator><label> Payment for services furnished in ambulatory surgical centers.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 627.</designator><label> Payment for certain shoes and inserts under the fee schedule for orthotics and prosthetics.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 628.</designator><label> Payment for clinical diagnostic laboratory tests.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 629.</designator><label> Indexing part B deductible to inflation. </label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 630.</designator><label> Five-year authorization of reimbursement for all medicare part B services furnished by certain Indian hospitals and clinics.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle D—</designator><label>Additional Demonstrations, Studies, and Other Provisions</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 641.</designator><label> Demonstration project for coverage of certain prescription drugs and biologicals.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 642.</designator><label> Extension of coverage of Intravenous Immune Globulin (IVIG) for the treatment of primary immune deficiency diseases in the home.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 643.</designator><label> MedPAC study of coverage of surgical first assisting services of certified registered nurse first assistants.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 644.</designator><label> MedPAC study of payment for cardio-thoracic surgeons.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 645.</designator><label> Studies relating to vision impairments.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 646.</designator><label> Medicare health care quality demonstration programs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 647.</designator><label> MedPAC study on direct access to physical therapy services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 648.</designator><label> Demonstration project for consumer-directed chronic outpatient services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 649.</designator><label> Medicare care management performance demonstration.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 650.</designator><label> GAO study and report on the propagation of concierge care.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 651.</designator><label> Demonstration of coverage of chiropractic services under medicare.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE VII—</designator><label>PROVISIONS RELATING TO PARTS A AND B</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Home Health Services</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 701.</designator><label> Update in home health services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 702.</designator><label> Demonstration project to clarify the definition of homebound.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 703.</designator><label> Demonstration project for medical adult day care services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 704.</designator><label> Temporary suspension of OASIS requirement for collection of data on non-medicare and non-medicaid patients.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 705.</designator><label> MedPAC study on medicare margins of home health agencies.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 706.</designator><label> Coverage of religious nonmedical health care institution services furnished in the home.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Graduate Medical Education</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 711.</designator><label> Extension of update limitation on high cost programs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 712.</designator><label> Exception to initial residency period for geriatric residency or fellowship programs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 713.</designator><label> Treatment of volunteer supervision.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle C—</designator><label>Chronic Care Improvement</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 721.</designator><label> Voluntary chronic care improvement under traditional fee-for-service.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 722.</designator><label> Medicare Advantage quality improvement programs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 723.</designator><label> Chronically ill medicare beneficiary research, data, demonstration strategy.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle D—</designator><label>Other Provisions</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 731.</designator><label> Improvements in national and local coverage determination process to respond to changes in technology.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 732.</designator><label> Extension of treatment of certain physician pathology services under medicare.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 733.</designator><label> Payment for pancreatic islet cell investigational transplants for medicare beneficiaries in clinical trials.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 734.</designator><label> Restoration of medicare trust funds.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 735.</designator><label> Modifications to Medicare Payment Advisory Commission (MedPAC).</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 736.</designator><label> Technical amendments.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE VIII—</designator><label>COST CONTAINMENT</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Cost Containment</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 801.</designator><label> Inclusion in annual report of medicare trustees of information on status of medicare trust funds.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 802.</designator><label> Presidential submission of legislation.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 803.</designator><label> Procedures in the House of Representatives.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 804.</designator><label> Procedures in the Senate.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Income-Related Reduction in Part B Premium Subsidy</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 811.</designator><label> Income-related reduction in part B premium subsidy.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE IX—</designator><label>ADMINISTRATIVE IMPROVEMENTS, REGULATORY REDUCTION, AND CONTRACTING REFORM</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 900.</designator><label> Administrative improvements within the Centers for Medicare &amp; Medicaid Services (CMS). </label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Regulatory Reform</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 901.</designator><label> Construction; definition of supplier.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 902.</designator><label> Issuance of regulations.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 903.</designator><label> Compliance with changes in regulations and policies.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 904.</designator><label> Reports and studies relating to regulatory reform.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Contracting Reform</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 911.</designator><label> Increased flexibility in medicare administration.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 912.</designator><label> Requirements for information security for medicare administrative contractors.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle C—</designator><label>Education and Outreach</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 921.</designator><label> Provider education and technical assistance.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 922.</designator><label> Small provider technical assistance demonstration program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 923.</designator><label> Medicare Beneficiary Ombudsman.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 924.</designator><label> Beneficiary outreach demonstration program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 925.</designator><label> Inclusion of additional information in notices to beneficiaries about skilled nursing facility benefits.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 926.</designator><label> Information on medicare-certified skilled nursing facilities in hospital discharge plans.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle D—</designator><label>Appeals and Recovery</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 931.</designator><label> Transfer of responsibility for medicare appeals.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 932.</designator><label> Process for expedited access to review.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 933.</designator><label> Revisions to medicare appeals process.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 934.</designator><label> Prepayment review.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 935.</designator><label> Recovery of overpayments.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 936.</designator><label> Provider enrollment process; right of appeal.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 937.</designator><label> Process for correction of minor errors and omissions without pursuing appeals process.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 938.</designator><label> Prior determination process for certain items and services; advance beneficiary notices.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 939.</designator><label> Appeals by providers when there is no other party available.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 940.</designator><label> Revisions to appeals timeframes and amounts.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 940A.</designator><label> Mediation process for local coverage determinations.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle E—</designator><label>Miscellaneous Provisions</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 941.</designator><label> Policy development regarding evaluation and management (E &amp; M) documentation guidelines.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 942.</designator><label> Improvement in oversight of technology and coverage.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 943.</designator><label> Treatment of hospitals for certain services under medicare secondary payor (MSP) provisions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 944.</designator><label> EMTALA improvements.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 945.</designator><label> Emergency Medical Treatment and Labor Act (EMTALA) Technical Advisory Group.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 946.</designator><label> Authorizing use of arrangements to provide core hospice services in certain circumstances.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 947.</designator><label> Application of OSHA bloodborne pathogens standard to certain hospitals.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 948.</designator><label> BIPA-related technical amendments and corrections.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 949.</designator><label> Conforming authority to waive a program exclusion.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 950.</designator><label> Treatment of certain dental claims.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 951.</designator><label> Furnishing hospitals with information to compute DSH formula.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 952.</designator><label> Revisions to reassignment provisions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 953.</designator><label> Other provisions.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE X—</designator><label>MEDICAID AND MISCELLANEOUS PROVISIONS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Medicaid Provisions</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1001.</designator><label> Medicaid disproportionate share hospital (DSH) payments.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1002.</designator><label> Clarification of inclusion of inpatient drug prices charged to certain public hospitals in the best price exemptions for the medicaid drug rebate program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1003.</designator><label> Extension of moratorium.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Miscellaneous Provisions</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1011.</designator><label> Federal reimbursement of emergency health services furnished to undocumented aliens.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1012.</designator><label> Commission on Systemic Interoperability.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1013.</designator><label> Research on outcomes of health care items and services.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1014.</designator><label> Health care that works for all Americans: Citizens Health Care Working Group. </label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1015.</designator><label> Funding start-up administrative costs for medicare reform.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1016.</designator><label> Health care infrastructure improvement program.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE XI—</designator><label>ACCESS TO AFFORDABLE PHARMACEUTICALS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Access to Affordable Pharmaceuticals</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1101.</designator><label> Thirty-month stay-of-effectiveness period.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1102.</designator><label> Forfeiture of 180-day exclusivity period.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1103.</designator><label> Bioavailability and bioequivalence.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1104.</designator><label> Conforming amendments.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Federal Trade Commission Review</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1111.</designator><label> Definitions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1112.</designator><label> Notification of agreements.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1113.</designator><label> Filing deadlines.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1114.</designator><label> Disclosure exemption.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1115.</designator><label> Enforcement.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1116.</designator><label> Rulemaking.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1117.</designator><label> Savings clause.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1118.</designator><label> Effective date.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle C—</designator><label>Importation of Prescription Drugs</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1121.</designator><label> Importation of prescription drugs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1122.</designator><label> Study and report on importation of drugs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1123.</designator><label> Study and report on trade in pharmaceuticals.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE XII—</designator><label>TAX INCENTIVES FOR HEALTH AND RETIREMENT SECURITY</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1201.</designator><label> Health savings accounts.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1202.</designator><label> Exclusion from gross income of certain Federal subsidies for prescription drug plans.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1203.</designator><label> Exception to information reporting requirements related to certain health arrangements.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/108/173/tIV" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">RURAL PROVISIONS </heading>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/108/173/tIV/stA" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="A">Subtitle A—</num><heading style="-uslm-dtd:header">Provisions Relating to Part A Only </heading>
+                <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/173/tIV/stA/s410A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="410A">SEC. 410A. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s1395ww">42 U.S.C. 1395ww note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">RURAL COMMUNITY HOSPITAL DEMONSTRATION PROGRAM. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tIV/stA/s410A/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment of Rural Community Hospital (RCH) Demonstration Program.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/a/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary of Health and Human Services shall establish a demonstration program to test the feasibility and advisability of the establishment of rural community hospitals (as defined in subsection (f)(1)) to furnish covered inpatient hospital services (as defined in subsection (f)(2)) to medicare beneficiaries.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/a/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Demonstration areas.—</heading><content style="-uslm-dtd:text">The program shall be conducted in rural areas selected by the Secretary in States with low population densities, as determined by the Secretary.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/a/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Application.—</heading><content style="-uslm-dtd:text">Each rural community hospital that is located in a demonstration area selected under paragraph (2) that desires to participate in the demonstration program under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/a/4" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Selection of hospitals.—</heading><content style="-uslm-dtd:text">The Secretary shall select from among rural community hospitals submitting applications under paragraph (3) not more than 15 of such hospitals to participate in the demonstration program under this section.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/a/5" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Duration.—</heading><content style="-uslm-dtd:text">The Secretary shall conduct the demonstration program under this section for a 5-year period (in this section referred to as the “<quotedText style="-uslm-dtd:quote">initial 5-year period</quotedText>”) and, as provided in subsection (g), for the 15-year extension period.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/a/6" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Implementation.—</heading><content style="-uslm-dtd:text">The Secretary shall implement the demonstration program not later than January 1, 2005, but may not implement the program before October 1, 2004.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tIV/stA/s410A/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Payment.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The amount of payment under the demonstration program for covered inpatient hospital services furnished in a rural community hospital, other than such services furnished in a psychiatric or rehabilitation unit of the hospital which is a distinct part, is—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/b/1/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">for discharges occurring in the first cost reporting period beginning on or after the implementation of the demonstration program, the reasonable costs of providing such services; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/b/1/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">for discharges occurring in a subsequent cost reporting period under the demonstration program, the lesser of—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tIV/stA/s410A/b/1/B/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the reasonable costs of providing such services in the cost reporting period involved; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tIV/stA/s410A/b/1/B/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the target amount (as defined in paragraph (2)), applicable to the cost reporting period involved.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Target amount.—</heading><chapeau style="-uslm-dtd:text">For purposes of paragraph (1)(B)(ii), the term “<term style="-uslm-dtd:term">target amount</term>” means, with respect to a rural community hospital for a particular 12-month cost reporting period—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/b/2/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in the case of the second such cost reporting period for which this subsection is in effect, the reasonable costs of providing such covered inpatient hospital services as determined under paragraph (1)(A), and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/b/2/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the case of a later cost 
+reporting period, the target amount for the preceding 12-month cost reporting period,</content>
+                            </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">increased by the applicable percentage increase (under clause (i) of section 1886(b)(3)(B) of the Social Security Act (42 U.S.C. 1395ww(b)(3)(B))) in the market basket percentage increase  (as defined in clause (iii) of such section) for that particular cost reporting period.</continuation>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tIV/stA/s410A/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Funding.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) of such funds as are necessary for the costs of carrying out the demonstration program under this section.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Budget neutrality.—</heading><content style="-uslm-dtd:text">In conducting the demonstration program under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary would have paid if the demonstration program under this section was not implemented.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tIV/stA/s410A/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Waiver Authority.—</heading><content style="-uslm-dtd:text">The Secretary may waive such requirements of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) as may be necessary for the purpose of carrying out the demonstration program under this section.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tIV/stA/s410A/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than August 1, 2018, the Secretary shall submit to Congress a report on the demonstration program under this section, together with recommendations for such legislation and administrative action as the Secretary determines to be appropriate.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tIV/stA/s410A/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/f/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Rural community hospital defined.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/f/1/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">rural community hospital</term>” means a hospital (as defined in section 1861(e) of the Social Security Act (42 U.S.C. 1395x(e))) that—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tIV/stA/s410A/f/1/A/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">is located in a rural area (as defined in section 1886(d)(2)(D) of such Act (42 U.S.C. 1395ww(d)(2)(D))) or treated as being so located pursuant to section 1886(d)(8)(E) of such Act (42 U.S.C. 1395ww(d)(8)(E));</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tIV/stA/s410A/f/1/A/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">subject to subparagraph (B), has fewer than 51 acute care inpatient beds, as reported in its most recent cost report;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tIV/stA/s410A/f/1/A/iii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">makes available 24-hour emergency care services; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tIV/stA/s410A/f/1/A/iv" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">is not eligible for designation, or has not been designated, as a critical access hospital under section 1820 of the Social Security Act (42 U.S.C. 1395i–4).</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/f/1/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Treatment of psychiatric and rehabilitation units.—</heading><content style="-uslm-dtd:text">For purposes of subparagraph (A)(ii), beds in a psychiatric or rehabilitation unit of the hospital which is a distinct part of the hospital shall not be counted.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/f/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Covered inpatient hospital services.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">covered inpatient hospital services</term>” means inpatient hospital services, and includes extended care services furnished under an agreement under section 1883 of the Social Security Act (42 U.S.C. 1395tt).</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tIV/stA/s410A/g" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Fifteen-Year Extension of Demonstration Program.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to the succeeding provisions of this subsection, the Secretary shall conduct the demonstration program under this section for an additional 15-year period (in this section referred to as the “<quotedText style="-uslm-dtd:quote">15-year extension period</quotedText>”) that begins on the date immediately following the last day of the initial 5-year period under subsection (a)(5).</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Expansion of demonstration states.—</heading><content style="-uslm-dtd:text">Notwithstanding subsection (a)(2), during the 15-year extension period, the Secretary shall expand the number of States with low population densities determined by the Secretary under such subsection to 20. In determining which States to include in such expansion, the Secretary shall use the same criteria and data that the Secretary used to determine the States under such subsection for purposes of the initial 5-year period.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Increase in maximum number of hospitals participating in the demonstration program.—</heading><content style="-uslm-dtd:text">Notwithstanding subsection (a)(4), during the 15-year extension period, not more than 30 rural community hospitals may participate in the demonstration program under this section.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/4" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Hospitals participating in the demonstration program during the initial 5-year period.—</heading><chapeau style="-uslm-dtd:text">In the case of a rural community hospital that is participating in the demonstration program under this section as of the last day of the initial 5-year period, the Secretary—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/4/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">shall provide for the continued participation of such rural community hospital in the demonstration program during the 15-year extension period unless the rural community hospital makes an election, in such form and manner as the Secretary may specify, to discontinue such participation; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/4/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in calculating the amount of payment under subsection (b) to the rural community hospital for covered inpatient hospital services furnished by the hospital during each 5-year period in such 15-year extension period, shall substitute, under paragraph (1)(A) of such subsection—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tIV/stA/s410A/g/4/B/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the reasonable costs of providing such services for discharges occurring in the first cost reporting period beginning on or after the first day of each applicable 5-year period in the 15-year extension period, for</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tIV/stA/s410A/g/4/B/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the reasonable costs of providing such services for discharges occurring in the first cost reporting period beginning on or after the implementation of the demonstration program.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/5" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Other hospitals in demonstration program.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/5/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">CURES act extension.—</heading><content style="-uslm-dtd:text">During
+ the second 5 years of the 15-year extension period, the Secretary shall apply the provisions of paragraph (4) to rural community hospitals that are not described in paragraph (4) but are participating in the demonstration program under this section as of December 30, 2014, in a similar manner as such provisions apply to rural community hospitals described in paragraph (4).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/5/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Additional extension.—</heading><content style="-uslm-dtd:text">During the third 5 years of the 15-year extension period, the Secretary shall apply the provisions of paragraph (4) to rural community hospitals that are not described in paragraph (4) but are participating in the demonstration program under this section as of December 30, 2019, in a similar manner as such provisions apply to rural community hospitals described in paragraph (4).</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/6" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Expansion of demonstration program to rural areas in any state.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/6/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall, notwithstanding subsection (a)(2) or paragraph (2) of this subsection, not later than April 12, 2017, issue a solicitation for applications to select up to the maximum number of additional rural community hospitals located in any State to participate in the demonstration program under this section for the second 5 years of the 15-year extension period without exceeding the limitation under paragraph (3) of this subsection.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tIV/stA/s410A/g/6/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Priority.—</heading><chapeau style="-uslm-dtd:text">In determining which rural community hospitals that submitted an application pursuant to the solicitation under subparagraph (A) to select for participation in the demonstration program, the Secretary—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tIV/stA/s410A/g/6/B/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">shall give priority to rural community hospitals located in one of the 20 States with the lowest population densities (as determined by the Secretary using the 2015 Statistical Abstract of the United States); and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tIV/stA/s410A/g/6/B/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">may consider—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/108/173/tIV/stA/s410A/g/6/B/ii/I" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">closures of hospitals located in rural areas in the State in which the rural community hospital is located during the 5-year period immediately preceding the date of the enactment of this paragraph; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/108/173/tIV/stA/s410A/g/6/B/ii/II" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the population density of the State in which the rural community hospital is located.</content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                </section>
+            </subtitle>
+            <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/108/173/tXI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="XI">TITLE XI—</num><heading style="-uslm-dtd:header">ACCESS TO AFFORDABLE PHARMACEUTICALS </heading>
+            <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/108/173/tXI/stB" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="B">Subtitle B—</num><heading style="-uslm-dtd:header">Federal Trade Commission Review<ref style="-uslm-dtd:footnote-ref" idref="ID126830BE34D14D14A4669F4B903D9E82" class="footnoteRef">1</ref> </heading><footnote id="ID126830BE34D14D14A4669F4B903D9E82" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Subtitle B of title XI of Public Law 108–173 (117 Stat. 2461; 21 U.S.C. 355 note).</p></footnote>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/173/tXI/stB/s1111" styleType="OLC" role="definitions">
+                    <num style="-uslm-dtd:enum" value="1111">SEC. 1111. </num><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">In this subtitle:</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">ANDA.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">ANDA</term>” means an abbreviated drug application, as defined under section 201(aa) of the Federal Food, Drug, and Cosmetic Act.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Assistant attorney general.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Assistant Attorney General</term>” means the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Biosimilar biological product.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">biosimilar biological product</term>” means a biological product for which a biosimilar biological product application under section 351(k) of the Public Health
+			 Service Act is approved.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/4" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Biosimilar biological product applicant.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">biosimilar biological product applicant</term>” means a person who has filed or received approval for a biosimilar biological product application under
+			 section 351(k) of the Public Health Service Act.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/5" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Biosimilar biological product application.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">biosimilar biological product application</term>” means an application under section 351(k) of the Public Health Service Act for licensure of a biological product as biosimilar to, or interchangeable with, a reference product.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/6" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Brand name drug.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">brand name drug</term>” means a drug for which an application is approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act, including an application referred to in section 505(b)(2) of such Act, or a biological product for which an application is approved under section 351(a) of the Public Health Service Act.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/7" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Brand name drug company.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">brand name drug company</term>” means the party that holds the approved application referred to in paragraph (6) for a brand name drug that is a listed drug in an ANDA or a reference product in a biosimilar biological product application, or a party that is the owner of a patent for which information is submitted for such drug under subsection (b) or (c) of section 505 of the Federal Food, Drug, and Cosmetic Act or the owner, or exclusive licensee, of a patent included in a list provided under section 351(l)(3) of the Public Health Service Act.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/8" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Commission.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Commission</term>” means the Federal Trade Commission.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/9" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Generic drug.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">generic drug</term>” means a drug for which an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act is approved.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/10" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="10">(10) </num><heading style="-uslm-dtd:header">Generic drug applicant.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">generic drug applicant</term>” means a person who has filed or received approval for an ANDA under section 505(j) of the Federal Food, Drug, and Cosmetic Act.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/11" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="11">(11) </num><heading style="-uslm-dtd:header">Listed drug.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">listed drug</term>” means a brand name drug that is listed under section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1111/12" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="12">(12) </num><heading style="-uslm-dtd:header">Reference product.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">reference product</term>”has the meaning given such term in section 351(i) of the Public Health
+			 Service Act.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/173/tXI/stB/s1112" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1112">SEC. 1112. </num><heading style="-uslm-dtd:header">NOTIFICATION OF AGREEMENTS. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tXI/stB/s1112/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Agreement With Brand Name Drug Company.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1112/a/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Requirement.—</heading><content style="-uslm-dtd:text">A generic drug applicant that has submitted an ANDA containing a certification under section 505(j)(2)(A)(vii)(IV) of the Federal Food, Drug, and Cosmetic Act or a biosimilar biological product applicant who has submitted a biosimilar biological product application  and a brand name drug company that enter into an agreement described in paragraph (2) shall each file the agreement in accordance with subsection (c). The agreement shall be filed prior to the date of the first commercial marketing of the generic drug that is the subject of the ANDA or the biosimilar biological product that is the subject of the biosimilar biological product application, as applicable.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1112/a/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Subject matter of agreement.—</heading><chapeau style="-uslm-dtd:text">An agreement described in this paragraph between a generic drug applicant or a biosimilar biological product applicant and a brand name drug company is an agreement regarding—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tXI/stB/s1112/a/2/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the manufacture, marketing, or sale of the brand name drug that is the listed drug in the ANDA or the reference product in the biosimilar biological product application involved;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tXI/stB/s1112/a/2/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the manufacture, marketing, or sale of the generic drug for which the ANDA was submitted or of the biosimilar biological product for which the biosimilar biological product application was submitted; or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tXI/stB/s1112/a/2/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">as applicable—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tXI/stB/s1112/a/2/C/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the 180-day period referred to in section 505(j)(5)(B)(iv) of the Federal Food, Drug, and Cosmetic Act as it applies to such ANDA or to any other ANDA based on the same listed drug; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/173/tXI/stB/s1112/a/2/C/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">any of the time periods referred to in section 351(k)(6) of the Public Health Service Act as such period applies to such biosimilar biological product application or to any other biosimilar biological product application based on the same reference product.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tXI/stB/s1112/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Agreement With Another Generic Drug Applicant Or Biosimilar Biological Product Applicant.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1112/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Requirement.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tXI/stB/s1112/b/1/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Generic drugs.—</heading><content style="-uslm-dtd:text">A generic drug applicant that has submitted an ANDA containing a certification under section
+			 505(j)(2)(A)(vii)(IV) of the Federal Food, Drug, and Cosmetic Act with
+			 respect to a listed drug and another generic drug applicant that has
+			 submitted an ANDA containing such a certification for the same listed drug
+			 shall each file the agreement in accordance with subsection (c). The
+			 agreement shall be filed prior to the date of the first commercial
+			 marketing of either of the generic drugs for which such ANDAs were
+			 submitted.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tXI/stB/s1112/b/1/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Biosimilar biological products.—</heading><content style="-uslm-dtd:text">A biosimilar biological product applicant that has submitted a biosimilar biological product application that references a reference product and another biosimilar biological product applicant that has submitted a biosimilar biological product application that references the same reference product shall each file the agreement in accordance with subsection (c). The agreement shall be filed prior to the date of the first commercial marketing of either of the biosimilar biological products for which such biosimilar biological product applications were submitted.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1112/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Subject matter of agreement.—</heading><content style="-uslm-dtd:text">An agreement described in this paragraph is, as applicable, an agreement between 2 or more generic drug applicants regarding the 180-day period referred to in section 505(j)(5)(B)(iv) of the Federal Food, Drug, and Cosmetic Act as it applies to the ANDAs with which the agreement is concerned,,<ref style="-uslm-dtd:footnote-ref" idref="IDE137A00DE94C450C8AB769FCB43803DA" class="footnoteRef">2</ref> an agreement between 2 or more biosimilar biological product applicants regarding a time period referred to in section 351(k)(6) of the Public Health Service Act as it applies to the biosimilar biological product, or an agreement between 2 or more biosimilar biological product applicants regarding the manufacture, marketing, or sale of a biosimilar biological product.</content><footnote id="IDE137A00DE94C450C8AB769FCB43803DA" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">2</sup><p style="-uslm-dtd:para; margin-left:1em">Two commas in paragraph (2) are so in law.</p></footnote>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tXI/stB/s1112/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Filing.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1112/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Agreement.—</heading><chapeau style="-uslm-dtd:text">The parties that are required in subsection (a) or (b) to file an agreement in accordance with this subsection shall file with the Assistant Attorney General and the Commission the text of any such agreement, except that such parties are not required to file an agreement that solely concerns—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tXI/stB/s1112/c/1/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">purchase orders for raw material supplies;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tXI/stB/s1112/c/1/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">equipment and facility contracts;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tXI/stB/s1112/c/1/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">employment or consulting contracts; or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/173/tXI/stB/s1112/c/1/D" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">packaging and labeling contracts.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1112/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Other agreements.—</heading><content style="-uslm-dtd:text">The parties that are required in subsection (a) or (b) to file an agreement in accordance with this subsection shall file with the Assistant Attorney General and the Commission the text of any agreements between the parties that are not described in such subsections and are contingent upon, provide a contingent condition for, were entered into within 30 days of, or are otherwise related to an agreement that is required in subsection (a) or (b) to be filed in accordance with this subsection.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1112/c/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Description.—</heading><content style="-uslm-dtd:text">In the event that any agreement required in subsection (a) or (b) to be filed in accordance with this subsection has not been reduced to text, each of the parties involved shall file written descriptions of such agreement that are sufficient to disclose all the terms and conditions of the agreement.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/173/tXI/stB/s1113" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1113">SEC. 1113. </num><heading style="-uslm-dtd:header">FILING DEADLINES. </heading>
+                    <content style="-uslm-dtd:text" class="block">Any filing required under section 1112 shall be filed with the Assistant Attorney General and the Commission not later than 10 business days after the date the agreements are executed.</content>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/173/tXI/stB/s1114" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1114">SEC. 1114. </num><heading style="-uslm-dtd:header">DISCLOSURE EXEMPTION. </heading>
+                    <content style="-uslm-dtd:text" class="block">Any information or documentary material filed with the Assistant Attorney General or the Commission pursuant to this subtitle shall be exempt from disclosure under section 552 of title 5, United States Code, and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of the Congress or to any duly authorized committee or subcommittee of the Congress.</content>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/173/tXI/stB/s1115" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1115">SEC. 1115. </num><heading style="-uslm-dtd:header">ENFORCEMENT. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tXI/stB/s1115/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Civil Penalty.—</heading><content style="-uslm-dtd:text">Any brand name drug company , generic drug applicant, or biosimilar biological product applicant which fails to comply with any provision of this subtitle shall be liable for a civil penalty of not more than $11,000, for each day during which such entity is in violation of this subtitle. Such penalty may be recovered in a civil action brought by the United States, or brought by the Commission in accordance with the procedures established in section 16(a)(1) of the Federal Trade Commission Act (15 U.S.C. 56(a)).</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/173/tXI/stB/s1115/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Compliance and Equitable Relief.—</heading><content style="-uslm-dtd:text">If any brand name drug company , generic drug applicant, or biosimilar biological product applicant fails to comply with any provision of this subtitle, the United States district court may order compliance, and may grant such other equitable relief as the court in its discretion determines necessary or appropriate, upon application of the Assistant Attorney General or the Commission.</content>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/173/tXI/stB/s1116" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1116">SEC. 1116. </num><heading style="-uslm-dtd:header">RULEMAKING. </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">The Commission, with the concurrence of the Assistant Attorney General and by rule in accordance with section 553 of title 5, United States Code, consistent with the purposes of this subtitle—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1116/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">may define the terms used in this subtitle;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1116/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">may exempt classes of persons or agreements from the requirements of this subtitle; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1116/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">may prescribe such other rules as may be necessary and appropriate to carry out the purposes of this subtitle.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/173/tXI/stB/s1117" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1117">SEC. 1117. </num><heading style="-uslm-dtd:header">SAVINGS CLAUSE. </heading>
+                    <content style="-uslm-dtd:text" class="block">Any action taken by the Assistant Attorney General or the Commission, or any failure of the Assistant Attorney General or the Commission to take action, under this subtitle shall not at any time bar any proceeding or any action with respect to any agreement between a brand name drug company and a generic drug applicantor a biosimilar biological product applicant, any agreement between generic drug applicants, or any agreement between biosimilar biological product applicants, under any other provision of law, nor shall any filing under this subtitle constitute or create a presumption of any violation of any competition laws.</content>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/108/173/tXI/stB/s1118" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1118">SEC. 1118. </num><heading style="-uslm-dtd:header">EFFECTIVE DATE. </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">This subtitle shall—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1118/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">take effect 30 days after the date of the enactment of this Act; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/173/tXI/stB/s1118/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">shall apply to agreements described in section 1112 that are entered into 30 days after the date of the enactment of this Act.</content>
+                            <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                        </paragraph>
+                    </subsection>
+                </section>
+            </subtitle>
+        </title>
+    </main>
+</statuteCompilation>

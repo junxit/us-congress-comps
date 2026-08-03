@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Export-Import Bank Reauthorization Act of 2012</dc:title>
+        <citableAs>Public Law 112–122, as amended</citableAs>
+        <citableAsShortTitle>Export-Import Bank Reauthorization Act of 2012</citableAsShortTitle>
+        <docNumber>122</docNumber>
+        <currentThroughPublicLaw>114–94</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Export-Import Bank Reauthorization Act of 2012</containsShortTitle>
+        <containsShortTitle>Export-Import Bank Reform and Reauthorization Act of 2015</containsShortTitle>
+        <property role="fileId">9887</property>
+        <congress>112</congress>
+        <approvedDate>2012-05-30</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Export-Import Bank Reauthorization Act of 2012</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 112–122</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 114–94</currentThroughPublicLaw>, Enacted <date date="2015-12-04">December 04, 2015</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 112-122. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To reauthorize the Export-Import Bank of the United States, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s635">12 U.S.C. 635 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Export-Import Bank Reauthorization Act of 2012</inline></shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents of this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 2.</designator><label> Extension of authority.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 3.</designator><label> Limitations on outstanding loans, guarantees, and insurance.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 4.</designator><label> Export-Import Bank exposure limit business plan.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 5.</designator><label> Study by the Comptroller General on the role of the Bank in the world economy and the Bank’s risk management.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 6.</designator><label> Monitoring of default rates on Bank financing; reports on default rates; safety and soundness review.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 7.</designator><label> Improvement and clarification of due diligence standards for lender partners.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 8.</designator><label> Non-subordination requirement.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 9.</designator><label> Notice and comment for Bank transactions exceeding $100,000,000.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 10.</designator><label> Categorization of purpose of loans and long-term guarantees in annual report.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 11.</designator><label> Negotiations to end export credit financing.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 12.</designator><label> Publication of guidelines for economic impact analyses and documentation of such analyses.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 13.</designator><label> Report on implementation of recommendations of the Government Accountability Office.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 14.</designator><label> Examination of Bank support for small business.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 15.</designator><label> Review and report on domestic content policy.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 16.</designator><label> Improvement of method for calculating the effects of Bank financing on job creation and maintenance in the United States.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 17.</designator><label> Periodic audits of Bank transactions.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 18.</designator><label> Prohibitions on financing for certain persons involved in sanctionable activities with respect to Iran.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 19.</designator><label> Use of portion of Bank surplus to update information technology systems.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 20.</designator><label> Modifications relating to the advisory committee.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 21.</designator><label> Financing for goods manufactured in the United States used in global textile and apparel supply chains.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 22.</designator><label> Technical correction.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 23.</designator><label> Sub-Saharan Africa Advisory Committee.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 24.</designator><label> Dual use exports.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 25.</designator><label> Effective date.</label></referenceItem></toc></content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">EXTENSION OF AUTHORITY. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 7 of the Export-Import Bank Act of 1945 (12 U.S.C. 635f) is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2014</quotedText>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s3" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><heading style="-uslm-dtd:header">LIMITATIONS ON OUTSTANDING LOANS, GUARANTEES, AND INSURANCE. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">Section 6(a)(2) of the Export-Import Bank Act of 1945 (12 U.S.C. 635e(a)(2)) is amended—</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s3/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subparagraph (D), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>”;</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s3/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subparagraph (E), by striking the comma at the end and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s3/3" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="F">“(F) </num><chapeau style="-uslm-dtd:text">during fiscal year 2012 and each succeeding fiscal year, $120,000,000,000, except that—</chapeau>
+                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">“(i) </num><chapeau style="-uslm-dtd:text">the applicable amount for each of fiscal years 2013 and 2014 shall be $130,000,000,000 if—</chapeau>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">the Bank has submitted a report as required by section 4(a) of the Export-Import Bank Reauthorization Act of 2012; and</content>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the rate calculated under section 8(g)(1) of this Act is less than 2 percent for the quarter ending with the beginning of the fiscal year, or for any quarter in the fiscal year; and</content>
+                        </subclause>
+                    </clause>
+                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">“(ii) </num><chapeau style="-uslm-dtd:text">notwithstanding clause (i), the applicable amount for fiscal year 2014 shall be $140,000,000,000 if—</chapeau>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">the rate calculated under section 8(g)(1) of this Act is less than 2 percent for the quarter ending with the beginning of the fiscal year, or for any quarter in the fiscal year;</content>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the Bank has submitted a report as required by subsection (b) of section 5 of the Export-Import Bank Reauthorization Act of 2012, except that the preceding provisions of this subclause shall not apply if the Comptroller General has not submitted the report required by subsection (a) of such section 5 on or before July 1, 2013; and</content>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">the Secretary of the Treasury has submitted the reports required by section 11(b) of the Export-Import Bank Reauthorization Act of 2012.”</content>
+                        </subclause>
+                    </clause>
+                </subparagraph></quotedContent>.</content>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s4" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><heading style="-uslm-dtd:header">EXPORT-IMPORT BANK EXPOSURE LIMIT BUSINESS PLAN. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s4/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Not later than September 30, 2012, the Export-Import Bank of the United States shall submit to the Congress and the Comptroller General a written report that contains the following:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s4/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">A business plan that—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s4/a/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">includes an estimate by the Bank of the appropriate exposure limits of the Bank for 2012, 2013, and 2014;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s4/a/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">justifies the estimate; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s4/a/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">estimates any anticipated growth of the Bank for 2012, 2013, and 2014—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s4/a/1/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by industry sector;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s4/a/1/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by whether the products involved are short-term loans, medium-term loans, long-term loans, insurance, medium-term guarantees, or long-term guarantees; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s4/a/1/C/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by key market.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s4/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">An analysis of the potential for increased or decreased risk of loss to the Bank as a result of the estimated exposure limit, including an analysis of increased or decreased risks associated with changes in the composition of Bank exposure, by industry sector, by product offered, and by key market.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s4/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">An analysis of the ability of the Bank to meet its small business and sub-Saharan Africa mandates and comply with its carbon policy mandate under the proposed exposure limit, and an analysis of any increased or decreased risk of loss associated with meeting or complying with the mandates under the proposed exposure limit.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s4/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">An analysis of the adequacy of the resources of the Bank to effectively process, approve, and monitor authorizations, including the conducting of required economic impact analysis, under the proposed exposure limit.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s4/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">GAO Review of Report and Business Plan.—</heading><content style="-uslm-dtd:text">Not later than June 1, 2013, the Comptroller General shall submit to the Congress a written analysis of the report and business plan submitted under subsection (a), which shall include such recommendations with respect to the report and business plan as the Comptroller General deems appropriate.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s5" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><heading style="-uslm-dtd:header">STUDY BY THE COMPTROLLER GENERAL ON THE ROLE OF THE BANK IN THE WORLD ECONOMY AND THE BANK’S RISK MANAGEMENT. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s5/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Within 10 months after the date of the enactment of this Act, the Comptroller General of the United States shall complete and submit to the Export-Import Bank of the United States, the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report which—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s5/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">evaluates—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s5/a/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">the history of the rate of growth of the Bank, and its causes, with specific consideration given to—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s5/a/1/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the capital market conditions for export financing;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s5/a/1/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">increased competition from foreign export credit agencies;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s5/a/1/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the rate of growth of the Bank from 2008 to the present;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s5/a/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">the effectiveness of the Bank’s risk management, including—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s5/a/1/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">potential for losses from each of the products offered by the Bank; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s5/a/1/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">the overall risk of the Bank’s portfolio, taking into account—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/122/s5/a/1/B/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">market risk;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/122/s5/a/1/B/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">credit risk;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/122/s5/a/1/B/ii/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">political risk;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/122/s5/a/1/B/ii/IV" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">industry-concentration risk;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/122/s5/a/1/B/ii/V" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="V">(V) </num><content style="-uslm-dtd:text">geographic-concentration risk;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/122/s5/a/1/B/ii/VI" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VI">(VI) </num><content style="-uslm-dtd:text">obligor-concentration risk; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/122/s5/a/1/B/ii/VII" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VII">(VII) </num><content style="-uslm-dtd:text">foreign-currency risk;</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s5/a/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Bank’s use of historical default and recovery rates to calculate future program costs, taking into consideration cost estimates determined under the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and whether discount rates applied to cost estimates should reflect the risks described in subparagraph (B);</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s5/a/1/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the fees charged by the Bank for the products the Bank offers, whether the Bank’s fees properly reflect the risks described in subparagraph (B), and how the fees  are affected by United States participation in international agreements; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s5/a/1/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">whether the Bank’s loan loss reserves policy is sufficient to cover the risks described in subparagraph (B); and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s5/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">makes appropriate recommendations with respect to the matters so evaluated.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s5/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Recommendations and Report by the Bank.—</heading><content style="-uslm-dtd:text">Not later than 120 days after the Bank receives the report, the Bank shall submit to the Congress a report on the implementation of recommendations included in the report so received. If the Bank does not adopt the recommendations, the Bank shall include in its report an explanation of why the Bank has not done so.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s6" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><heading style="-uslm-dtd:header">MONITORING OF DEFAULT RATES ON BANK FINANCING; REPORTS ON DEFAULT RATES; SAFETY AND SOUNDNESS REVIEW. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">“(g) </num><heading style="-uslm-dtd:header">Monitoring of Default Rates on Bank Financing; Reports on Default Rates; Safety and Soundness Review. </heading>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Monitoring of default rates. </heading><content style="-uslm-dtd:text">Not less frequently than quarterly, the Bank shall calculate the rate at which the entities to which the Bank has provided short-, medium-, or long-term financing are in default on a payment obligation under the financing, by dividing the total amount of the required payments that are overdue by the total amount of the financing involved.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Additional calculation by type of product, by key market, and by industry sector; report to congress. </heading><chapeau style="-uslm-dtd:text">In addition, the Bank shall, not less frequently than quarterly—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">calculate the rate of default—</chapeau>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">with respect to whether the products involved are short-term loans, medium-term loans, long-term loans, insurance, medium-term guarantees, or long-term guarantees;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">with respect to each key market involved; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">with respect to each industry sector involved; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on each such rate and any information the Bank deems relevant.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Report on causes of default rate; plan to reduce default rate. </heading><content style="-uslm-dtd:text">Within 45 days after a rate calculated under paragraph (1) equals or exceeds 2 percent, the Bank shall submit to the Congress a written report that explains the circumstances that have caused the default rate to be at least 2 percent, and includes a plan to reduce the default rate to less than 2 percent.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Plan contents. </heading><chapeau style="-uslm-dtd:text">The plan referred to in paragraph (3) shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">provide a detailed explanation of the processes and controls by which the Bank monitors and tracks outstanding loans;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">detail specific planned actions, including a time frame for completing the actions, to reduce the default rate described in paragraph (1) to less than 2 percent.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">“(5) </num><heading style="-uslm-dtd:header">Monthly reports required while default rate is at least 2 percent. </heading><content style="-uslm-dtd:text">For so long as the default rate calculated under paragraph (1) is at least 2 percent, the Bank shall submit monthly reports to the Congress describing the specific actions taken during such period to reduce the default rate.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">“(6) </num><heading style="-uslm-dtd:header">Safety and soundness review. </heading><chapeau style="-uslm-dtd:text">If the default rate calculated under paragraph (1) remains above 2 percent for a period of 6 months, the Secretary of the Treasury shall provide for an independent third party to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">conduct a review of the loan programs and funds of the Bank, which shall determine—</chapeau>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the financial safety and soundness of the programs and funds; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the extent of loan loss reserves and capital adequacy of the programs and funds; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">submit to the Secretary, within 60 days after the end of the 6-month period, a report that—</chapeau>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">describes the methodology and standards used to conduct the review required by subparagraph (A);</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">sets forth the results and findings of the review, including the extent of loan loss reserves and capital adequacy of the programs and funds of the Bank; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">includes recommendations regarding restoring the reserves and capital to maintain the programs and funds in a safe and sound condition.”</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection></quotedContent>.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s7" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><heading style="-uslm-dtd:header">IMPROVEMENT AND CLARIFICATION OF DUE DILIGENCE STANDARDS FOR LENDER PARTNERS. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 2 of the Export-Import Bank Act of 1945 (12 U.S.C. 635) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">Due Diligence Standards for Lender Partners. </heading><content style="-uslm-dtd:text">The Bank shall set due diligence standards for its lender partners and participants, which should be applied across all programs consistently. To minimize or prevent fraudulent activity, the Bank should require all delegated lenders to implement ‘<quotedText style="-uslm-dtd:quote">Know your customer practices</quotedText>’.”</content>
+            </subsection></quotedContent>.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s8" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><heading style="-uslm-dtd:header">NON-SUBORDINATION REQUIREMENT. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 2 of the Export-Import Bank Act of 1945 (12 U.S.C. 635), as amended by section 7 of this Act, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="j">“(j) </num><heading style="-uslm-dtd:header">Non-subordination Requirement. </heading><content style="-uslm-dtd:text">In entering into financing contracts, the Bank shall seek a creditor status which is not subordinate to that of all other creditors, in order to reduce the risk to, and enhance recoveries for, the Bank.”</content>
+            </subsection></quotedContent>.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s9" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="9">SEC. 9. </num><heading style="-uslm-dtd:header">NOTICE AND COMMENT FOR BANK TRANSACTIONS EXCEEDING $100,000,000. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s9/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 3(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(c)) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">“(10) </num><heading style="-uslm-dtd:header">Notice and comment requirements. </heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general. </heading><content style="-uslm-dtd:text">Before any meeting of the Board for final consideration of a long-term transaction the value  of which exceeds $100,000,000, and concurrent with any statement required to be submitted under section 2(b)(3) with respect to the transaction, the Bank shall provide a notice and comment period.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Financial threshold determinations. </heading><content style="-uslm-dtd:text">For purposes of determining whether the value of a proposed transaction exceeds the financial threshold set forth in subparagraph (A), the Bank shall aggregate the dollar amount of the proposed transaction and the dollar amounts of all long-term loans and guarantees, approved by the Bank in the preceding 12-month period, that involved the same foreign entity and substantially the same product to be produced.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Specific requirements. </heading>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general. </heading><chapeau style="-uslm-dtd:text">The Bank shall—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">publish in the Federal Register a notice of the application proposing the transaction;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">provide a period of not less than 25 days for the submission to the Bank of comments on the application; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">notify the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives of the application, and seek comments on the application from the Department of Commerce and the Office of Management and Budget.</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Content of notice. </heading><chapeau style="-uslm-dtd:text">The notice published under clause (i)(I) with respect to an application for a loan or financial guarantee shall include appropriate information about—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">a brief non-proprietary description of the purposes of the transaction and the anticipated use of any item being exported, including, to the extent the Bank is reasonably aware, whether the item may be used to produce exports or provide services in competition with the exportation of goods or the provision of services by a United States industry;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the identities of the obligor, principal supplier, and guarantor; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">a description, such as type or model number, of any item with respect to which Bank financing is being sought, but only to the extent the description does not disclose any information that is confidential or proprietary business information, that would violate the Trade Secrets Act, or that would jeopardize jobs in the United States by supplying information which competitors could use to compete with companies in the United States.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">“(D) </num><heading style="-uslm-dtd:header">Procedure regarding materially changed applications. </heading>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general. </heading><content style="-uslm-dtd:text">If a material change is made to an application to which this paragraph applies, after a notice with respect to the application is published under subparagraph (C)(i)(I), the Bank shall publish  in the Federal Register a revised notice of the application and provide for an additional comment period as provided in subparagraph (C)(i)(II).</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Material change defined. </heading><content style="-uslm-dtd:text">In clause (i), the term ‘<quotedText style="-uslm-dtd:quote">material change</quotedText>’, with respect to an application for a loan or guarantee, includes an increase of at least 25 percent in the amount of a loan or guarantee requested in the application.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">“(E) </num><heading style="-uslm-dtd:header">Requirement to address views of commenters. </heading><content style="-uslm-dtd:text">Before taking final action on an application to which this paragraph applies, the staff of the Bank shall provide in writing to the Board of Directors the views of any person who submitted comments on the application pursuant to this paragraph.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">“(F) </num><heading style="-uslm-dtd:header">Publication of conclusions. </heading><content style="-uslm-dtd:text">Within 30 days after a final decision of the Board of Directors with respect to an application to which this paragraph applies, the Bank shall provide to a commenter on the application or the decision who makes a request therefor, a non-confidential summary of the facts found and conclusions reached in any detailed analysis or similar study with respect to the loan or guarantee that is the subject of the application, that was submitted to the Board of Directors. Such summary should be sent within 30 days of the receipt of the written request or date of the final decision of the Board of Directors, whichever is later.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">“(G) </num><heading style="-uslm-dtd:header">Rule of interpretation. </heading><content style="-uslm-dtd:text">The obligations imposed by this paragraph shall not be interpreted to create, modify, or preclude any legal right of action.”</content>
+                    </subparagraph>
+                </paragraph></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s9/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s635a">12 U.S.C. 635a note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendment made by subsection (a) shall take effect 60 days after the date of the enactment of this Act.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s10" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="10">SEC. 10. </num><heading style="-uslm-dtd:header">CATEGORIZATION OF PURPOSE OF LOANS AND LONG-TERM GUARANTEES IN ANNUAL REPORT. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g), as amended by section 6 of this Act, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="h">“(h) </num><heading style="-uslm-dtd:header">Categorization of Purpose of Loans and Long-term Guarantees. </heading><chapeau style="-uslm-dtd:text">In the annual report of the Bank under subsection (a), the Bank shall categorize each loan and long-term guarantee made by the Bank in the fiscal year covered by the report, and according to the following purposes:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">
+‘<quotedText style="-uslm-dtd:quote">To assume commercial or political risk that exporter or private financial institutions are unwilling or unable to undertake</quotedText>’.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">
+‘<quotedText style="-uslm-dtd:quote">To overcome maturity or other limitations in private sector export financing</quotedText>’.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">
+‘<quotedText style="-uslm-dtd:quote">To meet competition from a foreign, officially sponsored, export credit competition</quotedText>’.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">
+‘<quotedText style="-uslm-dtd:quote">Not identified</quotedText>’, and the reason why the purpose is not identified.”</content>
+                </paragraph>
+            </subsection></quotedContent>.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s11" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="11">SEC. 11. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s635a-5">12 U.S.C. 635a-5</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NEGOTIATIONS TO END EXPORT CREDIT FINANCING. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s11/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The President shall initiate and pursue negotiations—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s11/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">with other major exporting countries, including members of the Organisation for Economic Co-operation and Development (in this
+section referred to as the “<quotedText style="-uslm-dtd:quote">OECD</quotedText>”) and non-OECD members, to substantially reduce, with the possible goal of eliminating, before the date that is 10 years after the date of the enactment of the Export-Import Bank Reform and Reauthorization Act of 2015,,<ref style="-uslm-dtd:footnote-ref" idref="IDE4B684E5B8D84BDCA7B2CB129F5AE8DF" class="footnoteRef">1</ref> subsidized export financing programs and other forms of export subsidies; and</content><footnote id="IDE4B684E5B8D84BDCA7B2CB129F5AE8DF" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Double commas so in law.</p></footnote>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s11/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">with all countries that finance air carrier aircraft with funds from a state-sponsored entity, to substantially reduce, with the ultimate goal of eliminating, aircraft export credit financing for all aircraft covered by the 2007 Sector Understanding on Export Credits for Civil Aircraft (in this section referred to as the “<quotedText style="-uslm-dtd:quote">ASU</quotedText>”), including any modification thereof, and all of the following types of aircraft:</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s11/a/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Heavy aircraft that are capable of a takeoff weight of 300,000 pounds or more, whether or not operating at such a weight during a particular phase of flight.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s11/a/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Large aircraft that are capable of a takeoff weight of more than 41,000 pounds, and have a maximum certificated takeoff weight of not more than 300,000 pounds.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s11/a/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Small aircraft that have a maximum certificated takeoff weight of 41,000 pounds or less.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s11/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Annual Reports on Progress of Negotiations.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s11/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a report on the progress of any negotiations described in subsection (a)(1), until the President certifies in writing to the committees that all countries that support subsidized export financing programs have agreed to end the support; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s11/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a report on the progress of any negotiations described in subsection (a)(2), including the progress of any negotiations with respect to each classification of aircraft set forth in subsection (a)(2), until the President certifies in writing to the committees that all countries that support subsidized export financing programs have agreed to end the support of aircraft covered by the ASU.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s11/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Report on Strategy.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of the <inline style="-uslm-dtd:short-title">Export-Import Bank Reform and Reauthorization Act of 2015</inline>, the President shall submit to Congress a proposal, and a strategy for achieving the proposal, that the United States Government will pursue with other major exporting countries, including OECD members and non-OECD members, to eliminate over a period of not more than 10 years subsidized export-financing programs, tied aid, export credits, and all other forms of government-supported export subsidies.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s11/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Negotiations With Non-OECD Members.—</heading><content style="-uslm-dtd:text">The President shall initiate and pursue negotiations with countries that are not OECD members to bring those countries into a multilateral agreement establishing rules and limitations on officially supported export credits.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s11/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Annual Reports on Progress of Negotiations.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of the <inline style="-uslm-dtd:short-title">Export-Import Bank Reform and Reauthorization Act of 2015</inline>, and annually thereafter through calendar year 2019, the President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the progress of any negotiations described in subsection (d).</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s12" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="12">SEC. 12. </num><heading style="-uslm-dtd:header">PUBLICATION OF GUIDELINES FOR ECONOMIC IMPACT ANALYSES AND DOCUMENTATION OF SUCH ANALYSES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s12/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s635">12 U.S.C. 635 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Publication of Guidelines.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of this Act, the Export-Import Bank of the United States shall develop and make publicly available methodological guidelines to be used by the Bank in conducting economic impact analyses or similar studies under section 2(e) of the Export-Import Bank Act of 1945. In developing the guidelines, the Bank shall take into consideration any relevant guidance from the Office of Management and Budget.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s12/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Maintenance of Documentation.—</heading><content style="-uslm-dtd:text">Section 2(e)(7) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(e)(7)) is amended by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively, and inserting after subparagraph (D) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="E">“(E) </num><heading style="-uslm-dtd:header">Maintenance of documentation. </heading><content style="-uslm-dtd:text">The Bank shall maintain documentation relating to economic impact  analyses and similar studies conducted under this subsection in a manner consistent with the Standards for Internal Control of the Federal Government issued by the Comptroller General of the United States.”</content>
+                </subparagraph></quotedContent>.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s13" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="13">SEC. 13. </num><heading style="-uslm-dtd:header">REPORT ON IMPLEMENTATION OF RECOMMENDATIONS OF THE GOVERNMENT ACCOUNTABILITY OFFICE. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">Not later than 180 days after the date of the enactment of this Act, the Export-Import Bank of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the implementation or rejection by the Bank of the recommendations contained in the report of the Government Accountability Office entitled “<quotedText style="-uslm-dtd:quote">Export-Import Bank: Improvements Needed in Assessment of Economic Impact</quotedText>”, dated September 12, 2007 (GAO-07-1071), that includes—</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s13/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a detailed description of the progress made in implementing each such recommendation; and</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s13/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">for any such recommendation that has not yet been implemented, an explanation of the reasons the recommendation has not been implemented.</content>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s14" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="14">SEC. 14. </num><heading style="-uslm-dtd:header">EXAMINATION OF BANK SUPPORT FOR SMALL BUSINESS. </heading>
+            <content style="-uslm-dtd:text" class="block">Within 180 days after the date of the enactment of this Act, the Export-Import Bank of the United States shall examine and report to Congress on its current programs, products, and polices with respect to the implementation of its export credit insurance program, delegated lending authority, and direct loans, and any other programs, products, and policies established to support exports from small businesses in the United States, and determine the extent to which those policies adequately meet the needs of the small businesses in obtaining Bank financing to support the maintenance or creation of jobs in the United States through exports, consistent with the requirement that the Bank obtain a reasonable assurance of repayment.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s15" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="15">SEC. 15. </num><heading style="-uslm-dtd:header">REVIEW AND REPORT ON DOMESTIC CONTENT POLICY. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s15/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Export-Import Bank of the United States shall conduct a review of its domestic content policy for medium- and long-term transactions. The review shall examine and evaluate the effectiveness of the Bank’s policy—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s15/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in maintaining and creating jobs in the United States; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s15/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in contributing to a stronger national economy through the export of goods and services.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s15/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Factors to Consider.—</heading><chapeau style="-uslm-dtd:text">In conducting the review under subsection (a), the Bank shall consider the following:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s15/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Whether the domestic content policy accurately captures the costs of United States production of goods and services, including the direct and indirect costs of manufacturing costs, parts, components, materials and supplies, research, planning engineering, design, development, production, return on investment, marketing and other business costs and the effect of such policy on the maintenance and creation of jobs in the United States.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s15/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The ability of the Bank to provide financing that is competitive with the financing provided by foreign export credit agencies and the impact that such financing has in enabling  companies with operations in the United States to contribute to a stronger United States economy by increasing employment through the export of goods and services.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s15/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The effects of the domestic content policy on the manufacturing and service workforce of the United States.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s15/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Any recommendations the members of the Bank’s Advisory Committee have regarding the Bank’s domestic content policy.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s15/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">The effect that changes to the Bank’s domestic content requirements would have in providing companies an incentive to create and maintain operations in the United States and to increase jobs in the United States.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s15/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, the Bank shall submit a report on the results of the review conducted under this section to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s16" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="16">SEC. 16. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s635a-2">12 U.S.C. 635a-2 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">IMPROVEMENT OF METHOD FOR CALCULATING THE EFFECTS OF BANK FINANCING ON JOB CREATION AND MAINTENANCE IN THE UNITED STATES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s16/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">GAO Study.—</heading><content style="-uslm-dtd:text">The Comptroller General of the United States shall conduct a study of the process and methodology used by the Export-Import Bank of the United States (in this section referred to as the “<quotedText style="-uslm-dtd:quote">Bank</quotedText>”) to calculate the effects of the provision of financing by the Bank on the creation and maintenance of employment in the United States, determine and assess the basis on which the Bank has so used the methodology, and make any recommendations the Comptroller General deems appropriate.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s16/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Within 1 year after the date of the enactment of this Act, the Comptroller General shall submit to the Congress and the Bank the results of the study required by subsection (a).</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s16/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Implementation of Recommendations.—</heading><content style="-uslm-dtd:text">If the report submitted pursuant to subsection (b) includes recommendations, the Bank may establish a more accurate methodology of the kind described in subsection (a) based on the recommendations.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s17" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="17">SEC. 17. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s635a-6">12 U.S.C. 635a-6</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PERIODIC AUDITS OF BANK TRANSACTIONS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s17/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Within 2 years after the date of the enactment of this Act, and periodically (but not less frequently than every 4 years) thereafter, the Comptroller General of the United States shall conduct an audit of the loan and guarantee transactions of the Export-Import Bank of the United States to determine the compliance of the Bank with the underwriting guidelines, lending policies, due diligence procedures, and content guidelines of the Bank.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s17/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Review of Fraud Controls.—</heading><chapeau style="-uslm-dtd:text">Not later than 4 years after the date of the enactment of the <inline style="-uslm-dtd:short-title">Export-Import Bank Reform and Reauthorization Act of 2015</inline>, and every 4 years thereafter, the Comptroller General of the United States shall—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s17/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">review the adequacy of the design and effectiveness of the controls used by the Export-Import Bank of the United States to prevent, detect, and investigate fraudulent applications for loans and guarantees and the compliance by the Bank with the controls, including by auditing a sample of Bank transactions; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s17/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">submit a written report regarding the findings of the review and providing such recommendations with respect to the controls described in paragraph (1) as the Comptroller General deems appropriate to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s17/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s17/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Committee on Financial Services and the Committee on Appropriations of the House of Representatives.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s18" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="18">SEC. 18. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s635">12 U.S.C. 635 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PROHIBITIONS ON FINANCING FOR CERTAIN PERSONS INVOLVED IN SANCTIONABLE ACTIVITIES WITH RESPECT TO IRAN. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s18/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Prohibition on Financing for Persons That Engage in Certain Sanctionable Activities.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s18/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Beginning on the date that is 180 days after the date of the enactment of this Act, the Board of Directors of the Export-Import Bank of the United States may not approve any transaction that is subject to approval by the Board with respect to the provision by the Bank of any guarantee, insurance, or extension of credit, or the participation by the Bank in any extension of credit, to a person in connection with the exportation of any good or service unless the person makes the certification described in paragraph (2).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s18/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Certification described.—</heading><chapeau style="-uslm-dtd:text">The certification described in this paragraph is a certification by a person—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s18/a/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">that neither the person nor any other person owned or controlled by the person—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s18/a/2/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">engages in any activity described in section 5(a) of the Iran Sanctions Act of 1996 (Public Law 104-172; 50 U.S.C. 1701 note) for which the person may be subject to sanctions under that Act;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s18/a/2/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">exports sensitive technology, as defined in section 106 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8515), to Iran; or</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s18/a/2/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">engages in any activity prohibited by part 560 of title 31, Code of Federal Regulations (commonly known as the “<quotedText style="-uslm-dtd:quote">Iranian Transactions Regulations</quotedText>”), unless the activity is disclosed to the Office of Foreign Assets Control of the Department of the Treasury when the activity is discovered; or</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s18/a/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">if the person or any other person owned or controlled by the person has engaged in an activity described in subparagraph (A), that—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s18/a/2/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">in the case of an activity described in subparagraph (A)(i)—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/122/s18/a/2/B/i/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the President has waived the imposition of sanctions with respect to the person that engaged in that activity pursuant to section 4(c), 6(b)(5), or 9(c) of the Iran Sanctions Act of 1996 (Public Law 104-172; 50 U.S.C. 1701 note);</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/122/s18/a/2/B/i/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II)</num><item style="-uslm-dtd:item" identifier="/us/sComp/112/122/s18/a/2/B/i/II/aa" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">the President has invoked the special rule described in section 4(e)(3) of that Act with respect to the person that engaged in that activity; or</content></item>
+                                <item style="-uslm-dtd:item" identifier="/us/sComp/112/122/s18/a/2/B/i/II/bb" styleType="OLC" class="leftIndentDecrease1">
+                                    <num style="-uslm-dtd:enum" value="bb">(bb)</num><subitem style="-uslm-dtd:subitem" identifier="/us/sComp/112/122/s18/a/2/B/i/II/bb/AA" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="AA">(AA) </num><content style="-uslm-dtd:text">the person that engaged in that activity determines, based on its best knowledge and belief, that the person meets the criteria described in subparagraph (A) of such section 4(e)(3) and has provided to the President the assurances described in subparagraph (B) of that section; and</content></subitem>
+                                    <subitem style="-uslm-dtd:subitem" identifier="/us/sComp/112/122/s18/a/2/B/i/II/bb/BB" styleType="OLC" class="leftIndentDecrease1">
+                                        <num style="-uslm-dtd:enum" value="BB">(BB) </num><content style="-uslm-dtd:text">the Secretary of State has issued an advisory opinion to that person that the person meets such criteria and has provided to the President those assurances; or</content>
+                                    </subitem>
+                                </item>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/122/s18/a/2/B/i/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">the President has determined that the criteria have been met for the exception provided for under section 5(a)(3)(C) of the Iran Sanctions Act of 1996 to apply with respect to the person that engaged in that activity; or</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/122/s18/a/2/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in the case of an activity described in subparagraph (A)(ii), the President has waived, pursuant to section 401(b)(1) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8551(b)(1)), the application of the prohibition under section 106(a) of that Act (22 U.S.C. 8515(a)) with respect to that person.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s18/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Prohibition on Financing.—</heading><content style="-uslm-dtd:text">Beginning on the date that is 180 days after the date of the enactment of this Act, the Board of Directors of the Export-Import Bank of the United States may not approve any transaction that is subject to approval by the Board with respect to the provision by the Bank of any guarantee, insurance, or extension of credit, or the participation by the Bank in any extension of credit, in connection with a financing in which a person that is a borrower or controlling sponsor, or a person that is owned or controlled by such borrower or controlling sponsor, is subject to sanctions under section 5(a) of the Iran Sanctions Act of 1996 (Public Law 104-172; 50 U.S.C. 1701 note).</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s18/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Advisory Opinions.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s18/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Authority.—</heading><content style="-uslm-dtd:text">The Secretary of State is authorized to issue advisory opinions described in subsection (a)(2)(B)(i)(II).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s18/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Notice to congress.—</heading><content style="-uslm-dtd:text">If the Secretary issues an advisory opinion pursuant to paragraph (1), the Secretary shall notify the appropriate congressional committees of the opinion not later than 30 days after issuing the opinion.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s18/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s18/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Appropriate congressional committees; person.—</heading><content style="-uslm-dtd:text">The terms “<quotedText style="-uslm-dtd:quote">appropriate congressional committees</quotedText>” and “<quotedText style="-uslm-dtd:quote">person</quotedText>” have the meanings given those terms in section 14 of the Iran Sanctions Act of 1996 (Public Law 104-172; 50 U.S.C. 1701 note).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s18/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Controlling sponsor.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">controlling sponsor</quotedText>” means a person providing controlling direct private equity investment (excluding investments made through publicly held investment funds, publicly held securities, public offerings, or similar public market vehicles) in connection with a financing.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s19" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="19">SEC. 19. </num><heading style="-uslm-dtd:header">USE OF PORTION OF BANK SURPLUS TO UPDATE INFORMATION TECHNOLOGY SYSTEMS. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 3 of the Export-Import Bank Act of 1945 (12 U.S.C. 635a) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="j">“(j) </num><heading style="-uslm-dtd:header">Authority to Use Portion of Bank Surplus to Update Information Technology Systems. </heading>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general. </heading><chapeau style="-uslm-dtd:text">Subject to paragraphs (3) and (4), the Bank may use an amount equal to 1.25 percent of the surplus of the Bank during fiscal years 2012, 2013, and 2014 to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">seek to remedy any of the operational weakness and risk management vulnerabilities of the Bank which are the result of the information technology system of the Bank;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">remedy data fragmentation, enhance information flow throughout the Bank, and manage data across the Bank; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">enhance the operational capacity and risk management capabilities of the Bank to better enable the Bank to increase exports and grow jobs while protecting the taxpayer.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Surplus. </heading><chapeau style="-uslm-dtd:text">In paragraph (1), the term ‘<quotedText style="-uslm-dtd:quote">surplus</quotedText>’ means the amount (if any) by which—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the sum of the interest and fees collected by the Bank; exceeds</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the sum of—</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentIncrease1">
+                        <num style="-uslm-dtd:enum" value="I">“(I) </num><chapeau style="-uslm-dtd:text">the funds set aside to cover expected losses on transactions financed by the Bank; and</chapeau>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the costs incurred to cover the administrative expenses of the Bank.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Limitation. </heading><content style="-uslm-dtd:text">The aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2012, 2013, and 2014 shall not exceed $20,000,000.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Subject to appropriations. </heading><content style="-uslm-dtd:text">The authority provided by paragraph (1) may be exercised only to such extent and in such amounts as are provided in advance in appropriations Acts.”</content>
+                </paragraph>
+            </subsection></quotedContent>.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s20" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="20">SEC. 20. </num><heading style="-uslm-dtd:header">MODIFICATIONS RELATING TO THE ADVISORY COMMITTEE. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s20/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Representation of the Textile Industry.—</heading><content style="-uslm-dtd:text">Section 3(d)(1)(B) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(d)(1)(B)) is amended by striking “<quotedText style="-uslm-dtd:quote">and State government</quotedText>” inserting “<quotedText style="-uslm-dtd:quote">State government, and the textile industry</quotedText>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s20/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Access to Bank Products by the Textile Industry.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s20/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Consideration by advisory committee.—</heading><content style="-uslm-dtd:text">Section 3(d) of such Act (12 U.S.C. 635a(d)) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="5">“(5) </num><chapeau style="-uslm-dtd:text">In carrying out paragraph (4), the Advisory Committee shall consider ways to promote the financing of Bank transactions for the textile industry, consistent with the requirement that the Bank obtain a reasonable assurance of repayment, and determine ways to—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">increase Bank support for the exports of textile components or inputs made in the United States; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">support the maintenance, promotion and expansion of jobs in the United States that are critical to the manufacture of textile components and inputs.”</content>
+                        </subparagraph>
+                    </paragraph></quotedContent>.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s20/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Annual report to congress on advisory committee determinations.—</heading><content style="-uslm-dtd:text">Section 8 of such Act (12 U.S.C. 635g), as amended by sections 6 and 10 of this Act, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">Access to Bank Products by the Textile Industry. </heading><content style="-uslm-dtd:text">The Bank shall include in its annual report to the Congress under subsection (a) of this section a report on the determinations made by the Advisory Committee under section 3(d)(5) in the year covered by the report.”</content>
+                    </subsection></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s21" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="21">SEC. 21. </num><heading style="-uslm-dtd:header">FINANCING FOR GOODS MANUFACTURED IN THE UNITED STATES USED IN GLOBAL TEXTILE AND APPAREL SUPPLY CHAINS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s21/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Analysis of Textile Industry Use of Bank Products.—</heading><chapeau style="-uslm-dtd:text">The Export-Import Bank of the United States (in this section  referred to as the “<quotedText style="-uslm-dtd:quote">Bank</quotedText>”) shall conduct a study of the extent to which the products offered by the Bank are available and used by manufacturers in the United States that export goods manufactured in the United States used as components in global textile and apparel supply chains. In conducting the study, the Bank shall examine the following:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s21/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Impediments to use of Bank products by such firms.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s21/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The number of jobs in the United States that are supported by the export of such component parts and the degree to which access to financing will increase exports.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s21/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Specific proposals for how the Bank, using its authority and products, could provide the financing, including through risk-sharing with other export credit agencies and other third parties.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s21/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Ways in which the Bank can take into account the full global textile and apparel supply chain—in particular, the ultimate purchase, and ultimate United States-based purchaser, of the finished good, that would result from the supply chain—in making credit and risk determinations and the creditworthiness of the ultimate purchaser.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/122/s21/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">Proposals for new products the Bank could offer to provide the financing, including—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s21/a/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the extent to which the Bank is authorized to offer new products;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s21/a/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the extent to which the Bank would need additional authority to offer the new products; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/122/s21/a/5/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">specific proposals for changes in law that would enable the Bank to provide such financing in compliance with the credit and risk standards of the Bank.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s21/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Within 180 days after the date of the enactment of this Act, the Bank shall submit to the Congress a report that contains the results of the study required by subsection (a).</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/122/s21/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Annual Reports.—</heading><content style="-uslm-dtd:text">Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g), as amended by sections 6, 10, and 20(b)(2) of this Act, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="j">“(j) </num><heading style="-uslm-dtd:header">Textile and Apparel Supply Chain Financing. </heading><content style="-uslm-dtd:text">The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of the success of the Bank in providing effective and reasonably priced financing to the United States textile and apparel industry for exports of goods manufactured in the United States that are used as components in global textile and apparel supply chains in the year covered by the report, and steps the Bank has taken to increase the use of Bank products by such firms.”</content>
+                </subsection></quotedContent>.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s22" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="22">SEC. 22. </num><heading style="-uslm-dtd:header">TECHNICAL CORRECTION. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 2(b)(2)(B)(ii) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(2)(B)(ii)) is amended by striking subclauses (I), (IV), and (VII) and by redesignating subclauses (II), (III), (V), (VI), (VIII), and (IX) as subclauses (I) through (VI), respectively.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s23" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="23">SEC. 23. </num><heading style="-uslm-dtd:header">SUB-SAHARAN AFRICA ADVISORY COMMITTEE. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 2(b)(9)(B)(iii) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(9)(B)(iii)) is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2014</quotedText>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s24" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="24">SEC. 24. </num><heading style="-uslm-dtd:header">DUAL USE EXPORTS. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 4 of Public Law 109-438 (12 U.S.C. 635 note; 108 Stat. 4376) is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2014</quotedText>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/122/s25" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="25">SEC. 25. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t12/s635">12 U.S.C. 635 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EFFECTIVE DATE. </heading>
+            <content style="-uslm-dtd:text" class="block">Except as provided in section 9(b), this Act and the amendments made by this Act shall take effect on the earlier of June 1, 2012, or the date of the enactment of this Act.</content>
+        </section>
+    </main>
+</statuteCompilation>

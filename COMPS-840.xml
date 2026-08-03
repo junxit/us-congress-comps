@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>EMERGENCY ENERGY CONSERVATION ACT OF 1979</dc:title>
+        <citableAs>Public Law 96–102, as amended</citableAs>
+        <citableAsShortTitle>EMERGENCY ENERGY CONSERVATION ACT OF 1979</citableAsShortTitle>
+        <docNumber>102</docNumber>
+        <currentThroughPublicLaw>108–204</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Emergency Energy Conservation Act of 1979</containsShortTitle>
+        <property role="fileId">840</property>
+        <congress>96</congress>
+        <approvedDate>1979-11-05</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">EMERGENCY ENERGY CONSERVATION ACT OF 1979</property>
+        <citationNote style="-uslm-dtd:public-law">[<citableAs>Public Law 96–102</citableAs>, as Amended]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 108–204</currentThroughPublicLaw>, Enacted <date date="2004-03-02">March 2, 2004</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 96-102. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To establish an emergency program for the conservation of energy and to provide for a standby rationing plan for motor fuel.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Emergency Energy Conservation Act of 1979</inline></shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>STANDBY MOTOR FUEL RATIONING</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Findings.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Report on plan development.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Procedures for developing and implementing rationing plan.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Required elements of rationing plan.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 105.</designator><label> Technical and conforming amendments.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>EMERGENCY ENERGY CONSERVATION</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Findings and purposes.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> Definitions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="part" class="centered"><designator>Part A—</designator><label>Emergency Energy Conservation Program</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 211.</designator><label> National and State emergency conservation targets.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 212.</designator><label> State emergency conservation plan.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 213.</designator><label> Standby Federal conservation plan.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 214.</designator><label> Judicial review.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 215.</designator><label> Reports.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="part" class="centered"><designator>Part B—</designator><label>Other Automobile Fuel Purchase Measures</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 221.</designator><label> Minimum automobile fuel purchases.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 222.</designator><label> Out-of-State vehicles to be exempted from odd-even motor fuel purchase restrictions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="part" class="centered"><designator>Part C—</designator><label>Building Temperature Restrictions</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 231.</designator><label> Amendment to Energy Policy and Conservation Act.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="part" class="centered"><designator>Part D—</designator><label>Studies</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 241.</designator><label> Studies.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 242.</designator><label> Middle distillate monitoring program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="part" class="centered"><designator>Part E—</designator><label>Administrative Provisions</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 251.</designator><label> Adminstration.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>GENERAL PROVISIONS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Funding for fiscal years 1979 and 1980.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Effective date.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8501">42 U.S.C. 8501 note</ref><b>]</b> </editorialNote>
+        </section>
+        <title style="-uslm-dtd:title; -uslm-dtd-nonstandard:all-cap 10 bold" identifier="/us/sComp/96/102/tI" styleType="nonstandard">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">STANDBY MOTOR FUEL RATIONING </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">FINDINGS. </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">The Congress finds that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tI/s101/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a standby rationing plan for gasoline and diesel fuel should provide, to the maximum extent practicable, that the burden of reduced supplies of gasoline and diesel fuel be shared by all persons in a fair and equitable manner and that the economic and social impacts of such plan be minimized; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tI/s101/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">such a plan should be sufficiently flexible to respond to changed conditions and sufficiently simple to be effectively administered and enforced.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s6261">42 U.S.C. 6261 note</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tI/s102" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">REPORT ON PLAN DEVELOPMENT. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tI/s102/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">As soon as practicable after the date of the enactment of this Act (but in no event later than 120 days after such date of enactment), the President shall prepare, and transmit to the Committee on Interstate and Foreign Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, a report describing the measures taken after such date of enactment (and the costs thereof) to establish a system of rationing of gasoline and diesel fuel pursuant to sections 201 and 203 of the Energy Policy and Conservation Act (42 U.S.C. 6261, 6263), together with a description of the additional measures to be taken in establishing such system, a timetable for completion of such measures, and an estimate of the costs thereof.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tI/s102/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Specific Issues To Be Addressed in Report.—</heading><chapeau style="-uslm-dtd:text">The report under subsection (a) shall include—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tI/s102/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a description of the extent to which ration coupons or other evidences of right under such a rationing system would be distributed to each end-user of gasoline or diesel fuel on the basis of such end-user's needs, and an explanation of the extent to which such distribution would not be based on such end-user's needs;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tI/s102/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">an analysis of having the entitlement under the rationing system to such end-user rights be granted on the basis of individuals licensed to operate motor vehicles on the public roads and highways, and an explanation of the extent to which such entitlement will be granted on that basis;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tI/s102/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">a description of the extent to which the rationing system would meet the needs and hardships of end-users by the use of local boards as provided for under section 203(d) of such Act (42 U.S.C. 6263(d)), and an explanation of the extent to which such boards would not be used;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tI/s102/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">a description of how the rationing system complies with the objective of providing for the mobility needs of handicapped persons (including means for their obtaining such end-user rights) as required under section 203(a)(2)(A) of such Act (42 U.S.C. 6263(a)(2)(A)); and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tI/s102/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">a description of the steps to be taken to provide adequate end-user allocation under the rationing system for the needs of those in suburban and rural areas, particularly mid-sized cities, small towns, and rural communities, not adequately served by any public transportation system.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tI/s102/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Committees To Be Kept Currently Informed.—</heading><content style="-uslm-dtd:text">The President shall keep such committees fully and currently informed about the progress in establishing and administering a system of rationing and of any problems and delays in establishing and administering the system.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tI/s102/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Additional Report.—</heading><content style="-uslm-dtd:text">90 days after the report is transmitted under subsection (a), the President shall prepare and transmit to each such committee another report unless a rationing contingency plan has been prescribed and transmitted to each House of the Congress during the preceding 90-day period. Such report shall contain the same information as required for the report under subsection (a), except that such information shall be made current to the date of the report.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tI/s102/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Public Notice of Reports.—</heading><content style="-uslm-dtd:text">The President shall provide public notice of any report under subsection (a) or (d) at the time of its transmittal, shall make such report available to the public, and shall transmit copies of such report to the Governors of the various States.</content>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s6261">42 U.S.C. 6261 note</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tI/s103" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">PROCEDURES FOR DEVELOPING AND IMPLEMENTING RATIONING PLAN. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sections 201(e), 203(a)(1), 552(b) and related sections of the Energy Policy and Conservation Act, as amended by this section, can be found at the beginning of this volume.<b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tI/s104" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">REQUIRED ELEMENTS OF RATIONING PLAN. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 203(a) of Energy Policy and Conservation Act, as amended by this section, can be found at the beginning of this volume.<b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tI/s105" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><heading style="-uslm-dtd:header">TECHNICAL AND CONFORMING AMENDMENTS. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sections 201, 203, 552 and related sections of Energy Policy and Conservation Act, as amended by this section, can be found at the beginning of this volume.<b>]</b> </editorialNote>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title; -uslm-dtd-nonstandard:all-cap 10 bold" identifier="/us/sComp/96/102/tII" styleType="nonstandard">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">EMERGENCY ENERGY CONSERVATION </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">FINDINGS AND PURPOSES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/s201/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Findings.—</heading><chapeau style="-uslm-dtd:text">The Congress finds that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s201/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">serious disruptions have recently occurred in the gasoline and diesel fuel markets of the United States;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s201/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">it is likely that such disruptions will recur;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s201/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">interstate commerce is significantly affected by those market disruptions;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s201/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">an urgent need exists to provide for emergency conservation and other measures with respect to gasoline, diesel fuel, home heating oil, and other energy sources in potentially short supply in order to cope with market disruptions and protect interstate commerce; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s201/a/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">up-to-date and reliable information concerning the supply and demand of gasoline, diesel fuel, and other related data is not available to the President, the Congress, or the public.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/s201/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Purposes.—</heading><chapeau style="-uslm-dtd:text">The purposes of this title are to—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s201/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">provide a means for the Federal Government, States, and units of local government to establish emergency conservation measures with respect to gasoline, diesel fuel, home heating oil, and other energy sources which may be in short supply;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s201/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">establish other emergency measures to alleviate disruptions in gasoline and diesel fuel markets;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s201/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">obtain data concerning such fuels; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s201/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">protect interstate commerce.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8501">42 U.S.C. 8501</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/s202" styleType="OLC" role="definitions">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">For purposes of this title—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s202/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">severe energy supply interruption</term>”, when used with respect to motor fuel or any other energy source, means a national energy supply shortage of such energy source which the President determines—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/s202/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">is, or is likely to be, of significant scope and duration;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/s202/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">may cause major adverse impact on national security or the national economy; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/s202/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">results, or is likely to result, from an interruption in the energy supplies of the United States, including supplies of imported petroleum products, or from sabotage or an act of God.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s202/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">international energy program</term>” has the meaning given that term in section 3(7) of the Energy Policy and Conservation Act (42 U.S.C. 6202).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s202/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">motor fuel</term>” means gasoline and diesel fuel.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s202/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">person</term>” includes (A) any individual, (B) any corporation, company, association, firm, partnership, society, trust, joint venture, or joint stock company, and (C) the government or any agency of the United States or any State or political subdivision thereof.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s202/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">vehicle</term>” means any vehicle propelled by motor fuel and manufactured primarily for use on public streets, roads, and highways.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s202/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Secretary</term>” means the Secretary of Energy.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s202/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Governor</term>” means the chief executive officer of a State.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/s202/8" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State</term>” means a State, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.</content>
+                    </paragraph>
+                </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8502">42 U.S.C. 8502</ref><b>]</b> </editorialNote>
+            </section>
+            <part style="-uslm-dtd:part; -uslm-dtd-nonstandard:cap-lc 10 bold" identifier="/us/sComp/96/102/tII/ptA" styleType="nonstandard">
+                <num style="-uslm-dtd:enum" value="A">part A—</num><heading style="-uslm-dtd:header">Emergency Energy Conservation Program </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/ptA/s211" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="211">SEC. 211. </num><heading style="-uslm-dtd:header">NATIONAL AND STATE EMERGENCY CONSERVATION TARGETS. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s211/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Determination and Publication of Targets.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s211/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Whenever the President finds, with respect to any energy source for which the President determines a severe energy supply interruption exists or is imminent or that actions to restrain domestic energy demand are required in order to fulfill the obligations of the United States under the international energy program, the President, in furtherance of the purposes of this title, may establish monthly emergency conservation targets for any such energy source for the Nation generally and for each State.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s211/a/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Any finding of the President under paragraph (1) shall be promptly transmitted to the Congress, accompanied by such information and analysis as is necessary to provide the basis for such finding, and shall be disseminated to the public.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s211/a/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s211/a/3/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The State conservation target for any energy source shall be equal to (i) the State base period consumption reduced by (ii) a uniform national percentage.</content></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s211/a/3/B" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">For the purposes of this subsection, the term “<term style="-uslm-dtd:term">State base period consumption</term>” means, for any month, the product of the following factors, as determined by the President:</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/96/102/tII/ptA/s211/a/3/B/i" styleType="OLC" class="leftIndentDecrease2">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the consumption of the energy source for which a target is established during the corresponding month in the 12-month period prior to the first month for which the target is established; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/96/102/tII/ptA/s211/a/3/B/ii" styleType="OLC" class="leftIndentDecrease2">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a growth adjustment factor, which shall be determined on the basis of the trends in the use in that State of such energy source during the 36-month period prior to the first month for which the target is established.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s211/a/3/C" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="C">(C)</num><clause style="-uslm-dtd:clause" identifier="/us/sComp/96/102/tII/ptA/s211/a/3/C/i" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">The President shall adjust, to the extent he determines necessary, any State base period consumption to insure that achievement of a target established for that State under this subsection will not impair the attainment of the objectives of section 4(b)(1) of the Emergency Petroleum Allocation Act of 1973 (15 U.S.C. 753(b)(1)).</content></clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/96/102/tII/ptA/s211/a/3/C/ii" styleType="OLC" class="leftIndentDecrease3">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">The President may, to the extent he determines appropriate, further adjust any State base period consumption to reflect—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/96/102/tII/ptA/s211/a/3/C/ii/I" styleType="OLC" class="leftIndentDecrease3">
+                                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">reduction in energy consumption already achieved by energy conservation programs;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/96/102/tII/ptA/s211/a/3/C/ii/II" styleType="OLC" class="leftIndentDecrease3">
+                                        <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">energy shortages which may affect energy consumption; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/96/102/tII/ptA/s211/a/3/C/ii/III" styleType="OLC" class="leftIndentDecrease3">
+                                        <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">variations in weather from seasonal norms.</content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s211/a/3/D" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">For purposes of this subsection, the uniform national percentage shall be designed by the President to minimize the impact on the domestic economy of the projected shortage in the energy source for which a target is established by saving an amount of such energy source equivalent to the projected shortage, taking into consideration such other factors related to that shortage as the President considers appropriate.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s211/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Notification and Publication of Targets.—</heading><content style="-uslm-dtd:text">The President shall notify the Governor of each State of each target established under subsection (a) for that State, and shall publish in the Federal Register, the targets, the base period consumption for each State and other data on which the targets are based, and the factors considered under subsection (a)(3).</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s211/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Establishment of Targets for Federal Agencies.—</heading><chapeau style="-uslm-dtd:text">In connection with the establishment of any national target under subsection (a) the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D). Such plan shall contain measures which the President will implement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s211/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by buildings, facilities, and equipment owned, leased, or under contract by the Federal Government; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s211/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by Federal employees and officials through increased use of car and van pooling, preferential parking for multipassenger vehicles, and greater use of mass transit.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s211/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Review of Targets.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s211/d/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">From time to time, the President shall review and, consistent with subsection (a), modify to the extent the President considers appropriate the national and State energy conservation targets established under this subsection.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s211/d/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Any modification under this paragraph shall be accompanied by such information and analysis as is necessary to provide the basis therefor and shall be available to the Congress and the public.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s211/d/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s211/d/3/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Before the end of the 12th month following the establishment of any conservation target under this section, and annually thereafter while such target is in effect, the President shall determine, for the energy source for which that target was established, whether a severe energy supply interruption exists or is imminent or that actions to restrain domestic energy demand are required in order to fulfill the obligations of the United States under the international energy program. The President shall transmit to the Congess and make public the information and other data on which any determination under this subparagraph is based.</content></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s211/d/3/B" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">If the President determines such an energy supply interruption does not exist or is not imminent or such actions are not required, the conservation targets established under this section with respect to such energy source shall cease to be effective.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s211/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Determination and Publication of Actual Consumption Nationally and State-by-State.—</heading><content style="-uslm-dtd:text">Each month the Secretary shall determine and publish in the Federal Register (1) the level of consumption for the most recent month for which the President determines accurate data is available, nationally and for each State, of any energy source for which a target under subsection (a) is in effect, and (2) whether the targets under subsection (a) have been substantially met or are likely to be met.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s211/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Presidential Authority Not To Be Delegated.—</heading><content style="-uslm-dtd:text">Notwithstanding any other provision of law, the authority vested in the President under this section may not be delegated.</content>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8511">42 U.S.C. 8511</ref><b>]</b> </editorialNote>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/ptA/s212" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="212">SEC. 212. </num><heading style="-uslm-dtd:header">STATE EMERGENCY CONSERVATION PLAN. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s212/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">State Emergency Conservation Plans.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s212/a/1/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Not later than 45 days after the date of the publication of an energy conservation target for a State under section 211(b), the Governor of that State shall submit to the Secretary a State emergency conservation plan designed to meet or exceed the emergency conservation target in effect for that State under section 211(a). Such plan shall contain such information as the Secretary may reasonably require. At any time, the Governor may, with the approval of the Secretary, amend a plan established under this section.</content></subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s212/a/1/B" styleType="OLC" class="leftIndentDecrease2">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The Secretary may, for good cause shown, extend to a specific date the period for the submission of any State's plan under subparagraph (A) if the Secretary publishes in the Federal Register notice of that extension together with the reasons therefor.</content>
+                        </subparagraph></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/a/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Each State is encouraged to submit to the Secretary a State emergency conservation plan as soon as possible after the date of the enactment of this Act and in advance of such publication of any such target. The Secretary may tentatively approve such a plan in accordance with the provisions of this section. For the purposes of this part such tentative approval shall not be construed to result in a delegation of Federal authority to administer or enforce any measure contained in a State plan.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s212/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conservation Measures Under State Plans.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Each State emergency conservation plan under this section shall provide for emergency reduction in the public and private use of each energy source for which an emergency conservation target is in effect under section 211. Such State plan shall contain adequate assurances that measures contained therein will be effectively implemented in that State. Such plan may provide for reduced use of that energy source through voluntary programs or through the application of one or more of the following measures described in such plan:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s212/b/1/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">measures which are authorized under the laws of that State and which will be administered and enforced by officers and employees of the State (or political subdivisions of the State) pursuant to the laws of such State (or political subdivisions); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s212/b/1/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">measures—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/96/102/tII/ptA/s212/b/1/B/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">which the Governor requests, and agrees to assume, the responsibility for administration and enforcement in accordance with subsection (d);</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/96/102/tII/ptA/s212/b/1/B/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">which the attorney general of that State has found that (I) absent a delegation of authority under Federal law, the Governor lacks the authority under the laws of the State to invoke, (II) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing under a delegation of authority pursuant to Federal law; and (III) if implemented, would not be contrary to State law; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/96/102/tII/ptA/s212/b/1/B/iii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">which either the Secretary determines are contained in the standby Federal conservation plan established under section 213 or are approved by the Secretary, in his discretion.</content>
+                            </clause>
+                        </subparagraph></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/b/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">In the preparation of such plan (and any amendment to the plan) the Governor shall, to the maximum extent practicable, provide for consultation with representatives of affected businesses and local governments and provide an opportunity for public comment.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/b/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Any State plan submitted to the Secretary under this section may permit persons affected by any measure in such plan to use alternative means of conserving at least as much energy as would be conserved by such measure. Such plan shall provide an effective procedure, as determined by the Secretary, for the approval and enforcement of such alternative means by such State or by any political subdivision of such State.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s212/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Approval of State Plans.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/c/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">As soon as practicable after the date of the receipt of any State plan, but in no event later than 30 days after such date, the Secretary shall review such plan and shall approve it unless the Secretary finds—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s212/c/1/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">that, taken as a whole, the plan is not likely to achieve the emergency conservation target established for that State under section 211(a) for each energy source involved,</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s212/c/1/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">that, taken as a whole, the plan is likely to impose an unreasonably disproportionate share of the burden of restrictions of energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof,</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s212/c/1/C" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">that the requirements of this part regarding the plan have not been met, or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s212/c/1/D" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">that a measure described in subsection (b)(1) is—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/96/102/tII/ptA/s212/c/1/D/i" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">inconsistent with any otherwise applicable Federal law (including any rule or regulation under such law),</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/96/102/tII/ptA/s212/c/1/D/ii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">an undue burden on interstate commerce, or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/96/102/tII/ptA/s212/c/1/D/iii" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">a tax, tariff, or user fee not authorized by State law.</content>
+                            </clause>
+                        </subparagraph></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/c/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Any measure contained in a State plan shall become effective in that State on the date the Secretary approves the plan under this subsection or such later date as may be prescribed in, or pursuant to, the plan.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s212/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">State Administration and Enforcement.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/d/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The authority to administer and enforce any measure described in subsection (b)(1)(B) which is in a State plan approved under this section is hereby delegated to the Governor of the State and the other State and local officers and employees designated by the Governor. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (e).</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/d/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">All delegation of authority under paragraph (1) with respect to any State shall be considered revoked effective upon a determination by the President that such delegation should be revoked, but only to the extent of that determination.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/d/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">If at any time the conditions of subsection (b)(1)(B)(ii) are no longer satisfied in any State with respect to any measure for which a delegation has been made under paragraph (1), the attorney general of that State shall transmit a written statement to that effect to the Governor of that State and to the President. Such delegation shall be considered revoked effective upon receipt by the President of such written statement and a determination by the President that such conditions are no longer satisfied, but only to the extent of that determination and consistent with such attorney general's statement.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/d/4" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Any revocation under paragraph (2) or (3) shall not affect any action or pending proceedings, administrative or civil, not finally determined on the date of such revocation, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such revocation.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s212/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Civil Penalty.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/e/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Whoever violates the requirements of any measure described in subsection (b)(1)(B) which is in a State plan in effect under this section shall be subject to a civil penalty of not to exceed $1,000 for each violation.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/e/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Any penalty under paragraph (1) may be assessed by the court in any action brought in any appropriate United States district court or any other court of competent jurisdiction. Except to the extent provided in paragraph (3), any such penalty collected shall be deposited into the general fund of the United States Treasury as miscellaneous receipts.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s212/e/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of measures the authority for which is delegated under subsection (d).</content>
+                        </paragraph>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8512">42 U.S.C. 8512</ref><b>]</b> </editorialNote>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/ptA/s213" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="213">SEC. 213. </num><heading style="-uslm-dtd:header">STANDBY FEDERAL CONSERVATION PLAN. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s213/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment of Standby Conservation Plan.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Within 90 days after the date of the enactment of this part, the Secretary, in accordance with section 501 of the Department of Energy Organization Act (42 U.S.C. 7191), shall establish a standby Federal emergency conservation plan. The Secretary may amend such plan at any time, and shall make such amendments public upon their adoption.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/a/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The plan under this section shall be consistent with the attainment of the objectives of section 4(b)(1) of the Emergency Petroleum Allocation Act of 1973 (15 U.S.C. 753(b)(1)), and shall provide for the emergency reduction in the public and private use of each energy source for which an emergency conservation target is in effect or may be in effect under section 211.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s213/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Implementation of Standby Conservation Plan.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">If the President finds—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s213/b/1/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">after a reasonable period of operation, but not less than 90 days, that a State emergency conservation plan approved and implemented under section 212 is not substantially meeting a conservation target established under section 211(a) for such State and it is likely that such target will continue to be unmet; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s213/b/1/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a shortage exists or is likely to exist in such State for the 60-day period beginning after such finding that is equal to or greater than 8 percent of the projected normal demand, as determined by the President, for an energy source for which such conservation target has been established under section 211(a);</content>
+                        </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">then the President shall, after consultation with the Governor of such State, make effective in such State all or any part of the standby Federal conservation plan established under subsection (a) for such period or periods as the President determines appropriate to achieve the target in that State.</continuation></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/b/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">If the President finds after a reasonable period of time, that the conservation target established under section 211(a) is not being substantially met and it is likely that such target will continue to be unmet in a State which—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s213/b/2/A" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">has no emergency conservation plan approved under section 212; or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s213/b/2/B" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the President finds has substantially failed to carry out the assurances regarding implementation set forth in the plan approved under section 212,</content>
+                            </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">then the President shall, after consultation with the Governor of such State, make effective in such State all or any part of the standby Federal conservation plan established under subsection (a) for such period or periods as the President determines appropriate to achieve the target in that State.</continuation>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s213/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Basis for Findings.—</heading><content style="-uslm-dtd:text">Any finding under subsection (b) shall be accompanied by such information and analysis as is necessary to provide a basis therefor and shall be available to the Congress and the public.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s213/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Submission of State Emergency Conservation Plan.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/d/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1)<ref style="-uslm-dtd:footnote-ref" idref="IDC005697EB0D84E9891666FC0438F7A4D" class="footnoteRef">1</ref> </num><content style="-uslm-dtd:text">The Governor of a State in which all or any portion of the standby Federal conservation plan is or will be in effect may submit at any time a State emergency conservation plan, and if it is approved under section 212(c), all or such portion of the standby Federal conservation plan shall cease to be effective in that State. Nothing in this paragraph shall affect any action or pending proceedings, administrative or civil, not finally determined on such date, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such cessation of effectiveness.</content><footnote id="IDC005697EB0D84E9891666FC0438F7A4D" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">So in original. Subsection (d) enacted without a paragraph (2).</p></footnote></paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s213/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">State Substitute Emergency Conservation Measures.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/e/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">After the President makes all or any part of the standby Federal conservation plan effective in any State or political subdivision under subsection (b), the Secretary shall provide procedures whereby such State or any political subdivision thereof may submit to the Secretary for approval one or more measures under authority of State or local law to be implemented by such State or political subdivision and to be substituted for any Federal measure in the Federal plan. The measures may include provisions whereby persons affected by such Federal measures are permitted to use alternative means of conserving at least as much energy as would be conserved by such Federal measure. Such measures shall provide effective procedures, as determined by the Secretary, for the approval and enforcement of such alternative means by such State or by any political subdivision thereof.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/e/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">The Secretary may approve the measures under paragraph (1) if he finds—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s213/e/2/A" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">that such measures when in effect will conserve at least as much energy as would be conserved by such Federal measure which would have otherwise been in effect in such State or political subdivision;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s213/e/2/B" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">such measures otherwise meet the requirements of this paragraph; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s213/e/2/C" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">such measures would be approved under section 212(c)(1) (B), (C), and (D).</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/e/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">If the Secretary approves measures under this subsection such Federal measure shall cease to be effective in that State or political subdivision. Nothing in this paragraph shall affect any action or pending proceedings, administrative or civil, not finally determined on the date the Federal measure ceases to be effective in that State or political subdivision, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such cessation of effectiveness.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/e/4" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">If the Secretary finds after a reasonable period of time that the requirements of this subsection are not being met under the measures in effect under this subsection he may reimpose the Federal measure referred to in paragraph (1).</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s213/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">State Authority To Administer Plan.—</heading><content style="-uslm-dtd:text">At the request of the Governor of any State, the President may provide that the administration and enforcement of all or a portion of the standby Federal conservation plan made effective in that State under subsection (b) be in accordance with section 212(d) (1), (2), and (4).</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s213/g" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Presidential Authority Not To Be Delegated.—</heading><content style="-uslm-dtd:text">Notwithstanding any other provision of law (other than subsection (f)), the authority vested in the President under this section may not be delegated.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s213/h" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Requirements of Plan.—</heading><chapeau style="-uslm-dtd:text">The plan established under subsection (a) shall—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/h/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">taken as a whole, be designed so that the plan, if implemented, would be likely to achieve the emergency conservation target under section 211 for which it would be implemented,</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/h/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">taken as a whole, be designed so as not to impose an unreasonably disproportionate share of the burden of restrictions on energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof, and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/h/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">not contain any measure which the Secretary finds—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s213/h/3/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">is inconsistent with any otherwise applicable Federal law (including any rule or regulation under such law),</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s213/h/3/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">is an undue burden on interstate commerce,</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s213/h/3/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">is a tax, tariff, or user fee, or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s213/h/3/D" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">is a program for the assignment of rights for end-user purchases of gasoline or diesel fuel, as described in section 203(a)(1) (A) and (B) of the Energy Policy and Conservation Act (42 U.S.C. 6263).</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s213/i" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Plan May Not Authorize Weekend Closings of Retail Gasoline Stations.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/i/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Except as provided in paragraph (2), the plan established under subsection (a) may not provide for the restriction of hours of sale of motor fuel at retail at any time between Friday noon and Sunday midnight.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/i/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Paragraph (1) shall not preclude the restriction on such hours of sale if that restriction occurs in connection with a program for restricting hours of sale of motor fuel each day of the week on a rotating basis.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s213/j" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="j">(j) </num><heading style="-uslm-dtd:header">Civil Penalties.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/j/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Whoever violates the requirements of such a plan implemented under subsection (b) shall be subject to a civil penalty not to exceed $1,000 for each violation.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/j/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Any penalty under paragraph (1) may be assessed by the court in any action brought in any appropriate United States district court or any other court of competent jurisdiction. Except to the extent provided under paragraph (3), any such penalty collected shall be deposited into the general fund of the United States Treasury as miscellaneous receipts.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s213/j/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of that portion of the standby Federal conservation plan for which authority is delegated to that State under subsection (f).</content>
+                        </paragraph>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8513">42 U.S.C. 8513</ref><b>]</b> </editorialNote>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/ptA/s214" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="214">SEC. 214. </num><heading style="-uslm-dtd:header">JUDICIAL REVIEW. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s214/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">State Actions.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s214/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Any State may institute an action in the appropriate district court of the United States, including actions for declaratory judgment, for judicial review of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s214/a/1/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any target established by the President under section 211(a);</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s214/a/1/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any finding by the President under section 213(b)(1)(A), relating to the achievement of the emergency energy conservation target of such State, or 213(b)(2), relating to the achievement of the emergency energy conservation target of such State or the failure to carry out the assurances regarding implementation contained in an approved plan of such State; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptA/s214/a/1/C" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">any determination by the Secretary disapproving a State plan under section 212(c), including any determination by the Secretary under section 212(c)(1)(B) that the plan is likely to impose an unreasonably disproportionate share of the burden of restrictions of energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof.</content>
+                        </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">Such action shall be barred unless it is instituted within 30 calendar days after the date of publication of the establishment of a target referred to in subparagraph (A), the finding by the President referred to in subparagraph (B), or the determination by the Secretary referred to in subparagraph (C), as the case may be.</continuation></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s214/a/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The district court shall determine the questions of law and upon such determination certify such questions immediately to the United States court of appeals for the circuit involved, which shall hear the matter sitting en banc.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptA/s214/a/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Any decision by such court of appeals on a matter certified under paragraph (2) shall be reviewable by the Supreme Court upon attainment of a writ of certiorari. Any petition for such a writ shall be filed no later than 20 days after the decision of the court of appeals.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s214/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Repealed by P.L. 98–620.<b>]</b> </editorialNote>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s214/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Injunctive Relief.—</heading><content style="-uslm-dtd:text">With respect to judicial review under subsection (a)(1)(A), the court shall not have jurisdiction to grant any injunctive relief except in conjunction with a final judgment entered in the case.</content>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8514">42 U.S.C. 8514</ref><b>]</b> </editorialNote>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/ptA/s215" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="215">SEC. 215. </num><heading style="-uslm-dtd:header">REPORTS. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s215/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Monitoring.—</heading><content style="-uslm-dtd:text">The Secretary shall monitor the implementation of State emergency conservation plans and of the standby Federal conservation plan and make such recommendations to the Governor of each affected State as he deems appropriate for modification to such plans.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptA/s215/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Annual Report.—</heading><content style="-uslm-dtd:text">The President shall report annually to the Congress on any activities undertaken pursuant to this part and include in such report his estimate of the energy saved in each State and the performance of such State in relation to this part. Such report shall contain such recommendations as the President considers appropriate.</content>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8515">42 U.S.C. 8515</ref>.<b>]</b> </editorialNote>
+                </section>
+            </part>
+            <part style="-uslm-dtd:part; -uslm-dtd-nonstandard:cap-lc 10 bold" identifier="/us/sComp/96/102/tII/ptB" styleType="nonstandard">
+                <num style="-uslm-dtd:enum" value="B">part B—</num><heading style="-uslm-dtd:header">Other Automobile Fuel Purchase Measures </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/ptB/s221" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="221">SEC. 221. </num><heading style="-uslm-dtd:header">MINIMUM AUTOMOBILE FUEL PURCHASES. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptB/s221/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">General Rule.—</heading><chapeau style="-uslm-dtd:text">If the provisions of this subsection are made applicable under subsection (c), no person shall purchase motor fuel from a motor fuel retailer in any transaction for use in any automobile or other vehicle unless—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/a/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the price for the quantity purchased and placed into the fuel tank of that vehicle equals or exceeds $5.00; or</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/a/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in any case in which the amount paid for the quantity of motor fuel necessary to fill the fuel tank of that vehicle to capacity is less than $5.00, such person pays to the retailer an additional amount so that the total amount paid in that transaction equals $5.00.</content>
+                        </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">Any person selling motor fuel in transactions to which the provisions of this subsection apply shall display at the point of sale notice of such provisions in accordance with regulations prescribed by the Secretary.</continuation>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptB/s221/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header"><inline style="-uslm-dtd:enum-in-header">$7.00 </inline>To Be Applicable in the Case of 8-Cylinder Vehicles.—</heading><content style="-uslm-dtd:text">In applying subsection (a) in the case of any vehicle with an engine having 8 cylinders (or more), “<quotedText style="-uslm-dtd:quote">$7.00</quotedText>” shall be substituted for “<quotedText style="-uslm-dtd:quote">$5.00</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptB/s221/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Applicability.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/c/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Unless applicable pursuant to paragraph (2), the requirements of subsection (a) shall apply in any State and shall be administered and enforced as provided in subsection (g) only if—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptB/s221/c/1/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Governor of that State submits a request to the Secretary to have such requirements applicable in that State; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptB/s221/c/1/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the attorney general of that State has found that (i) absent a delegation of authority under a Federal law, the Governor lacks the authority under the laws of the State to invoke comparable requirements, (ii) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing such requirements under a delegation of authority pursuant to Federal law, and (iii) if implemented such requirements would not be contrary to State law.</content>
+                        </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">Subject to paragraph (2), such provisions shall cease to apply in any State if the Governor of the State withdraws any request under subparagraph (A).</continuation></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/c/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The requirements of subsection (a) shall apply in every State if there is in effect a finding by the President that nationwide implementation of such requirements would be appropriate and consistent with the purposes of this title.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/c/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Such requirements shall take effect in any State beginning on the 5th day after the Secretary or the President (as the case may be) publishes notice in the Federal Register of the applicability of the requirements to the State pursuant to paragraph (1) or (2).</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/c/4" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Notwithstanding any other provision of law, the authority vested in the President under paragraph (2) may not be delegated.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptB/s221/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Exemptions.—</heading><content style="-uslm-dtd:text">The requirements of subsection (a) shall not apply to any motorcycle or motorpowered bicycle, or to any comparable vehicle as may be determined by the Secretary by regulation.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptB/s221/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Adjustment of Minimum Levels.—</heading><content style="-uslm-dtd:text">The Secretary may increase the $5.00 and $7.00 amounts specified in subsections (a) and (b) if the Secretary considers it appropriate. Adjustments under this subsection shall be only in even dollar amounts.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptB/s221/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Civil Penalties.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/f/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Whoever violates the requirements of subsection (a) shall be subject to a civil penalty of not to exceed $100 for each violation.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/f/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Any penalty under paragraph (1) may be assessed by the court in any action under this section brought in any appropriate United States district court or any other court of competent jurisdiction. Except to the extent provided in paragraph (3), any such penalty collected shall be deposited into the general fund of the United States Treasury as miscellaneous receipts.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/f/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of the requirements of subsection (a) the authority for which is delegated under subsection (g).</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptB/s221/g" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Administration and Enforcement Delegated to States.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/g/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">There is hereby delegated to the Governor of any State, and other State and local officers and employees designated by the Governor, the authority to administer and enforce, within that State, any provision of this part which is to be administered and enforced in accordance with this section. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (f).</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/g/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptB/s221/g/2/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">All delegation of authority under paragraph (1) with respect to any State shall be considered revoked effective (i) upon the receipt of a written waiver of authority signed by the Governor of such State or (ii) upon a determination by the President that such delegation should be revoked, but only to the extent of that determination.</content></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptB/s221/g/2/B" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">If at any time the conditions of subsection (c)(1)(B) are no longer satisfied in any State to which a delegation has been made under paragraph (1), the attorney general of that State shall transmit a written statement to that effect to the Governor of that State and to the President. Such delegation shall be considered revoked effective upon receipt by the President of such written statement and a determination by the President that such conditions are no longer satisfied, but only to the extent of that determination and consistent with such attorney general's statement.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptB/s221/g/2/C" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Any revocation under subparagraph (A) or (B) shall not affect any action or pending proceedings, administrative or civil, not finally determined on the date of such revocation, nor any administrative or civil action or proceeding, whether or not pending, based on any act committed or liability incurred prior to such revocation.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptB/s221/g/2/D" styleType="OLC" class="leftIndentDecrease2">
+                                <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">The Secretary shall administer and enforce any provision of this part which has been made effective under subsection (c)(2) and for which a delegation of authority is considered revoked under subparagraph (A).</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptB/s221/h" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Coordination With Other Law.—</heading><chapeau style="-uslm-dtd:text">The charging and collecting of amounts referred to in subsection (a)(2) under the requirements of subsection (a), or similar amounts collected under comparable requirements under any State law, shall not be considered a violation of—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/h/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Emergency Petroleum Allocation Act of 1973 or any regulation thereunder; or</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptB/s221/h/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">any Federal or State law requiring the labeling or disclosure of the maximum price per gallon of any fuel.</content>
+                        </paragraph>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8521">42 U.S.C. 8521</ref><b>]</b> </editorialNote>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/ptB/s222" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="222">SEC. 222. </num><heading style="-uslm-dtd:header">OUT-OF-STATE VEHICLES TO BE EXEMPTED FROM ODD-EVEN MOTOR FUEL PURCHASE RESTRICTIONS. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptB/s222/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">General Rule.—</heading><content style="-uslm-dtd:text">Notwithstanding any provision of any Federal, State, or local law, any odd-even fuel purchase plan in effect in any State may not prohibit the sale of motor fuel to any person for use in a vehicle bearing a license plate issued by any authority other than that State or a State contiguous to that State.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptB/s222/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Definitions.—</heading><content style="-uslm-dtd:text">For purposes of this section the term “<term style="-uslm-dtd:term">odd-even fuel purchase plan</term>” means any motor fuel sales restriction under which a person may purchase motor fuel for use in any vehicle only on days (or other periods of time) determined on the basis of a number or letter appearing on the license plate of that vehicle (or on any similar basis).</content>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8522">42 U.S.C. 8522</ref><b>]</b> </editorialNote>
+                </section>
+            </part>
+            <part style="-uslm-dtd:part; -uslm-dtd-nonstandard:cap-lc 10 bold" identifier="/us/sComp/96/102/tII/ptC" styleType="nonstandard">
+                <num style="-uslm-dtd:enum" value="C">part C—</num><heading style="-uslm-dtd:header">Building Temperature Restrictions </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/ptC/s231" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="231">SEC. 231. </num><heading style="-uslm-dtd:header">AMENDMENT TO ENERGY POLICY AND CONSERVATION ACT. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 202 of Energy Policy and Conservation Act, as amended by this section, can be found at the beginning of this volume.<b>]</b> </editorialNote>
+                </section>
+            </part>
+            <part style="-uslm-dtd:part; -uslm-dtd-nonstandard:cap-lc 10 bold" identifier="/us/sComp/96/102/tII/ptD" styleType="nonstandard">
+                <num style="-uslm-dtd:enum" value="D">part D—</num><heading style="-uslm-dtd:header">Studies </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/ptD/s241" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="241">SEC. 241. </num><heading style="-uslm-dtd:header">STUDIES. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptD/s241/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Study of Commercial and Industrial Storage of Fuel.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of this part, the Secretary shall conduct a study and report to the Congress regarding the commercial and industrial storage of gasoline and middle distillates (other than storage in facilities which have capacities of less than 500 gallons or storage used exclusively and directly for agricultural, residential, petroleum refining, or pipeline transportation purposes).</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptD/s241/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Contents of Report.—</heading><chapeau style="-uslm-dtd:text">Such report shall—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptD/s241/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">indicate to what extent storage activities have increased since November 1, 1978, and what business establishments (including utilities) have been involved;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptD/s241/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the estimated amount of gasoline and middle distillates (in the aggregate and by type and region) which are in storage within the United States at the time of the study, the amounts which were in storage at the same time during the calendar year preceding the study, and the purposes for which such storage is maintained; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptD/s241/b/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">contain such findings and recommendations for legislation and administrative action as the Secretary considers appropriate, including recommendations for improving the availability and quality of data concerning such storage.</content>
+                        </paragraph>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8531">42 U.S.C. 8531</ref><b>]</b> </editorialNote>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/ptD/s242" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="242">SEC. 242. </num><heading style="-uslm-dtd:header">MIDDLE DISTILLATE MONITORING PROGRAM. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptD/s242/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Monitoring Program.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptD/s242/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Not later than 60 days after the date of the enactment of this Act, the Secretary shall establish and maintain a data collection program for monitoring, at the refining, wholesale, and retail levels, the supply and demand levels of middle distillates on a periodic basis in each State.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptD/s242/a/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">The program to be established under paragraph (1) shall provide for—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptD/s242/a/2/A" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the prompt collection of relevant demand and supply data under the authority available to the Secretary under other law; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/96/102/tII/ptD/s242/a/2/B" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the submission to Congress of periodic reports each containing a concise narrative analysis of the most recent data which the Secretary determines are accurate, and a discussion on a State-by-State basis of trends in such data which the Secretary determines are significant.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptD/s242/a/3" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">All data and information collected under this program shall be available to the Congress and committees of the Congress, and, in accordance with otherwise applicable law, to appropriate State and Federal agencies and the public.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptD/s242/a/4" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Nothing in this subsection authorizes the direct or indirect regulation of the price of any middle distillate.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptD/s242/a/5" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">For purposes of this section, the term “<term style="-uslm-dtd:term">middle distillate</term>” has the same meaning as given that term in section 211.51 of title 10, Code of Federal Regulations, as in effect on the date of the enactment of this section.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptD/s242/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Before December 31, 1979, the President shall submit a report to Congress in which the President shall examine the middle distillate situation, summarizing the data, information, and analyses described in subsection (a) and discussing in detail matters required to be addressed in findings made pursuant to section 12(d)(1) of the Emergency Petroleum Allocation Act of 1973 (15 U.S.C. 760(d)(1)).</content>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8532">42 U.S.C. 8532</ref><b>]</b> </editorialNote>
+                </section>
+            </part>
+            <part style="-uslm-dtd:part; -uslm-dtd-nonstandard:cap-lc 10 bold" identifier="/us/sComp/96/102/tII/ptE" styleType="nonstandard">
+                <num style="-uslm-dtd:enum" value="E">part E—</num><heading style="-uslm-dtd:header">Administrative Provisions </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tII/ptE/s251" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="251">SEC. 251. </num><heading style="-uslm-dtd:header">ADMINISTRATION. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptE/s251/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Information.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptE/s251/a/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Secretary shall use the authority provided under section 11 of the Energy Supply and Environmental Coordination Act of 1974 for the collection of such information as may be necessary for the enforcement of the provisions of parts A and B of this title.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptE/s251/a/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">In carrying out his responsibilities under this title, the Secretary shall insure that timely and adequate information concerning the supplies, pricing, and distribution of motor fuels (and other energy sources which are the subject of targets in effect under section 211) is obtained, analyzed, and made available to the public. Any Federal agency having responsibility for collection of such information under any other authority shall cooperate fully in facilitating the collection of such information.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptE/s251/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Effect on Other Laws.—</heading><content style="-uslm-dtd:text">No State law or State program in effect on the date of the enactment of this title, or which may become effective thereafter, shall be superseded by any provision of this title, or any rule, regulation, or order thereunder, except insofar as such State law or State program is in conflict with any such provision of section 213 or 221 (or any rule, regulation, or order under this part relating thereto) in any case in which measures have been implemented in that State under the authority of section 213 or 221 (as the case may be).</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/96/102/tII/ptE/s251/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Termination.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptE/s251/c/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The provisions of parts A, B, D, and E of this title, including any actions taken thereunder, shall cease to have effect on July 1, 1983.</content></paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/96/102/tII/ptE/s251/c/2" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Such expiration shall not affect any action or pending proceeding, administrative or civil, not finally determined on such date, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such expiration date.</content>
+                        </paragraph>
+                    </subsection><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8541">42 U.S.C. 8541</ref><b>]</b> </editorialNote>
+                </section>
+            </part>
+        </title>
+        <title style="-uslm-dtd:title; -uslm-dtd-nonstandard:all-cap 10 bold" identifier="/us/sComp/96/102/tIII" styleType="nonstandard">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">GENERAL PROVISIONS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tIII/s301" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><heading style="-uslm-dtd:header">FUNDING FOR FISCAL YEARS 1979 AND 1980. </heading>
+                <content style="-uslm-dtd:text" class="block">For purposes of any law relating to appropriations or authorizations for appropriations as such law relates to the fiscal year ending September 30, 1979, or the fiscal year ending September 30, 1980, the provisions of this Act (including amendments made by this Act) shall be treated as if it were a contingency plan under section 202 or 203 of the Energy Policy and Conservation Act which was approved in accordance with the procedures under that Act or as otherwise provided by law, and funds made available pursuant to such appropriations shall be available to carry out the provisions of this Act and the amendments made by this Act.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s8501">42 U.S.C. 8501 note</ref><b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/96/102/tIII/s302" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><heading style="-uslm-dtd:header">EFFECTIVE DATE. </heading>
+                <content style="-uslm-dtd:text" class="block">The amendments made by this Act shall take effect on the date of the enactment of this Act.</content><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t42/s6261">42 U.S.C. 6261 note</ref><b>]</b> </editorialNote>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

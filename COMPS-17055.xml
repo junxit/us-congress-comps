@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Modernizing Access to Our Public Land Act</dc:title>
+        <citableAs>Public Law 117–114, as amended</citableAs>
+        <citableAsShortTitle>Modernizing Access to Our Public Land Act</citableAsShortTitle>
+        <docNumber>114</docNumber>
+        <currentThroughPublicLaw>118–234</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
+        <processedDate>2025-01-31</processedDate>
+        <containsShortTitle>Modernizing Access to Our Public Land Act</containsShortTitle>
+        <property role="fileId">17055</property>
+        <congress>117</congress>
+        <approvedDate>2022-04-29</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Modernizing Access to Our Public Land Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 117–114</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 118–234</currentThroughPublicLaw>, Enacted <date date="2025-01-04">January 4, 2025</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 117–114. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To require the Secretary of the Interior, the Secretary of Agriculture, and the Assistant Secretary of the Army for Civil Works to digitize and make publicly available geographic information system mapping data relating to public access to Federal land and waters for outdoor recreation, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/117/114/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s6851">16 U.S.C. 6851 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content class="block" style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Modernizing Access to Our Public Land Act</shortTitle>”.</content>
+        </section>
+        <section identifier="/us/sComp/117/114/s2" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s6851">16 U.S.C. 6851</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">In this Act:</chapeau>
+            <paragraph identifier="/us/sComp/117/114/s2/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Federal land.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Federal land</term>” means any land managed by a Federal land management agency.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/114/s2/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Federal land management agency.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Federal land management agency</term>” means—</chapeau>
+                <subparagraph identifier="/us/sComp/117/114/s2/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Bureau of Reclamation;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/114/s2/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the National Park Service;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/114/s2/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Bureau of Land Management;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/114/s2/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the United States Fish and Wildlife Service;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/114/s2/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the Forest Service; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/114/s2/2/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the Corps of Engineers.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/114/s2/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Road or trail.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">road or trail</term>” means a road or trail designated by 1 or more of the Secretaries for public use.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/114/s2/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Secretaries.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Secretaries</term>” means—</chapeau>
+                <subparagraph identifier="/us/sComp/117/114/s2/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Secretary of Agriculture, acting through the Chief of the Forest Service;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/114/s2/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Secretary of the Interior; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/114/s2/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works.</content>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/117/114/s3" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s6852">16 U.S.C. 6852</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">INTERAGENCY DATA STANDARDIZATION. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">Not later than 30 months after the date of enactment of this Act, the Secretaries shall jointly develop and adopt interagency standards to ensure compatibility and interoperability among applicable Federal databases with respect to the collection and dissemination of data—</chapeau>
+            <paragraph identifier="/us/sComp/117/114/s3/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">relating to recreation sites on Federal land; and</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/114/s3/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">used to depict locations at which recreation uses are available to the public.</content>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/117/114/s4" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s6853">16 U.S.C. 6853</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DIGITIZATION AND PUBLICATION OF EASEMENTS. </heading>
+            <subsection identifier="/us/sComp/117/114/s4/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Not later than 4 years after the date of enactment of this Act, each of the Secretaries, to the maximum extent practicable, shall digitize and publish on the applicable agency website geographic information system mapping data that specifies, with respect to the relevant Secretary, all Federal interests in private land, including easements (other than flowage easements), reservations, and rights-of-way—</chapeau>
+                <paragraph identifier="/us/sComp/117/114/s4/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">to which the Federal Government does not have a fee title interest; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/114/s4/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">that may be used to provide public recreational access to the Federal land.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/114/s4/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Public Comment.—</heading><content style="-uslm-dtd:text">The Secretaries shall develop a process to allow members of the public to submit questions or comments regarding the information described in subsection (a).</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/114/s5" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s6854">16 U.S.C. 6854</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DATA CONSOLIDATION AND PUBLICATION OF ROUTE AND AREA DATA FOR PUBLIC RECREATIONAL USE. </heading>
+            <subsection identifier="/us/sComp/117/114/s5/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Beginning not later than 5 years after the date of enactment of this Act, each of the Secretaries, to the maximum extent practicable, shall make publicly available on the website of the Department of the Interior, the Forest Service, and the Corps of Engineers, as applicable, geographic information system data with respect to the following:</chapeau>
+                <paragraph identifier="/us/sComp/117/114/s5/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Status information with respect to whether roads and trails on the Federal land are open or closed.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/114/s5/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The dates on which roads and trails on the Federal land are seasonally closed.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/114/s5/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">The classes of vehicles and types of recreational uses that are allowed on each segment of roads and trails on the Federal land, including the permissibility of—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/114/s5/a/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">off-highway vehicles;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/114/s5/a/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">motorcycles;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/114/s5/a/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">nonmotorized bicycles;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/114/s5/a/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">electric bicycles;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/114/s5/a/3/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">passenger vehicles;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/114/s5/a/3/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">nonmechanized transportation; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/114/s5/a/3/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">over-snow vehicles.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/114/s5/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The boundaries of areas where hunting or recreational shooting (including archery, firearm discharge, and target shooting) is regulated or closed on the Federal land.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/114/s5/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Updates.—</heading>
+                <paragraph identifier="/us/sComp/117/114/s5/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretaries, to the maximum extent practicable, shall update the data described in subsection (a) not less frequently than twice per year.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/114/s5/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Public comment.—</heading><content style="-uslm-dtd:text">The Secretaries shall develop a process to allow members of the public to submit questions or comments regarding the information described in subsection (a).</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/114/s5/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effect.—</heading><content style="-uslm-dtd:text">Geographic information system data made publicly available under subsection (a) shall not disclose information regarding the nature, location, character, or ownership of historic, paleontological, or archaeological resources, consistent with applicable law.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/114/s6" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s6855">16 U.S.C. 6855</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">COOPERATION AND COORDINATION. </heading>
+            <subsection identifier="/us/sComp/117/114/s6/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Third-party Providers.—</heading><content style="-uslm-dtd:text">The Secretaries may enter into an agreement with a third party to carry out any provision of this Act.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/114/s6/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">US Geological Survey.—</heading><content style="-uslm-dtd:text">The Secretaries shall work with the Director of the United States Geological Survey to collect, aggregate, digitize, standardize, or publish data on behalf of the Secretaries to meet the requirements of this Act.</content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/114/s7" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s6856">16 U.S.C. 6856</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REPORTS. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act and annually thereafter through March 30, 2031, the Secretaries shall submit a report on the progress made by the Secretaries with respect to meeting the requirements of this Act to—</chapeau>
+            <paragraph identifier="/us/sComp/117/114/s7/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Committee on Energy and Natural Resources of the Senate;</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/114/s7/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the Committee on Environment and Public Works of the Senate;</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/114/s7/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the Committee on Natural Resources of the House of Representatives; and</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/114/s7/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the Committee on Transportation and Infrastructure of the House of Representatives.</content>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/117/114/s8" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s6857">16 U.S.C. 6857</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">There are authorized to be appropriated—</chapeau>
+            <paragraph identifier="/us/sComp/117/114/s8/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">to the Secretary of the Interior to carry out this Act—</chapeau>
+                <subparagraph identifier="/us/sComp/117/114/s8/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">$2,500,000 for fiscal year 2022; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/114/s8/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">$5,500,000 for each of fiscal years 2023 through 2025;</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/114/s8/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">to the Secretary of Agriculture to carry out this Act—</chapeau>
+                <subparagraph identifier="/us/sComp/117/114/s8/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">$2,500,000 for fiscal year 2022; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/114/s8/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">$5,500,000 for each of fiscal years 2023 through 2025; and</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/114/s8/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">to the Secretary of the Army to carry out this Act—</chapeau>
+                <subparagraph identifier="/us/sComp/117/114/s8/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">$1,500,000 for fiscal year 2022; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/114/s8/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">$2,500,000 for each of fiscal years 2023 through 2025.</content>
+                </subparagraph>
+            </paragraph>
+        </section>
+    </main>
+</statuteCompilation>

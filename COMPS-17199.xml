@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Quantum Computing Cybersecurity Preparedness Act</dc:title>
+        <citableAs>Public Law 117–260</citableAs>
+        <citableAsShortTitle>Quantum Computing Cybersecurity Preparedness Act</citableAsShortTitle>
+        <docNumber>260</docNumber>
+        <currentThroughPublicLaw>117–260</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2023-02-03</processedDate>
+        <containsShortTitle>Quantum Computing Cybersecurity Preparedness Act</containsShortTitle>
+        <property role="fileId">17199</property>
+        <congress>117</congress>
+        <approvedDate>2022-12-21</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Quantum Computing Cybersecurity Preparedness Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 117–260</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 117-260. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To encourage the migration of Federal Government information technology systems to quantum-resistant cryptography, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section identifier="/us/sComp/117/260/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t6/s1500">6 U.S.C. 1500 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content class="block" style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Quantum Computing Cybersecurity Preparedness Act</shortTitle>”.</content>
+        </section>
+        <section identifier="/us/sComp/117/260/s2" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t6/s1526">6 U.S.C. 1526 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FINDINGS; SENSE OF CONGRESS. </heading>
+            <subsection identifier="/us/sComp/117/260/s2/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Findings.—</heading><chapeau style="-uslm-dtd:text">Congress finds the following:</chapeau>
+                <paragraph identifier="/us/sComp/117/260/s2/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Cryptography is essential for the national security of the United States and the functioning of the economy of the United States.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/260/s2/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The most widespread encryption protocols today rely on computational limits of classical computers to provide cybersecurity.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/260/s2/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">Quantum computers might one day have the ability to push computational boundaries, allowing us to solve problems that have been intractable thus far, such as integer factorization, which is important for encryption.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/260/s2/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The rapid progress of quantum computing suggests the potential for adversaries of the United States to steal sensitive encrypted data today using classical computers, and wait until sufficiently powerful quantum systems are available to decrypt it.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/260/s2/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Sense of Congress.—</heading><chapeau style="-uslm-dtd:text">It is the sense of Congress that—</chapeau>
+                <paragraph identifier="/us/sComp/117/260/s2/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a strategy for the migration of information technology of the Federal Government to post-quantum cryptography is needed; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/260/s2/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the governmentwide and industrywide approach to post-quantum cryptography should prioritize developing applications, hardware intellectual property, and software that can be easily updated to support cryptographic agility.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/260/s3" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t6/s1526">6 U.S.C. 1526 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">In this Act:</chapeau>
+            <paragraph identifier="/us/sComp/117/260/s3/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Agency .—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">agency</term>”—</chapeau>
+                <subparagraph identifier="/us/sComp/117/260/s3/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/117/260/s3/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">does not include—</chapeau>
+                    <clause identifier="/us/sComp/117/260/s3/1/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the Government Accountability Office; or</content>
+                    </clause>
+                    <clause identifier="/us/sComp/117/260/s3/1/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the governments of the District of Columbia and of the territories and possessions of the United States, and their various subdivisions.</content>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/260/s3/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Classical computer.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">classical computer</term>” means a device that accepts digital data and manipulates the information based on a program or sequence of instructions for how data is to be processed and encodes information in binary bits that can either be 0s or 1s.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/260/s3/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Director of cisa.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Director of CISA</term>” means the Director of the Cybersecurity and Infrastructure Security Agency.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/260/s3/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Director of nist.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Director of NIST</term>” means the Director of the National Institute of Standards and Technology.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/260/s3/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Director of omb.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Director of OMB</term>” means the Director of the Office of Management and Budget.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/260/s3/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Information technology.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">information technology</term>” has the meaning given the term in section 3502 of title 44, United States Code.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/260/s3/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">National security system.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">national security system</term>” has the meaning given the term in section 3552 of title 44, United States Code.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/260/s3/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Post-quantum cryptography.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">post-quantum cryptography</term>” means those cryptographic algorithms or methods that are assessed not to be specifically vulnerable to attack by either a quantum computer or classical computer.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/117/260/s3/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Quantum computer.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">quantum computer</term>” means a computer that uses the collective properties of quantum states, such as superposition, interference, and entanglement, to perform calculations.</content>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/117/260/s4" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t6/s1526">6 U.S.C. 1526</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">INVENTORY OF CRYPTOGRAPHIC SYSTEMS; MIGRATION TO POST-QUANTUM CRYPTOGRAPHY. </heading>
+            <subsection identifier="/us/sComp/117/260/s4/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Inventory.—</heading>
+                <paragraph identifier="/us/sComp/117/260/s4/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment. </heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Director of OMB, in coordination with the National Cyber Director and in consultation with the Director of CISA, shall issue guidance on the migration of information technology to post-quantum cryptography, which shall include at a minimum—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/260/s4/a/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a requirement for each agency to establish and maintain a current inventory of information technology in use by the agency that is vulnerable to decryption by quantum computers, prioritized using the criteria described in subparagraph (B);</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/260/s4/a/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">criteria to allow agencies to prioritize their inventory efforts; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/260/s4/a/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">a description of the information required to be reported pursuant to subsection (b).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/260/s4/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Additional content in guidance.—</heading><chapeau style="-uslm-dtd:text">In the guidance established by paragraph (1), the Director of OMB shall include, in addition to the requirements described in that paragraph—</chapeau>
+                    <subparagraph identifier="/us/sComp/117/260/s4/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a description of information technology to be prioritized for migration to post-quantum cryptography; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/260/s4/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a process for evaluating progress on migrating information technology to post-quantum cryptography, which shall be automated to the greatest extent practicable.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/260/s4/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Periodic updates.—</heading><content style="-uslm-dtd:text">The Director of OMB shall update the guidance required under paragraph (1) as the Director of OMB determines necessary, in coordination with the National Cyber Director and in consultation with the Director of CISA.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/260/s4/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Agency Reports.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, and on an ongoing basis thereafter, the head of each agency shall provide to the Director of OMB, the Director of CISA, and the National Cyber Director—</chapeau>
+                <paragraph identifier="/us/sComp/117/260/s4/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the inventory described in subsection (a)(1); and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/260/s4/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">any other information required to be reported under subsection (a)(1)(C).</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/260/s4/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Migration and Assessment. </heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date on which the Director of NIST has issued post-quantum cryptography standards, the Director of OMB shall issue guidance requiring each agency to—</chapeau>
+                <paragraph identifier="/us/sComp/117/260/s4/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">prioritize information technology described under subsection (a)(2)(A) for migration to post-quantum cryptography; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/260/s4/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">develop a plan to migrate information technology of the agency to post-quantum cryptography consistent with the prioritization under paragraph (1).</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/117/260/s4/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Interoperability. </heading><content style="-uslm-dtd:text">The Director of OMB shall ensure that the prioritizations made under subsection (c)(1) are assessed and coordinated to ensure interoperability.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/260/s4/e" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Office of Management and Budget Reports.—</heading>
+                <paragraph identifier="/us/sComp/117/260/s4/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Report on post-quantum cryptography.—</heading><chapeau style="-uslm-dtd:text">Not later than 15 months after the date of enactment of this Act, the Director of OMB, in coordination with the National Cyber Director and in consultation with the Director of CISA, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report on the following:</chapeau>
+                    <subparagraph identifier="/us/sComp/117/260/s4/e/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">A strategy to address the risk posed by the vulnerabilities of information technology of agencies to weakened encryption due to the potential and possible capability of a quantum computer to breach that encryption.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/260/s4/e/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">An estimate of the amount of funding needed by agencies to secure the information technology described in subsection (a)(1)(A) from the risk posed by an adversary of the United States using a quantum computer to breach the encryption of the information technology.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/117/260/s4/e/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">A description of Federal civilian executive branch coordination efforts led by the National Institute of Standards and Technology, including timelines, to develop standards for post-quantum cryptography, including any Federal Information Processing Standards developed under chapter 35 of title 44, United States Code, as well as standards developed through voluntary, consensus standards bodies such as the International Organization for Standardization.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/117/260/s4/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Report on migration to post-quantum cryptography in information technology.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date on which the Director of OMB issues guidance under 
+subsection (c)(2), and thereafter until the date that is 5 years after the date on which post-quantum cryptographic standards are issued, the Director of OMB, in coordination with the National Cyber Director and in consultation with the Director of CISA, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives, with the report submitted pursuant to section 3553(c) of title 44, United States Code, a report on the progress of agencies in adopting post-quantum cryptography standards.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/117/260/s5" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t6/s1526">6 U.S.C. 1526 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EXEMPTION OF NATIONAL SECURITY SYSTEMS. </heading>
+            <content class="block" style="-uslm-dtd:text">This Act shall not apply to any national security system.</content>
+        </section>
+        <section identifier="/us/sComp/117/260/s6" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><heading style="-uslm-dtd:header">DETERMINATION OF BUDGETARY EFFECTS. </heading>
+            <content class="block" style="-uslm-dtd:text">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</content>
+        </section>
+    </main>
+</statuteCompilation>

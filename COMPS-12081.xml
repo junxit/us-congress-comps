@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>PIPES Act of 2016</dc:title>
+        <citableAs>Public Law 114–183, as amended</citableAs>
+        <citableAsShortTitle>PIPES Act of 2016</citableAsShortTitle>
+        <docNumber>183</docNumber>
+        <currentThroughPublicLaw>116–260</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>PIPES Act of 2016</containsShortTitle>
+        <containsShortTitle>Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016</containsShortTitle>
+        <property role="fileId">12081</property>
+        <congress>114</congress>
+        <approvedDate>2016-06-22</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">PIPES Act of 2016</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 114–183</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 116–260</currentThroughPublicLaw>, Enacted <date date="2020-12-27">December 27, 2020</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 114-183. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend title 49, United States Code, to provide enhanced safety in pipeline transportation, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s60101">49 U.S.C. 60101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016</shortTitle>” or the “<shortTitle style="-uslm-dtd:quote">PIPES Act of 2016</shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents of this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 2.</designator><label> Authorization of appropriations.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 3.</designator><label> Regulatory updates.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 4.</designator><label> Natural gas integrity management review.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 5.</designator><label> Hazardous liquid integrity management review.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 6.</designator><label> Technical safety standards committees.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 7.</designator><label> Inspection report information.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 8.</designator><label> Improving damage prevention technology.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 9.</designator><label> Workforce management.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 10.</designator><label> Information-sharing system.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 11.</designator><label> Nationwide integrated pipeline safety regulatory database.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 12.</designator><label> Underground gas storage facilities.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 13.</designator><label> Joint inspection and oversight.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 14.</designator><label> Safety data sheets.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 15.</designator><label> Hazardous materials identification numbers.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 16.</designator><label> Emergency order authority.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 17.</designator><label> State grant funds.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 18.</designator><label> Response plans.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 19.</designator><label> Unusually sensitive areas.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 20.</designator><label> Pipeline safety technical assistance grants.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 21.</designator><label> Study of materials and corrosion prevention in pipeline transportation.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 22.</designator><label> Research and development.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 23.</designator><label> Active and abandoned pipelines.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 24.</designator><label> State pipeline safety agreements.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 25.</designator><label> Requirements for certain hazardous liquid pipeline facilities.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 26.</designator><label> Study on propane gas pipeline facilities.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 27.</designator><label> Standards for certain liquefied natural gas pipeline facilities.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 28.</designator><label> Pipeline odorization study.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 29.</designator><label> Report on natural gas leak reporting.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 30.</designator><label> Review of State policies relating to natural gas leaks.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 31.</designator><label> Aliso Canyon natural gas leak task force.</label></referenceItem></toc></content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s2/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Gas and Hazardous Liquid.—</heading><chapeau style="-uslm-dtd:text">Section 60125(a) of title 49, United States Code is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s2/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (1) by striking “<quotedText style="-uslm-dtd:quote">there is authorized to be appropriated to the Department of Transportation for each of fiscal years 2012 through 2015, from fees collected under section 60301, $90,679,000, of which $4,746,000 is for carrying  out such section 12 and $36,194,000 is for making grants.</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block" class="inline"><chapeau style="-uslm-dtd:text">“there is authorized to be appropriated to the Department of Transportation from fees collected under section 60301—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">$124,500,000 for fiscal year 2016, of which $9,000,000 shall be expended for carrying out such section 12 and $39,385,000 shall be expended for making grants;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">$128,000,000 for fiscal year 2017 of which $9,000,000 shall be expended for carrying out such section 12 and $41,885,000 shall be expended for making grants;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">$131,000,000 for fiscal year 2018, of which $9,000,000 shall be expended for carrying out such section 12 and $44,885,000 shall be expended for making grants; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">$134,000,000 for fiscal year 2019, of which $9,000,000 shall be expended for carrying out such section 12 and $47,885,000 shall be expended for making grants.”</content>
+                    </subparagraph></quotedContent>;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s2/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (2) by striking “<quotedText style="-uslm-dtd:quote">there is authorized to be appropriated for each of fiscal years 2012 through 2015 from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107-355), $18,573,000, of which $2,174,000 is for carrying out such section 12 and $4,558,000 is for making grants.</quotedText>” and inserting the following:<quotedContent style="-uslm-dtd:quoted-block" class="inline"><chapeau style="-uslm-dtd:text">“there is authorized to be appropriated from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107-355)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">$22,123,000 for fiscal year 2016, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">$22,123,000 for fiscal year 2017, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">$23,000,000 for fiscal year 2018, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">$23,000,000 for fiscal year 2019, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants.”</content>
+                    </subparagraph></quotedContent>; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s2/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Underground natural gas storage facility safety account.—</heading><content style="-uslm-dtd:text">To carry out section 60141, there is authorized to be appropriated to the Department of Transportation from fees collected under section 60302 $8,000,000 for each of fiscal years 2017 through 2019.”</content>
+                    </paragraph></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s2/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Operational Expenses.—</heading><chapeau style="-uslm-dtd:text">There are authorized to be appropriated to the Secretary of Transportation for the necessary operational expenses of the Pipeline and Hazardous Materials Safety Administration the following amounts:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s2/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text"> $25,000,000 for fiscal year 2021.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s2/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text"> $26,000,000 for fiscal year 2022.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s2/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text"> $27,000,000 for fiscal year 2023.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s2/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">One-Call Notification Programs.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s2/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Section 6107 of title 49, United States Code, is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <section style="-uslm-dtd:section" styleType="USC">
+                        <num style="-uslm-dtd:enum" value="6107">“§ 6107. </num><heading style="-uslm-dtd:header">Funding </heading>
+                        <content style="-uslm-dtd:text" class="block">“Of the amounts made available under section 60125(a)(1), the Secretary shall expend $1,058,000 for each of fiscal years 2016 through 2019 to carry out section 6106.”</content>
+                    </section></quotedContent>.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s2/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Clerical amendment.—</heading><content style="-uslm-dtd:text">The analysis for chapter 61 of title 49, United States Code, is amended by striking the item relating to section 6107 and inserting the following:<foreign id="warning-d1326917e220" note="processing mode: unknown" role="passthroughContent"><compsdtd:table xmlns:compsdtd="http://schemas.gpo.gov/xml/comps-dtd" table-type="subformat" line-rules="no-gen" blank-lines-before="0" blank-lines-after="0"><compsdtd:tgroup cols="1"><compsdtd:tbody><compsdtd:row><compsdtd:entry colname="I42">“6107. Funding.”.</compsdtd:entry></compsdtd:row></compsdtd:tbody></compsdtd:tgroup></compsdtd:table></foreign></content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s2/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Pipeline Safety Information Grants to Communities.—</heading><content style="-uslm-dtd:text">The first sentence of section 60130(c) of title 49, United States Code, is amended to read as follows: “<quotedText style="-uslm-dtd:quote">Of the amounts made available under section 2(b) of the PIPES Act of 2016, the Secretary shall expend $1,500,000 for each of fiscal years 2016 through 2019 to carry out this section.</quotedText>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s2/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Pipeline Integrity Program.—</heading><content style="-uslm-dtd:text">Section 12(f) of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note) is amended by striking “<quotedText style="-uslm-dtd:quote">2012 through 2015</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2016 through 2019</quotedText>”.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s3" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><heading style="-uslm-dtd:header">REGULATORY UPDATES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s3/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Publication.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s3/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary of Transportation shall publish an update on a publicly available Web site of the Department of Transportation regarding the status of a final rule for each outstanding regulation, and upon such publication notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives that such publication has been made.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s3/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Deadlines.—</heading><content style="-uslm-dtd:text">The Secretary shall publish an update under this subsection not later than 120 days after the date of enactment of this Act, and every 90 days thereafter until a final rule has been published in the Federal Register for each outstanding regulation.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s3/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall include in each update published under subsection (a)—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s3/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a description of the work plan for each outstanding regulation;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s3/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">an updated rulemaking timeline for each outstanding regulation;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s3/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">current staff allocations with respect to each outstanding regulation;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s3/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">any resource constraints affecting the rulemaking process for each outstanding regulation;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s3/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">any other details associated with the development of each outstanding regulation that affect the progress of the rulemaking process; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s3/b/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">a description of all rulemakings regarding gas or hazardous liquid pipeline facilities published in the Federal Register that are not identified under subsection (c).</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s3/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Outstanding Regulation Defined.—</heading><chapeau style="-uslm-dtd:text">In this section, the term “<quotedText style="-uslm-dtd:quote">outstanding regulation</quotedText>” means—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s3/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a final rule required under the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011 (Public Law 112-90) that has not been published in the Federal Register; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s3/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a final rule regarding gas or hazardous liquid pipeline facilities required under this Act or an Act enacted prior to the date of enactment of this Act (other than the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011 (Public Law 112-90)) that has not been published in the Federal Register.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s4" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="4">SEC. 4. </num><heading style="-uslm-dtd:header">NATURAL GAS INTEGRITY MANAGEMENT REVIEW. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s4/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 18 months after the date of publication in the Federal Register of a final rule regarding the safety of gas transmission pipelines related to the notice of proposed rulemaking issued on April 8, 2016, titled “<quotedText style="-uslm-dtd:quote">Pipeline Safety: Safety of Gas Transmission and Gathering Pipelines</quotedText>” (81 Fed. Reg. 20721), the Comptroller General of the United States shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report regarding the integrity management programs for gas pipeline facilities required under section 60109(c) of title 49, United States Code.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s4/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">The report required under subsection (a) shall include—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s4/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">an analysis of stakeholder perspectives, taking into consideration technical, operational, and economic feasibility, regarding ways to enhance pipeline facility safety, prevent inadvertent releases from pipeline facilities, and mitigate any adverse consequences of such inadvertent releases, including changes to the definition of high consequence area, or expanding integrity management beyond high consequence areas;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s4/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a review of the types of benefits, including safety benefits, and estimated costs of the legacy class location regulations;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s4/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">an analysis of the impact pipeline facility features, including the age, condition, materials, and construction of a pipeline facility, have on safety and risk analysis of a particular pipeline facility;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s4/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">a description of any challenges affecting Federal or State regulators in the oversight of gas transmission pipeline facilities and how the challenges are being addressed; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s4/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">a description of any challenges affecting the natural gas industry in complying with the programs, and how the challenges are being addressed, including any challenges faced by publicly owned natural gas distribution systems.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s4/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Definition of High Consequence Area.—</heading><content style="-uslm-dtd:text">In this section, the term “<quotedText style="-uslm-dtd:quote">high consequence area</quotedText>” has the meaning given the term in section 192.903 of title 49, Code of Federal Regulations.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s5" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="5">SEC. 5. </num><heading style="-uslm-dtd:header">HAZARDOUS LIQUID INTEGRITY MANAGEMENT REVIEW. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s5/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 18 months after the date of publication in the Federal Register of a final rule regarding the safety of hazardous liquid pipeline facilities related to the notice of proposed rulemaking issued on October 13, 2015, titled “<quotedText style="-uslm-dtd:quote">Pipeline Safety: Safety of Hazardous Liquid Pipelines</quotedText>” (80 Fed. Reg. 61610),  the Comptroller General of the United States shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report regarding the integrity management programs for hazardous liquid pipeline facilities, as regulated under sections 195.450 and 195.452 of title 49, Code of Federal Regulations.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s5/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">The report required under subsection (a) shall include—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s5/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">taking into consideration technical, operational, and economic feasibility, an analysis of stakeholder perspectives on—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s5/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">ways to enhance hazardous liquid pipeline facility safety;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s5/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">risk factors that may warrant more frequent inspections of hazardous liquid pipeline facilities; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s5/b/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">changes to the definition of high consequence area;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s5/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">an analysis of how surveying, assessment, mitigation, and monitoring activities, including real-time hazardous liquid pipeline facility monitoring during significant flood events and information sharing with Federal agencies, are being used to address risks associated with rivers, flood plains, lakes, and coastal areas;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s5/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">an analysis of the impact pipeline facility features, including the age, condition, materials, and construction of a pipeline facility, have on safety and risk analysis of a particular pipeline facility and what changes to the definition of high consequence area could be made to improve pipeline facility safety; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s5/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">a description of any challenges affecting Federal or State regulators in the oversight of hazardous liquid pipeline facilities and how those challenges are being addressed.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s5/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Definition of High Consequence Area.—</heading><content style="-uslm-dtd:text">In this section, the term “<quotedText style="-uslm-dtd:quote">high consequence area</quotedText>” has the meaning given the term in section 195.450 of title 49, Code of Federal Regulations.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s6" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="6">SEC. 6. </num><heading style="-uslm-dtd:header">TECHNICAL SAFETY STANDARDS COMMITTEES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s6/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Appointment of Members.—</heading><content style="-uslm-dtd:text">Section 60115(b)(4)(A) of title 49, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">State commissioners. The Secretary shall consult with the national organization of State commissions before selecting those 2 individuals.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">State officials. The Secretary shall consult with national organizations representing State commissioners or utility regulators before making a selection under this subparagraph.</quotedText>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s6/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Vacancies.—</heading><content style="-uslm-dtd:text">Section 60115(b) of title 49, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                    <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">Within 90 days of the date of enactment of the PIPES Act of 2016, the Secretary shall fill all vacancies on the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, and any other committee established pursuant to this section. After that period, the Secretary shall fill a vacancy on any such committee not later than 60 days after the vacancy occurs.”</content>
+                </paragraph></quotedContent>.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s7" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="7">SEC. 7. </num><heading style="-uslm-dtd:header">INSPECTION REPORT INFORMATION. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s7/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Inspection and Maintenance.—</heading><content style="-uslm-dtd:text">Section 60108 of title 49, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">After the completion of a Pipeline and Hazardous Materials Safety Administration pipeline safety inspection, the Administrator of such Administration, or the State authority certified under section 60105 of title 49, United States Code, to conduct such inspection, shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentIncrease1">
+                        <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">within 30 days, conduct a post-inspection briefing with the owner or operator of the gas or hazardous liquid pipeline facility inspected outlining any concerns; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentIncrease1">
+                        <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">within 90 days, to the extent practicable, provide the owner or operator with written preliminary findings of the inspection.”</content>
+                    </paragraph>
+                </subsection></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s7/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Notification.—</heading><chapeau style="-uslm-dtd:text">Not later than October 1, 2017, and each fiscal year thereafter for 2 years, the Administrator shall notify the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s7/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the number of times a deadline under section 60108(e) of title 49, United States Code, was exceeded in the prior fiscal year; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s7/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in each instance, the length of time by which the deadline was exceeded.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s8" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="8">SEC. 8. </num><heading style="-uslm-dtd:header">IMPROVING DAMAGE PREVENTION TECHNOLOGY. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s8/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Study.—</heading><content style="-uslm-dtd:text">The Secretary of Transportation, in consultation with stakeholders, shall conduct a study on improving existing damage prevention programs through technological improvements in location, mapping, excavation, and communications practices to prevent excavation damage to a pipe or its coating, including considerations of technical, operational, and economic feasibility and existing damage prevention programs.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s8/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">The study under subsection (a) shall include—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s8/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">an identification of any methods to improve existing damage prevention programs through location and mapping practices or technologies in an effort to reduce releases caused by excavation;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s8/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">an analysis of how increased use of global positioning system digital mapping technologies, predictive analytic tools, public awareness initiatives including one-call initiatives, the use of mobile devices, and other advanced technologies could supplement existing one-call notification and damage prevention programs to reduce the frequency and severity of incidents caused by excavation damage;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s8/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">an identification of any methods to improve excavation practices or technologies in an effort to reduce pipeline damage;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s8/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">an analysis of the feasibility of a national data repository for pipeline excavation accident data that creates standardized data models for storing and sharing pipeline accident information; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s8/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">an identification of opportunities for stakeholder engagement in preventing excavation damage.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s8/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives    a report containing the results of the study conducted under subsection (a), including recommendations, that include the consideration of technical, operational, and economic feasibility, on how to incorporate into existing damage prevention programs technological improvements and practices that help prevent excavation damage.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s9" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="9">SEC. 9. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s108">49 U.S.C. 108 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">WORKFORCE MANAGEMENT. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s9/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Review.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, the Inspector General of the Department of Transportation shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a review of Pipeline and Hazardous Materials Safety Administration staff resource management, including—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s9/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">geographic allocation plans, hiring and time-to-hire challenges, and expected retirement rates and recruitment and retention strategies;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s9/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">an identification and description of any previous periods of macroeconomic and pipeline industry conditions under which the Pipeline and Hazardous Materials Safety Administration has encountered difficulty in filling vacancies, and the degree to which special hiring authorities, including direct hiring authority authorized by the Office of Personnel Management, could have ameliorated such difficulty; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s9/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">recommendations to address hiring challenges, training needs, and any other identified staff resource challenges.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s9/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Direct Hiring.—</heading><content style="-uslm-dtd:text">Upon identification of a period described in subsection (a)(2), the Administrator of the Pipeline and Hazardous Materials Safety Administration may apply to the Office of Personnel Management for the authority to appoint qualified candidates to any position relating to pipeline safety, as determined by the Administrator, without regard to sections 3309 through 3319 of title 5, United States Code.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s9/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Savings Clause.—</heading><content style="-uslm-dtd:text">Nothing in this section shall preclude the Administrator of the Pipeline and Hazardous Materials Safety Administration from applying to the Office of Personnel Management for the authority described in subsection (b) prior to the completion of the report required under subsection (a).</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s10" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="10">SEC. 10. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s60108">49 U.S.C. 60108 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">INFORMATION-SHARING SYSTEM. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s10/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of this Act, the Secretary of Transportation shall convene a working group to consider the development of a voluntary information-sharing system to encourage collaborative efforts to improve inspection information feedback and information sharing with the purpose of improving gas transmission and hazardous liquid pipeline facility integrity risk analysis.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s10/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Membership.—</heading><chapeau style="-uslm-dtd:text">The working group convened pursuant to subsection (a) shall include representatives from—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Pipeline and Hazardous Materials Safety Administration;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">industry stakeholders, including operators of pipeline facilities, inspection technology, coating, and cathodic protection vendors, and pipeline inspection organizations;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">safety advocacy groups;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">research institutions;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">State public utility commissions or State officials responsible for pipeline safety oversight;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/b/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">State pipeline safety inspectors;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/b/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">labor representatives; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/b/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">other entities, as determined appropriate by the Secretary.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s10/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Considerations.—</heading><chapeau style="-uslm-dtd:text">The working group convened pursuant to subsection (a) shall consider and provide recommendations to the Secretary on—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the need for, and the identification of, a system to ensure that dig verification data are shared with in-line inspection operators to the extent consistent with the need to maintain proprietary and security-sensitive data in a confidential manner to improve pipeline safety and inspection technology;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">ways to encourage the exchange of pipeline inspection information and the development of advanced pipeline inspection technologies and enhanced risk analysis;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">opportunities to share data, including dig verification data between operators of pipeline facilities and in-line inspector vendors to expand knowledge of the advantages and disadvantages of the different types of in-line inspection technology and methodologies;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">options to create a secure system that protects proprietary data while encouraging the exchange of pipeline inspection information and the development of advanced pipeline inspection technologies and enhanced risk analysis;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/c/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">means and best practices for the protection of safety- and security-sensitive information and proprietary information; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s10/c/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">regulatory, funding, and legal barriers to sharing the information described in paragraphs (1) through (4).</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s10/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Publication.—</heading><content style="-uslm-dtd:text">The Secretary shall publish the recommendations provided under subsection (c) on a publicly available Web site of the Department of Transportation.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s11" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="11">SEC. 11. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s60108">49 U.S.C. 60108 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONWIDE INTEGRATED PIPELINE SAFETY REGULATORY DATABASE. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s11/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the feasibility of establishing a national integrated pipeline safety regulatory inspection database to improve communication and collaboration between the Pipeline and Hazardous Materials Safety Administration and State pipeline regulators.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s11/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">The report submitted under subsection (a) shall include—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s11/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a description of any efforts underway to test a secure information-sharing system for the purpose described in subsection (a);</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s11/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a description of any progress in establishing common standards for maintaining, collecting, and presenting pipeline safety regulatory inspection data, and a methodology for sharing the data;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s11/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">a description of any inadequacies or gaps in State and Federal inspection, enforcement, geospatial, or other pipeline safety regulatory inspection data;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s11/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">a description of the potential safety benefits of a national integrated pipeline safety regulatory inspection database; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s11/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">recommendations, including those of stakeholders for how to implement a secure information-sharing system that protects proprietary and security sensitive information and data for the purpose described in subsection (a).</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s11/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">In implementing this section, the Secretary shall consult with stakeholders, including each State authority operating under a certification to regulate intrastate pipelines under section 60105 of title 49, United States Code.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s11/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Establishment of Database.—</heading><chapeau style="-uslm-dtd:text">The Secretary may establish, if appropriate, a national integrated pipeline safety regulatory database—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s11/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">after submission of the report required under subsection (a); or</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s11/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">upon notification to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the need to establish such database prior to the submission of the report under subsection (a).</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s12" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="12">SEC. 12. </num><heading style="-uslm-dtd:header">UNDERGROUND GAS STORAGE FACILITIES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s12/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Defined Term.—</heading><chapeau style="-uslm-dtd:text">Section 60101(a) of title 49, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s12/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (21)(B) by striking the period at the end and inserting a semicolon;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s12/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (22)(B)(iii) by striking the period at the end and inserting a semicolon;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s12/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in paragraph (24) by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s12/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in paragraph (25) by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s12/a/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="26">“(26) </num><chapeau style="-uslm-dtd:text">
+‘<quotedText style="-uslm-dtd:quote">underground natural gas storage facility</quotedText>’ means a gas pipeline facility that stores natural gas in an underground facility, including—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">a depleted hydrocarbon reservoir;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">an aquifer reservoir; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">a solution-mined salt cavern reservoir.”</content>
+                        </subparagraph>
+                    </paragraph></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s12/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Standards for Underground Gas Storage Facilities.—</heading><content style="-uslm-dtd:text">Chapter 601 of title 49, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="USC">
+                    <num style="-uslm-dtd:enum" value="60141">“§ 60141. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s60141">49 U.S.C. 60141</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Standards for underground natural gas storage facilities </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Minimum Safety Standards.—</heading><content style="-uslm-dtd:text">Not later than 2 years after the date of enactment of the PIPES Act of 2016, the Secretary, in consultation with the heads of other relevant Federal agencies, shall issue minimum safety standards for underground natural gas storage facilities.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Considerations.—</heading><chapeau style="-uslm-dtd:text">In developing the safety standards required under subsection (a), the Secretary shall, to the extent practicable—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">consider consensus standards for the operation, environmental protection, and integrity management of underground natural gas storage facilities;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">consider the economic impacts of the regulations on individual gas customers;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">ensure that the regulations do not have a significant economic impact on end users; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">consider the recommendations of the Aliso Canyon natural gas leak task force established under section 31 of the PIPES Act of 2016.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Federal-State Cooperation.—</heading><content style="-uslm-dtd:text">The Secretary may authorize a State authority (including a municipality) to participate in the oversight of underground natural gas storage facilities in the same manner as provided in sections 60105 and 60106.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Rules of Construction.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Nothing in this section may be construed to affect any Federal regulation relating to gas pipeline facilities that is in effect on the day before the date of enactment of the PIPES Act of 2016.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Limitations.—</heading><chapeau style="-uslm-dtd:text">Nothing in this section may be construed to authorize the Secretary—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">to prescribe the location of an underground natural gas storage facility; or</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">to require the Secretary’s permission to construct a facility referred to in subparagraph (A).</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Preemption.—</heading><content style="-uslm-dtd:text">A State authority may adopt additional or more stringent safety standards for intrastate underground natural gas storage facilities if such standards are compatible with the minimum standards prescribed under this section.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">“(f) </num><heading style="-uslm-dtd:header">Statutory Construction.—</heading><content style="-uslm-dtd:text">Nothing in this section shall be construed to affect the Secretary’s authority under this title to regulate the underground storage of gas that is not natural gas.”</content>
+                    </subsection>
+                </section></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s12/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">User Fees.—</heading><content style="-uslm-dtd:text">Chapter 603 of title 49, United States Code, is amended by inserting after section 60301 the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="USC">
+                    <num style="-uslm-dtd:enum" value="60302">“§ 60302. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s60302">49 U.S.C. 60302</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">User fees for underground natural gas storage facilities </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">A fee shall be imposed on an entity operating an underground natural gas storage facility subject to section 60141. Any such fee imposed shall be collected before the end of the fiscal year to which it applies.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Means of Collection.—</heading><content style="-uslm-dtd:text">The Secretary of Transportation shall prescribe procedures to collect fees under this section. The Secretary may use a department, agency, or instrumentality of the United States Government or of a State or local government to collect the fee and may reimburse the department, agency, or instrumentality a reasonable amount for its services.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Use of fees.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Account.—</heading><content style="-uslm-dtd:text">There is established an Underground Natural Gas Storage Facility Safety Account in the Pipeline Safety Fund established in the Treasury of the United States under section 60301.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Use of Fees.—</heading><chapeau style="-uslm-dtd:text">A fee collected under this section—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">shall be deposited in the Underground Natural Gas Storage Facility Safety Account; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">if the fee is related to an underground natural gas storage facility subject to section 60141, the amount of the fee may be used only for an activity related to underground natural gas storage facility safety.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Limitation.—</heading><content style="-uslm-dtd:text">No fee may be collected under this section, except to the extent that the expenditure of such fee to pay the costs of an activity related to underground natural gas storage facility safety for which such fee is imposed is provided in advance in an appropriations Act.”</content>
+                        </paragraph>
+                    </subsection>
+                </section></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s12/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Clerical Amendments.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s12/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Chapter 601.—</heading><content style="-uslm-dtd:text">The table of sections for chapter 601 of title 49, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“60141.</designator><label> Standards for underground natural gas storage facilities.”</label></referenceItem>
+                    </toc></quotedContent>.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s12/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Chapter 603.—</heading><content style="-uslm-dtd:text">The table of sections for chapter 603 of title 49, United States Code, is amended by inserting after the item relating to section 60301 the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <toc style="-uslm-dtd:toc">
+                        <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“60302.</designator><label> User fees for underground natural gas storage facilities.”</label></referenceItem>
+                    </toc></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s13" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="13">SEC. 13. </num><heading style="-uslm-dtd:header">JOINT INSPECTION AND OVERSIGHT. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 60106 of title 49, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="f">“(f) </num><heading style="-uslm-dtd:header">Joint Inspectors.—</heading><content style="-uslm-dtd:text">At the request of a State authority, the Secretary shall allow for a certified State authority under section 60105 to participate in the inspection of an interstate pipeline facility.”</content>
+            </subsection></quotedContent>.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s14" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="14">SEC. 14. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s60117">49 U.S.C. 60117 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SAFETY DATA SHEETS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s14/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Each owner or operator of a hazardous liquid pipeline facility, following an accident involving such pipeline facility that results in a hazardous liquid spill, shall provide safety data sheets on any spilled hazardous liquid to the designated Federal On-Scene Coordinator and appropriate State and local emergency responders within 6 hours of a telephonic or electronic notice of the accident to the National Response Center.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s14/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s14/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Federal on-scene coordinator.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">Federal On-Scene Coordinator</quotedText>” has the meaning given such term in section 311(a) of the Federal Water Pollution Control Act (33 U.S.C. 1321(a)).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s14/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">National response center.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">National Response Center</quotedText>” means the center described under section 300.125(a) of title 40, Code of Federal Regulations.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s14/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Safety data sheet.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">safety data sheet</quotedText>” means a safety data sheet required under section 1910.1200 of title 29, Code of Federal Regulations.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s15" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="15">SEC. 15. </num><heading style="-uslm-dtd:header">HAZARDOUS MATERIALS IDENTIFICATION NUMBERS. </heading>
+            <content style="-uslm-dtd:text" class="block">Not later than 90 days after the date of enactment of this Act, the Secretary of Transportation shall issue an advanced notice of proposed rulemaking to take public comment on the petition for rulemaking dated October 28, 2015, titled “<quotedText style="-uslm-dtd:quote">Corrections to Title 49 CFR 172.336 Identification numbers; special provisions</quotedText>” (P-1667).</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s16" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="16">SEC. 16. </num><heading style="-uslm-dtd:header">EMERGENCY ORDER AUTHORITY. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 60117 of title 49, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="o">“(o) </num><heading style="-uslm-dtd:header">Emergency Order Authority.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">If the Secretary determines that an unsafe condition or practice, or a combination of unsafe conditions and practices, constitutes or is causing an imminent hazard, the Secretary may issue an emergency order described in paragraph (3) imposing emergency restrictions, prohibitions, and safety measures on owners and operators of gas or hazardous liquid pipeline facilities without prior notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Considerations.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Before issuing an emergency order under paragraph (1), the Secretary shall consider, as appropriate, the following factors:</chapeau>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">The impact of the emergency order on public health and safety.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">The impact, if any, of the emergency order on the national or regional economy or national security.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">The impact of the emergency order on the ability of owners and operators of pipeline facilities to maintain reliability and continuity of service to customers.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Consultation.—</heading><content style="-uslm-dtd:text">In considering the factors under subparagraph (A), the Secretary shall consult, as the Secretary determines appropriate, with appropriate Federal agencies, State agencies, and other entities knowledgeable in pipeline safety or operations.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Written order.—</heading><chapeau style="-uslm-dtd:text">An emergency order issued by the Secretary pursuant to paragraph (1) with respect to an imminent hazard shall contain a written description of—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the violation, condition, or practice that constitutes or is causing the imminent hazard;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the entities subject to the order;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">the restrictions, prohibitions, or safety measures imposed;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">the standards and procedures for obtaining relief from the order;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">how the order is tailored to abate the imminent hazard and the reasons the authorities under section 60112 and 60117(l) are insufficient to do so; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">“(F) </num><content style="-uslm-dtd:text">how the considerations were taken into account pursuant to paragraph (2).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Opportunity for review.—</heading><content style="-uslm-dtd:text">Upon receipt of a petition for review from an entity subject to, and aggrieved by, an emergency order issued under this subsection, the Secretary shall provide an opportunity for a review of the order under section 554 of title 5 to determine whether the order should remain in effect, be modified, or be terminated.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">“(5) </num><heading style="-uslm-dtd:header">Expiration of effectiveness order.—</heading><content style="-uslm-dtd:text">If a petition for review of an emergency order is filed under paragraph (4) and an agency decision with respect to the petition is not issued on or before the last day of the 30-day period beginning on the date on which the petition is filed, the order shall  cease to be effective on such day, unless the Secretary determines in writing on or before the last day of such period that the imminent hazard still exists.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">“(6) </num><heading style="-uslm-dtd:header">Judicial review of orders.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">After completion of the review process described in paragraph (4), or the issuance of a written determination by the Secretary pursuant to paragraph (5), an entity subject to, and aggrieved by, an emergency order issued under this subsection may seek judicial review of the order in a district court of the United States and shall be given expedited consideration.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Limitation.—</heading><content style="-uslm-dtd:text">The filing of a petition for review under subparagraph (A) shall not stay or modify the force and effect of the agency’s final decision under paragraph (4), or the written determination under paragraph (5), unless stayed or modified by the Secretary.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">“(7) </num><heading style="-uslm-dtd:header">Regulations.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Temporary regulations.—</heading><content style="-uslm-dtd:text">Not later than 60 days after the date of enactment of the PIPES Act of 2016, the Secretary shall issue such temporary regulations as are necessary to carry out this subsection. The temporary regulations shall expire on the date of issuance of the final regulations required under subparagraph (B).</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Final regulations.—</heading><content style="-uslm-dtd:text">Not later than 270 days after such date of enactment, the Secretary shall issue such regulations as are necessary to carry out this subsection. Such regulations shall ensure that the review process described in paragraph (4) contains the same procedures as subsections (d) and (g) of section 109.19 of title 49, Code of Federal Regulations, and is otherwise consistent with the review process developed under such section, to the greatest extent practicable and not inconsistent with this section.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">“(8) </num><heading style="-uslm-dtd:header">Imminent hazard defined.—</heading><content style="-uslm-dtd:text">In this subsection, the term ‘<quotedText style="-uslm-dtd:quote">imminent hazard</quotedText>’ means the existence of a condition relating to a gas or hazardous liquid pipeline facility that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of such death, illness, injury, or endangerment.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">“(9) </num><heading style="-uslm-dtd:header">Limitation and savings clause.—</heading><chapeau style="-uslm-dtd:text">An emergency order issued under this subsection may not be construed to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">alter, amend, or limit the Secretary’s obligations under, or the applicability of, section 553 of title 5; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">provide the authority to amend the Code of Federal Regulations.”</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection></quotedContent>.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s17" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="17">SEC. 17. </num><heading style="-uslm-dtd:header">STATE GRANT FUNDS. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">Section 60107 of title 49, United States Code, is amended—</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s17/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking subsection (b) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Payments.—</heading><content style="-uslm-dtd:text">After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the  remaining costs of a safety program, except when the Secretary waives this requirement.”</content>
+                </subsection></quotedContent>; and</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s17/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Repurposing of Funds.—</heading><content style="-uslm-dtd:text">If a State program’s certification is rejected under section 60105(f) or such program is otherwise suspended or interrupted, the Secretary may use any undistributed, deobligated, or recovered funds authorized under this section to carry out pipeline safety activities for that State within the period of availability for such funds.”</content>
+                </subsection></quotedContent>.</content>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s18" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="18">SEC. 18. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s60102">49 U.S.C. 60102 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">RESPONSE PLANS. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">Each owner or operator of a hazardous liquid pipeline facility required to prepare a response plan pursuant to part 194 of title 49, Code of Federal Regulations, shall—</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s18/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">consider the impact of a discharge into or on navigable waters or adjoining shorelines, including those that may be covered in whole or in part by ice; and</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s18/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">include procedures and resources for responding to such discharge in the plan.</content>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s19" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="19">SEC. 19. </num><heading style="-uslm-dtd:header">UNUSUALLY SENSITIVE AREAS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s19/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Areas To Be Included as Unusually Sensitive.—</heading><content style="-uslm-dtd:text">Section 60109(b)(2) of title 49, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">have been identified as</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">are part of the Great Lakes or have been identified as coastal beaches, marine coastal waters,</quotedText>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s19/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s60109">49 U.S.C. 60109 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Unusually Sensitive Areas (USA) Ecological Resources.—</heading><chapeau style="-uslm-dtd:text">—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s19/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this subsection:—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s19/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Certain coastal waters.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">certain coastal waters</term>” means—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/183/s19/b/1/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the territorial sea of the United States;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/183/s19/b/1/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the Great Lakes and their connecting waters; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/183/s19/b/1/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the marine and estuarine waters of the United States up to the head of tidal influence.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s19/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Coastal beach.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">coastal beach</term>” means any land between the high- and low-water marks of certain coastal waters.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s19/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Revision.—</heading><content style="-uslm-dtd:text">The Secretary
+ of Transportation shall revise section 195.6(b) of title 49, Code of Federal Regulations, to explicitly state that the Great Lakes, coastal beaches, and certain coastal waters are USA ecological resources for purposes of determining whether a pipeline is in a high consequence area (as defined in section 195.450 of such title).</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s20" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="20">SEC. 20. </num><heading style="-uslm-dtd:header">PIPELINE SAFETY TECHNICAL ASSISTANCE GRANTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s20/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Public Participation Limitation.—</heading><content style="-uslm-dtd:text">Section 60130(a)(4) of title 49, United States Code, is amended by inserting “<quotedText style="-uslm-dtd:quote">on technical pipeline safety issues</quotedText>” after “<quotedText style="-uslm-dtd:quote">public participation</quotedText>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s20/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Audit.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Inspector General of the Department of Transportation shall submit to the Secretary of Transportation, the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a report evaluating the grant program under section 60130 of title 49, United States Code. The report shall include—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s20/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a list of the recipients of all grant funds during fiscal years 2010 through 2015;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s20/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a description of how each grant was used;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s20/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">an analysis of the compliance with the terms of grant agreements, including subsections (a) and (b) of such section;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s20/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">an evaluation of the competitive process used to award the grant funds; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s20/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">an evaluation of—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s20/b/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the ability of the Pipeline and Hazardous Materials Safety Administration to oversee grant funds and usage; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s20/b/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the procedures used for such oversight.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s21" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="21">SEC. 21. </num><heading style="-uslm-dtd:header">STUDY OF MATERIALS AND CORROSION PREVENTION IN PIPELINE TRANSPORTATION. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s21/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a study on materials, training, and corrosion prevention technologies for gas and hazardous liquid pipeline facilities.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s21/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">The study required under subsection (a) shall include—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s21/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">an analysis of—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s21/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the range of piping materials, including plastic materials, used to transport hazardous liquids and natural gas in the United States and in other developed countries around the world;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s21/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the types of technologies used for corrosion prevention, including coatings and cathodic protection;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s21/b/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">common causes of corrosion, including interior and exterior moisture buildup and impacts of moisture buildup under insulation; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s21/b/1/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the training provided to personnel responsible for identifying and preventing corrosion in pipelines, and for repairing such pipelines;</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s21/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the extent to which best practices or guidance relating to pipeline facility design, installation, operation, and maintenance, including training, are available to recognize or prevent corrosion;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s21/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">an analysis of the estimated costs and anticipated benefits, including safety benefits, associated with the use of such materials and technologies; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s21/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">stakeholder and expert perspectives on the effectiveness of corrosion control techniques to reduce the incidence of corrosion-related pipeline failures.</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s22" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="22">SEC. 22. </num><heading style="-uslm-dtd:header">RESEARCH AND DEVELOPMENT. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s22/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Not later than 18 months after the date of enactment of this Act, the Inspector General of the Department of Transportation shall submit to the Committee on Transportation and Infrastructure, the Committee on Energy and Commerce, and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report regarding the Pipeline and Hazardous Materials Safety Administration’s research and development program carried out under section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note). The report shall include an evaluation of—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s22/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">compliance with the consultation requirement under subsection (d)(2) of such section;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s22/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the extent to which the Pipeline and Hazardous Materials Safety Administration enters into joint research ventures with Federal and non-Federal entities, and benefits thereof;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s22/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the policies and procedures the Pipeline and Hazardous Materials Safety Administration has put in place to ensure there are no conflicts of interest with administering grants  pursuant to the program, and whether those policies and procedures are being followed; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s22/a/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">an evaluation of the outcomes of research conducted with Federal and non-Federal entities and the degree to which such outcomes have been adopted or utilized.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s22/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Collaborative Safety Research Report.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s22/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Biennial reports.—</heading><chapeau style="-uslm-dtd:text">Section 60124(a)(6) of title 49, United States Code, is amended—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s22/b/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subparagraph (A), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s22/b/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subparagraph (B), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s22/b/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">a summary of each research and development project carried out with Federal and non-Federal entities pursuant to section 12 of the Pipeline Safety Improvement Act of 2002 and a review of how the project affects safety.”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s22/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Pipeline safety improvement act.—</heading><chapeau style="-uslm-dtd:text">Section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note) is amended—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s22/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking subsection (d)(3)(C) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Funding from non-federal sources.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall ensure that—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">at least 30 percent of the costs of technology research and development activities may be carried out using non-Federal sources;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">at least 20 percent of the costs of basic research and development with universities may be carried out using non-Federal sources; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">up to 100 percent of the costs of research and development for purely governmental purposes may be carried out using Federal funds.”</content>
+                            </clause>
+                        </subparagraph></quotedContent>; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s22/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="h">“(h) </num><heading style="-uslm-dtd:header">Independent Experts.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of enactment of the PIPES Act of 2016, the Secretary shall—</chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">implement processes and procedures to ensure that activities listed under subsection (c), to the greatest extent practicable, produce results that are peer-reviewed by independent experts and not by persons or entities that have a financial interest in the pipeline, petroleum, or natural gas industries, or that would be directly impacted by the results of the projects; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">submit to the Committee on Transportation and Infrastructure, the Committee on Energy and Commerce, and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the processes and procedures implemented under paragraph (1).</content>
+                            </paragraph>
+                        </subsection>
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">Conflict of Interest.—</heading><content style="-uslm-dtd:text">The Secretary shall take all practical steps to ensure that each recipient of an agreement under this section discloses in writing to the Secretary any conflict of interest on a research and development project carried out under this section, and includes any such disclosure as part of the final deliverable pursuant to such agreement. The Secretary may not make an award under this section directly to a pipeline owner  or operator that is regulated by the Pipeline and Hazardous Materials Safety Administration or a State-certified regulatory authority if there is a conflict of interest relating to such owner or operator.”</content>
+                        </subsection></quotedContent>.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s23" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="23">SEC. 23. </num><heading style="-uslm-dtd:header">ACTIVE AND ABANDONED PIPELINES. </heading>
+            <content style="-uslm-dtd:text" class="block">Not later than 90 days after the date of enactment of this Act, the Secretary of Transportation shall issue an advisory bulletin to owners and operators of gas or hazardous liquid pipeline facilities and Federal and State pipeline safety personnel regarding procedures of the Pipeline and Hazardous Materials Safety Administration required to change the status of a pipeline facility from active to abandoned, including specific guidance on the terms recognized by the Secretary for each pipeline status referred to in such advisory bulletin.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s24" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="24">SEC. 24. </num><heading style="-uslm-dtd:header">STATE PIPELINE SAFETY AGREEMENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s24/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Study.—</heading><chapeau style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall complete a study on State pipeline safety agreements made pursuant to section 60106 of title 49, United States Code. Such study shall consider the following:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s24/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The integration of Federal and State or local authorities in carrying out activities pursuant to an agreement under such section.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s24/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The estimated staff and other resources used by Federal and State authorities in carrying out inspection activities pursuant to agreements under such section.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s24/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The estimated staff and other resources used by the Pipeline and Hazardous Materials Safety Administration in carrying out interstate inspections in areas where there is no interstate agreement with a State pursuant to such section.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s24/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Notice Requirement for Denial.—</heading><content style="-uslm-dtd:text">Section 60106(b) of title 49, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Notice upon denial.—</heading><content style="-uslm-dtd:text">If a State authority requests an interstate agreement under this section and the Secretary denies such request, the Secretary shall provide written notification to the State authority of the denial that includes an explanation of the reasons for such denial.”</content>
+                </paragraph></quotedContent>.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s25" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="25">SEC. 25. </num><heading style="-uslm-dtd:header">REQUIREMENTS FOR CERTAIN HAZARDOUS LIQUID PIPELINE FACILITIES. </heading>
+            <content style="-uslm-dtd:text" class="block">Section 60109 of title 49, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="g">“(g) </num><heading style="-uslm-dtd:header">Hazardous Liquid Pipeline Facilities.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Integrity assessments.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding any pipeline integrity management program or integrity assessment schedule otherwise required by the Secretary, each operator of a pipeline facility to which this subsection applies shall ensure that pipeline integrity assessments—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">using internal inspection technology appropriate for the integrity threat are completed not less often than once every 12 months; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">using pipeline route surveys, depth of cover surveys, pressure tests, external corrosion direct assessment, or other technology that the operator demonstrates can further the understanding of the condition of the pipeline facility are completed on a schedule based on the risk  that the pipeline facility poses to the high consequence area in which the pipeline facility is located.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Application.—</heading><chapeau style="-uslm-dtd:text">This subsection shall apply to any underwater hazardous liquid pipeline facility located in a high consequence area—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">that is not an offshore pipeline facility; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">any portion of which is located at depths greater than 150 feet under the surface of the water.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">High consequence area defined.—</heading><content style="-uslm-dtd:text">For purposes of this subsection, the term ‘<quotedText style="-uslm-dtd:quote">high consequence area</quotedText>’ has the meaning given that term in section 195.450 of title 49, Code of Federal Regulations.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Inspection and enforcement.—</heading><content style="-uslm-dtd:text">The Secretary shall conduct inspections under section 60117(c) to determine whether each operator of a pipeline facility to which this subsection applies is complying with this section.”</content>
+                </paragraph>
+            </subsection></quotedContent>.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s26" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="26">SEC. 26. </num><heading style="-uslm-dtd:header">STUDY ON PROPANE GAS PIPELINE FACILITIES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s26/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary of Transportation shall enter into an agreement with the Transportation Research Board of the National Academies to conduct a study examining the safety, regulatory requirements, techniques, and best practices applicable to pipeline facilities that transport or store only petroleum gas or mixtures of petroleum gas and air to 100 or fewer customers, in accordance with the requirements of this section.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s26/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">In conducting the study pursuant to subsection (a), the Transportation Research Board shall analyze—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s26/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Federal, State, and local regulatory requirements applicable to pipeline facilities described in subsection (a);</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s26/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">techniques and best practices relating to the design, installation, operation, and maintenance of such pipeline facilities; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s26/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the costs and benefits, including safety benefits, associated with such applicable regulatory requirements and the use of such techniques and best practices.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s26/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Participation.—</heading><content style="-uslm-dtd:text">In conducting the study pursuant to subsection (a), the Transportation Research Board shall consult with Federal, State, and local governments, private sector entities, and consumer and pipeline safety advocates, as appropriate.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s26/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Deadline.—</heading><content style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the results of the study conducted pursuant to subsection (a) and any recommendations for improving the safety of such pipeline facilities.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s26/e" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Definition.—</heading><content style="-uslm-dtd:text">In this section, the term “<quotedText style="-uslm-dtd:quote">petroleum gas</quotedText>” has the meaning given that term in section 192.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this Act.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s27" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="27">SEC. 27. </num><heading style="-uslm-dtd:header">STANDARDS FOR CERTAIN LIQUEFIED NATURAL GAS PIPELINE FACILITIES. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s27/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">National Security.—</heading><chapeau style="-uslm-dtd:text">Section 60103(a) of title 49, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s27/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (5), by striking “<quotedText style="-uslm-dtd:quote">; and</quotedText>” and inserting a semicolon;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s27/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (6), by striking the period and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s27/a/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by inserting after paragraph (6) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">“(7) </num><content style="-uslm-dtd:text">national security.”</content>
+                    </paragraph></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s27/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s60103">49 U.S.C. 60103 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Update to Minimum Safety Standards.—</heading><content style="-uslm-dtd:text">The Secretary of Transportation shall review and update the minimum safety standards prescribed pursuant to section 60103 of title 49, United States Code, for permanent, small scale liquefied natural gas pipeline facilities.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s27/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Savings Clause.—</heading><content style="-uslm-dtd:text">Nothing in this section shall be construed to limit the Secretary’s authority under chapter 601 of title 49, United States Code, to regulate liquefied natural gas pipeline facilities.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s28" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="28">SEC. 28. </num><heading style="-uslm-dtd:header">PIPELINE ODORIZATION STUDY. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives that assesses—</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s28/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the feasibility, costs, and benefits of odorizing all combustible gas in pipeline transportation; and</content>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s28/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">the affects of the odorization of all combustible gas in pipeline transportation on—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s28/2/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">manufacturers, agriculture, and other end users; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s28/2/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">public health and safety.</content>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s29" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="29">SEC. 29. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s60108">49 U.S.C. 60108 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REPORT ON NATURAL GAS LEAK REPORTING. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s29/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall submit to Congress a report on the metrics provided to the Pipeline and Hazardous Materials Safety Administration and other Federal and State agencies related to lost and unaccounted for natural gas from distribution pipelines and systems.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s29/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Elements.—</heading><chapeau style="-uslm-dtd:text">The report required under subsection (a) shall include the following elements:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s29/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">An examination of different reporting requirements or standards for lost and unaccounted for natural gas to different agencies, the reasons for any such discrepancies, and recommendations for harmonizing and improving the accuracy of reporting.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s29/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">An analysis of whether separate or alternative reporting could better measure the amounts and identify the location of lost and unaccounted for natural gas from natural gas distribution systems.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s29/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">A description of potential safety issues associated with natural gas that is lost and unaccounted for from natural gas distribution systems.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s29/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">An assessment of whether alternate reporting and measures will resolve any safety issues identified under paragraph (3), including an analysis of the potential impact, including potential savings, on rate payers and end users of natural gas products of such reporting and measures.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s29/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Consideration of Recommendations.—</heading><content style="-uslm-dtd:text">If the Administrator determines that alternate reporting structures or recommendations included in the report required under subsection (a) would significantly improve the reporting and measurement of lost and unaccounted for gas and safety of natural gas distribution systems, the Administrator shall, not later than 1 year after making such determination, issue regulations, as the Administrator determines appropriate, to implement the recommendations.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s30" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="30">SEC. 30. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s60108">49 U.S.C. 60108 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REVIEW OF STATE POLICIES RELATING TO NATURAL GAS LEAKS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s30/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Review.—</heading><chapeau style="-uslm-dtd:text">The Administrator of the Pipeline and Hazardous Materials Safety Administration shall conduct a State-by-State review of State-level policies that—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s30/a/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">encourage the repair and replacement of leaking natural gas distribution pipelines or systems that pose a safety threat, such as timelines to repair leaks and limits on cost recovery from ratepayers; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s30/a/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">may create barriers for entities to conduct work to repair and replace leaking natural gas pipelines or distribution systems.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s30/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of the enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the findings of the review conducted under subsection (a) and recommendations on Federal or State policies or best practices to improve safety by accelerating the repair and replacement of natural gas pipelines or systems that are leaking or releasing natural gas. The report shall consider the potential impact, including potential savings, of the implementation of such recommendations on ratepayers or end users of the natural gas pipeline system.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s30/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Implementation of Recommendations.—</heading><content style="-uslm-dtd:text">If the Administrator determines that the recommendations made under subsection (b) would significantly improve pipeline safety, the Administrator shall, not later than 1 year after making such determination, and in coordination with the heads of other relevant agencies as appropriate, issue regulations, as the Administrator determines appropriate, to implement the recommendations.</content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/183/s31" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="31">SEC. 31. </num><heading style="-uslm-dtd:header">ALISO CANYON NATURAL GAS LEAK TASK FORCE. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s31/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment of Task Force.—</heading><content style="-uslm-dtd:text">Not later than 15 days after the date of enactment of this Act, the Secretary of Energy shall lead and establish an Aliso Canyon natural gas leak task force.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s31/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Membership of Task Force.—</heading><chapeau style="-uslm-dtd:text">In addition to the Secretary, the task force established under subsection (a) shall be composed of—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s31/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">1 representative from the Department of Transportation;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s31/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">1 representative from the Department of Health and Human Services;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s31/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">1 representative from the Environmental Protection Agency;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s31/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">1 representative from the Department of the Interior;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s31/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">1 representative from the Department of Commerce;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s31/b/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">1 representative from the Federal Energy Regulatory Commission; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s31/b/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">representatives of State and local governments, as determined appropriate by the Secretary and the Administrator.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/183/s31/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Report.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s31/c/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the task force established under subsection (a) shall submit a final report that contains the information described in paragraph (2) to—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Committee on Energy and Natural Resources of the Senate;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Committee on Natural Resources of the House of Representatives;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/1/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Committee on Environment and Public Works of the Senate;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/1/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the Committee on Transportation and Infrastructure of the House of Representatives;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/1/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the Committee on Commerce, Science, and Transportation of the Senate;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/1/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the Committee on Energy and Commerce of the House of Representatives;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/1/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">the Committee on Health, Education, Labor, and Pensions of the Senate;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/1/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">the Committee on Education and the Workforce of the House of Representatives;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/1/I" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the President; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/1/J" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="J">(J) </num><content style="-uslm-dtd:text">relevant Federal and State agencies.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s31/c/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Information included.—</heading><chapeau style="-uslm-dtd:text">The report submitted under paragraph (1) shall include—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">an analysis and conclusion of the cause and contributing factors of the Aliso Canyon natural gas leak;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">an analysis of measures taken to stop the natural gas leak, with an immediate focus on other, more effective measures that could be taken;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">an assessment of the impact of the natural gas leak on—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/183/s31/c/2/C/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">health, safety, and the environment;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/183/s31/c/2/C/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">wholesale and retail electricity prices; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/183/s31/c/2/C/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the reliability of the bulk-power system;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">an analysis of how Federal, State, and local agencies responded to the natural gas leak;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><chapeau style="-uslm-dtd:text">in order to lessen the negative impacts of leaks from underground natural gas storage facilities, recommendations on how to improve—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/183/s31/c/2/E/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the response to a future leak; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/183/s31/c/2/E/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">coordination between all appropriate Federal, State, and local agencies in the response to the Aliso Canyon natural gas leak and future natural gas leaks;</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/2/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">an analysis of the potential for a similar natural gas leak to occur at other underground natural gas storage facilities in the United States;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/2/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">recommendations on how to prevent any future natural gas leaks;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/2/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">recommendations regarding Aliso Canyon and other underground natural gas storage facilities located in close proximity to residential populations;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/2/I" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">any recommendations on information that is not currently collected but that would be in the public interest to collect and distribute to agencies and institutions for the continued study and monitoring of natural gas storage infrastructure in the United States; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/183/s31/c/2/J" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="J">(J) </num><content style="-uslm-dtd:text">any other recommendations, as appropriate.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s31/c/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Publication.—</heading><content style="-uslm-dtd:text">The final report under paragraph (1) shall be made available to the public in an electronically accessible format.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/183/s31/c/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Findings.—</heading><content style="-uslm-dtd:text">If, before the final report is submitted under paragraph (1), the task force established under subsection (a) finds methods to solve the natural gas leak at Aliso Canyon, finds methods to better protect the affected communities, or finds methods to help prevent other leaks, the task force shall immediately submit such findings to the entities described in subparagraphs (A) through (J) of paragraph (1).</content>
+                </paragraph>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

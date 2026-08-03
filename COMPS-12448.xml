@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Pension Funding Equity Act of 2004</dc:title>
+        <citableAs>Public Law 108–218, as amended</citableAs>
+        <citableAsShortTitle>Pension Funding Equity Act of 2004</citableAsShortTitle>
+        <docNumber>218</docNumber>
+        <currentThroughPublicLaw>110–458</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Pension Funding Equity Act of 2004</containsShortTitle>
+        <property role="fileId">12448</property>
+        <congress>108</congress>
+        <approvedDate>2004-04-10</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Pension Funding Equity Act of 2004</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 108–218</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 110–458</currentThroughPublicLaw>, Enacted <date date="2008-12-23">December 23, 2008</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 108–218. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 to temporarily replace the 30-year Treasury rate with a rate based on long-term corporate bonds for certain pension plan funding requirements and other provisions, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1001">29 U.S.C. 1001 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content style="-uslm-dtd:text" class="block">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Pension Funding Equity Act of 2004</inline></shortTitle>”.</content>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/108/218/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">PENSION FUNDING </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">TEMPORARY REPLACEMENT OF 30-YEAR TREASURY RATE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s101/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Employee Retirement Income Security Act of 1974.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Determination of permissible range.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tI/s101/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1082">29 U.S.C. 1082</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Clause (ii) of section 302(b)(5)(B) of the Employee Retirement Income Security Act of 1974 is amended by redesignating subclause (II) as subclause (III) and by inserting after subclause (I) the following new subclause:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><heading style="-uslm-dtd:header">Special rule for years 2004 and 2005. </heading><content style="-uslm-dtd:text">In the case of plan years beginning after December 31, 2003, and before January 1, 2006, the term ‘<term style="-uslm-dtd:term">permissible range</term>’ means a rate of interest which is not above, and not more than 10 percent below, the weighted average of the rates of interest on amounts invested conservatively in long-term investment grade corporate bonds during the 4-year period ending on the last day before the beginning of the plan year. Such rates shall be determined by the Secretary of the Treasury on the basis of 2 or more indices that are selected periodically by the Secretary of the Treasury and that are in the top 3 quality levels available. The Secretary of the Treasury shall make the permissible range, and the indices and methodology used to determine the average rate, publicly available.”</content>
+                            </subclause></quotedContent>.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tI/s101/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Secretarial authority.—</heading><chapeau style="-uslm-dtd:text">Subclause (III) of section 302(b)(5)(B)(ii) of such Act, as redesignated by subparagraph (A), is amended—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tI/s101/a/1/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">or (II)</quotedText>” after “<quotedText style="-uslm-dtd:quote">subclause (I)</quotedText>” the first place it appears, and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tI/s101/a/1/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">subclause (I)</quotedText>” the second place it appears and inserting “<quotedText style="-uslm-dtd:quote">such subclause</quotedText>”.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tI/s101/a/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1082">29 U.S.C. 1082</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Conforming amendment.—</heading><content style="-uslm-dtd:text">Subclause (I) of section 302(b)(5)(B)(ii) of such Act is amended by inserting “<quotedText style="-uslm-dtd:quote">or (III)</quotedText>” after “<quotedText style="-uslm-dtd:quote">subclause (II)</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Determination of current liability.—</heading><content style="-uslm-dtd:text">Clause (i) of section 302(d)(7)(C) of such Act is amended by adding at the end the following new subclause:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="IV">“(IV) </num><heading style="-uslm-dtd:header">Special rule for 2004 and 2005. </heading><content style="-uslm-dtd:text">For plan years beginning in 2004 or 2005, notwithstanding subclause (I), the rate of interest used to determine current liability under this subsection shall be the rate of interest under subsection (b)(5).”</content>
+                        </subclause></quotedContent>.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Conforming amendment.—</heading><content style="-uslm-dtd:text">Paragraph (7) of section 302(e) of such Act is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="7">“(7) </num><heading style="-uslm-dtd:header">Special rule for 2002. </heading><content style="-uslm-dtd:text">In any case in which the interest rate used to determine current liability is determined under subsection (d)(7)(C)(i)(III), for purposes of applying paragraphs (1) and (4)(B)(ii) for plan years beginning in 2002, the current liability for the preceding plan year shall be redetermined using 120 percent as the specified percentage determined under subsection (d)(7)(C)(i)(II).”</content>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1306">29 U.S.C. 1306</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PBGC.—</heading><content style="-uslm-dtd:text">Clause (iii) of section 4006(a)(3)(E) of such Act is amended by adding at the end the following new subclause:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="V">“(V) </num><content style="-uslm-dtd:text">In the case of plan years beginning after December 31, 2003, and before January 1, 2006, the annual yield taken into account under subclause (II) shall be the annual rate of interest determined by the Secretary of the Treasury on amounts invested conservatively in long-term investment grade corporate bonds for the month preceding the month in which the plan year begins. For purposes of the preceding sentence, the Secretary of the Treasury shall determine such rate of interest on the basis of 2 or more indices that are selected periodically by the Secretary of the Treasury and that are in the top 3 quality levels available. The Secretary of the Treasury shall make the permissible range, and the indices and methodology used to determine the rate, publicly available.”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s101/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Internal Revenue Code of 1986.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Determination of permissible range.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tI/s101/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s412">26 U.S.C. 412</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Clause (ii) of section 412(b)(5)(B) of the Internal Revenue Code of 1986 is amended by redesignating subclause (II) as subclause (III) and by inserting after subclause (I) the following new subclause:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><heading style="-uslm-dtd:header">Special rule for years 2004 and 2005. </heading><content style="-uslm-dtd:text">In the case of plan years beginning after December 31, 2003, and before January 1, 2006, the term ‘<term style="-uslm-dtd:term">permissible range</term>’ means a rate of interest which is not above, and not more than 10 percent below, the weighted average of the rates of interest on amounts invested conservatively in long-term investment grade corporate bonds during the 4-year period ending on the last day before the beginning of the plan year. Such rates shall be determined by the Secretary on the basis of 2 or more  indices that are selected periodically by the Secretary and that are in the top 3 quality levels available. The Secretary shall make the permissible range, and the indices and methodology used to determine the average rate, publicly available.”</content>
+                            </subclause></quotedContent>.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tI/s101/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s412">26 U.S.C. 412</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Secretarial authority.—</heading><chapeau style="-uslm-dtd:text">Subclause (III) of section 412(b)(5)(B)(ii) of such Code, as redesignated by subparagraph (A), is amended—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tI/s101/b/1/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">or (II)</quotedText>” after “<quotedText style="-uslm-dtd:quote">subclause (I)</quotedText>” the first place it appears, and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tI/s101/b/1/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">subclause (I)</quotedText>” the second place it appears and inserting “<quotedText style="-uslm-dtd:quote">such subclause</quotedText>”.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tI/s101/b/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Conforming amendment.—</heading><content style="-uslm-dtd:text">Subclause (I) of section 412(b)(5)(B)(ii) of such Code is amended by inserting “<quotedText style="-uslm-dtd:quote">or (III)</quotedText>” after “<quotedText style="-uslm-dtd:quote">subclause (II)</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Determination of current liability.—</heading><content style="-uslm-dtd:text">Clause (i) of section 412(l)(7)(C) of such Code is amended by adding at the end the following new subclause:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="IV">“(IV) </num><heading style="-uslm-dtd:header">Special rule for 2004 and 2005. </heading><content style="-uslm-dtd:text">For plan years beginning in 2004 or 2005, notwithstanding subclause (I), the rate of interest used to determine current liability under this subsection shall be the rate of interest under subsection (b)(5).”</content>
+                        </subclause></quotedContent>.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Conforming amendment.—</heading><content style="-uslm-dtd:text">Paragraph (7) of section 412(m) of such Code is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="7">“(7) </num><heading style="-uslm-dtd:header">Special rule for 2002. </heading><content style="-uslm-dtd:text">In any case in which the interest rate used to determine current liability is determined under subsection (l)(7)(C)(i)(III), for purposes of applying paragraphs (1) and (4)(B)(ii) for plan years beginning in 2002, the current liability for the preceding plan year shall be redetermined using 120 percent as the specified percentage determined under subsection (l)(7)(C)(i)(II).”</content>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s415">26 U.S.C. 415</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Limitation on certain assumptions.—</heading><content style="-uslm-dtd:text">Section 415(b)(2)(E)(ii) of such Code is amended by inserting “<quotedText style="-uslm-dtd:quote">, except that in the case of plan years beginning in 2004 or 2005, ‘<quotedText style="-uslm-dtd:quote">5.5 percent</quotedText>’ shall be substituted for ‘<quotedText style="-uslm-dtd:quote">5 percent</quotedText>’ in clause (i)</quotedText>” before the period at the end.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s404">26 U.S.C. 404</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Election to disregard modification for deduction purposes.—</heading><content style="-uslm-dtd:text">Section 404(a)(1) of such Code is amended by adding at the end the following new subparagraph:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">“(F) </num><heading style="-uslm-dtd:header">Election to disregard modified interest rate. </heading><content style="-uslm-dtd:text">An employer may elect to disregard subsections (b)(5)(B)(ii)(II) and (l)(7)(C)(i)(IV) of section 412 solely for purposes of determining the interest rate used in calculating the maximum amount of the deduction allowable under this paragraph.”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s101/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s411">26 U.S.C. 411 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Provisions Relating to Plan Amendments.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">If this subsection applies to any plan or annuity contract amendment—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tI/s101/c/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">such plan or contract shall be treated as being operated in accordance with the terms of the plan or contract during the period described in paragraph (2)(B)(i), and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tI/s101/c/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">except as provided by the Secretary of the Treasury, such plan shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section  204(g) of the Employee Retirement Income Security Act of 1974 by reason of such amendment.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Amendments to which section applies.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tI/s101/c/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">This subsection shall apply to any amendment to any plan or annuity contract which is made—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tI/s101/c/2/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">pursuant to any amendment made by this section, and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tI/s101/c/2/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">on or before the last day of the first plan year beginning on or after January 1, 2009.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tI/s101/c/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Conditions.—</heading><chapeau style="-uslm-dtd:text">This subsection shall not apply to any plan or annuity contract amendment unless—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tI/s101/c/2/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">during the period beginning on the date the amendment described in subparagraph (A)(i) takes effect and ending on the date described in subparagraph (A)(ii) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tI/s101/c/2/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">such plan or contract amendment applies retroactively for such period.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s101/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s404">26 U.S.C. 404 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Dates.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in paragraphs (2) and (3), the amendments made by this section shall apply to plan years beginning after December 31, 2003.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Lookback rules.—</heading><content style="-uslm-dtd:text">For purposes of applying subsections (d)(9)(B)(ii) and (e)(1) of section 302 of the Employee Retirement Income Security Act of 1974 and subsections (l)(9)(B)(ii) and (m)(1) of section 412 of the Internal Revenue Code of 1986 to plan years beginning after December 31, 2003, the amendments made by this section may be applied as if such amendments had been in effect for all prior plan years. The Secretary of the Treasury may prescribe simplified assumptions which may be used in applying the amendments made by this section to such prior plan years.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s101/d/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Transition rule for section 415 limitation.—</heading><content style="-uslm-dtd:text">In the case of any participant or beneficiary receiving a distribution after December 31, 2003 and before January 1, 2005, the amount payable under any form of benefit subject to section 417(e)(3) of the Internal Revenue Code of 1986 and subject to adjustment under section 415(b)(2)(B) of such Code shall not, solely by reason of the amendment made by subsection (b)(4), be less than the amount that would have been so payable had the amount payable been determined using the applicable interest rate in effect as of the last day of the last plan year beginning before January 1, 2004.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/tI/s102" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">ELECTION OF ALTERNATIVE DEFICIT REDUCTION CONTRIBUTION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s102/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Amendment of ERISA.—</heading><content style="-uslm-dtd:text">Section 302(d) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1082(d)) is amended by adding at the end the following new paragraph:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="12">“(12) </num><heading style="-uslm-dtd:header">Election for certain plans. </heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general. </heading><chapeau style="-uslm-dtd:text">In the case of a defined benefit plan established and maintained by an applicable employer, if this subsection did not apply to the plan for the plan  year beginning in 2000 (determined without regard to paragraph (6)), then, at the election of the employer, the increased amount under paragraph (1) for any applicable plan year shall be the greater of—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">20 percent of the increased amount under paragraph (1) determined without regard to this paragraph, or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the increased amount which would be determined under paragraph (1) if the deficit reduction contribution under paragraph (2) for the applicable plan year were determined without regard to subparagraphs (A), (B), and (D) of paragraph (2).</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Restrictions on benefit increases. </heading><chapeau style="-uslm-dtd:text">No amendment which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted during any applicable plan year, unless—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the plan’s enrolled actuary certifies (in such form and manner prescribed by the Secretary of the Treasury) that the amendment provides for an increase in annual contributions which will exceed the increase in annual charges to the funding standard account attributable to such amendment, or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the amendment is required by a collective bargaining agreement which is in effect on the date of enactment of this subparagraph.</content>
+                            </clause><continuation style="-uslm-dtd:continuation-text" role="subparagraph">If a plan is amended during any applicable plan year in violation of the preceding sentence, any election under this paragraph shall not apply to any applicable plan year ending on or after the date on which such amendment is adopted.</continuation>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Applicable employer. </heading><chapeau style="-uslm-dtd:text">For purposes of this paragraph, the term ‘<term style="-uslm-dtd:term">applicable employer</term>’ means an employer which is—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">a commercial passenger airline,</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">primarily engaged in the production or manufacture of a steel mill product or the processing of iron ore pellets, or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">an organization described in section 501(c)(5) of the Internal Revenue Code of 1986 and which established the plan to which this paragraph applies on June 30, 1955.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">“(D) </num><heading style="-uslm-dtd:header">Applicable plan year. </heading><chapeau style="-uslm-dtd:text">For purposes of this paragraph—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general. </heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:term">applicable plan year</term>’ means any plan year beginning after December 27, 2003, and before December 28, 2005, for which the employer elects the application of this paragraph.</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Limitation on number of years which may be elected. </heading><content style="-uslm-dtd:text">An election may not be made under this paragraph with respect to more than 2 plan years.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">“(E) </num><heading style="-uslm-dtd:header">Notice requirements for plans electing alternative deficit reduction contributions. </heading>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general. </heading><content style="-uslm-dtd:text">If an employer elects an alternative deficit reduction contribution under this paragraph and section 412(l)(12) of the Internal Revenue  Code of 1986 for any year, the employer shall provide, within 30 days of filing the election for such year, written notice of the election to participants and beneficiaries and to the Pension Benefit Guaranty Corporation.</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Notice to participants and beneficiaries. </heading><chapeau style="-uslm-dtd:text">The notice under clause (i) to participants and beneficiaries shall include with respect to any election—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">the due date of the alternative deficit reduction contribution and the amount by which such contribution was reduced from the amount which would have been owed if the election were not made, and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">a description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation and an explanation of the limitations on the guarantee and the circumstances under which such limitations apply, including the maximum guaranteed monthly benefits which the Pension Benefit Guaranty Corporation would pay if the plan terminated while underfunded.</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><heading style="-uslm-dtd:header">Notice to pbgc. </heading><chapeau style="-uslm-dtd:text">The notice under clause (i) to the Pension Benefit Guaranty Corporation shall include—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">the information described in clause (ii)(I),</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the number of years it will take to restore the plan to full funding if the employer only makes the required contributions, and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">information as to how the amount by which the plan is underfunded compares with the capitalization of the employer making the election.</content>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">“(F) </num><heading style="-uslm-dtd:header">Election. </heading><content style="-uslm-dtd:text">An election under this paragraph shall be made at such time and in such manner as the Secretary of the Treasury may prescribe.”</content>
+                        </subparagraph>
+                    </paragraph></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s102/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s412">26 U.S.C. 412</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Amendment of 1986 Code.—</heading><content style="-uslm-dtd:text">Section 412(l) of the Internal Revenue Code of 1986 (relating to applicability of subsection) is amended by adding at the end the following new paragraph:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="12">“(12) </num><heading style="-uslm-dtd:header">Election for certain plans. </heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general. </heading><chapeau style="-uslm-dtd:text">In the case of a defined benefit plan established and maintained by an applicable employer, if this subsection did not apply to the plan for the plan year beginning in 2000 (determined without regard to paragraph (6)), then, at the election of the employer, the increased amount under paragraph (1) for any applicable plan year shall be the greater of—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">20 percent of the increased amount under paragraph (1) determined without regard to this paragraph, or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the increased amount which would be determined under paragraph (1) if the deficit reduction contribution under paragraph (2) for the applicable plan year were determined without regard to subparagraphs (A), (B), and (D) of paragraph (2).</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Restrictions on benefit increases. </heading><chapeau style="-uslm-dtd:text">No amendment which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual  of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted during any applicable plan year, unless—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the plan’s enrolled actuary certifies (in such form and manner prescribed by the Secretary) that the amendment provides for an increase in annual contributions which will exceed the increase in annual charges to the funding standard account attributable to such amendment, or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the amendment is required by a collective bargaining agreement which is in effect on the date of enactment of this subparagraph.</content>
+                            </clause><continuation style="-uslm-dtd:continuation-text" role="subparagraph">If a plan is amended during any applicable plan year in violation of the preceding sentence, any election under this paragraph shall not apply to any applicable plan year ending on or after the date on which such amendment is adopted.</continuation>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Applicable employer. </heading><chapeau style="-uslm-dtd:text">For purposes of this paragraph, the term ‘<term style="-uslm-dtd:term">applicable employer</term>’ means an employer which is—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">a commercial passenger airline,</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">primarily engaged in the production or manufacture of a steel mill product or the processing of iron ore pellets, or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">an organization described in section 501(c)(5) and which established the plan to which this paragraph applies on June 30, 1955.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">“(D) </num><heading style="-uslm-dtd:header">Applicable plan year. </heading><chapeau style="-uslm-dtd:text">For purposes of this paragraph—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general. </heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:term">applicable plan year</term>’ means any plan year beginning after December 27, 2003, and before December 28, 2005, for which the employer elects the application of this paragraph.</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Limitation on number of years which may be elected. </heading><content style="-uslm-dtd:text">An election may not be made under this paragraph with respect to more than 2 plan years.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">“(E) </num><heading style="-uslm-dtd:header">Election. </heading><content style="-uslm-dtd:text">An election under this paragraph shall be made at such time and in such manner as the Secretary may prescribe.”</content>
+                        </subparagraph>
+                    </paragraph></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s102/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s412">26 U.S.C. 412 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effect of Election.—</heading><content style="-uslm-dtd:text">An election under section 302(d)(12) of the Employee Retirement Income Security Act of 1974 or section 412(l)(12) of the Internal Revenue Code of 1986 (as added by this section) with respect to a plan shall not invalidate any obligation (pursuant to a collective bargaining agreement in effect on the date of the election) to provide benefits, to change the accrual of benefits, or to change the rate at which benefits become nonforfeitable under the plan.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s102/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Penalty for Failing To Provide Notice.—</heading><content style="-uslm-dtd:text">Section 502(c)(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1132(c)(3)) is amended by inserting “<quotedText style="-uslm-dtd:quote">or who fails to meet the requirements of section 302(d)(12)(E) with respect to any person</quotedText>” after “<quotedText style="-uslm-dtd:quote">101(e)(2) with respect to any person</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/tI/s103" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">MULTIEMPLOYER PLAN FUNDING NOTICES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s103/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 101 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1021) is amended by inserting after subsection (e) the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">“(f) </num><heading style="-uslm-dtd:header">Multiemployer Defined Benefit Plan Funding Notices. </heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general. </heading><content style="-uslm-dtd:text">The administrator of a defined benefit plan which is a multiemployer plan shall for each plan year provide a plan funding notice to each plan participant and beneficiary, to each labor organization representing such participants or beneficiaries, to each employer that has an obligation to contribute under the plan, and to the Pension Benefit Guaranty Corporation.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Information contained in notices. </heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Identifying information. </heading><content style="-uslm-dtd:text">Each notice required under paragraph (1) shall contain identifying information, including the name of the plan, the address and phone number of the plan administrator and the plan’s principal administrative officer, each plan sponsor’s employer identification number, and the plan number of the plan.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Specific information. </heading><chapeau style="-uslm-dtd:text">A plan funding notice under paragraph (1) shall include—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">a statement as to whether the plan’s funded current liability percentage (as defined in section 302(d)(8)(B)) for the plan year to which the notice relates is at least 100 percent (and, if not, the actual percentage);</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">a statement of the value of the plan’s assets, the amount of benefit payments, and the ratio of the assets to the payments for the plan year to which the notice relates;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">a summary of the rules governing insolvent multiemployer plans, including the limitations on benefit payments and any potential benefit reductions and suspensions (and the potential effects of such limitations, reductions, and suspensions on the plan); and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Other information. </heading><content style="-uslm-dtd:text">Each notice under paragraph (1) shall include any additional information which the plan administrator elects to include to the extent not inconsistent with regulations prescribed by the Secretary.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Time for providing notice. </heading><content style="-uslm-dtd:text">Any notice under paragraph (1) shall be provided no later than two months after the deadline (including extensions) for filing the annual report for the plan year to which the notice relates.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Form and manner. </heading><chapeau style="-uslm-dtd:text">Any notice under paragraph (1)—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">shall be provided in a form and manner prescribed in regulations of the Secretary,</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">shall be written in a manner so as to be understood by the average plan participant, and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">may be provided in written, electronic, or other appropriate form to the extent such form is reasonably accessible to persons to whom the notice is required to be provided.”</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s103/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Penalties.—</heading><content style="-uslm-dtd:text">Section 502(c)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1132(c)(1)) is amended  by striking “<quotedText style="-uslm-dtd:quote">or section 101(e)(1)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">, section 101(e)(1), or section 101(f)</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s103/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1021">29 U.S.C. 1021 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Regulations and Model Notice.—</heading><content style="-uslm-dtd:text">The Secretary of Labor shall, not later than 1 year after the date of the enactment of this Act, issue regulations (including a model notice) necessary to implement the amendments made by this section.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s103/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t29/s1021">29 U.S.C. 1021 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall apply to plan years beginning after December 31, 2004.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/tI/s104" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">ELECTION FOR DEFERRAL OF CHARGE FOR PORTION OF NET EXPERIENCE LOSS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s104/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Employee Retirement Income Security Act of 1974.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s104/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Section 302(b)(7) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1082(b)(7)) is amended by adding at the end the following new subparagraph:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">“(F) </num><heading style="-uslm-dtd:header">Election for deferral of charge for portion of net experience loss. </heading>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general. </heading><content style="-uslm-dtd:text">With respect to the net experience loss of an eligible multiemployer plan for the first plan year beginning after December 31, 2001, the plan sponsor may elect to defer up to 80 percent of the amount otherwise required to be charged under paragraph (2)(B)(iv) for any plan year beginning after June 30, 2003, and before July 1, 2005, to any plan year selected by the plan from either of the 2 immediately succeeding plan years.</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Interest. </heading><content style="-uslm-dtd:text">For the plan year to which a charge is deferred pursuant to an election under clause (i), the funding standard account shall be charged with interest on the deferred charge for the period of deferral at the rate determined under section 304(a) for multiemployer plans.</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><heading style="-uslm-dtd:header">Restrictions on benefit increases. </heading><chapeau style="-uslm-dtd:text">No amendment which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted during any period for which a charge is deferred pursuant to an election under clause (i), unless—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">the plan’s enrolled actuary certifies (in such form and manner prescribed by the Secretary of the Treasury) that the amendment provides for an increase in annual contributions which will exceed the increase in annual charges to the funding standard account attributable to such amendment, or</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the amendment is required by a collective bargaining agreement which is in effect on the date of enactment of this subparagraph.</content>
+                                </subclause><continuation style="-uslm-dtd:continuation-text" role="clause">If a plan is amended during any such plan year in violation of the preceding sentence, any election under this paragraph shall not apply to any such plan year ending on or after the date on which such amendment is adopted.</continuation>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">“(iv) </num><heading style="-uslm-dtd:header">Eligible multiemployer plan. </heading><chapeau style="-uslm-dtd:text">For purposes of this subparagraph, the term ‘<term style="-uslm-dtd:term">eligible multiemployer plan</term>’ means a multiemployer plan—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">which had a net investment loss for the first plan year beginning after December 31, 2001, of at least 10 percent of the average fair market value of the plan assets during the plan year, and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">with respect to which the plan’s enrolled actuary certifies (not taking into account the application of this subparagraph), on the basis of the acutuarial assumptions used for the last plan year ending before the date of the enactment of this subparagraph, that the plan is projected to have an accumulated funding deficiency (within the meaning of subsection (a)(2)) for any plan year beginning after June 30, 2003, and before July 1, 2006.</content>
+                                </subclause><continuation style="-uslm-dtd:continuation-text" role="clause">For purposes of subclause (I), a plan’s net investment loss shall be determined on the basis of the actual loss and not under any actuarial method used under subsection (c)(2).</continuation>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">“(v) </num><heading style="-uslm-dtd:header">Exception to treatment of eligible multiemployer plan. </heading><chapeau style="-uslm-dtd:text">In no event shall a plan be treated as an eligible multiemployer plan under clause (iv) if—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">for any taxable year beginning during the 10-year period preceding the first plan year for which an election is made under clause (i), any employer required to contribute to the plan failed to timely pay any excise tax imposed under section 4971 of the Internal Revenue Code of 1986 with respect to the plan,</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">for any plan year beginning after June 30, 1993, and before the first plan year for which an election is made under clause (i), the average contribution required to be made by all employers to the plan does not exceed 10 cents per hour or no employer is required to make contributions to the plan, or</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">with respect to any of the plan years beginning after June 30, 1993, and before the first plan year for which an election is made under clause (i), a waiver was granted under section 303 of this Act or section 412(d) of the Internal Revenue Code of 1986 with respect to the plan or an extension of an amortization period was granted under section 304 of this Act or section 412(e) of such Code with respect to the plan.</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">“(vi) </num><heading style="-uslm-dtd:header">Notice. </heading><content style="-uslm-dtd:text">If a plan sponsor makes an election under this subparagraph or section 412(b)(7)(F) of the Internal Revenue Code of 1986 for any plan year, the plan administrator shall provide, within 30 days of filing the election for such year, written notice of the election to participants and beneficiaries, to each labor organization representing such participants or beneficiaries, to each employer that has an obligation to  contribute under the plan, and to the Pension Benefit Guaranty Corporation. Such notice shall include with respect to any election the amount of any charge to be deferred and the period of the deferral. Such notice shall also include the maximum guaranteed monthly benefits which the Pension Benefit Guaranty Corporation would pay if the plan terminated while underfunded.</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vii">“(vii) </num><heading style="-uslm-dtd:header">Election. </heading><content style="-uslm-dtd:text">An election under this subparagraph shall be made at such time and in such manner as the Secretary of the Treasury may prescribe.”</content>
+                            </clause>
+                        </subparagraph></quotedContent>.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tI/s104/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Penalty.—</heading><content style="-uslm-dtd:text">Section 502(c)(4) of such Act (29 U.S.C. 1132(c)(4)) is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">The Secretary may assess a civil penalty of not more than $1,000 a day for each violation by any person of section 302(b)(7)(F)(vi).”</content>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tI/s104/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s412">26 U.S.C. 412</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Internal Revenue Code of 1986.—</heading><content style="-uslm-dtd:text">Section 412(b)(7) of the Internal Revenue Code of 1986 (relating to special rules for multiemployer plans) is amended by adding at the end the following new subparagraph:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">“(F) </num><heading style="-uslm-dtd:header">Election for deferral of charge for portion of net experience loss. </heading>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general. </heading><content style="-uslm-dtd:text">With respect to the net experience loss of an eligible multiemployer plan for the first plan year beginning after December 31, 2001, the plan sponsor may elect to defer up to 80 percent of the amount otherwise required to be charged under paragraph (2)(B)(iv) for any plan year beginning after June 30, 2003, and before July 1, 2005, to any plan year selected by the plan from either of the 2 immediately succeeding plan years.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Interest. </heading><content style="-uslm-dtd:text">For the plan year to which a charge is deferred pursuant to an election under clause (i), the funding standard account shall be charged with interest on the deferred charge for the period of deferral at the rate determined under subsection (d) for multiemployer plans.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">“(iii) </num><heading style="-uslm-dtd:header">Restrictions on benefit increases. </heading><chapeau style="-uslm-dtd:text">No amendment which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted during any period for which a charge is deferred pursuant to an election under clause (i), unless—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">the plan’s enrolled actuary certifies (in such form and manner prescribed by the Secretary) that the amendment provides for an increase in annual contributions which will exceed the increase in annual charges to the funding standard account attributable to such amendment, or</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the amendment is required by a collective bargaining agreement which is in effect on the date of enactment of this subparagraph.</content>
+                            </subclause><continuation style="-uslm-dtd:continuation-text" role="clause">If a plan is amended during any such plan year in violation of the preceding sentence, any election under this paragraph shall not apply to any such plan year  ending on or after the date on which such amendment is adopted.</continuation>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">“(iv) </num><heading style="-uslm-dtd:header">Eligible multiemployer plan. </heading><chapeau style="-uslm-dtd:text">For purposes of this subparagraph, the term ‘<term style="-uslm-dtd:term">eligible multiemployer plan</term>’ means a multiemployer plan—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">which had a net investment loss for the first plan year beginning after December 31, 2001, of at least 10 percent of the average fair market value of the plan assets during the plan year, and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">with respect to which the plan’s enrolled actuary certifies (not taking into account the application of this subparagraph), on the basis of the acutuarial assumptions used for the last plan year ending before the date of the enactment of this subparagraph, that the plan is projected to have an accumulated funding deficiency (within the meaning of subsection (a)) for any plan year beginning after June 30, 2003, and before July 1, 2006.</content>
+                            </subclause><continuation style="-uslm-dtd:continuation-text" role="clause">For purposes of subclause (I), a plan’s net investment loss shall be determined on the basis of the actual loss and not under any actuarial method used under subsection (c)(2).</continuation>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">“(v) </num><heading style="-uslm-dtd:header">Exception to treatment of eligible multiemployer plan. </heading><chapeau style="-uslm-dtd:text">In no event shall a plan be treated as an eligible multiemployer plan under clause (iv) if—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">for any taxable year beginning during the 10-year period preceding the first plan year for which an election is made under clause (i), any employer required to contribute to the plan failed to timely pay any excise tax imposed under section 4971 with respect to the plan,</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">for any plan year beginning after June 30, 1993, and before the first plan year for which an election is made under clause (i), the average contribution required to be made by all employers to the plan does not exceed 10 cents per hour or no employer is required to make contributions to the plan, or</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">with respect to any of the plan years beginning after June 30, 1993, and before the first plan year for which an election is made under clause (i), a waiver was granted under section 412(d) or section 303 of the Employee Retirement Income Security Act of 1974 with respect to the plan or an extension of an amortization period was granted under subsection (e) or section 304 of such Act with respect to the plan.</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vi">“(vi) </num><heading style="-uslm-dtd:header">Election. </heading><content style="-uslm-dtd:text">An election under this subparagraph shall be made at such time and in such manner as the Secretary may prescribe.”</content>
+                        </clause>
+                    </subparagraph></quotedContent>.</content>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/108/218/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">OTHER PROVISIONS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">TWO-YEAR EXTENSION OF TRANSITION RULE TO PENSION FUNDING REQUIREMENTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s201/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s412">26 U.S.C. 412 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Section 769(c) of the Retirement Protection Act of 1994, as added by section 1508 of the Taxpayer Relief Act of 1997, is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s201/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">except as provided in paragraph (3),</quotedText>” before “<quotedText style="-uslm-dtd:quote">the transition rules</quotedText>”, and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s201/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Special rules. </heading><chapeau style="-uslm-dtd:text">In the case of plan years beginning in 2004 and 2005, the following transition rules shall apply in lieu of the transition rules described in paragraph (2):</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">For purposes of section 412(l)(9)(A) of the Internal Revenue Code of 1986 and section 302(d)(9)(A) of the Employee Retirement Income Security Act of 1974, the funded current liability percentage for any plan year shall be treated as not less than 90 percent.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">For purposes of section 412(m) of the Internal Revenue Code of 1986 and section 302(e) of the Employee Retirement Income Security Act of 1974, the funded current liability percentage for any plan year shall be treated as not less than 100 percent.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">For purposes of determining unfunded vested benefits under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974, the mortality table shall be the mortality table used by the plan.”</content>
+                            </subparagraph>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s201/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s412">26 U.S.C. 412 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall apply to plan years beginning after December 31, 2003.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/tII/s202" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">PROCEDURES APPLICABLE TO DISPUTES INVOLVING PENSION PLAN WITHDRAWAL LIABILITY. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s202/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 4221 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1401) is amended by adding at the end the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">“(f) </num><heading style="-uslm-dtd:header">Procedures Applicable to Certain Disputes. </heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general. </heading><chapeau style="-uslm-dtd:text">If—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">a plan sponsor of a plan determines that—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">a complete or partial withdrawal of an employer has occurred, or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">an employer is liable for withdrawal liability payments with respect to the complete or partial withdrawal of an employer from the plan,</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">such determination is based in whole or in part on a finding by the plan sponsor under section 4212(c) that a principal purpose of a transaction that occurred before January 1, 1999, was to evade or avoid withdrawal liability under this subtitle, and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">such transaction occurred at least 5 years before the date of the complete or partial withdrawal,</content>
+                            </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">then the special rules under paragraph (2) shall be used in applying subsections (a) and (d) of this section and section 4219(c) to the employer.</continuation>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Special rules. </heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Determination. </heading><chapeau style="-uslm-dtd:text">Notwithstanding subsection (a)(3)—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">a determination by the plan sponsor under paragraph (1)(B) shall not be presumed to be correct, and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the plan sponsor shall have the burden to establish, by a preponderance of the evidence, the elements of the claim under section 4212(c) that a principal purpose of the transaction was to evade or avoid withdrawal liability under this subtitle.</content>
+                                </clause><continuation style="-uslm-dtd:continuation-text" role="subparagraph">Nothing in this subparagraph shall affect the burden of establishing any other element of a claim for withdrawal liability under this subtitle.</continuation>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Procedure. </heading><content style="-uslm-dtd:text">Notwithstanding subsection (d) and section 4219(c), if an employer contests the plan sponsor’s determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a), or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor’s determination.”</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s202/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s1401">26 U.S.C. 1401 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall apply to any employer that receives a notification under section 4219(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1399(b)(1)) after October 31, 2003.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/tII/s203" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="203">SEC. 203. </num><heading style="-uslm-dtd:header">SENSE OF CONGRESS REGARDING DEFINED BENEFIT PENSION SYSTEM REFORM. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">It is the sense of the Congress that the Congress must ensure the financial health of the defined benefit pension system by working to promptly implement—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s203/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a permanent replacement for the pension discount rate used for defined benefit pension plan calculations, and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s203/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">comprehensive funding reforms for all defined benefit pension plans aimed at achieving accurate and sound pension funding to enhance retirement security for workers who rely on defined pension plan benefits, to reduce the volatility of contributions, to provide plan sponsors with predictability for plan contributions, and to ensure adequate disclosures for plan participants in the case of underfunded pension plans.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/tII/s204" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="204">SEC. 204. </num><heading style="-uslm-dtd:header">EXTENSION OF TRANSFERS OF EXCESS PENSION ASSETS TO RETIREE HEALTH ACCOUNTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s204/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s420">26 U.S.C. 420</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Amendment of Internal Revenue Code of 1986.—</heading><content style="-uslm-dtd:text">Paragraph (5) of section 420(b) of the Internal Revenue Code of 1986 (relating to expiration) is amended by striking “<quotedText style="-uslm-dtd:quote">December 31, 2005</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">December 31, 2013</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s204/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Amendments of ERISA.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s204/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Section 101(e)(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1021(e)(3)) is amended by striking “<quotedText style="-uslm-dtd:quote">Tax Relief Extension Act of 1999</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Pension Funding Equity Act of 2004</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s204/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Section 403(c)(1) of such Act (29 U.S.C. 1103(c)(1)) is amended by striking “<quotedText style="-uslm-dtd:quote">Tax Relief Extension Act of 1999</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Pension Funding Equity Act of 2004</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s204/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">Paragraph (13) of section 408(b) of such Act (29 U.S.C. 1108(b)(3)) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s204/b/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">January 1, 2006</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">January 1, 2014</quotedText>”, and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s204/b/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Tax Relief Extension Act of 1999</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Pension Funding Equity Act of 2004</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/tII/s205" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="205">SEC. 205. </num><heading style="-uslm-dtd:header">REPEAL OF REDUCTION OF DEDUCTIONS FOR MUTUAL LIFE INSURANCE COMPANIES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s205/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s809">26 U.S.C. 809</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 809 of the Internal Revenue Code of 1986 (relating to reductions in certain deduction of mutual life insurance companies) is hereby repealed.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s205/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conforming Amendments.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s205/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s807">26 U.S.C. 807</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">Subsections (a)(2)(B) and (b)(1)(B) of section 807 of such Code are each amended by striking “<quotedText style="-uslm-dtd:quote">the sum of (i)</quotedText>” and by striking “<quotedText style="-uslm-dtd:quote">plus (ii) any excess described in section 809(a)(2) for the taxable year,</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s205/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2)</num><subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s205/b/2/A" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The last sentence of section 807(d)(1) of such Code is amended by striking “<quotedText style="-uslm-dtd:quote">section 809(b)(4)(B)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">paragraph (6)</quotedText>”.</content></subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s205/b/2/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Subsection (d) of section 807 of such Code is amended by adding at the end the following new paragraph:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="6">“(6) </num><heading style="-uslm-dtd:header">Statutory reserves. </heading><content style="-uslm-dtd:text">The term ‘<term style="-uslm-dtd:term">statutory reserves</term>’ means the aggregate amount set forth in the annual statement with respect to items described in section 807(c). Such term shall not include any reserve attributable to a deferred and uncollected premium if the establishment of such reserve is not permitted under section 811(c).”</content>
+                            </paragraph></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s205/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s808">26 U.S.C. 808</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">Subsection (c) of section 808 of such Code is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Amount of Deduction. </heading><content style="-uslm-dtd:text">The deduction for policyholder dividends for any taxable year shall be an amount equal to the policyholder dividends paid or accrued during the taxable year.”</content>
+                        </subsection></quotedContent>.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s205/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s812">26 U.S.C. 812</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">Subparagraph (A) of section 812(b)(3) of such Code is amended by striking “<quotedText style="-uslm-dtd:quote">sections 808 and 809</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 808</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s205/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s817">26 U.S.C. 817</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">Subsection (c) of section 817 of such Code is amended by striking “<quotedText style="-uslm-dtd:quote">(other than section 809)</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s205/b/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s842">26 U.S.C. 842</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">Subsection (c) of section 842 of such Code is amended by striking paragraph (3) and by redesignating paragraph (4) as paragraph (3).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s205/b/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">The table of sections for subpart C of part I of subchapter L of chapter 1 of such Code is amended by striking the item relating to section 809.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s205/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s807">26 U.S.C. 807 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall apply to taxable years beginning after December 31, 2004.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/tII/s206" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="206">SEC. 206. </num><heading style="-uslm-dtd:header">CLARIFICATION OF EXEMPTION FROM TAX FOR SMALL PROPERTY AND CASUALTY INSURANCE COMPANIES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s206/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s501">26 U.S.C. 501</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 501(c)(15)(A) of the Internal Revenue Code of 1986 is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">Insurance companies (as defined in section 816(a)) other than life (including interinsurers and reciprocal underwriters) if—</chapeau>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">“(i)</num><subclause style="-uslm-dtd:subclause" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the gross receipts for the taxable year do not exceed $600,000, and</content></subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">more than 50 percent of such gross receipts consist of premiums, or</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><chapeau style="-uslm-dtd:text">in the case of a mutual insurance company—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">the gross receipts of which for the taxable year do not exceed $150,000, and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">more than 35 percent of such gross receipts consist of premiums.</content>
+                            </subclause><continuation style="-uslm-dtd:continuation-text" role="paragraph">Clause (ii) shall not apply to a company if any employee of the company, or a member of the employee’s family (as defined in section 2032A(e)(2)), is an employee of another company exempt from taxation by reason of this paragraph (or would be so exempt but for this sentence).”</continuation>
+                        </clause>
+                    </subparagraph></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s206/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s501">26 U.S.C. 501</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Controlled Group Rule.—</heading><content style="-uslm-dtd:text">Section 501(c)(15)(C) of the Internal Revenue Code of 1986 is amended by inserting “<quotedText style="-uslm-dtd:quote">, except that in applying section 831(b)(2)(B)(ii) for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded</quotedText>” before the period at the end.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s206/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s831">26 U.S.C. 831</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Definition of Insurance Company for Section 831.—</heading><content style="-uslm-dtd:text">Section 831 of the Internal Revenue Code of 1986 is amended by redesignating subsection (c) as subsection (d) and by inserting after subsection (b) the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Insurance Company Defined. </heading><content style="-uslm-dtd:text">For purposes of this section, the term ‘<term style="-uslm-dtd:term">insurance company</term>’ has the meaning given to such term by section 816(a)).”</content>
+                    </subsection></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s206/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Conforming Amendment.—</heading><content style="-uslm-dtd:text">Clause (i) of section 831(b)(2)(A) of the Internal Revenue Code of 1986 is amended by striking “<quotedText style="-uslm-dtd:quote">exceed $350,000 but</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s206/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s501">26 U.S.C. 501 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s206/e/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 2003.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s206/e/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Transition rule for companies in receivership or liquidation.—</heading><chapeau style="-uslm-dtd:text">In the case of a company or association which—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s206/e/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">for the taxable year which includes April 1, 2004, meets the requirements of section 501(c)(15)(A) of the Internal Revenue Code of 1986, as in effect for the last taxable year beginning before January 1, 2004, and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s206/e/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">on April 1, 2004, is in a receivership, liquidation, or similar proceeding under the supervision of a State court,</content>
+                        </subparagraph><continuation style="-uslm-dtd:continuation-text" role="paragraph">the amendments made by this section shall apply to taxable years beginning after the earlier of the date such proceeding ends or December 31, 2007.</continuation>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/108/218/tII/s207" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="207">SEC. 207. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t15/s37b">15 U.S.C. 37b</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">CONFIRMATION OF ANTITRUST STATUS OF GRADUATE MEDICAL RESIDENT MATCHING PROGRAMS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s207/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Findings and Purposes.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s207/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Findings.—</heading><chapeau style="-uslm-dtd:text">Congress makes the following findings:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s207/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">For over 50 years, most United States medical school seniors and the large majority of graduate medical education programs (popularly known as “<quotedText style="-uslm-dtd:quote">residency programs</quotedText>”) have chosen to use a matching program to match medical students with residency programs to which they have applied. These matching programs have been an integral part of an educational system that has produced the finest physicians and medical researchers in the world.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s207/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Before such matching programs were instituted, medical students often felt pressure, at an unreasonably early stage of their medical education, to seek admission to, and accept offers from, residency programs. As a result, medical students often made binding commitments before they were in a position to make an informed decision  about a medical specialty or a residency program and before residency programs could make an informed assessment of students’ qualifications. This situation was inefficient, chaotic, and unfair and it often led to placements that did not serve the interests of either medical students or residency programs.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s207/a/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">The original matching program, now operated by the independent non-profit National Resident Matching Program and popularly known as “<quotedText style="-uslm-dtd:quote">the Match</quotedText>”, was developed and implemented more than 50 years ago in response to widespread student complaints about the prior process. This Program includes on its board of directors individuals nominated by medical student organizations as well as by major medical education and hospital associations.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s207/a/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">The Match uses a computerized mathematical algorithm, as students had recommended, to analyze the preferences of students and residency programs and match students with their highest preferences from among the available positions in residency programs that listed them. Students thus obtain a residency position in the most highly ranked program on their list that has ranked them sufficiently high among its preferences. Each year, about 85 percent of participating United States medical students secure a place in one of their top 3 residency program choices.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s207/a/1/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">Antitrust lawsuits challenging the matching process, regardless of their merit or lack thereof, have the potential to undermine this highly efficient, pro-competitive, and long-standing process. The costs of defending such litigation would divert the scarce resources of our country’s teaching hospitals and medical schools from their crucial missions of patient care, physician training, and medical research. In addition, such costs may lead to abandonment of the matching process, which has effectively served the interests of medical students, teaching hospitals, and patients for over half a century.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s207/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Purposes.—</heading><chapeau style="-uslm-dtd:text">It is the purpose of this section to—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s207/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">confirm that the antitrust laws do not prohibit sponsoring, conducting, or participating in a graduate medical education residency matching program, or agreeing to do so; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s207/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">ensure that those who sponsor, conduct or participate in such matching programs are not subjected to the burden and expense of defending against litigation that challenges such matching programs under the antitrust laws.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s207/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Application of Antitrust Laws to Graduate Medical Education Residency Matching Programs.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s207/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this subsection:</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s207/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Antitrust laws.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">antitrust laws</term>”—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tII/s207/b/1/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">has the meaning given such term in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12(a)), except that such term includes section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent such section 5 applies to unfair methods of competition; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tII/s207/b/1/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">includes any State law similar to the laws referred to in clause (i).</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s207/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Graduate medical education program.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">graduate medical education program</term>” means—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tII/s207/b/1/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a residency program for the medical education and training of individuals following graduation from medical school;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tII/s207/b/1/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a program, known as a specialty or subspecialty fellowship program, that provides more advanced training; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/108/218/tII/s207/b/1/B/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">an institution or organization that operates, sponsors or participates in such a program.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s207/b/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Graduate medical education residency matching program.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">graduate medical education residency matching program</term>” means a program (such as those conducted by the National Resident Matching Program) that, in connection with the admission of students to graduate medical education programs, uses an algorithm and matching rules to match students in accordance with the preferences of students and the preferences of graduate medical education programs.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/108/218/tII/s207/b/1/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Student.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">student</term>” means any individual who seeks to be admitted to a graduate medical education program.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s207/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Confirmation of antitrust status.—</heading><content style="-uslm-dtd:text">It shall not be unlawful under the antitrust laws to sponsor, conduct, or participate in a graduate medical education residency matching program, or to agree to sponsor, conduct, or participate in such a program. Evidence of any of the conduct described in the preceding sentence shall not be admissible in Federal court to support any claim or action alleging a violation of the antitrust laws.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/108/218/tII/s207/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Applicability.—</heading><content style="-uslm-dtd:text">Nothing in this section shall be construed to exempt from the antitrust laws any agreement on the part of 2 or more graduate medical education programs to fix the amount of the stipend or other benefits received by students participating in such programs.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/108/218/tII/s207/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">This section shall take effect on the date of enactment of this Act, shall apply to conduct whether it occurs prior to, on, or after such date of enactment, and shall apply  to all judicial and administrative actions or other proceedings pending on such date of enactment.</content>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

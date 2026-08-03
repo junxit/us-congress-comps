@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Indian Trust Asset Management Demonstration Project Act of 2016</dc:title>
+        <citableAs>Public Law 114–178</citableAs>
+        <citableAsShortTitle>Indian Trust Asset Management Demonstration Project Act of 2016</citableAsShortTitle>
+        <docNumber>178</docNumber>
+        <currentThroughPublicLaw>114–178</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Indian Trust Asset Management Demonstration Project Act of 2016</containsShortTitle>
+        <containsShortTitle>Indian Trust Asset Reform Act</containsShortTitle>
+        <property role="fileId">12083</property>
+        <congress>114</congress>
+        <approvedDate>2016-06-22</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Indian Trust Asset Management Demonstration Project Act of 2016</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 114–178</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 114-178. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To provide for Indian trust asset management reform, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5601">25 U.S.C. 5601 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Indian Trust Asset Reform Act</shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>RECOGNITION OF TRUST RESPONSIBILITY</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Findings.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Reaffirmation of policy.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>INDIAN TRUST ASSET MANAGEMENT DEMONSTRATION PROJECT</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Short title.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> Definitions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 203.</designator><label> Establishment of demonstration project; selection of participating Indian Tribes.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 204.</designator><label> Indian trust asset management plan.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 205.</designator><label> Forest land management and surface leasing activities.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 206.</designator><label> Effect of title.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>IMPROVING EFFICIENCY AND STREAMLINING PROCESSES</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Purpose.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Definitions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 303.</designator><label> Under Secretary for Indian Affairs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 304.</designator><label> Office of Special Trustee for American Indians.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 305.</designator><label> Appraisals and valuations.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 306.</designator><label> Cost savings.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/178/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">RECOGNITION OF TRUST RESPONSIBILITY </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5601">25 U.S.C. 5601</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FINDINGS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Congress finds that—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tI/s101/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">there exists a unique relationship between the Government of the United States and the governments of Indian tribes;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tI/s101/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">there exists a unique Federal responsibility to Indians;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tI/s101/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">through treaties, statutes, and historical relations with Indian tribes, the United States has undertaken a unique trust responsibility to protect and support Indian tribes and Indians;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tI/s101/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the fiduciary responsibilities of the United States to Indians also are founded in part on specific commitments made through written treaties and agreements securing peace, in exchange for which Indians have surrendered claims to vast tracts of land, which provided legal consideration for permanent, ongoing performance of Federal trust duties; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tI/s101/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the foregoing historic Federal-tribal relations and understandings have benefitted the people of the United States as a whole for centuries and have established enduring and enforceable Federal obligations to which the national honor has been committed.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tI/s102" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5602">25 U.S.C. 5602</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">REAFFIRMATION OF POLICY. </heading>
+                <content style="-uslm-dtd:text" class="block">Pursuant to the constitutionally vested authority of Congress over Indian affairs, Congress reaffirms that the responsibility of the United States to Indian tribes includes a duty to promote tribal self-determination regarding governmental authority and economic development.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/178/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">INDIAN TRUST ASSET MANAGEMENT DEMONSTRATION PROJECT </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5601">25 U.S.C. 5601 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title may be cited as the “<shortTitle style="-uslm-dtd:quote">Indian Trust Asset Management Demonstration Project Act of 2016</shortTitle>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tII/s202" styleType="OLC" role="definitions">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5611">25 U.S.C. 5611</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">In this title:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s202/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Indian tribe.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Indian tribe</term>” has the meaning given the term in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s202/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Project.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Project</term>” means the Indian trust asset management demonstration project established under section 203(a).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s202/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Secretary</term>” means the Secretary of the Interior.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tII/s203" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="203">SEC. 203. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5612">25 U.S.C. 5612</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ESTABLISHMENT OF DEMONSTRATION PROJECT; SELECTION OF PARTICIPATING INDIAN TRIBES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s203/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary shall establish and carry out an Indian trust asset management demonstration project, in accordance with this title.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s203/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Selection of Participating Indian Tribes.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s203/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">An Indian tribe shall be eligible to participate in the project if—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s203/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Indian tribe submits to the Secretary an application under subsection (c); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s203/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Secretary approves the application of the Indian tribe.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s203/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Notice.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s203/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall provide a written notice to each Indian tribe approved to participate in the project.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s203/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">A notice under subparagraph (A) shall include—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s203/b/2/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a statement that the application of the Indian tribe has been approved by the Secretary; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s203/b/2/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a requirement that the Indian tribe shall submit to the Secretary a proposed Indian trust asset management plan in accordance with section 204.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s203/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Application.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s203/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">To be eligible to participate in the project, an Indian tribe shall submit to the Secretary a written application in accordance with paragraph (2).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s203/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall consider an application under this subsection only if the application—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s203/c/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">includes a copy of a resolution or other appropriate action by the governing body of the Indian tribe, as determined by the Secretary, in support of or authorizing the application;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s203/c/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">is received by the Secretary after the date of enactment of this Act; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s203/c/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">states that the Indian tribe is requesting to participate in the project.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s203/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Duration.—</heading><chapeau style="-uslm-dtd:text">The project—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s203/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">shall remain in effect for a period of 10 years after the date of enactment of this Act; but</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s203/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">may be extended at the discretion of the Secretary.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tII/s204" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="204">SEC. 204. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5613">25 U.S.C. 5613</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">INDIAN TRUST ASSET MANAGEMENT PLAN. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s204/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Proposed Plan.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s204/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Submission.—</heading><content style="-uslm-dtd:text">After the date on which an Indian tribe receives a notice from the Secretary under section 203(b)(2), the Indian tribe shall submit to the Secretary a proposed Indian trust asset management plan in accordance with paragraph (2).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s204/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">A proposed Indian trust asset management plan shall include provisions that—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">identify the trust assets that will be subject to the plan;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">establish trust asset management objectives and priorities for Indian trust assets that are located within the reservation, or otherwise subject to the jurisdiction, of the Indian tribe;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/a/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">allocate trust asset management funding that is available for the Indian trust assets subject to the plan in order to meet the trust asset management objectives and priorities;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/a/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">if the Indian tribe has contracted or compacted functions or activities under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) relating to the management of trust assets—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s204/a/2/D/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">identify the functions or activities that are being or will be performed by the Indian tribe under the contracts, compacts, or other agreements under that Act, which may include any of the surface leasing or forest land management activities authorized by the proposed plan pursuant to section 205(b); and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s204/a/2/D/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">describe the practices and procedures that the Indian tribe will follow;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/a/2/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">establish procedures for nonbinding mediation or resolution of any dispute between the Indian tribe and  the United States relating to the trust asset management plan;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/a/2/F" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">include a process for the Indian tribe and the Federal agencies affected by the trust asset management plan to conduct evaluations to ensure that trust assets are being managed in accordance with the plan; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/a/2/G" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">identify any Federal regulations that will be superseded by the plan.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s204/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Technical assistance and information.—</heading><content style="-uslm-dtd:text">On receipt of a written request from an Indian tribe, the Secretary shall provide to the Indian tribe any technical assistance and information, including budgetary information, that the Indian tribe determines to be necessary for preparation of a proposed plan.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s204/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Approval and Disapproval of Proposed Plans.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s204/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Approval.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than 120 days after the date on which an Indian tribe submits a proposed Indian trust asset management plan under subsection (a), the Secretary shall approve or disapprove the proposed plan.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Requirements for disapproval.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall approve a proposed plan unless the Secretary determines that—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s204/b/1/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the proposed plan fails to address a requirement under subsection (a)(2);</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s204/b/1/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the proposed plan includes 1 or more provisions that are inconsistent with subsection (c); or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s204/b/1/B/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the cost of implementing the proposed plan exceeds the amount of funding available for the management of trust assets that would be subject to the proposed plan.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s204/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Action on disapproval.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Notice.—</heading><content style="-uslm-dtd:text">If the Secretary disapproves a proposed plan under paragraph (1)(B), the Secretary shall provide to the Indian tribe a written notice of the disapproval, including any reason why the proposed plan was disapproved.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Action by tribes.—</heading><content style="-uslm-dtd:text">If a proposed plan is disapproved under paragraph (1)(B), the Indian tribe may resubmit an amended proposed plan by not later than 90 days after the date on which the Indian tribe receives the notice under subparagraph (A).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s204/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Failure to approve or disapprove.—</heading><content style="-uslm-dtd:text">If the Secretary fails to approve or disapprove a proposed plan in accordance with paragraph (1), the plan shall be considered to be approved.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s204/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Judicial review.—</heading><chapeau style="-uslm-dtd:text">An Indian tribe may seek judicial review of a determination of the Secretary under this subsection in accordance with subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the “<quotedText style="-uslm-dtd:quote">Administrative Procedure Act</quotedText>”), if—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/b/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Secretary disapproves the proposed plan of the Indian tribe under paragraph (1); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/b/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Indian tribe has exhausted all other administrative remedies available to the Indian tribe.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s204/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Applicable Laws.—</heading><content style="-uslm-dtd:text">Subject to section 205, an Indian trust asset management plan, and any activity carried out under the plan, shall not be approved unless the proposed plan is consistent  with any treaties, statutes, and Executive orders that are applicable to the trust assets, or the management of the trust assets, identified in the plan.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s204/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Termination of Plan.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s204/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">An Indian tribe may terminate an Indian trust asset management plan on any date after the date on which a proposed Indian trust asset management plan is approved by providing to the Secretary—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/d/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a notice of the intent of the Indian tribe to terminate the plan; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s204/d/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a resolution of the governing body of the Indian tribe authorizing the termination of the plan.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s204/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Effective date.—</heading><content style="-uslm-dtd:text">A termination of an Indian trust asset management plan under paragraph (1) takes effect on October 1 of the first fiscal year following the date on which a notice is provided to the Secretary under paragraph (1)(A).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tII/s205" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="205">SEC. 205. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5614">25 U.S.C. 5614</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">FOREST LAND MANAGEMENT AND SURFACE LEASING ACTIVITIES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s205/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Forest land management activity.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">forest land management activity</quotedText>” means any activity described in section 304(4) of the National Indian Forest Resources Management Act (25 U.S.C. 3103(4)).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Interested party.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">interested party</quotedText>” means an Indian or non-Indian individual, entity, or government the interests of which could be adversely affected by a tribal trust land leasing decision made by an applicable Indian tribe.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Surface leasing transaction.—</heading><chapeau style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">surface leasing transaction</quotedText>” means a residential, business, agricultural, or wind or solar resource lease of land the title to which is held—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s205/a/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in trust by the United States for the benefit of an Indian tribe; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s205/a/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in fee by an Indian tribe, subject to restrictions against alienation under Federal law.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s205/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Approval by Secretary.—</heading><chapeau style="-uslm-dtd:text">The Secretary may approve an Indian trust asset management plan that includes a provision authorizing the Indian tribe to enter into, approve, and carry out a surface leasing transaction or forest land management activity without approval of the Secretary, regardless of whether the surface leasing transaction or forest land management activity would require such an approval under otherwise applicable law (including regulations), if—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the resolution or other action of the governing body of the Indian tribe referred to in section 203(c)(2)(A) expressly authorizes the inclusion of the provision in the Indian trust asset management plan; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">the Indian tribe has adopted regulations expressly incorporated by reference into the Indian trust asset management plan that—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s205/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">with respect to a surface leasing transaction—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s205/b/2/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">have been approved by the Secretary pursuant to subsection (h)(4) of the first section of the Act of August 9, 1955 (25 U.S.C. 415(h)(4)); or</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s205/b/2/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">have not yet been approved by the Secretary in accordance with clause (i), but that the Secretary    determines at or prior to the time of approval under this paragraph meet the requirements of subsection (h)(3) of the first section of that Act (25 U.S.C. 415(h)(3)); or</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s205/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">with respect to forest land management activities, the Secretary determines—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s205/b/2/B/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">are consistent with the regulations of the Secretary adopted under the National Indian Forest Resources Management Act (25 U.S.C. 3101 et seq.); and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s205/b/2/B/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">provide for an environmental review process that includes—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/178/tII/s205/b/2/B/ii/I" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the identification and evaluation of any significant effects of the proposed action on the environment; and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/178/tII/s205/b/2/B/ii/II" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><chapeau style="-uslm-dtd:text">a process consistent with the regulations referred to in clause (i) for ensuring that—</chapeau>
+                                    <item style="-uslm-dtd:item" identifier="/us/sComp/114/178/tII/s205/b/2/B/ii/II/aa" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="aa">(aa) </num><content style="-uslm-dtd:text">the public is informed of, and has a reasonable opportunity to comment on, any significant environmental impacts of the proposed forest land management activity identified by the Indian tribe; and</content>
+                                    </item>
+                                    <item style="-uslm-dtd:item" identifier="/us/sComp/114/178/tII/s205/b/2/B/ii/II/bb" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">the Indian tribe provides responses to relevant and substantive public comments on any such impacts before the Indian tribe approves the forest land management activity.</content>
+                                    </item>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s205/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Types of Transactions.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">At the discretion of the Indian tribe, an Indian trust asset management plan may authorize the Indian tribe to carry out a surface leasing transaction, a forest land management activity, or both.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Selection of specific transactions and activities.—</heading><content style="-uslm-dtd:text">At the discretion of the Indian tribe, the Indian tribe may include in the integrated resource management plan any 1 or more of the transactions and activities authorized to be included in the plan under subsection (b).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s205/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Technical Assistance.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary may provide technical assistance, on request of an Indian tribe, for development of a regulatory environmental review process required under subsection (b)(2)(B)(ii).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Indian self-determination and education assistance act.—</heading><content style="-uslm-dtd:text">The technical assistance to be provided by the Secretary pursuant to paragraph (1) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, contracts, grants, or agreements under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s205/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Federal Environmental Review.—</heading><content style="-uslm-dtd:text">Notwithstanding subsection (b), if an Indian tribe carries out a project or activity funded by a Federal agency, the Indian tribe shall have the authority to rely on the environmental review process of the applicable Federal agency, rather than any tribal environmental review process under this section.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s205/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Documentation.—</heading><chapeau style="-uslm-dtd:text">If an Indian tribe executes a surface leasing transaction or forest land management activity, pursuant  to tribal regulations under subsection (b)(2), the Indian tribe shall provide to the Secretary</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/f/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a copy of the surface leasing transaction or forest land management activity documents, including any amendments to, or renewals of, the applicable transaction; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/f/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in the case of tribal regulations, a surface leasing transaction, or forest land management activities that allow payments to be made directly to the Indian tribe, documentation of the payments that is sufficient to enable the Secretary to discharge the trust responsibility of the United States under subsection (g).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s205/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Trust Responsibility.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/g/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The United States shall not be liable for losses sustained—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s205/g/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by an Indian tribe as a result of the execution of any forest land management activity pursuant to tribal regulations under subsection (b); or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s205/g/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by any party to a lease executed pursuant to tribal regulations under subsection (b).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/g/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authority of secretary.—</heading><content style="-uslm-dtd:text">Pursuant to the authority of the Secretary to fulfill the trust obligation of the United States to Indian tribes under Federal law (including regulations), the Secretary may, on reasonable notice from the applicable Indian tribe and at the discretion of the Secretary, enforce the provisions of, or cancel, any lease executed by the Indian tribe under this section.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s205/h" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Compliance.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/h/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">An interested party, after exhausting any applicable tribal remedies, may submit to the Secretary a petition, at such time and in such form as the Secretary determines to be appropriate, to review the compliance of an applicable Indian tribe with any tribal regulations approved by the Secretary under this subsection.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/h/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Violations.—</heading><content style="-uslm-dtd:text">If the Secretary determines under paragraph (1) that a violation of tribal regulations has occurred, the Secretary may take any action the Secretary determines to be necessary to remedy the violation, including rescinding the approval of the tribal regulations and reassuming responsibility for the approval of leases of tribal trust land.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s205/h/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Documentation.—</heading><chapeau style="-uslm-dtd:text">If the Secretary determines under paragraph (1) that a violation of tribal regulations has occurred and a remedy is necessary, the Secretary shall—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s205/h/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">make a written determination with respect to the regulations that have been violated;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s205/h/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">provide to the applicable Indian tribe a written notice of the alleged violation, together with the written determination; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tII/s205/h/3/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">prior to the exercise of any remedy, the rescission of the approval of the regulation involved, or the reassumption of the trust asset transaction approval responsibilities, provide to the applicable Indian tribe—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s205/h/3/C/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">a hearing on the record; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/178/tII/s205/h/3/C/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a reasonable opportunity to cure the alleged violation.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tII/s206" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="206">SEC. 206. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5614">25 U.S.C. 5614</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EFFECT OF TITLE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s206/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Liability.—</heading><content style="-uslm-dtd:text">Subject to section 205 and this section, nothing in this title or an Indian trust asset management plan approved under section 204 shall independently diminish, increase, create, or otherwise affect the liability of the United States or an Indian tribe participating in the project for any loss resulting from the management of an Indian trust asset under an Indian trust asset management plan.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s206/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Deviation From Standard Practices.—</heading><content style="-uslm-dtd:text">The United States shall not be liable to any party (including any Indian tribe) for any term of, or any loss resulting from the terms of, an Indian trust asset management plan that provides for management of a trust asset at a less-stringent standard than the Secretary would otherwise require or adhere to in absence of an Indian trust asset management plan.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s206/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effect of Termination of Plan.—</heading><content style="-uslm-dtd:text">Subsection (b) applies to losses resulting from a transaction or activity described in that subsection even if the Indian trust asset management plan is terminated under section 204(d) or rescinded under section 205(h).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s206/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Effect on Other Laws.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s206/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in sections 204 and 205 and subsection (e), nothing in this title amends or otherwise affects the application of any treaty, statute, regulation, or Executive order that is applicable to Indian trust assets or the management or administration of Indian trust assets.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tII/s206/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Indian self-determination act.—</heading><content style="-uslm-dtd:text">Nothing in this title limits or otherwise affects the authority of an Indian tribe, including an Indian tribe participating in the project, to enter into and carry out a contract, compact, or other agreement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) (including regulations).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s206/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Separate Approval.—</heading><content style="-uslm-dtd:text">An Indian tribe may submit to the Secretary tribal regulations described in section 205(b) governing forest land management activities for review and approval under this title if the Indian tribe does not submit or intend to submit an Indian trust asset management plan.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tII/s206/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Trust Responsibility.—</heading><content style="-uslm-dtd:text">Nothing in this title enhances, diminishes, or otherwise affects the trust responsibility of the United States to Indian tribes or individual Indians.</content>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/114/178/tIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">IMPROVING EFFICIENCY AND STREAMLINING PROCESSES </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tIII/s301" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5631">25 U.S.C. 5631</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PURPOSE. </heading>
+                <content style="-uslm-dtd:text" class="block">The purpose of this title is to ensure a more efficient and streamlined administration of duties of the Secretary of the Interior with respect to providing services and programs to Indians and Indian tribes, including the management of Indian trust resources.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tIII/s302" styleType="OLC" role="definitions">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5632">25 U.S.C. 5632</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">In this title:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s302/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">BIA.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">BIA</term>” means the Bureau of Indian Affairs.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s302/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Department.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Department</term>” means the Department of the Interior.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s302/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Secretary</term>” means the Secretary of the Interior.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s302/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Under secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Under Secretary</term>” means the Under Secretary for Indian Affairs established under section 303(a).</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tIII/s303" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="303">SEC. 303. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5633">25 U.S.C. 5633</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">UNDER SECRETARY FOR INDIAN AFFAIRS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s303/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment of Position.—</heading><content style="-uslm-dtd:text">Notwithstanding any other provision of law, the Secretary may establish in the Department the position of Under Secretary for Indian Affairs, who shall report directly to the Secretary.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s303/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Appointment.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s303/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in paragraph (2), the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s303/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Exception.—</heading><chapeau style="-uslm-dtd:text">The individual serving as the Assistant Secretary for Indian Affairs on the date of enactment of this Act may assume the position of Under Secretary without appointment under paragraph (1), if—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s303/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">that individual was appointed as Assistant Secretary for Indian Affairs by the President, by and with the advice and consent of the Senate; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s303/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">not later than 180 days after the date of enactment of this Act, the Secretary approves the assumption.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s303/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Duties.—</heading><chapeau style="-uslm-dtd:text">In addition to any other duties directed by the Secretary, the Under Secretary shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s303/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">coordinate with the Special Trustee for American Indians to ensure an orderly transition of the functions of the Special Trustee to one or more appropriate agencies, offices, or bureaus within the Department, as determined by the Secretary;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s303/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">to the maximum extent practicable, supervise and coordinate activities and policies of the BIA with activities and policies of—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s303/c/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Bureau of Reclamation;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s303/c/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Bureau of Land Management;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s303/c/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Office of Natural Resources Revenue;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s303/c/2/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the National Park Service; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s303/c/2/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the United States Fish and Wildlife Service; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s303/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">provide for regular consultation with Indians and Indian tribes that own interests in trust resources and trust fund accounts.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s303/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Personnel Provisions.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s303/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Appointments.—</heading><content style="-uslm-dtd:text">The Under Secretary may appoint and fix the compensation of such officers and employees as the Under Secretary determines to be necessary to carry out any function transferred under this section.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s303/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">Except as otherwise provided by law—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s303/d/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any officer or employee described in paragraph (1) shall be appointed in accordance with the civil service laws;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s303/d/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the compensation of such an officer or employee shall be fixed in accordance with title 5, United States Code; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s303/d/2/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in appointing or otherwise hiring any employee, the Under Secretary shall give preference to Indians in    accordance with section 12 of the Act of June 18, 1934 (25 U.S.C. 472).</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tIII/s304" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="304">SEC. 304. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5634">25 U.S.C. 5634</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">OFFICE OF SPECIAL TRUSTEE FOR AMERICAN INDIANS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s304/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Information to Congress.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding sections 302 and 303 of the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4042 and 4043), not later than 1 year after the date of enactment of this Act, the Secretary shall prepare and, after consultation with Indian tribes and appropriate Indian organizations, submit to the Committee on Natural Resources of the House of Representatives, the Committee on Indian Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s304/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">an identification of all functions, other than the collection, management, and investment of Indian trust funds, that the Office of the Special Trustee performs independently or in concert with the BIA or other Federal agencies, specifically those functions that affect or relate to management of nonmonetary trust resources;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s304/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a description of any functions of the Office of the Special Trustee that will be transitioned to other bureaus or agencies within the Department prior to the termination date of the Office, as described in paragraph (3), together with the timeframes for those transfers; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s304/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">a transition plan and timetable for the termination of the Office of the Special Trustee, to occur not later than 2 years after the date of submission, unless the Secretary determines than an orderly transition cannot be accomplished within 2 years, in which case the Secretary shall include—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s304/a/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a statement of all reasons why the transition cannot be effected within that time; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s304/a/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">an alternative date for completing the transition.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s304/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Fiduciary Trust Officers.—</heading><content style="-uslm-dtd:text">Subject to applicable law and regulations, the Secretary, at the request of an Indian tribe or a consortium of Indian tribes, shall include fiduciary trust officers in a contract, compact, or other agreement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s304/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effect of Section.—</heading><chapeau style="-uslm-dtd:text">Nothing in this section or the submission required by this section—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s304/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">shall cause the Office of the Special Trustee to terminate; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s304/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">affect the application of sections 302 and 303 of the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4042 and 4043).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tIII/s305" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="305">SEC. 305. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5635">25 U.S.C. 5635</ref>.Consu<b>]</b> </editorialNote><heading style="-uslm-dtd:header">APPRAISALS AND VALUATIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s305/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Notwithstanding section 304, not later than 18 months after the date of enactment of this Act, the Secretary, in consultation with Indian tribes and tribal organizations, shall ensure that appraisals and valuations of Indian trust property are administered by a single bureau, agency, or other administrative entity within the Department.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s305/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Minimum Qualifications.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Secretary shall establish and publish in the Federal Register minimum qualifications for individuals to prepare appraisals and valuations of Indian trust property.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s305/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Secretarial Approval.—</heading><chapeau style="-uslm-dtd:text">In any case in which an Indian tribe or Indian beneficiary submits to the Secretary an appraisal or valuation that satisfies the minimum qualifications described in subsection (b), and that submission acknowledges the intent of the Indian tribe or beneficiary to have the appraisal or valuation considered under this section, the appraisal or valuation—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s305/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">shall not require any additional review or approval by the Secretary; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s305/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">shall be considered to be final for purposes of effectuating the transaction for which the appraisal or valuation is required.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/114/178/tIII/s306" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="306">SEC. 306. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s5636">25 U.S.C. 5636</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">COST SAVINGS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s306/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">For any program, function, service, or activity (or any portion of a program, function, service, or activity) of the Office of the Special Trustee that will not be operated or carried out as a result of a transfer of functions and personnel following enactment of this Act, the Secretary shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s306/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">identify the amounts that the Secretary would otherwise have expended to operate or carry out each program, function, service, and activity (or portion of a program, function, service, or activity); and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s306/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">provide to the tribal representatives of the Tribal-Interior Budget Council or the representative of any other appropriate entity that advises the Secretary on Indian program budget or funding issues a list that describes—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s306/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the programs, functions, services, and activities (or any portion of a program, function, service, or activity) identified under paragraph (1); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/178/tIII/s306/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the amounts associated with each program, function, service, and activity (or portion of a program, function, service, or activity).</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/178/tIII/s306/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Tribal Recommendations.—</heading><chapeau style="-uslm-dtd:text">Not later than 90 days after the date of receipt of a list under subsection (a)(2), the tribal representatives of the Tribal-Interior Budget Council and the representatives of any other appropriate entities that advise the Secretary on Indian program budget or funding issues may provide recommendations regarding how any amounts or cost savings should be reallocated, incorporated into future budget requests, or appropriated to—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s306/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Secretary;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s306/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the Office of Management and Budget;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s306/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the Committee on Appropriations of the House of Representatives;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s306/b/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the Committee on Natural Resources of the House of Representatives;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s306/b/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the Committee on Appropriations of the Senate; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/178/tIII/s306/b/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">the Committee on Indian Affairs of the Senate.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

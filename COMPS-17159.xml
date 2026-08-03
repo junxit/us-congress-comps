@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Data Mapping to Save Moms’ Lives Act</dc:title>
+        <citableAs>Public Law 117–247</citableAs>
+        <citableAsShortTitle>Data Mapping to Save Moms’ Lives Act</citableAsShortTitle>
+        <docNumber>247</docNumber>
+        <currentThroughPublicLaw>117–247</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2023-01-20</processedDate>
+        <containsShortTitle>Data Mapping to Save Moms’ Lives Act</containsShortTitle>
+        <property role="fileId">17159</property>
+        <congress>117</congress>
+        <approvedDate>2022-12-20</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Data Mapping to Save Moms’ Lives Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 117–247</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 117–247. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To require the Federal Communications Commission to incorporate data on maternal health outcomes into its broadband health maps.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section identifier="/us/sComp/117/247/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t47/s642">47 U.S.C. 642 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content class="block" style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Data Mapping to Save Moms’ Lives Act</shortTitle>”.</content>
+        </section>
+        <section identifier="/us/sComp/117/247/s2" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">MAPPING BROADBAND CONNECTIVITY AND MATERNAL HEALTH OUTCOMES. </heading>
+            <subsection identifier="/us/sComp/117/247/s2/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Incorporation of Maternal Mortality and Severe Maternal Morbidity Data.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of this Act, the Federal Communications Commission shall incorporate publicly available data on maternal mortality and severe maternal morbidity, including for not less than 1 year postpartum, into the Mapping Broadband Health in America platform of the Commission.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/117/247/s2/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Consultation With CDC.—</heading><content style="-uslm-dtd:text">The Federal Communications Commission shall consult with the Director of the Centers for Disease Control and Prevention regarding the maternal mortality and severe maternal morbidity data that should be incorporated under subsection (a).</content>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

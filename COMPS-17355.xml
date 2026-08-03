@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Strengthening Protections for Social Security Beneficiaries Act of 2018</dc:title>
+        <citableAs>Public Law 115–165</citableAs>
+        <citableAsShortTitle>Strengthening Protections for Social Security Beneficiaries Act of 2018</citableAsShortTitle>
+        <docNumber>165</docNumber>
+        <currentThroughPublicLaw>115–165</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2023-03-17</processedDate>
+        <containsShortTitle>Strengthening Protections for Social Security Beneficiaries Act of 2018</containsShortTitle>
+        <property role="fileId">17355</property>
+        <congress>115</congress>
+        <approvedDate>2018-04-13</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Strengthening Protections for Social Security Beneficiaries Act of 2018</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 115–165</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 115-165. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend titles II, VIII, and XVI of the Social Security Act to improve and strengthen the representative payment program.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section identifier="/us/sComp/115/165/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s1305">42 U.S.C. 1305 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content class="block" style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Strengthening Protections for Social Security Beneficiaries Act of 2018</shortTitle>”.</content>
+        </section>
+        <section identifier="/us/sComp/115/165/s2" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">TABLE OF CONTENTS. </heading>
+            <content class="block" style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+            <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1.</designator><label> Short title.</label></referenceItem>
+            <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 2.</designator><label> Table of contents.</label></referenceItem>
+            <groupItem>
+                <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE I—</designator><label>STRENGTHENING OVERSIGHT AND BENEFICIARY PROTECTION</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 101.</designator><label> Stronger monitoring of representative payees.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 102.</designator><label> Reducing the burden on families.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 103.</designator><label> Protecting beneficiaries through information sharing.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 104.</designator><label> Clarifying overpayment liability for child in child welfare system.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 105.</designator><label> Reports.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE II—</designator><label>IMPROVING PAYEE SELECTION AND QUALITY</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 201.</designator><label> Advance designation of representative payees.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 202.</designator><label> Prohibition on individuals convicted of certain crimes serving as representative payees.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 203.</designator><label> Prohibition on individuals with representative payees serving as representative payees.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 204.</designator><label> Reassessment of payee selection and replacement policies.</label></referenceItem>
+            </groupItem></toc></content>
+        </section>
+        <title identifier="/us/sComp/115/165/tI" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">STRENGTHENING OVERSIGHT AND BENEFICIARY PROTECTION </heading>
+            <section identifier="/us/sComp/115/165/tI/s101" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">STRONGER MONITORING OF REPRESENTATIVE PAYEES. </heading>
+                <subsection identifier="/us/sComp/115/165/tI/s101/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Protection and Advocacy for Beneficiaries With Representative Payees.—</heading><content style="-uslm-dtd:text">Section 205(j)(6) of the Social Security Act (42 U.S.C. 405(j)(6)) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">“(C)</num><clause class="inline" style="-uslm-dtd:clause" styleType="OLC"><num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">The Commissioner of Social Security shall make annual grants directly to the protection and advocacy system serving each of the States and the American Indian consortium for the purpose of conducting reviews of representative payees in accordance with this subparagraph. The total amount used by the Commissioner for such grants each year—</chapeau>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">shall be an amount sufficient, as determined by the Commissioner in consultation with each of the protection and advocacy systems, to carry out all of the activities described in clause (ii); and</content>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">shall not be less than $25,000,000.</content>
+                        </subclause></clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><chapeau style="-uslm-dtd:text">A protection and advocacy system awarded a grant under this subparagraph shall use the grant funds to—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">conduct all periodic onsite reviews pursuant to this paragraph and such other reviews of representative payees as the Commissioner may request, including reviews conducted in response to allegations or concerns about the performance or suitability of the payee;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">conduct additional reviews that the protection and advocacy system has reason to believe are warranted;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">develop corrective action plans to assist representative payees in conforming to requirements specified by the Commissioner;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">“(IV) </num><content style="-uslm-dtd:text">submit a report to the Commissioner on each completed review containing such information as the Commissioner shall require; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="V">“(V) </num><content style="-uslm-dtd:text">conduct an initial onsite assessment of any organization that begins collecting a fee for its services as a representative payee to ensure that such organization is established as such a representative payee in accordance with requirements specified by the Commissioner.</content>
+                            </subclause><continuation style="-uslm-dtd:continuation-text">A protection and advocacy system may refer beneficiaries to other programs or services as the protection and advocacy system considers appropriate. </continuation>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">To be eligible to receive grants under this section, a protection and advocacy system shall submit an initial application to the Commissioner at such time, in such form and manner, and accompanied by such information and assurances as the Commissioner may require.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">“(iv)</num><subclause class="inline" style="-uslm-dtd:subclause" styleType="OLC"><num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">Subject to subclause (II), the Commissioner shall ensure that any funds used for grants under clause (i) shall be allocated to the protection and advocacy systems serving each of the States and the American Indian consortium in a manner such that the amount provided to each protection and advocacy system bears the same ratio to the total of such funds as the number of represented beneficiaries in the State or American Indian consortium in which such protection and advocacy system is located bears to the total number of represented beneficiaries.</content></subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><chapeau style="-uslm-dtd:text">The amount of an annual grant to a protection and advocacy system under clause (i) shall—</chapeau>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">in the case of a protection and advocacy system serving American Samoa, Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands, or the American Indian consortium, not be less than $30,000; and</content>
+                                </item>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">in the case of a protection and advocacy system serving any other State, not be less than $60,000.</content>
+                                </item>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">Funds provided to a protection and advocacy system through a grant under clause (i) for a 1-year period shall remain available through the end of the following 1-year period.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">“(IV) </num><chapeau style="-uslm-dtd:text">For purposes of this clause, the term ‘<quotedText style="-uslm-dtd:quote">represented beneficiary</quotedText>’ means an individual—</chapeau>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">who is entitled to benefits under this title, title VIII, or title XVI; and</content>
+                                </item>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">whose benefits have been certified for payment to a representative payee.</content>
+                                </item>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">“(v)</num><subclause class="inline" style="-uslm-dtd:subclause" styleType="OLC"><num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">The Commissioner shall make annual grants, in an amount equal to 4 percent of the total amount of grants awarded each year under clause (i), to an eligible national association for the provision of training and technical assistance, administrative support, and data collection services to protection and advocacy systems in connection with grants awarded under clause (i).</content></subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">In this clause, the term ‘<quotedText style="-uslm-dtd:quote">eligible national association</quotedText>’ means a national disability association with extensive knowledge and demonstrated experience in providing training, technical assistance, and administrative oversight to protection and advocacy systems that monitor representative payees.</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vi">“(vi) </num><content style="-uslm-dtd:text">In conducting reviews under this section, a protection and advocacy system shall have the same authorities, including access to records, facilities, and persons, as such system would have for purposes of providing services under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.).</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="vii">“(vii) </num><content style="-uslm-dtd:text">Whenever benefit amounts under this title are increased by any percentage effective with any month after November 2018 as a result of a determination made under section 215(i), each of the dollar amounts specified in clauses (i)(II) and (iv)(II) shall be increased by the same percentage.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="viii">“(viii) </num><content style="-uslm-dtd:text">No additional funds are authorized to be appropriated to carry out the requirements of this subparagraph. Such requirements shall be carried out using amounts otherwise authorized.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ix">“(ix) </num><chapeau style="-uslm-dtd:text">In this subparagraph:</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">American Indian consortium</quotedText>’ means a consortium established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.).</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">protection and advocacy system</quotedText>’ means a protection and advocacy system established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.).</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">State</quotedText>’ means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.”</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph></quotedContent>.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tI/s101/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Expansion of Periodic Onsite Review Requirements.—</heading><chapeau style="-uslm-dtd:text">Section 205(j)(6)(A) of the Social Security Act (42 U.S.C. 405(j)(6)(A)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tI/s101/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in clause (ii), by striking “<quotedText style="-uslm-dtd:quote">or</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s101/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in clause (iii), by striking the period and inserting “<quotedText style="-uslm-dtd:quote">; or</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s101/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding after clause (iii) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">the representative payee collects a fee for its services.”</content>
+                        </clause></quotedContent>; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s101/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">by adding after clause (iv) (as added by paragraph (3)) the following flush text:<quotedContent style="-uslm-dtd:quoted-block"><content style="-uslm-dtd:text">“The Commissioner shall also conduct periodic onsite reviews of individual and organizational payees, including payees who are related to the beneficiary and primarily reside in the same household, selected on the basis of risk-factors for potential misuse or unsuitability associated with such payees or beneficiaries.”</content></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tI/s101/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s405">42 U.S.C. 405 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Availability of Grant Funds.—</heading>
+                    <paragraph identifier="/us/sComp/115/165/tI/s101/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Protection and advocacy system grants.—</heading><content style="-uslm-dtd:text">Grants described under clause (i) of subparagraph (C) of section 205(j)(6) of the Social Security Act (as added by subsection (a)) shall be awarded on August 1, 2018, and annually thereafter, and funds provided by such grants to a protection and advocacy system may be used to reimburse the protection and advocacy system for amounts expended by the protection and advocacy system during the period beginning on May 1, 2018, and ending on such date for hiring and start-up costs in preparation to carry out reviews of representative payees in accordance with such subparagraph.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s101/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">National association grants.—</heading><content style="-uslm-dtd:text">Grants described under clause (v) of such subparagraph shall be awarded on May 1, 2018, and annually thereafter.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/165/tI/s102" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">REDUCING THE BURDEN ON FAMILIES. </heading>
+                <subsection identifier="/us/sComp/115/165/tI/s102/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Title II.—</heading><chapeau style="-uslm-dtd:text">Section 205(j)(3) of the Social Security Act (42 U.S.C. 405(j)(3)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tI/s102/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating subparagraphs (D) through (G) as subparagraphs (E) through (H), respectively;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s102/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after subparagraph (C) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">“(D)</num><clause class="inline" style="-uslm-dtd:clause" styleType="OLC"><num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">Subparagraph (A) shall not apply in any case where the other person to whom such payment is made is—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">a parent, or other individual who is a legal guardian of, a minor child entitled to such payment who primarily resides in the same household;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">a parent of an individual entitled to such payment who is under a disability (as defined in section 223(d)) who primarily resides in the same household; or</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">the spouse of the individual entitled to such payment.</content>
+                            </subclause></clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">The Commissioner of Social Security shall establish and implement procedures as necessary for the Commissioner to determine the eligibility of such parties for the exemption provided in clause (i). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.”</content>
+                            </clause>
+                        </subparagraph></quotedContent>;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s102/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in subparagaph (E) (as so redesignated), by striking “<quotedText style="-uslm-dtd:quote">and (C)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">(C), and (D)</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s102/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in subparagraph (F) (as so redesignated), by striking “<quotedText style="-uslm-dtd:quote">(D)</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">(E)</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tI/s102/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Title VIII.—</heading><chapeau style="-uslm-dtd:text">Section 807(h) of the Social Security Act (42 U.S.C. 1007(h)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tI/s102/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating paragraphs (3) through (5) as paragraphs (4) through (6), respectively; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s102/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after paragraph (2) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3)</num><subparagraph class="inline" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Paragraph (1) shall not apply in any case where the other person to whom such payment is made is the spouse of the individual entitled to such payment.</content></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">The Commissioner of Social Security shall establish and implement procedures as necessary for the Commissioner to determine the eligibility of such parties for the exemption  provided in subparagraph (A). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.”</content>
+                            </subparagraph>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tI/s102/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Title XVI.—</heading><chapeau style="-uslm-dtd:text">Section 1631(a)(2)(C) of the Social Security Act (42 U.S.C. 1383(a)(2)(C)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tI/s102/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating clauses (iv) and (v) as clauses (v) and (vi), respectively;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s102/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after clause (iii) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">“(iv)</num><subclause class="inline" style="-uslm-dtd:subclause" styleType="OLC"><num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">Clause (i) shall not apply in any case where the representative payee is—</chapeau>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">a parent, or other individual who is a legal guardian of, a minor child entitled to such payment who primarily resides in the same household;</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">a parent of an individual entitled to such payment who is under a disability who primarily resides in the same household; or</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="cc">“(cc) </num><content style="-uslm-dtd:text">the spouse of the individual entitled to such payment.</content>
+                            </item></subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">The Commissioner of Social Security shall establish and implement procedures as necessary for the Commissioner to determine the eligibility of such parties for the exemption provided in subclause (I). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.”</content>
+                            </subclause>
+                        </clause></quotedContent>;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s102/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in clause (v) (as so redesignated), by striking “<quotedText style="-uslm-dtd:quote">and (iii)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">(iii), and (iv)</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s102/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in clause (vi) (as so redesignated), by striking “<quotedText style="-uslm-dtd:quote">(iv)</quotedText>” each time it appears and inserting “<quotedText style="-uslm-dtd:quote">(v)</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tI/s102/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s405">42 U.S.C. 405 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall take effect on the date of the enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/165/tI/s103" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">PROTECTING BENEFICIARIES THROUGH INFORMATION SHARING. </heading>
+                <subsection identifier="/us/sComp/115/165/tI/s103/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Information Sharing To Determine State Foster Care Status.—</heading>
+                    <paragraph identifier="/us/sComp/115/165/tI/s103/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Section 205(j) of the Social Security Act (42 U.S.C. 405(j)) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="11">“(11)</num><subparagraph class="inline" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">The Commissioner of Social Security shall—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">enter into agreements with each State with a plan approved under part E of title IV for the purpose of sharing and matching data, on an automated monthly basis, in the system of records of the Social Security Administration with each Statewide and Tribal Automated Child Welfare Information System to identify represented minor beneficiaries who are in foster care under the responsibility of the State for such month; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">in any case in which a represented minor beneficiary has entered or exited foster care or changed foster care placement in such month, redetermine the appropriate representative payee for such individual.</content>
+                            </clause></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">For purposes of this paragraph—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the term ‘<quotedText style="-uslm-dtd:quote">State</quotedText>’ has the meaning given such term for purposes of part E of title IV;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the term ‘<quotedText style="-uslm-dtd:quote">Statewide and Tribal Automated Child Welfare Information System</quotedText>’ means a statewide mechanized data collection and information retrieval system described in section 474(a)(3)(C); and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">the term ‘<quotedText style="-uslm-dtd:quote">represented minor beneficiary</quotedText>’, with respect to an individual for a month, means a child (as defined for purposes of section 475(8)) entitled to benefits under this title for such month whose benefits are certified for payment to a representative payee.”</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s103/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Conforming change.—</heading><content style="-uslm-dtd:text">Section 471(a)(8)(A) of the Social Security Act (42 U.S.C. 671(a)(8)(A)) is amended by inserting “<quotedText style="-uslm-dtd:quote">the program established by title II,</quotedText>” after  “<quotedText style="-uslm-dtd:quote">XX,</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s103/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">GAO study and report.—</heading>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s103/a/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Evaluation.—</heading><chapeau style="-uslm-dtd:text">As soon as possible after the date of the enactment of this Act, the Comptroller General shall evaluate—</chapeau>
+                            <clause identifier="/us/sComp/115/165/tI/s103/a/3/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the number of represented minor beneficiaries in foster care under the responsibility of a State for each month during the previous year;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/165/tI/s103/a/3/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">whether the representative payee for each represented minor beneficiary is—</chapeau>
+                                <subclause identifier="/us/sComp/115/165/tI/s103/a/3/A/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">a governmental child welfare agency;</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/165/tI/s103/a/3/A/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">an organizational payee that is not a governmental child welfare agency;</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/165/tI/s103/a/3/A/ii/III" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">a foster parent or child-care institution (within the meaning of part E of title IV); or</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/115/165/tI/s103/a/3/A/ii/IV" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">another individual; and</content>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/115/165/tI/s103/a/3/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">whether funds were conserved, used for direct expenses of the minor beneficiary, or used to reimburse the State for foster care maintenance costs.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s103/a/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Report to congress.—</heading><content style="-uslm-dtd:text">Not later than 36 months after the date of enactment of this Act, the Comptroller General shall submit to Congress a report on the results of the evaluation required under subparagraph (A).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s103/a/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">For purposes of this paragraph—</chapeau>
+                            <clause identifier="/us/sComp/115/165/tI/s103/a/3/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the term “<quotedText style="-uslm-dtd:quote">State</quotedText>” has the meaning given such term for purposes of part E of title IV of the Social Security Act; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/165/tI/s103/a/3/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the term “<quotedText style="-uslm-dtd:quote">represented minor beneficiary</quotedText>”, with respect to an individual for a month, means a child (as defined for purposes of section 475(8) of the Social Security Act) entitled to benefits under title II of such Act for such month whose benefits are certified for payment to a representative payee.</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s103/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s405">42 U.S.C. 405 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective date.—</heading>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s103/a/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The amendments made by this subsection shall apply with respect to months beginning on or after the date that is 1 year after the date of the enactment of this Act.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s103/a/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Exception if state legislation required.—</heading><content style="-uslm-dtd:text">In the case of a State plan under part E of title IV of the Social Security Act that the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirement imposed by the amendments made under this subsection, such plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins   after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tI/s103/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Improving Coordination With Adult Protective Services.—</heading>
+                    <paragraph identifier="/us/sComp/115/165/tI/s103/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Commissioner of Social Security shall study and test the administrative feasibility of improving information sharing, in partnership with State agencies that provide adult protective services, with respect to—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s103/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the assessment of an individual’s need for a representative payee in connection with benefits to which the individual is entitled under title II or title XVI of the Social Security Act; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s103/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">oversight of individuals and organizations serving as representative payees.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s103/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than June 30, 2022, the Commissioner of Social Security shall conclude the study described in paragraph (1) and submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of such study.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tI/s103/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Study on Potential To Coordinate With State Courts.—</heading>
+                    <paragraph identifier="/us/sComp/115/165/tI/s103/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Commissioner of Social Security shall enter into an agreement with the Administrative Conference of the United States to conduct a study that includes—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s103/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">an overview of potential opportunities for information sharing between the Social Security Administration and State courts and relevant State agencies;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s103/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a detailed analysis of the barriers to such information sharing, including any Federal or State statutory barriers;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s103/c/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">a description of how such information sharing would be implemented, including any additional infrastructure needed; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s103/c/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">a description of any risks or other factors that the Social Security Administration and the Congress should consider before implementing such information sharing.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s103/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than June 30, 2020, the Commissioner of Social Security shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and make publicly available a report on the results of the study conducted under paragraph (1).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/165/tI/s104" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">CLARIFYING OVERPAYMENT LIABILITY FOR CHILD IN CHILD WELFARE SYSTEM. </heading>
+                <subsection identifier="/us/sComp/115/165/tI/s104/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Amendment to Title II.—</heading><content style="-uslm-dtd:text">Section 204(a) of the Social Security Act (42 U.S.C. 404(a)) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">“(3)</num><subparagraph class="inline" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">When any payment of more than the correct amount is made on behalf of an individual who is a represented minor beneficiary for a month in which such individual is in foster care under the responsibility of a State and the State is the representative payee of such individual, the State shall be liable for the repayment of the overpayment, and there shall be no adjustment  of payments to, or recovery by the United States from, such individual.</content></subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">For purposes of this paragraph, the term ‘<quotedText style="-uslm-dtd:quote">represented minor beneficiary</quotedText>’ has the meaning given such term in subsection (j)(11)(B)(iii).”</content>
+                        </subparagraph>
+                    </paragraph></quotedContent>.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tI/s104/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Amendment to Title XVI.—</heading><chapeau style="-uslm-dtd:text">Section 1631(b) of the Social Security Act (42 U.S.C. 1683(b)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tI/s104/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by redesignating paragraphs (3) through (7) as paragraphs (4) through (8), respectively; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s104/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting after paragraph (2) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3)</num><subparagraph class="inline" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">When any payment of more than the correct amount is made on behalf of an individual who is a represented minor beneficiary for a month in which such individual is in foster care under the responsibility of a State and the State is the representative payee of such individual, the State shall be liable for the repayment of the overpayment, and there shall be no adjustment of payments to, or recovery by the United States from, such individual.</content></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">For purposes of this paragraph, the term ‘<quotedText style="-uslm-dtd:quote">represented minor beneficiary</quotedText>’, with respect to an individual for a month, means a child (as defined for purposes of section 475(8)) entitled to benefits under this title for such month whose benefits are certified for payment to a representative payee.”</content>
+                            </subparagraph>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tI/s104/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s404">42 U.S.C. 404 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendment made by subsection (a) shall apply with respect to overpayment determinations made on or after the date of the enactment of this Act and to any other overpaid amounts that have not been recovered as of such date.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/165/tI/s105" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><heading style="-uslm-dtd:header">REPORTS. </heading>
+                <subsection identifier="/us/sComp/115/165/tI/s105/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Report on Benefits Misused.—</heading><chapeau style="-uslm-dtd:text">Section 205(j) of the Social Security Act (42 U.S.C. 405(j)), as amended by section 103(a), is further amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tI/s105/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in paragraph (6)—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s105/a/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">(A) In addition to</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">In addition to</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tI/s105/a/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking subparagraph (B); and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s105/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="12">“(12)</num><subparagraph class="inline" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">Not later than January 31 of each fiscal year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the total number of individuals entitled to benefits under titles II, VIII, and XVI, respectively, (and the number of individuals concurrently entitled to benefits under more than one such title) who have a representative payee, the total number of such representative payees, and the results of all reviews of representative payees conducted during the previous fiscal year in connection with benefits under this title, title VIII, or title XVI. Such report shall summarize problems identified in such reviews and corrective actions taken or planned to be taken to correct such problems, and shall include—</chapeau>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the number of such reviews;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the results of such reviews;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">the number of cases in which the representative payee was changed and why;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">the number of reviews conducted in response to allegations or concerns about the performance or suitability of the payee;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">the number of cases discovered in which there was a misuse of funds, and the total dollar amount of benefits determined by the Commissioner during such fiscal year to have been misused by a representative payee (regardless of the fiscal year in which such misuse occurred);</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">“(vi) </num><content style="-uslm-dtd:text">the number of cases discovered in which such misuse of funds resulted from the negligent failure of the Commissioner to investigate or monitor a representative payee;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vii">“(vii) </num><chapeau style="-uslm-dtd:text">the final disposition of such cases of misuse of funds, including—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">any criminal, civil, and administrative penalties imposed;</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><chapeau style="-uslm-dtd:text">the total dollar amount of misused benefits repaid to beneficiaries and alternative representative payees under each of—</chapeau>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">paragraph (5) (on the basis of a negligent failure of the Commissioner described in such paragraph);</content>
+                                    </item>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">paragraph (5) (on any other basis); and</content>
+                                    </item>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="cc">“(cc) </num><content style="-uslm-dtd:text">paragraph (7);</content>
+                                    </item>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">“(III) </num><chapeau style="-uslm-dtd:text">the total dollar amount of misused benefits recovered under each of—</chapeau>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">paragraph (5); and</content>
+                                    </item>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">paragraph (7);</content>
+                                    </item>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="viii">“(viii) </num><content style="-uslm-dtd:text">any updates to prior year reports necessary to reflect subsequent recoveries and repayments pertaining to misuse determinations made in prior years; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ix">“(ix) </num><content style="-uslm-dtd:text">such other information as the Commissioner deems appropriate.</content>
+                            </clause></subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">Each report required under this paragraph for a fiscal year shall include the information described in clauses (i) through (ix) of subparagraph (A) with respect to—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">all representative payees reviewed during such fiscal year;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">all such representative payees that are organizations, separated by whether such organization collects a fee for its services as a representative payee;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">all such representative payees that are individuals serving 15 or more individuals; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">all such representative payees that are individuals serving less than 15 individuals, separated by whether such representative payee is a family member.”</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tI/s105/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report on Elimination of the Accounting Form.—</heading><chapeau style="-uslm-dtd:text">The Commissioner shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tI/s105/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">conduct a study on the changes made by the amendments made by section 102 of the Strengthening Protections for Social Security Beneficiaries Act of 2018, which shall include the impact of such changes on families, beneficiaries, and the operations of the Social Security Administration; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s105/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">not later than January 1, 2021, submit a report on the results of such study to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tI/s105/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Report on the Advanced Designation Policy.—</heading><chapeau style="-uslm-dtd:text">The Commissioner shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tI/s105/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">conduct a study on the changes made by the amendments made by section 201 of the Strengthening Protections   for Social Security Beneficiaries Act of 2018, which shall include the impact of such changes on beneficiaries and the operations of the Social Security Administration; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tI/s105/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">not later than January 1, 2025, submit a report on the results of such study to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/115/165/tII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">IMPROVING PAYEE SELECTION AND QUALITY </heading>
+            <section identifier="/us/sComp/115/165/tII/s201" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">ADVANCE DESIGNATION OF REPRESENTATIVE PAYEES. </heading>
+                <subsection identifier="/us/sComp/115/165/tII/s201/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Section 205(j)(1) of the Social Security Act (42 U.S.C. 405(j)(1)) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">“(C)</num><clause class="inline" style="-uslm-dtd:clause" styleType="OLC"><num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">An individual who is entitled to or is an applicant for a benefit under this title, title VIII, or title XVI, who has attained 18 years of age or is an emancipated minor, may, at any time, designate one or more other individuals to serve as a representative payee for such individual in the event that the Commissioner of Social Security determines under subparagraph (A) that the interest of such individual would be served by certification for payment of such benefits to which the individual is entitled to a representative payee. If the Commissioner of Social Security makes such a determination with respect to such individual at any time after such designation has been made, the Commissioner shall—</chapeau>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">certify payment of such benefits to the designated individual, subject to the requirements of paragraph (2); or</content>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">if the Commissioner determines that certification for payment of such benefits to the designated individual would not satisfy the requirements of paragraph (2), that the designated individual is unwilling or unable to serve as representative payee, or that other good cause exists, certify payment of such benefits to another individual or organization, in accordance with paragraph (1).</content>
+                        </subclause></clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">An organization may not be designated to serve as a representative payee under this subparagraph.”</content>
+                        </clause>
+                    </subparagraph></quotedContent>.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s201/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s405">42 U.S.C. 405 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendment made by subsection (a) shall take effect on the date that is 2 years after the date of the enactment of this section.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s201/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s405">42 U.S.C. 405 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Regulations.—</heading><content style="-uslm-dtd:text">Not later than 18 months after the date of the enactment of this section, the Commissioner of Social Security shall promulgate regulations specifying the information an individual is required to provide to the Commissioner in order to designate another individual to serve as the individual’s representative payee under section 205(j)(1)(C) of the Social Security Act (as added by subsection (a)).</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s201/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s405">42 U.S.C. 405 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Notification to Beneficiaries.—</heading><content style="-uslm-dtd:text">Not later than January 1, 2020, and annually thereafter, the Commissioner of Social Security shall notify each individual entitled to a benefit under title II, VIII, or XVI of the Social Security Act of the name of any individual designated to serve as the individual’s representative payee under section 205(j)(1)(C) of such Act (as added by subsection (a)).</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/165/tII/s202" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">PROHIBITION ON INDIVIDUALS CONVICTED OF CERTAIN CRIMES SERVING AS REPRESENTATIVE PAYEES. </heading>
+                <subsection identifier="/us/sComp/115/165/tII/s202/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Amendments to Title II.—</heading><chapeau style="-uslm-dtd:text">Section 205(j)(2) of the Social Security Act (42 U.S.C. 405(j)(2)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tII/s202/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in subparagraph (B)—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/a/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in clause (i)—</chapeau>
+                            <clause identifier="/us/sComp/115/165/tII/s202/a/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in subclause (V), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/165/tII/s202/a/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subclause (VI), by striking the period and inserting “<quotedText style="-uslm-dtd:quote">, and</quotedText>”; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/165/tII/s202/a/1/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="VII">“(VII) </num><content style="-uslm-dtd:text">determine whether such person has been convicted (and not subsequently exonerated), under Federal or State law, of a felony provided under clause (iv), or of an attempt or a conspiracy to commit such a felony.”</content>
+                                </subclause></quotedContent>; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/a/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">“(iv) </num><chapeau style="-uslm-dtd:text">The felony crimes provided under this clause, whether an offense under State or Federal law, are the following:</chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">Human trafficking, including as prohibited under sections 1590 and 1591 of title 18, United States Code.</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">False imprisonment, including as prohibited under section 1201 of title 18, United States Code.</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">Kidnapping, including as prohibited under section 1201 of title 18, United States Code.</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="IV">“(IV) </num><content style="-uslm-dtd:text">Rape and sexual assault, including as prohibited under sections 2241, 2242, 2243, and 2244 of title 18, United States Code.</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="V">“(V) </num><content style="-uslm-dtd:text">First-degree homicide, including as prohibited under section 1111 of title 18, United States Code.</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="VI">“(VI) </num><content style="-uslm-dtd:text">Robbery, including as prohibited under section 2111 of title 18, United States Code.</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="VII">“(VII) </num><content style="-uslm-dtd:text">Fraud to obtain access to government assistance, including as prohibited under sections 287, 1001, and 1343 of title 18, United States Code.</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="VIII">“(VIII) </num><content style="-uslm-dtd:text">Fraud by scheme, including as prohibited under section 1343 of title 18, United States Code.</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="IX">“(IX) </num><content style="-uslm-dtd:text">Theft of government funds or property, including as prohibited under section 641 of title 18, United States Code.</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="X">“(X) </num><content style="-uslm-dtd:text">Abuse or neglect, including as prohibited under sections 111, 113, 114, 115, 116, or 117 of title 18, United States Code.</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="XI">“(XI) </num><content style="-uslm-dtd:text">Forgery, including as prohibited under section 642 and chapter 25 (except section 512) of title 18, United States Code.</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="XII">“(XII) </num><content style="-uslm-dtd:text">Identity theft or identity fraud, including as prohibited under sections 1028 and 1028A of title 18, United States Code.</content>
+                                </subclause><continuation style="-uslm-dtd:continuation-text">The Commissioner of Social Security may promulgate regulations to provide for additional felony crimes under this clause. </continuation>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">“(v)</num><subclause class="inline" style="-uslm-dtd:subclause" styleType="OLC"><num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">For the purpose of carrying out the activities required under subparagraph (B)(i) as part of the investigation under subparagraph (A)(i), the Commissioner may conduct a background check of any individual seeking to serve as a representative payee under this subsection and may disqualify from service as a representative payee any such individual who fails to grant permission for the Commissioner to conduct such a background check.</content></subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">The Commissioner may revoke certification of payment of benefits under this subsection to any individual serving as a  representative payee on or after January 1, 2019 who fails to grant permission for the Commissioner to conduct such a background check.”</content>
+                                </subclause>
+                            </clause></quotedContent>; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s202/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subparagraph (C)—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in clause (i)—</chapeau>
+                            <clause identifier="/us/sComp/115/165/tII/s202/a/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in subclause (IV), by striking “<quotedText style="-uslm-dtd:quote">or</quotedText>” at the end;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/165/tII/s202/a/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subclause (V), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">, or</quotedText>”; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/165/tII/s202/a/2/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="VI">“(VI) </num><content style="-uslm-dtd:text">except as provided in clause (vi), such person has previously been convicted (and not subsequently exonerated) as described in subparagraph (B)(i)(VII).”</content>
+                                </subclause></quotedContent>; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">“(vi)</num><subclause class="inline" style="-uslm-dtd:subclause" styleType="OLC"><num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">With respect to any person described in subclause (II)—</chapeau>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">subparagraph (B)(i)(VII) shall not apply; and</content>
+                                </item>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">the Commissioner may grant an exemption from the provisions of clause (i)(VI) if the Commissioner determines that such exemption is in the best interest of the individual entitled to benefits.</content>
+                                </item></subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><chapeau style="-uslm-dtd:text">A person is described in this subclause if the person—</chapeau>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">is the custodial parent of a minor child for whom the person applies to serve;</content>
+                                    </item>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">is the custodial spouse of the beneficiary for whom the person applies to serve;</content>
+                                    </item>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="cc">“(cc) </num><content style="-uslm-dtd:text">is the custodial parent of a beneficiary who is under a disability (as defined in section 223(d)) which began before the beneficiary attained the age of 22, for whom the person applies to serve;</content>
+                                    </item>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="dd">“(dd) </num><content style="-uslm-dtd:text">is the custodial court appointed guardian of the beneficiary for whom the person applies to serve;</content>
+                                    </item>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="ee">“(ee) </num><content style="-uslm-dtd:text">is the custodial grandparent of a minor grandchild for whom the person applies to serve;</content>
+                                    </item>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="ff">“(ff) </num><content style="-uslm-dtd:text">is the parent who was previously representative payee for his or her minor child who has since turned 18 and continues to be eligible for such benefit; or</content>
+                                    </item>
+                                    <item style="-uslm-dtd:item" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="gg">“(gg) </num><content style="-uslm-dtd:text">received a presidential or gubernatorial pardon for the relevant conviction.”</content>
+                                    </item>
+                                </subclause>
+                            </clause></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s202/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Amendments to Title VIII.—</heading><chapeau style="-uslm-dtd:text">Section 807 of the Social Security Act (42 U.S.C. 1007) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tII/s202/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in subsection (b)—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in paragraph (2)—</chapeau>
+                            <clause identifier="/us/sComp/115/165/tII/s202/b/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in subparagraph (E), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/165/tII/s202/b/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subparagraph (F), by striking the period and inserting “<quotedText style="-uslm-dtd:quote">, and</quotedText>”; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/165/tII/s202/b/1/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="G">“(G) </num><content style="-uslm-dtd:text">determine whether such person has been convicted (and not subsequently exonerated), under Federal or State law, of a felony provided under paragraph (4), or of an attempt or a conspiracy to commit such a felony.”</content>
+                                </subparagraph></quotedContent>; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="4">“(4) </num><chapeau style="-uslm-dtd:text">The felony crimes provided under this paragraph, whether an offense under State or Federal law, are the following:</chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">Human trafficking, including as prohibited under sections 1590 and 1591 of title 18, United States Code.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">False imprisonment, including as prohibited under section 1201 of title 18, United States Code.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">Kidnapping, including as prohibited under section 1201 of title 18, United States Code.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">Rape and sexual assault, including as prohibited under sections 2241, 2242, 2243, and 2244 of title 18, United States Code.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">First-degree homicide, including as prohibited under section 1111 of title 18, United States Code.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="F">“(F) </num><content style="-uslm-dtd:text">Robbery, including as prohibited under section 2111 of title 18, United States Code.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="G">“(G) </num><content style="-uslm-dtd:text">Fraud to obtain access to government assistance, including as prohibited under sections 287, 1001, and 1343 of title 18, United States Code.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="H">“(H) </num><content style="-uslm-dtd:text">Fraud by scheme, including as prohibited under section 1343 of title 18, United States Code.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">Theft of government funds or property, including as prohibited under section 641 of title 18, United States Code.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="J">“(J) </num><content style="-uslm-dtd:text">Abuse or neglect, including as prohibited under sections 111, 113, 114, 115, 116, or 117 of title 18, United States Code.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="K">“(K) </num><content style="-uslm-dtd:text">Forgery, including as prohibited under section 642 and chapter 25 (except section 512) of title 18, United States Code.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="L">“(L) </num><content style="-uslm-dtd:text">Identity theft or identity fraud, including as prohibited under sections 1028 and 1028A of title 18, United States Code.</content>
+                                </subparagraph><continuation style="-uslm-dtd:continuation-text">The Commissioner of Social Security may promulgate regulations to provide for additional felony crimes under this clause. </continuation>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="5">“(5)</num><subparagraph class="inline" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">For the purpose of carrying out the activities required under paragraph (2) as part of the investigation under paragraph (1)(A), the Commissioner may conduct a background check of any individual seeking to serve as a representative payee under this subsection and may disqualify from service as a representative payee any such individual who fails to grant permission for the Commissioner to conduct such a background check.</content></subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">The Commissioner may revoke certification of payment of benefits under this subsection to any individual serving as a representative payee on or after January 1, 2019 who fails to grant permission for the Commissioner to conduct such a background check.”</content>
+                                </subparagraph>
+                            </paragraph></quotedContent>; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s202/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subsection (d)—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in paragraph (1)—</chapeau>
+                            <clause identifier="/us/sComp/115/165/tII/s202/b/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in subparagraph (D), by striking “<quotedText style="-uslm-dtd:quote">or</quotedText>” at the end;</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/165/tII/s202/b/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subparagraph (E), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">, or</quotedText>”; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/165/tII/s202/b/2/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="F">“(F) </num><content style="-uslm-dtd:text">except as provided in paragraph (2)(D), such person has previously been convicted (and not subsequently exonerated) as described in subsection (b)(2)(G).”</content>
+                                </subparagraph></quotedContent>; and</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (2), by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D)</num><clause class="inline" style="-uslm-dtd:clause" styleType="OLC"><num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">With respect to any person described in clause (II)—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">subsection (b)(2)(G) shall not apply; and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">the Commissioner may grant an exemption from the provisions of paragraph (1)(F) if the Commissioner determines that such  exemption is in the best interest of the individual entitled to benefits.</content>
+                                </subclause></clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><chapeau style="-uslm-dtd:text">A person is described in this clause if the person—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">is the custodial spouse of the beneficiary for whom the person applies to serve;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">is the custodial court appointed guardian of the beneficiary for whom the person applies to serve; or</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">received a presidential or gubernatorial pardon for the relevant conviction.”</content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s202/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Amendments to Title XVI.—</heading><chapeau style="-uslm-dtd:text">Section 1631(a)(2)(B) of the Social Security Act (42 U.S.C. 1383(a)(2)(B)) is amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tII/s202/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in clause (ii)—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subclause (V), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subclause (VI), by striking the period and inserting “<quotedText style="-uslm-dtd:quote">, and</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/c/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VII">“(VII) </num><content style="-uslm-dtd:text">determine whether such person has been convicted (and not subsequently exonerated), under Federal or State law, of a felony provided under clause (xv), or of an attempt or a conspiracy to commit such a felony.”</content>
+                            </subclause></quotedContent>;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s202/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in clause (iii)—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/c/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subclause (IV), by striking “<quotedText style="-uslm-dtd:quote">or</quotedText>” at the end;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/c/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subclause (V), by striking the period at the end and inserting “<quotedText style="-uslm-dtd:quote">, or</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/c/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VI">“(VI) </num><content style="-uslm-dtd:text">except as provided in clause (xvii), such person has previously been convicted (and not subsequently exonerated) as described in clause (ii)(VII).”</content>
+                            </subclause></quotedContent>; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s202/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xv">“(xv) </num><chapeau style="-uslm-dtd:text">The felony crimes provided under this clause, whether an offense under State or Federal law, are the following:</chapeau>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">Human trafficking, including as prohibited under sections 1590 and 1591 of title 18, United States Code.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">False imprisonment, including as prohibited under section 1201 of title 18, United States Code.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">Kidnapping, including as prohibited under section 1201 of title 18, United States Code.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">“(IV) </num><content style="-uslm-dtd:text">Rape and sexual assault, including as prohibited under sections 2241, 2242, 2243, and 2244 of title 18, United States Code.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="V">“(V) </num><content style="-uslm-dtd:text">First-degree homicide, including as prohibited under section 1111 of title 18, United States Code.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VI">“(VI) </num><content style="-uslm-dtd:text">Robbery, including as prohibited under section 2111 of title 18, United States Code.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VII">“(VII) </num><content style="-uslm-dtd:text">Fraud to obtain access to government assistance, including as prohibited under sections 287, 1001, and 1343 of title 18, United States Code.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VIII">“(VIII) </num><content style="-uslm-dtd:text">Fraud by scheme, including as prohibited under section 1343 of title 18, United States Code.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IX">“(IX) </num><content style="-uslm-dtd:text">Theft of government funds or property, including as prohibited under section 641 of title 18, United States Code.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="X">“(X) </num><content style="-uslm-dtd:text">Abuse or neglect, including as prohibited under sections 111, 113, 114, 115, 116, or 117 of title 18, United States Code.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="XI">“(XI) </num><content style="-uslm-dtd:text">Forgery, including as prohibited under section 642 and chapter 25 (except section 512) of title 18, United States Code.</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="XII">“(XII) </num><content style="-uslm-dtd:text">Identity theft or identity fraud, including as prohibited under sections 1028 and 1028A of title 18, United States Code.</content>
+                            </subclause><continuation style="-uslm-dtd:continuation-text">The Commissioner of Social Security may promulgate regulations to provide for additional felony crimes under this clause. </continuation>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xvi">“(xvi)</num><subclause class="inline" style="-uslm-dtd:subclause" styleType="OLC"><num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">For the purpose of carrying out the activities required under clause (ii) as part of the investigation under clause (i)(I), the Commissioner may conduct a background check of any individual seeking to serve as a representative payee under this subsection and may disqualify from service as a representative payee any such individual who fails to grant permission for the Commissioner to conduct such a background check.</content></subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">The Commissioner may revoke certification of payment of benefits under this subsection to any individual serving as a representative payee on or after January 1, 2019 who fails to grant permission for the Commissioner to conduct such a background check.</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="xvii">“(xvii)</num><subclause class="inline" style="-uslm-dtd:subclause" styleType="OLC"><num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">With respect to any person described in subclause (II)—</chapeau>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">clause (ii)(VII) shall not apply; and</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">the Commissioner may grant an exemption from the provisions of clause (iii)(VI) if the Commissioner determines that such exemption is in the best interest of the individual entitled to benefits.</content>
+                            </item></subclause>
+                            <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">“(II) </num><chapeau style="-uslm-dtd:text">A person is described in this subclause if the person—</chapeau>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">is the custodial parent of a minor child for whom the person applies to serve;</content>
+                                </item>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">is the custodial spouse of the beneficiary for whom the person applies to serve;</content>
+                                </item>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="cc">“(cc) </num><content style="-uslm-dtd:text">is the custodial parent of a beneficiary who is under a disability which began before the beneficiary attained the age of 22, for whom the person applies to serve;</content>
+                                </item>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="dd">“(dd) </num><content style="-uslm-dtd:text">is the custodial court appointed guardian of the beneficiary for whom the person applies to serve;</content>
+                                </item>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ee">“(ee) </num><content style="-uslm-dtd:text">is the custodial grandparent of a minor grandchild for whom the person applies to serve;</content>
+                                </item>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ff">“(ff) </num><content style="-uslm-dtd:text">is the parent who was previously representative payee for his or her minor child who has since turned 18 and continues to be eligible for such benefit; or</content>
+                                </item>
+                                <item style="-uslm-dtd:item" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="gg">“(gg) </num><content style="-uslm-dtd:text">received a presidential or gubernatorial pardon for the relevant conviction.”</content>
+                                </item>
+                            </subclause>
+                        </clause></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s202/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s405">42 U.S.C. 405 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Application to New Appointments.—</heading><content style="-uslm-dtd:text">Subject to subsection (e), the amendments made by subsections (a), (b), and (c) shall apply with respect to any individual appointed to serve as a representative payee pursuant to section 205(j), 807, or 1631(a)(2) of the Social Security Act on or after January 1, 2019.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s202/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s405">42 U.S.C. 405 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Application to Prior Appointments.—</heading>
+                    <paragraph identifier="/us/sComp/115/165/tII/s202/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than January 1, 2024, the Commissioner of Social Security shall conduct a review of each individual serving as a representative payee pursuant to 205(j), 807, or 1631(a)(2) of the Social Security Act, to determine whether such individual has been convicted of a felony as described in section 205(j)(2)(B)(i)(VII), 807(b)(2)(G), or 1631(a)(2)(B)(ii)(VII), respectively (as such provisions are added by this section). Except as provided in section 205(j)(2)(C)(vi), 807(d)(2)(D), or 1631(a)(2)(B)(xvii) (as so added), any individual determined by the Commissioner to have been so convicted   may not serve as a representative payee on or after the date of such determination.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s202/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Priority.—</heading><chapeau style="-uslm-dtd:text">In conducting reviews under paragraph (1), the Commissioner shall prioritize reviews of the following categories of individuals, in the following order:</chapeau>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/e/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">An individual serving as representative payee for 15 or more individuals.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/e/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">An individual serving as representative payee for an individual who is not related to the representative payee.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s202/e/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">An individual serving as representative payee for an individual who has attained the age of 18 and is not the spouse of the representative payee.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s202/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s405">42 U.S.C. 405 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Periodic Review.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this section, the Commissioner of Social Security shall issue regulations to establish a process for reviewing each individual serving as a representative payee pursuant to section 205(j), 807, or 1631(a)(2) of the Social Security Act (other than individuals with respect to whom an exemption has been granted under section 205(j)(2)(C)(vi), 807(d)(2)(D), or 1631(a)(2)(B)(xvii)) not less than once every 5 years to determine whether any such individual has been convicted of a felony as described in subsection (e)(1) of this section.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/165/tII/s203" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="203">SEC. 203. </num><heading style="-uslm-dtd:header">PROHIBITION ON INDIVIDUALS WITH REPRESENTATIVE PAYEES SERVING AS REPRESENTATIVE PAYEES. </heading>
+                <subsection identifier="/us/sComp/115/165/tII/s203/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Amendment to Title II.—</heading><chapeau style="-uslm-dtd:text">Section 205(j)(2)(C)(i) of the Social Security Act (42 U.S.C. 405(j)(2)(C)(i)), as amended by section 202(a)(2), is further amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tII/s203/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subclause (V), by striking “<quotedText style="-uslm-dtd:quote">or</quotedText>” at the end;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s203/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subclause (VI), by striking the period and inserting “<quotedText style="-uslm-dtd:quote">, or</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s203/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="VII">“(VII) </num><content style="-uslm-dtd:text">such person’s benefits under this title, title VIII, or title XVI are certified for payment to a representative payee during the period for which the individual’s benefits would be certified for payment to another person.”</content>
+                        </subclause></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s203/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Amendment to Title VIII.—</heading><chapeau style="-uslm-dtd:text">Section 807(d)(1) of the Social Security Act (42 U.S.C. 1007(d)(1)), as amended by section 202(b)(2), is further amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tII/s203/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subparagraph (E), by striking “<quotedText style="-uslm-dtd:quote">or</quotedText>” at the end;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s203/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subparagraph (F), by striking the period and inserting “<quotedText style="-uslm-dtd:quote">, or</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s203/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">“(G) </num><content style="-uslm-dtd:text">such person’s benefits under this title, title II, or title XVI are certified for payment to a representative payee during the period for which the individual’s benefits would be certified for payment to another person.”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s203/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Amendment to Title XVI.—</heading><chapeau style="-uslm-dtd:text">Section 1631(a)(2)(B)(iii) of the Social Security Act (42 U.S.C. 1383(a)(2)(B)(iii)), as amended by section 202(c)(2), is further amended—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tII/s203/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subclause (V), by striking “<quotedText style="-uslm-dtd:quote">or</quotedText>” at the end;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s203/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subclause (VI), by striking the period and inserting “<quotedText style="-uslm-dtd:quote">, or</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s203/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="VII">“(VII) </num><content style="-uslm-dtd:text">such person’s benefits under this title, title II, or title VIII are certified for payment to a representative payee  during the period for which the individual’s benefits would be certified for payment to another person.”</content>
+                        </subclause></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s203/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s405">42 U.S.C. 405 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading>
+                    <paragraph identifier="/us/sComp/115/165/tII/s203/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">New appointments.—</heading><content style="-uslm-dtd:text">Subject to paragraph (2), the amendments made by this section shall apply with respect to any individual appointed to serve as a representative payee under title II, title VIII, or title XVI of the Social Security Act on or after January 1, 2019.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s203/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Prior appointments.—</heading><content style="-uslm-dtd:text">With respect to individuals serving as a representative payee whose benefits under this title, title VIII, or title XVI are certified for payment to another representative payee as of January 1, 2019, the Commissioner shall take any steps necessary to terminate such individual’s service as a representative payee as soon as possible, but no later than January 1, 2024.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/165/tII/s204" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="204">SEC. 204. </num><heading style="-uslm-dtd:header">REASSESSMENT OF PAYEE SELECTION AND REPLACEMENT POLICIES. </heading>
+                <subsection identifier="/us/sComp/115/165/tII/s204/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Commissioner of Social Security shall conduct, with opportunity for public comment, a review and reassessment of—</chapeau>
+                    <paragraph identifier="/us/sComp/115/165/tII/s204/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the appropriateness of its order of preference for selecting representative payees, including payees who may be creditors of the beneficiary or who are private, for-profit institutions; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/165/tII/s204/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">the effectiveness of its policy and operational procedures in properly determining when to change a representative payee, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s204/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">from a payee that has a higher order of preference (such as a family member) to a payee that has a lower order of preference (such as a creditor); or</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/165/tII/s204/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">when a request to change payees arises from someone other than the beneficiary.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/165/tII/s204/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 18 months after the date of the enactment of this Act, the Commissioner of Social Security shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and make publicly available a report on the results of the review and reassessment under subsection (a).</content>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

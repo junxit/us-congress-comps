@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Intelligence Authorization Act for Fiscal Year 2013</dc:title>
+        <citableAs>Public Law 112–277, as amended</citableAs>
+        <citableAsShortTitle>Intelligence Authorization Act for Fiscal Year 2013</citableAsShortTitle>
+        <docNumber>277</docNumber>
+        <currentThroughPublicLaw>113–126</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Intelligence Authorization Act for Fiscal Year 2013</containsShortTitle>
+        <property role="fileId">10398</property>
+        <congress>112</congress>
+        <approvedDate>2013-01-14</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Intelligence Authorization Act for Fiscal Year 2013</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 112–277</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 113–126</currentThroughPublicLaw>, Enacted <date date="2014-07-07">July 7, 2014</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 112-277. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To authorize appropriations for fiscal year 2013 for intelligence and intelligence-related activities of the United States Government and the Office of the Director of National Intelligence, the Central Intelligence Agency Retirement and Disability System, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/s1" styleType="appropriation">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Intelligence Authorization Act for Fiscal Year 2013</inline></shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 2.</designator><label> Definitions.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>BUDGET AND PERSONNEL AUTHORIZATIONS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Authorization of appropriations.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Classified Schedule of Authorizations.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Personnel ceiling adjustments.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Intelligence Community Management Account.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Authorization of appropriations.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>GENERAL INTELLIGENCE COMMUNITY MATTERS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Restriction on conduct of intelligence activities.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 302.</designator><label> Increase in employee compensation and benefits authorized by law.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 303.</designator><label> Non-reimbursable details.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 304.</designator><label> Automated insider threat detection program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 305.</designator><label> Software licensing.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 306.</designator><label> Strategy for security clearance reciprocity.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 307.</designator><label> Improper Payments Elimination and Recovery Act of 2010 compliance.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 308.</designator><label> Subcontractor notification process.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 309.</designator><label> Modification of reporting schedule.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 310.</designator><label> Repeal of certain reporting requirements.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE IV—</designator><label>MATTERS RELATING TO THE CENTRAL INTELLIGENCE AGENCY</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 401.</designator><label> Working capital fund amendments.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE V—</designator><label>OTHER MATTERS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 501.</designator><label> Homeland Security Intelligence Program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 502.</designator><label> Extension of National Commission for the Review of the Research and Development Programs of the United States Intelligence Community.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 503.</designator><label> Protecting the information technology supply chain of the United States.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 504.</designator><label> Notification regarding the authorized public disclosure of national intelligence.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 505.</designator><label> Technical amendments related to the Office of the Director of National Intelligence.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 506.</designator><label> Technical amendment for definition of intelligence agency.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 507.</designator><label> Budgetary effects.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/s2" styleType="appropriation" role="definitions">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau style="-uslm-dtd:text" class="block">In this Act:</chapeau>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/s2/1" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Congressional intelligence committees.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">congressional intelligence committees</term>” means—</chapeau>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/s2/1/A" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Select Committee on Intelligence of the Senate; and</content>
+                </subparagraph>
+                <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/s2/1/B" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Permanent Select Committee on Intelligence of the House of Representatives.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/s2/2" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Intelligence community.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">intelligence community</term>” has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).</content>
+            </paragraph>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/277/tI" styleType="appropriation">
+            <num style="-uslm-dtd:enum" value="I">Title I—</num><heading style="-uslm-dtd:header">BUDGET AND PERSONNEL AUTHORIZATIONS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tI/s101" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Funds are hereby authorized to be appropriated for fiscal year 2013 for the conduct of the intelligence and intelligence-related activities of the following elements of the United States Government:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The Office of the Director of National Intelligence.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The Central Intelligence Agency.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The Department of Defense.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The Defense Intelligence Agency.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">The National Security Agency.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">The Department of the Army, the Department of the Navy, and the Department of the Air Force.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">The Coast Guard.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">The Department of State.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/9" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">The Department of the Treasury.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/10" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">The Department of Energy.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/11" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">The Department of Justice.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/12" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="12">(12) </num><content style="-uslm-dtd:text">The Federal Bureau of Investigation.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/13" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="13">(13) </num><content style="-uslm-dtd:text">The Drug Enforcement Administration.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/14" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="14">(14) </num><content style="-uslm-dtd:text">The National Reconnaissance Office.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/15" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="15">(15) </num><content style="-uslm-dtd:text">The National Geospatial-Intelligence Agency.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s101/16" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="16">(16) </num><content style="-uslm-dtd:text">The Department of Homeland Security.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tI/s102" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">CLASSIFIED SCHEDULE OF AUTHORIZATIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tI/s102/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Specifications of Amounts and Personnel Levels.—</heading><content style="-uslm-dtd:text">The amounts authorized to be appropriated under section 101 and, subject to section 103, the authorized personnel ceilings as of September 30, 2013, for the conduct of the intelligence activities of the elements listed in paragraphs (1) through (16) of section 101, are those specified in the classified Schedule of Authorizations prepared to accompany the bill S. 3454 of the One Hundred Twelfth Congress.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tI/s102/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Availability of Classified Schedule of Authorizations.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s102/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Availability to committees of congress.—</heading><content style="-uslm-dtd:text">The classified Schedule of Authorizations referred to in subsection (a) shall be made available to the Committee on Appropriations of the Senate, the Committee on Appropriations of the House of Representatives, and to the President.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s102/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Distribution by the president.—</heading><content style="-uslm-dtd:text">Subject to paragraph (3), the President shall provide for suitable distribution of the  classified Schedule of Authorizations, or of appropriate portions of the Schedule, within the executive branch.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s102/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Limits on disclosure.—</heading><chapeau style="-uslm-dtd:text">The President shall not publicly disclose the classified Schedule of Authorizations or any portion of such Schedule except—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tI/s102/b/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">as provided in section 601(a) of the Implementing Recommendations of the 9/11 Commission Act of 2007 (50 U.S.C. 415c);</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tI/s102/b/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to the extent necessary to implement the budget; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tI/s102/b/3/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">as otherwise required by law.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tI/s103" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">PERSONNEL CEILING ADJUSTMENTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tI/s103/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Authority for Increases.—</heading><content style="-uslm-dtd:text">The Director of National Intelligence may authorize the employment of civilian personnel in excess of the number of positions for fiscal year 2013 authorized by the classified Schedule of Authorizations referred to in section 102(a) if the Director of National Intelligence determines that such action is necessary to the performance of important intelligence functions, except that the number of personnel employed in excess of the number authorized under such section may not, for any element of the intelligence community, exceed 3 percent of the number of civilian personnel authorized under such section for such element.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tI/s103/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Treatment of Certain Personnel.—</heading><chapeau style="-uslm-dtd:text">The Director of National Intelligence shall establish guidelines that govern, for each element of the intelligence community, the treatment under the personnel levels authorized under section 102(a), including any exemption from such personnel levels, of employment or assignment in—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s103/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a student program, trainee program, or similar program;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s103/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a reserve corps or as a reemployed annuitant; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s103/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">details, joint duty, or long term, full-time training.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tI/s103/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Notice to Congressional Intelligence Committees.—</heading><content style="-uslm-dtd:text">The Director of National Intelligence shall notify the congressional intelligence committees in writing at least 15 days prior to the initial exercise of an authority described in subsection (a).</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tI/s104" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">INTELLIGENCE COMMUNITY MANAGEMENT ACCOUNT. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tI/s104/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There is authorized to be appropriated for the Intelligence Community Management Account of the Director of National Intelligence for fiscal year 2013 the sum of $540,721,000. Within such amount, funds identified in the classified Schedule of Authorizations referred to in section 102(a) for advanced research and development shall remain available until September 30, 2014.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tI/s104/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Authorized Personnel Levels.—</heading><content style="-uslm-dtd:text">The elements within the Intelligence Community Management Account of the Director of National Intelligence are authorized 835 positions as of September 30, 2013. Personnel serving in such elements may be permanent employees of the Office of the Director of National Intelligence or personnel detailed from other elements of the United States Government.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tI/s104/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Classified Authorizations.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s104/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><content style="-uslm-dtd:text">In addition to amounts authorized to be appropriated for the Intelligence Community Management Account by subsection (a), there are authorized to be appropriated for the Community Management  Account for fiscal year 2013 such additional amounts as are specified in the classified Schedule of Authorizations referred to in section 102(a). Such additional amounts for advanced research and development shall remain available until September 30, 2014.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tI/s104/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authorization of personnel.—</heading><content style="-uslm-dtd:text">In addition to the personnel authorized by subsection (b) for elements of the Intelligence Community Management Account as of September 30, 2013, there are authorized such additional personnel for the Community Management Account as of that date as are specified in the classified Schedule of Authorizations referred to in section 102(a).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/277/tII" styleType="appropriation">
+            <num style="-uslm-dtd:enum" value="II">Title II—</num><heading style="-uslm-dtd:header">CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tII/s201" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+                <content style="-uslm-dtd:text" class="block">There is authorized to be appropriated for the Central Intelligence Agency Retirement and Disability Fund for fiscal year 2013 the sum of $514,000,000.</content>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/277/tIII" styleType="appropriation">
+            <num style="-uslm-dtd:enum" value="III">Title III—</num><heading style="-uslm-dtd:header">GENERAL INTELLIGENCE COMMUNITY MATTERS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tIII/s301" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><heading style="-uslm-dtd:header">RESTRICTION ON CONDUCT OF INTELLIGENCE ACTIVITIES. </heading>
+                <content style="-uslm-dtd:text" class="block">The authorization of appropriations by this Act shall not be deemed to constitute authority for the conduct of any intelligence activity which is not otherwise authorized by the Constitution or the laws of the United States.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tIII/s302" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><heading style="-uslm-dtd:header">INCREASE IN EMPLOYEE COMPENSATION AND BENEFITS AUTHORIZED BY LAW. </heading>
+                <content style="-uslm-dtd:text" class="block">Appropriations authorized by this Act for salary, pay, retirement, and other benefits for Federal employees may be increased by such additional or supplemental amounts as may be necessary for increases in such compensation or benefits authorized by law.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tIII/s303" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="303">SEC. 303. </num><heading style="-uslm-dtd:header">NON-REIMBURSABLE DETAILS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 113A of the National Security Act of 1947 (50 U.S.C. 404h-1) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s303/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">two years.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">three years.</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s303/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by adding at the end “<quotedText style="-uslm-dtd:quote">A non-reimbursable detail made under this section shall not be considered an augmentation of the appropriations of the receiving element of the intelligence community.</quotedText>”.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tIII/s304" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="304">SEC. 304. </num><heading style="-uslm-dtd:header">AUTOMATED INSIDER THREAT DETECTION PROGRAM. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 402 of the Intelligence Authorization Act for Fiscal Year 2011 (Public Law 112-18; 50 U.S.C. 403-1 note) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s304/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (a), by striking “<quotedText style="-uslm-dtd:quote">October 1, 2012,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">October 1, 2013,</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s304/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subsection (b), by striking “<quotedText style="-uslm-dtd:quote">October 1, 2013,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">October 1, 2014,</quotedText>”.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tIII/s305" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="305">SEC. 305. </num><heading style="-uslm-dtd:header">SOFTWARE LICENSING. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tIII/s305/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Not later than 120 days after the date of the enactment of this Act, each chief information officer for an element of the intelligence community, in consultation with the Chief Information Officer of the Intelligence Community, shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s305/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">conduct an inventory of software licenses held by such element, including utilized and unutilized licenses; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s305/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">report the results of such inventory to the Chief Information Officer of the Intelligence Community.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tIII/s305/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Reporting to Congress.—</heading><chapeau style="-uslm-dtd:text">The Chief Information Officer of the Intelligence Community shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s305/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">not later than 180 days after the date of the enactment of this Act, provide to the congressional intelligence committees a copy of each report received by the Chief Information Officer under subsection (a)(2), along with any comments the Chief Information Officer wishes to provide; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s305/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">transmit any portion of a report submitted under paragraph (1) involving a component of a department of the United States Government to the committees of the Senate and of the House of Representatives with jurisdiction over such department simultaneously with submission of such report to the congressional intelligence committees.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tIII/s306" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="306">SEC. 306. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t50/s435b">50 U.S.C. 435b note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">STRATEGY FOR SECURITY CLEARANCE RECIPROCITY. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tIII/s306/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Strategy.—</heading><chapeau style="-uslm-dtd:text">The President shall develop a strategy and a schedule for carrying out the requirements of section 3001(d) of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 435b(d)). Such strategy and schedule shall include—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s306/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a process for accomplishing the reciprocity required under such section for a security clearance issued by a department or agency of the Federal Government, including reciprocity for security clearances that are issued to both persons who are and who are not employees of the Federal Government; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s306/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">a description of the specific circumstances under which a department or agency of the Federal Government may not recognize a security clearance issued by another department or agency of the Federal Government.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tIII/s306/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Congressional Notification.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of the enactment of this Act, the President shall inform Congress of the strategy and schedule developed under subsection (a).</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tIII/s307" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="307">SEC. 307. </num><heading style="-uslm-dtd:header">IMPROPER PAYMENTS ELIMINATION AND RECOVERY ACT OF 2010 COMPLIANCE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tIII/s307/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Plan for Compliance.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s307/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the Defense Intelligence Agency, the Director of the National Geospatial-Intelligence Agency, and the Director of the National Security Agency shall each develop a corrective action plan, with major milestones, that delineates how the Office of the Director of National Intelligence and each such Agency will achieve compliance, not later than September 30, 2013, with the Improper Payments Elimination and Recovery Act of 2010  (Public Law 111-204; 124 Stat. 2224), and the amendments made by that Act.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s307/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Submission to congress.—</heading><chapeau style="-uslm-dtd:text">Not later than 45 days after the date of the enactment of this Act—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s307/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">each Director referred to in paragraph (1) shall submit to the congressional intelligence committees the corrective action plan required by such paragraph; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s307/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Director of the Defense Intelligence Agency, the Director of the National Geospatial-Intelligence Agency, and the Director of the National Security Agency shall each submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the corrective action plan required by paragraph (1) with respect to the applicable Agency.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tIII/s307/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Review by Inspectors General.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s307/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Not later than 45 days after the completion of a corrective action plan required by subsection (a)(1), the Inspector General of each Agency required to develop such a plan, and in the case of the Director of National Intelligence, the Inspector General of the Intelligence Community, shall provide to the congressional intelligence committees an assessment of such plan that includes—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s307/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the assessment of the Inspector General of whether such Agency or Office is or is not likely to reach compliance with the requirements of the Improper Payments Elimination and Recovery Act of 2010 (Public Law 111-204; 124 Stat. 2224), and the amendments made by that Act, by September 30, 2013; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s307/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the basis of the Inspector General for such assessment.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s307/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Additional submission of reviews of certain inspectors general.—</heading><content style="-uslm-dtd:text">Not later than 45 days after the completion of a corrective action plan required by subsection (a)(1), the Inspector General of the Defense Intelligence Agency, the Inspector General of the National Geospatial-Intelligence Agency, and the Inspector General of the National Security Agency shall each submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the assessment of the applicable plan provided to the congressional intelligence committees under paragraph (1).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tIII/s308" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="308">SEC. 308. </num><heading style="-uslm-dtd:header">SUBCONTRACTOR NOTIFICATION PROCESS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Not later than October 1, 2013, the Director of National Intelligence shall submit to the congressional intelligence committees a report assessing the method by which contractors at any tier under a contract entered into with an element of the intelligence community are granted security clearances and notified of classified contracting opportunities within the Federal Government and recommendations for the improvement of such method. Such report shall include—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s308/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">an assessment of the current method by which contractors at any tier under a contract entered into with an element of the intelligence community are notified of classified contracting opportunities;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s308/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">an assessment of any problems that may reduce the overall effectiveness of the ability of the intelligence community  to identify appropriate contractors at any tier under such a contract;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s308/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">an assessment of the role the existing security clearance process has in enhancing or hindering the ability of the intelligence community to notify such contractors of contracting opportunities;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s308/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">an assessment of the role the current security clearance process has in enhancing or hindering the ability of contractors at any tier under a contract entered into with an element of the intelligence community to execute classified contracts;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s308/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">a description of the method used by the Director of National Intelligence for assessing the effectiveness of the notification process of the intelligence community to produce a talented pool of subcontractors;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s308/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">a description of appropriate goals, schedules, milestones, or metrics used to measure the effectiveness of such notification process; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s308/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">recommendations for improving such notification process.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tIII/s309" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="309">SEC. 309. </num><heading style="-uslm-dtd:header">MODIFICATION OF REPORTING SCHEDULE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tIII/s309/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Inspector General of the Intelligence Community.—</heading><chapeau style="-uslm-dtd:text">Section 103H(k)(1)(A) of the National Security Act of 1947 (50 U.S.C. 403-3h(k)(1)(A)) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s309/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">January 31 and July 31</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">October 31 and April 30</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s309/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">December 31 (of the preceding year) and June 30,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30 and March 31,</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tIII/s309/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Inspector General for the Central Intelligence Agency.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s309/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Section 17(d)(1) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403q(d)(1)) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s309/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">January 31 and July 31</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">October 31 and April 30</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s309/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">December 31 (of the preceding year) and June 30,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">September 30 and March 31,</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s309/b/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Not later than the dates each year provided for the transmittal of such reports in section 507 of the National Security Act of 1947,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Not later than 30 days after the date of the receipt of such reports,</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s309/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Conforming amendments.—</heading><chapeau style="-uslm-dtd:text">Section 507(b) of the National Security Act of 1947 (50 U.S.C. 415b(b)) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s309/b/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking paragraph (1); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s309/b/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by redesignating paragraphs (2), (3), and (4), as paragraphs (1), (2), and (3), respectively.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tIII/s310" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="310">SEC. 310. </num><heading style="-uslm-dtd:header">REPEAL OF CERTAIN REPORTING REQUIREMENTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tIII/s310/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Repeal of Reporting Requirements.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s310/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Acquisition of technology relating to weapons of mass destruction and advanced conventional munitions.—</heading><content style="-uslm-dtd:text">Section 721 of the Intelligence Authorization Act for Fiscal Year 1997 (50 U.S.C. 2366) is repealed.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s310/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Safety and security of russian nuclear facilities and nuclear military forces.—</heading><chapeau style="-uslm-dtd:text">Section 114 of the National Security Act of 1947 (50 U.S.C. 404i) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s310/a/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking subsections (a) and (d); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s310/a/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by redesignating subsections (b) and (c) as subsections (a) and (b), respectively.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s310/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Intelligence community business systems budget information.—</heading><content style="-uslm-dtd:text">Section 506D of the National Security Act of 1947 (50 U.S.C. 415a-6) is amended by striking subsection (e).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s310/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Measures to protect the identities of covert agents.—</heading><chapeau style="-uslm-dtd:text">Title VI of the National Security Act of 1947 (50 U.S.C. 421 et seq.) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s310/a/4/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t50/s423">50 U.S.C. 423</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">by striking section 603; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s310/a/4/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t50/s424-426">50 U.S.C. 424-426</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">by redesignating sections 604, 605, and 606 as sections 603, 604, and 605, respectively.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tIII/s310/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Technical and Conforming Amendments.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s310/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Report submission dates.—</heading><chapeau style="-uslm-dtd:text">Section 507 of the National Security Act of 1947 (50 U.S.C. 415b) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s310/b/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in subsection (a)—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/277/tIII/s310/b/1/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">in paragraph (1)—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/277/tIII/s310/b/1/A/i/I" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking subparagraphs (A), (C), and (D);</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/277/tIII/s310/b/1/A/i/II" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by redesignating subparagraphs (B), (E), (F), (G), (H), and (I) as subparagraphs (A), (B), (C), (D), (E), and (F), respectively; and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/277/tIII/s310/b/1/A/i/III" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">in subparagraph (D), as so redesignated, by striking “<quotedText style="-uslm-dtd:quote">section 114(c).</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">section 114(a).</quotedText>”; and</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/277/tIII/s310/b/1/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by amending paragraph (2) to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by section 114(b) shall be the date each year provided in subsection (c)(1)(B).”</content>
+                                </paragraph></quotedContent>;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s310/b/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subsection (c)(1)(B), by striking “<quotedText style="-uslm-dtd:quote">each</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIII/s310/b/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in subsection (d)(1)(B), by striking “<quotedText style="-uslm-dtd:quote">an</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIII/s310/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Table of contents of the national security act of 1947.—</heading><content style="-uslm-dtd:text">The table of contents in the first section of the National Security Act of 1947 is amended by striking the items relating to sections 603, 604, 605, and 606 and inserting the following new items:<quotedContent style="-uslm-dtd:quoted-block">
+                        <toc style="-uslm-dtd:toc">
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“Sec. 603.</designator><label> Extraterritorial jurisdiction.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“Sec. 604.</designator><label> Providing information to Congress.</label></referenceItem>
+                            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>“Sec. 605.</designator><label> Definitions.”</label></referenceItem>
+                        </toc></quotedContent>.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/277/tIV" styleType="appropriation">
+            <num style="-uslm-dtd:enum" value="IV">Title IV—</num><heading style="-uslm-dtd:header">MATTERS RELATING TO THE CENTRAL INTELLIGENCE AGENCY </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tIV/s401" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><heading style="-uslm-dtd:header">WORKING CAPITAL FUND AMENDMENTS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 21 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403u) is amended as follows:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIV/s401/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">In subsection (b)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIV/s401/1/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in paragraph (1)—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/277/tIV/s401/1/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">in subparagraph (B), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/277/tIV/s401/1/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in subparagraph (C), by striking “<quotedText style="-uslm-dtd:quote">program.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">program; and</quotedText>”; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/277/tIV/s401/1/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC" class="leftIndentDecrease1">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">authorize such providers to make known their services to the entities specified in section (a) through Government communication channels.”</content>
+                            </subparagraph></quotedContent>; and</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIV/s401/1/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">The authority in paragraph (1)(D) does not include the authority to distribute gifts or promotional items.”</content>
+                        </paragraph></quotedContent>; and</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tIV/s401/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subsection (c)—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIV/s401/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (2)(E), by striking “<quotedText style="-uslm-dtd:quote">from the sale or exchange of equipment or property of a central service provider</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">from the sale or exchange of equipment, recyclable materials, or property of a central service provider.</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tIV/s401/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (3)(B), by striking “<quotedText style="-uslm-dtd:quote">subsection (f)(2)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subsections (b)(1)(D) and (f)(2)</quotedText>”.</content>
+                    </subparagraph>
+                </paragraph>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/277/tV" styleType="appropriation">
+            <num style="-uslm-dtd:enum" value="V">Title V—</num><heading style="-uslm-dtd:header">OTHER MATTERS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tV/s501" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="501">SEC. 501. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s121a">6 U.S.C. 121a</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">HOMELAND SECURITY INTELLIGENCE PROGRAM. </heading>
+                <content style="-uslm-dtd:text" class="block">There is established within the Department of Homeland Security a Homeland Security Intelligence Program. The Homeland Security Intelligence Program constitutes the intelligence activities of the Office of Intelligence and Analysis of the Department that serve predominantly departmental missions.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tV/s502" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="502">SEC. 502. </num><heading style="-uslm-dtd:header">EXTENSION OF NATIONAL COMMISSION FOR THE REVIEW OF THE RESEARCH AND DEVELOPMENT PROGRAMS OF THE UNITED STATES INTELLIGENCE COMMUNITY. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 1007(a) of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107-306; 50 U.S.C. 401 note) is amended by striking “<quotedText style="-uslm-dtd:quote">Not later than one year after the date on which all members of the Commission are appointed pursuant to section 701(a)(3) of the Intelligence Authorization Act for Fiscal Year 2010,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Not later than March 31, 2013,</quotedText>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tV/s503" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="503">SEC. 503. </num><heading style="-uslm-dtd:header">PROTECTING THE INFORMATION TECHNOLOGY SUPPLY CHAIN OF THE UNITED STATES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tV/s503/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the congressional intelligence committees a report that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s503/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">identifies foreign suppliers of information technology (including equipment, software, and services) that are linked directly or indirectly to a foreign government, including—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tV/s503/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by ties to the military forces of a foreign government;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tV/s503/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by ties to the intelligence services of a foreign government; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tV/s503/a/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by being the beneficiaries of significant low interest or no interest loans, loan forgiveness, or other support by a foreign government; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s503/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">assesses the vulnerability to malicious activity, including cyber crime or espionage, of the telecommunications networks of the United States due to the presence of technology produced by suppliers identified under paragraph (1).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tV/s503/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Form.—</heading><content style="-uslm-dtd:text">The report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tV/s503/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Telecommunications Networks of the United States Defined.—</heading><chapeau style="-uslm-dtd:text">In this section, the term “<quotedText style="-uslm-dtd:quote">telecommunications networks of the United States</quotedText>” includes—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s503/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">telephone systems;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s503/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Internet systems;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s503/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">fiber optic lines, including cable landings;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s503/c/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">computer networks; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s503/c/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">smart grid technology under development by the Department of Energy.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tV/s504" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="504">SEC. 504. </num><heading style="-uslm-dtd:header">NOTIFICATION REGARDING THE AUTHORIZED PUBLIC DISCLOSURE OF NATIONAL INTELLIGENCE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tV/s504/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Notification.—</heading><chapeau style="-uslm-dtd:text">In the event of an authorized disclosure of national intelligence or intelligence related to national security to the persons or entities described in subsection (b), the government official responsible for authorizing the disclosure shall submit to the congressional intelligence committees on a timely basis a notification of the disclosure if—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s504/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">at the time of the disclosure—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tV/s504/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">such intelligence is classified; or</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/277/tV/s504/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">is declassified for the purpose of the disclosure; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s504/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the disclosure will be made by an officer, employee, or contractor of the Executive branch.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tV/s504/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Persons or Entities Described.—</heading><chapeau style="-uslm-dtd:text">The persons or entities described in this subsection are as follows:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s504/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Media personnel.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s504/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Any person or entity, if the disclosure described in subsection (a) is made with the intent or knowledge that such information will be made publicly available.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tV/s504/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Content.—</heading><chapeau style="-uslm-dtd:text">Each notification required under subsection (a) shall—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s504/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">provide the specific title and authority of the individual authorizing the disclosure;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s504/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">if applicable, provide the specific title and authority of the individual who authorized the declassification of the intelligence disclosed; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s504/c/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">describe the intelligence disclosed, including the classification of the intelligence prior to its disclosure or declassification and the rationale for making the disclosure.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tV/s504/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Exception.—</heading><chapeau style="-uslm-dtd:text">The notification requirement in this section does not apply to a disclosure made—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s504/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">pursuant to any statutory requirement, including to section 552 of title 5, United States Code (commonly referred to as the “<quotedText style="-uslm-dtd:quote">Freedom of Information Act</quotedText>”);</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s504/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in connection with a civil, criminal, or administrative proceeding;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s504/d/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">as a result of a declassification review process under Executive Order 13526 (50 U.S.C. 435 note) or any successor order; or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/277/tV/s504/d/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">to any officer, employee, or contractor of the Federal government or member of an advisory committee to an element of the intelligence community who possesses an active security clearance and a need to know the specific national intelligence or intelligence related to national security, as defined in section 3(5) of the National Security Act of 1947 (50 U.S.C. 401a(5)).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tV/s505" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="505">SEC. 505. </num><heading style="-uslm-dtd:header">TECHNICAL AMENDMENTS RELATED TO THE OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tV/s505/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Personnel Practices.—</heading><content style="-uslm-dtd:text">Section 2302(a)(2)(C) of title 5, United States Code, is amended by striking clause (ii) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <clause style="-uslm-dtd:clause" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="ii">“(ii)</num><subclause style="-uslm-dtd:subclause" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and</content></subclause>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">as determined by the President, any executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities, provided that the determination be made prior to a personnel action; or”</content>
+                        </subclause>
+                    </clause></quotedContent>.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/277/tV/s505/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Senior Executive Service.—</heading><content style="-uslm-dtd:text">Section 3132(a)(1)(B) of title 5, United States Code, is amended by inserting “<quotedText style="-uslm-dtd:quote">the Office of the Director of National Intelligence,</quotedText>” after “<quotedText style="-uslm-dtd:quote">the Central Intelligence Agency,</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tV/s506" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="506">SEC. 506. </num><heading style="-uslm-dtd:header">TECHNICAL AMENDMENT FOR DEFINITION OF INTELLIGENCE AGENCY. </heading>
+                <content style="-uslm-dtd:text" class="block">Paragraph (5) of section 605 of the National Security Act of 1947 (50 U.S.C. 426) , as redesignated by section 310(a)(4)(B) of this Act, is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">intelligence agency</quotedText>’ means the elements of the intelligence community, as that term is defined in section 3(4).”</content>
+                </paragraph></quotedContent>.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/277/tV/s507" styleType="appropriation">
+                <num style="-uslm-dtd:enum" value="507">SEC. 507. </num><heading style="-uslm-dtd:header">BUDGETARY EFFECTS. </heading>
+                <content style="-uslm-dtd:text" class="block">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “<quotedText style="-uslm-dtd:quote">Budgetary Effects of PAYGO Legislation</quotedText>” for this Act, submitted for printing in the    Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.</content>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

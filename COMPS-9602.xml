@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Airport and Air Transportation Programs Extension Act of 2011</dc:title>
+        <citableAs>Public Law 112–30, as amended</citableAs>
+        <citableAsShortTitle>Airport and Air Transportation Programs Extension Act of 2011</citableAsShortTitle>
+        <docNumber>30</docNumber>
+        <currentThroughPublicLaw>112–141</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Surface and Air Transportation Programs Extension Act of 2011</containsShortTitle>
+        <containsShortTitle>Airport and Airway Extension Act of 2011, Part V</containsShortTitle>
+        <containsShortTitle>Surface Transportation Extension Act of 2011, Part II</containsShortTitle>
+        <property role="fileId">9602</property>
+        <congress>112</congress>
+        <approvedDate>2011-09-16</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Airport and Air Transportation Programs Extension Act of 2011</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 112–30</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 112–141</currentThroughPublicLaw>, Enacted <date date="2012-07-06">July 6, 2012</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 112-30. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To provide an extension of surface and air transportation programs, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Surface and Air Transportation Programs Extension Act of 2011</inline></shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>EXTENSION OF SURFACE TRANSPORTATION PROGRAMS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Short title.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle A—</designator><label>Federal-Aid Highways</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 111.</designator><label> Extension of Federal-aid highway programs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 112.</designator><label> Administrative expenses.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle B—</designator><label>Extension of Highway Safety Programs</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 121.</designator><label> Extension of National Highway Traffic Safety Administration highway safety programs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 122.</designator><label> Extension of Federal Motor Carrier Safety Administration programs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 123.</designator><label> Additional programs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle C—</designator><label>Public Transportation Programs</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 131.</designator><label> Allocation of funds for planning programs.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 132.</designator><label> Special rule for urbanized area formula grants.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 133.</designator><label> Allocating amounts for capital investment grants.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 134.</designator><label> Apportionment of formula grants for other than urbanized areas.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 135.</designator><label> Apportionment based on fixed guideway factors.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 136.</designator><label> Authorizations for public transportation.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 137.</designator><label> Amendments to SAFETEA-LU.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="subtitle" class="centered"><designator>Subtitle D—</designator><label>Highway Trust Fund Extension</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 141.</designator><label> Extension of trust fund expenditure authority.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 142.</designator><label> Extension of highway-related taxes.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>EXTENSION OF AIR TRANSPORTATION PROGRAMS</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Short title.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> Extension of taxes funding Airport and Airway Trust Fund.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 203.</designator><label> Extension of Airport and Airway Trust Fund expenditure authority.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 204.</designator><label> Extension of airport improvement program.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 205.</designator><label> Extension of expiring authorities.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 206.</designator><label> Federal Aviation Administration operations.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 207.</designator><label> Air navigation facilities and equipment.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 208.</designator><label> Research, engineering, and development.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 209.</designator><label> Essential Air Service.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/30/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">EXTENSION OF SURFACE TRANSPORTATION PROGRAMS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t23/s101">23 U.S.C. 101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Surface Transportation Extension Act of 2011, Part II</inline></shortTitle>”.</content>
+            </section>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/112/30/tI/stA">
+                <num style="-uslm-dtd:enum" value="A">Subtitle A—</num><heading style="-uslm-dtd:header">Federal-Aid Highways </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stA/s111" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="111">SEC. 111. </num><heading style="-uslm-dtd:header">EXTENSION OF FEDERAL-AID HIGHWAY PROGRAMS. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stA/s111/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Except as provided in this title, requirements, authorities, conditions, eligibilities, limitations, and other provisions authorized under titles I, V, and VI of SAFETEA-LU (Public Law 109-59), the SAFETEA-LU Technical Corrections Act of 2008 (Public Law 110-244), titles I and VI of the Intermodal Surface Transportation Act of 1991 (Public Law 102-240), titles I and V of the Transportation Equity Act for the 21st Century (Public Law 105-178), and title 23, United States Code (excluding chapter 4 of that title), which would otherwise expire on or cease to apply after September 30, 2011, under section 411(a) of the Surface Transportation Extension Act of 2010 (title IV of Public Law 111-147) are incorporated by reference and shall continue in effect until September 30, 2012.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stA/s111/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">Except as provided in section 112, there is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) for fiscal year 2012 a sum equal to  the total amount authorized to be appropriated out of the Highway Trust Fund for programs, projects, and activities for fiscal year 2011 under titles I, V, and VI of SAFETEA-LU (119 Stat. 1144) and title 23, United States Code (excluding chapter 4 of that title).</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stA/s111/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Use of Funds.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stA/s111/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Fiscal year 2012.—</heading><content style="-uslm-dtd:text">Except as otherwise expressly provided in this title, funds authorized to be appropriated under subsection (b) for fiscal year 2012 shall be distributed, administered, limited, and made available for obligation in the same manner and at the same level as  the total amount of funds authorized to be appropriated out of the Highway Trust Fund for fiscal year 2011 to carry out programs, projects, activities, eligibilities, and requirements under SAFETEA-LU (Public Law 109-59), the SAFETEA-LU Technical Corrections Act of 2008 (Public Law 110-244), titles I and VI of the Intermodal Surface Transportation Act of 1991 (Public Law 102-240), titles I and V of the Transportation Equity Act for the 21st Century (Public Law 105-178), and title 23, United States Code (excluding chapter 4 of that title).</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stA/s111/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Calculation.—</heading><content style="-uslm-dtd:text">The amounts authorized to be appropriated under subsection (b) shall be calculated taking into account any rescission or cancellation of funds or contract authority for fiscal year 2011 required by the Department of Defense and Full-Year Continuing Appropriations Act, 2011 (Public Law 112-10) or any other law.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stA/s111/c/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Contract authority.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stA/s111/c/3/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Except as provided in subparagraph (B), funds authorized to be appropriated under this section shall be available for obligation and shall be administered in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code, and for fiscal year 2012 shall be subject to a limitation on obligations for Federal-aid highways and highway safety construction programs included in an Act making appropriations for fiscal year 2012 or a portion of that fiscal year.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stA/s111/c/3/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Exceptions.—</heading><chapeau style="-uslm-dtd:text">A limitation on obligations described in subparagraph (A) shall not apply to any obligation under—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stA/s111/c/3/B/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">section 125 of title 23, United States Code; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stA/s111/c/3/B/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">section 105 of title 23, United States Code, for fiscal year 2012 only in an amount equal to $639,000,000.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stA/s111/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Extension and Flexibility for Certain Allocated Programs.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stA/s111/d/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Fiscal year 2012.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding any other provision of law, for fiscal year 2012 the portion of the share of funds of a State under subsection (b) determined by  the amount that the State received or was authorized to receive for fiscal year 2011 to carry out sections 1301, 1302, 1307, 1702, and 1934 of SAFETEA-LU (119 Stat. 1198, 1204, 1217, 1256, and 1485) and section 144(f)(1) of title 23, United States Code, shall be—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stA/s111/d/1/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">made available to the State for programs apportioned under sections 104(b) and 144 of title 23, United States Code, and in the same proportion for each such program that—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stA/s111/d/1/A/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the amount apportioned to the State for that program for fiscal year 2011; bears to</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stA/s111/d/1/A/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the amount apportioned to the State for fiscal year 2011 for all programs apportioned under such sections of such Code; and</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stA/s111/d/1/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">administered in the same manner and with the same period of availability as such funding is administered under programs identified in subparagraph (A), except that no funds may be used to carry out the project described in section 1307(d)(1) of SAFETEA-LU (119 Stat. 1217; 122 Stat. 1577).</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stA/s111/d/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Territories and puerto rico.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stA/s111/d/2/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Fiscal year 2012.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding any other provision of law, for fiscal year 2012 the portion of the share of funds of a territory or Puerto Rico under subsection (b) determined by the amount that the territory or Puerto Rico received or was authorized to receive for fiscal year 2011 to carry out section 1934 of SAFETEA-LU (119 Stat. 1485), shall be—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stA/s111/d/2/A/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">for a territory, made available and administered in the same manner as funding is made available and administered under section 215 of title 23, United States Code; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stA/s111/d/2/A/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">for Puerto Rico, made available and administered in the same manner as funding is made available and administered under section 165 of title 23, United States Code.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stA/s111/d/2/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Territory defined.—</heading><content style="-uslm-dtd:text">In this paragraph, the term “<quotedText style="-uslm-dtd:quote">territory</quotedText>” means any of the following territories of the United States: American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, or the United States Virgin Islands.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stA/s111/d/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Additional funds.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stA/s111/d/3/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">No additional funds shall be provided for any project or activity under subsection (c), or paragraph (1) of this subsection, that the Secretary of Transportation determines was sufficiently funded before or during fiscal year 2011 to achieve the authorized purpose of the project or activity.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stA/s111/d/3/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Reservation and redistribution of funds.—</heading><chapeau style="-uslm-dtd:text">Funds made available in accordance with paragraph (1) of subsection (c) or paragraph (1) of this subsection for a project or activity described in subparagraph (A) shall be—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stA/s111/d/3/B/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">reserved by the Secretary of Transportation; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stA/s111/d/3/B/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">distributed to each State in accordance with paragraph (1) of subsection (c), or paragraph (1) of this subsection, as appropriate, for use in carrying out other highway projects and activities extended by subsection (c) or this subsection, in the proportion that—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/30/tI/stA/s111/d/3/B/ii/I" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the total amount of funds made available for fiscal year 2011 for projects and activities described in subparagraph (A) in the State; bears to</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/30/tI/stA/s111/d/3/B/ii/II" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the total amount of funds made available for fiscal year 2011 for those projects and activities in all States.</content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stA/s111/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Extension of Authorizations Under Title V of SAFETEA-LU.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stA/s111/e/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The programs authorized under paragraphs (1) through (5) of section 5101(a) of SAFETEA-LU (119 Stat. 1779) shall be continued for fiscal year 2012 at the funding levels authorized for those programs for fiscal year 2011.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stA/s111/e/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Distribution of funds.—</heading><content style="-uslm-dtd:text">Funds for programs continued under paragraph (1) shall be distributed to major program areas under those programs in the same proportions as funds were allocated for those program areas for fiscal year 2011, except that designations for specific activities shall not be required to be continued for fiscal year 2012.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stA/s111/e/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Additional funds.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stA/s111/e/3/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">No additional funds shall be provided for any project or activity under this subsection that the Secretary of Transportation determines was sufficiently funded before or during fiscal year 2011 to achieve the authorized purpose of the project or activity.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stA/s111/e/3/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Distribution.—</heading><content style="-uslm-dtd:text">Funds that would have been made available under paragraph (1) for a project or activity but for the prohibition under subparagraph (A) shall be distributed in accordance with paragraph (2).</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stA/s112" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="112">SEC. 112. </num><heading style="-uslm-dtd:header">ADMINISTRATIVE EXPENSES. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stA/s112/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Authorization of Contract Authority.—</heading><content style="-uslm-dtd:text">Notwithstanding any other provision of this title or any other law, there is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account), from amounts provided under section 111, for administrative expenses of the Federal-aid highway program $392,855,250 for fiscal year 2012.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stA/s112/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Contract Authority.—</heading><chapeau style="-uslm-dtd:text">Funds authorized to be appropriated by this section shall be—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stA/s112/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">available for obligation, and shall be administered, in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stA/s112/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">subject to a limitation on obligations for Federal-aid highways and highway safety construction programs, except that such funds shall remain available until expended.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+            </subtitle>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/112/30/tI/stB">
+                <num style="-uslm-dtd:enum" value="B">Subtitle B—</num><heading style="-uslm-dtd:header">Extension of Highway Safety Programs </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stB/s121" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="121">SEC. 121. </num><heading style="-uslm-dtd:header">EXTENSION OF NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION HIGHWAY SAFETY PROGRAMS. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Chapter 4 Highway Safety Programs.—</heading><content style="-uslm-dtd:text">Section 2001(a)(1) of SAFETEA-LU (119 Stat. 1519) is amended by striking “<quotedText style="-uslm-dtd:quote">and $235,000,000 for fiscal year 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$235,000,000 for fiscal year 2011, and $117,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Highway Safety Research and Development.—</heading><content style="-uslm-dtd:text">Section 2001(a)(2) of SAFETEA-LU (119 Stat. 1519) is amended by striking “<quotedText style="-uslm-dtd:quote">and $108,244,000 for fiscal year 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$108,244,000 for fiscal year 2011, and $54,122,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Occupant Protection Incentive Grants.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Extension of program.—</heading><chapeau style="-uslm-dtd:text">Section 405(a) of title 23, United States Code, is amended—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stB/s121/c/1/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (3) by striking “<quotedText style="-uslm-dtd:quote">8</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">9</quotedText>”; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stB/s121/c/1/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in paragraph (4)(C) by striking “<quotedText style="-uslm-dtd:quote">fifth through eighth</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">fifth through ninth</quotedText>”.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><content style="-uslm-dtd:text">Section 2001(a)(3) of SAFETEA-LU (119 Stat. 1519) is amended by striking “<quotedText style="-uslm-dtd:quote">and $25,000,000 for fiscal year 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$25,000,000 for fiscal year 2011, and $12,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Safety Belt Performance Grants.—</heading><content style="-uslm-dtd:text">Section 2001(a)(4) of SAFETEA-LU (119 Stat. 1519) is amended by striking “<quotedText style="-uslm-dtd:quote">and $124,500,000 for fiscal year 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$124,500,000 for fiscal year 2011, and $24,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">State Traffic Safety Information System Improvements.—</heading><content style="-uslm-dtd:text">Section 2001(a)(5) of SAFETEA-LU (119 Stat. 1519) is amended by striking “<quotedText style="-uslm-dtd:quote">and $34,500,000 for fiscal year 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$34,500,000 for fiscal year 2011, and $17,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Alcohol-Impaired Driving Countermeasures Incentive Grant Program.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/f/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Extension of program.—</heading><chapeau style="-uslm-dtd:text">Section 410 of title 23, United States Code, is amended—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stB/s121/f/1/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subsection (a)(3)(C) by striking “<quotedText style="-uslm-dtd:quote">in each of</quotedText>” and all that follows through “<quotedText style="-uslm-dtd:quote">fiscal years</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">in each of the fifth through eleventh fiscal years</quotedText>”; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stB/s121/f/1/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subsection (b)(2)(C) by striking “<quotedText style="-uslm-dtd:quote">fiscal years 2008, 2009, 2010, and 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">each of fiscal years 2008 through 2012</quotedText>”.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/f/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><content style="-uslm-dtd:text">Section 2001(a)(6) of SAFETEA-LU (119 Stat. 1519) is amended by striking “<quotedText style="-uslm-dtd:quote">and $139,000,000 for fiscal year 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$139,000,000 for fiscal year 2011, and $69,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/g" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">National Driver Register.—</heading><content style="-uslm-dtd:text">Section 2001(a)(7) of SAFETEA-LU (119 Stat. 1520) is amended by striking “<quotedText style="-uslm-dtd:quote">and $4,116,000 for fiscal year 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$4,116,000 for fiscal year 2011, and $2,058,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/h" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">High Visibility Enforcement Program.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/h/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Extension of program.—</heading><content style="-uslm-dtd:text">Section 2009(a) of SAFETEA-LU (23 U.S.C. 402 note) is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2012</quotedText>”.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/h/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><content style="-uslm-dtd:text">Section 2001(a)(8) of SAFETEA-LU (119 Stat. 1520) is amended by striking “<quotedText style="-uslm-dtd:quote">and $29,000,000 for fiscal year 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$29,000,000 for fiscal year 2011, and $14,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/i" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Motorcyclist Safety.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/i/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Extension of program.—</heading><content style="-uslm-dtd:text">Section 2010(d)(1)(B) of SAFETEA-LU (23 U.S.C. 402 note) is amended by striking “<quotedText style="-uslm-dtd:quote">fourth, fifth, and sixth</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">fourth, fifth, sixth, and seventh</quotedText>”.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/i/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><content style="-uslm-dtd:text">Section 2001(a)(9) of SAFETEA-LU (119 Stat. 1520) is amended by striking “<quotedText style="-uslm-dtd:quote">and $7,000,000 for fiscal year 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$7,000,000 for fiscal year 2011, and $3,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/j" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="j">(j) </num><heading style="-uslm-dtd:header">Child Safety and Child Booster Seat Safety Incentive Grants.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/j/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Extension of program.—</heading><content style="-uslm-dtd:text">Section 2011(c)(2) of SAFETEA-LU (23 U.S.C. 405 note) is amended by striking “<quotedText style="-uslm-dtd:quote">fourth, fifth, and sixth fiscal years</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">fourth, fifth, sixth, and seventh fiscal years</quotedText>”.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/j/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authorization of appropriations.—</heading><content style="-uslm-dtd:text">Section 2001(a)(10) of SAFETEA-LU (119 Stat. 1520) is amended by striking “<quotedText style="-uslm-dtd:quote">and $7,000,000 for fiscal year 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$7,000,000 for fiscal year 2011, and $3,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/k" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="k">(k) </num><heading style="-uslm-dtd:header">Administrative Expenses.—</heading><content style="-uslm-dtd:text">Section 2001(a)(11) of SAFETEA-LU (119 Stat. 1520) is amended by striking “<quotedText style="-uslm-dtd:quote">and $25,328,000 for fiscal year 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$25,328,000 for fiscal year 2011, and $12,664,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/l" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="l">(l) </num><heading style="-uslm-dtd:header">Applicability of Title 23.—</heading><content style="-uslm-dtd:text">Section 2001(c) of SAFETEA-LU (119 Stat. 1520) is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2012</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/m" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="m">(m) </num><heading style="-uslm-dtd:header">Drug-Impaired Driving Enforcement.—</heading><content style="-uslm-dtd:text">Section 2013(f) of SAFETEA-LU (23 U.S.C. 403 note) is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2012</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s121/n" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="n">(n) </num><heading style="-uslm-dtd:header">Older Driver Safety; Law Enforcement Training.—</heading><chapeau style="-uslm-dtd:text">Section 2017 of SAFETEA-LU is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/n/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (a)(1) (119 Stat. 1541), by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2012</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s121/n/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subsection (b)(2) (23 U.S.C. 402 note), by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2012</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stB/s122" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="122">SEC. 122. </num><heading style="-uslm-dtd:header">EXTENSION OF FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION PROGRAMS. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s122/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Motor Carrier Safety Grants.—</heading><chapeau style="-uslm-dtd:text">Section 31104(a) of title 49, United States Code, is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s122/a/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end of paragraphs (5) and (6);</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s122/a/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking the period at the end of paragraph (7) and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s122/a/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="8">“(8) </num><content style="-uslm-dtd:text">$106,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”</content>
+                            </paragraph></quotedContent>.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s122/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Administrative Expenses.—</heading><chapeau style="-uslm-dtd:text">Section 31104(i)(1) of title 49, United States Code, is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s122/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end of subparagraphs (E) and (F);</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s122/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking the period at the end of subparagraph (G) and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s122/b/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="H">“(H) </num><content style="-uslm-dtd:text">$122,072,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”</content>
+                            </subparagraph></quotedContent>.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s122/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Grant Programs.—</heading><chapeau style="-uslm-dtd:text">Section 4101(c) of SAFETEA-LU (119 Stat. 1715) is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s122/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (1) by inserting “<quotedText style="-uslm-dtd:quote">and $15,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012</quotedText>” before the period at the end;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s122/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (2) by inserting “<quotedText style="-uslm-dtd:quote">and $16,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012</quotedText>” before the period at the end;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s122/c/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in paragraph (3) by inserting “<quotedText style="-uslm-dtd:quote">and $2,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012</quotedText>” before the period at the end;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s122/c/4" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in paragraph (4) by inserting “<quotedText style="-uslm-dtd:quote">and $12,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012</quotedText>” before the period at the end; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s122/c/5" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">in paragraph (5) by inserting “<quotedText style="-uslm-dtd:quote">and $1,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012</quotedText>” before the period at the end.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s122/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">High-Priority Activities.—</heading><content style="-uslm-dtd:text">Section 31104(k)(2) of title 49, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and $7,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s122/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">New Entrant Audits.—</heading><content style="-uslm-dtd:text">Section 31144(g)(5)(B) of title 49, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">fiscal year</quotedText>” inserting “<quotedText style="-uslm-dtd:quote">fiscal year and up to $14,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s122/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s31100">49 U.S.C. 31100 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Outreach and Education.—</heading><content style="-uslm-dtd:text">Section 4127(e) of SAFETEA-LU (119 Stat. 1741) is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 (and $500,000 to the Federal Motor Carrier Safety Administration, and $1,500,000 to the National Highway Traffic Safety Administration, for the period beginning on October 1, 2011, and ending on March 31, 2012)</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s122/g" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="g">(g) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s31301">49 U.S.C. 31301 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Grant Program for Commercial Motor Vehicle Operators.—</heading><content style="-uslm-dtd:text">Section 4134(c) of SAFETEA-LU (119 Stat. 1744) is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s122/h" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="h">(h) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s31100">49 U.S.C. 31100 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Motor Carrier Safety Advisory Committee.—</heading><content style="-uslm-dtd:text">Section 4144(d) of SAFETEA-LU (119 Stat. 1748) is amended by striking “<quotedText style="-uslm-dtd:quote">September 30, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">March 31, 2012</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s122/i" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Working Group for Development of Practices and Procedures To Enhance Federal-State Relations.—</heading><content style="-uslm-dtd:text">Section 4213(d) of SAFETEA-LU (49 U.S.C. 14710 note; 119 Stat. 1759) is amended by striking “<quotedText style="-uslm-dtd:quote">September 30, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">March 31, 2012</quotedText>”.</content>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stB/s123" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="123">SEC. 123. </num><heading style="-uslm-dtd:header">ADDITIONAL PROGRAMS. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s123/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Hazardous Materials Research Projects.—</heading><content style="-uslm-dtd:text">Section 7131(c) of SAFETEA-LU (119 Stat. 1910) is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and $580,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stB/s123/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Dingell-Johnson Sport Fish Restoration Act.—</heading><chapeau style="-uslm-dtd:text">Section 4 of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c) is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s123/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (a) by striking “<quotedText style="-uslm-dtd:quote">2011,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stB/s123/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in the first sentence of subsection (b)(1)(A) by striking “<quotedText style="-uslm-dtd:quote">2011,</quotedText>” inserting “<quotedText style="-uslm-dtd:quote">2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+            </subtitle>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/112/30/tI/stC">
+                <num style="-uslm-dtd:enum" value="C">Subtitle C—</num><heading style="-uslm-dtd:header">Public Transportation Programs </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stC/s131" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="131">SEC. 131. </num><heading style="-uslm-dtd:header">ALLOCATION OF FUNDS FOR PLANNING PROGRAMS. </heading>
+                    <content style="-uslm-dtd:text" class="block">Section 5305(g) of title 49, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012</quotedText>”.</content>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stC/s132" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="132">SEC. 132. </num><heading style="-uslm-dtd:header">SPECIAL RULE FOR URBANIZED AREA FORMULA GRANTS. </heading>
+                    <chapeau style="-uslm-dtd:text" class="block">Section 5307(b)(2) of title 49, United States Code, is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s132/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking the paragraph heading and inserting “<quotedText style="-uslm-dtd:quote">Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012.—</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s132/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subparagraph (A) by striking “<quotedText style="-uslm-dtd:quote">2011,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s132/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in subparagraph (E)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s132/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking the subparagraph heading and inserting “<quotedText style="-uslm-dtd:quote">Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012.—</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s132/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the matter preceding clause (i) by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and during the period beginning on October 1, 2011, and ending on March 31, 2012</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stC/s133" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="133">SEC. 133. </num><heading style="-uslm-dtd:header">ALLOCATING AMOUNTS FOR CAPITAL INVESTMENT GRANTS. </heading>
+                    <chapeau style="-uslm-dtd:text" class="block">Section 5309(m) of title 49, United States Code, is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s133/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in paragraph (2)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s133/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking the paragraph heading and inserting “<quotedText style="-uslm-dtd:quote">Fiscal years 2006 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012.—</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s133/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in the matter preceding subparagraph (A) by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s133/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in subparagraph (A)(i) by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and $100,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s133/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in paragraph (6)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s133/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subparagraph (B) by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s133/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subparagraph (C) by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and $2,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s133/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in paragraph (7)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s133/3/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in subparagraph (A)—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stC/s133/3/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">in the matter preceding clause (i)—</chapeau>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/30/tI/stC/s133/3/A/i/I" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">in the first sentence by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and $5,000,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”; and</content>
+                                </subclause>
+                                <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/30/tI/stC/s133/3/A/i/II" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">in the second sentence by striking “<quotedText style="-uslm-dtd:quote">each fiscal year</quotedText>”;</content>
+                                </subclause>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stC/s133/3/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">in clause (i) by striking “<quotedText style="-uslm-dtd:quote">$2,500,000</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$2,500,000 for each fiscal year and $1,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stC/s133/3/A/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">in clause (ii) by striking “<quotedText style="-uslm-dtd:quote">$2,500,000</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$2,500,000 for each fiscal year and $1,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stC/s133/3/A/iv" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">in clause (iii) by striking “<quotedText style="-uslm-dtd:quote">$1,000,000</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stC/s133/3/A/v" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">in clause (iv) by striking “<quotedText style="-uslm-dtd:quote">$1,000,000</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stC/s133/3/A/vi" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">in clause (v) by striking “<quotedText style="-uslm-dtd:quote">$1,000,000</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stC/s133/3/A/vii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vii">(vii) </num><content style="-uslm-dtd:text">in clause (vi) by striking “<quotedText style="-uslm-dtd:quote">$1,000,000</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stC/s133/3/A/viii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="viii">(viii) </num><content style="-uslm-dtd:text">in clause (vii) by striking “<quotedText style="-uslm-dtd:quote">$650,000</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$650,000 for each fiscal year and $325,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stC/s133/3/A/ix" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ix">(ix) </num><content style="-uslm-dtd:text">in clause (viii) by striking “<quotedText style="-uslm-dtd:quote">$350,000</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$350,000 for each fiscal year and $175,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s133/3/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subparagraph (B) by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vii">“(vii) </num><content style="-uslm-dtd:text">$6,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”</content>
+                            </clause></quotedContent>;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s133/3/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in subparagraph (C) by striking “<quotedText style="-uslm-dtd:quote">fiscal year</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">fiscal year and during the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s133/3/D" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">in subparagraph (D) by striking “<quotedText style="-uslm-dtd:quote">fiscal year</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">fiscal year and not less than $17,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s133/3/E" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">in subparagraph (E) by striking “<quotedText style="-uslm-dtd:quote">fiscal year</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">fiscal year and $1,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stC/s134" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="134">SEC. 134. </num><heading style="-uslm-dtd:header">APPORTIONMENT OF FORMULA GRANTS FOR OTHER THAN URBANIZED AREAS. </heading>
+                    <content style="-uslm-dtd:text" class="block">Section 5311(c)(1) of title 49, United States Code, is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">“(G) </num><content style="-uslm-dtd:text">$7,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”</content>
+                    </subparagraph></quotedContent>.</content>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stC/s135" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="135">SEC. 135. </num><heading style="-uslm-dtd:header">APPORTIONMENT BASED ON FIXED GUIDEWAY FACTORS. </heading>
+                    <chapeau style="-uslm-dtd:text" class="block">Section 5337 of title 49, United States Code, is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s135/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (a), in the matter preceding paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2012</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s135/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="g">“(g) </num><heading style="-uslm-dtd:header">Special Rule for October 1, 2011, Through March 31, 2012. </heading><content style="-uslm-dtd:text">The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning on October 1, 2011, and ending on March 31, 2012, in accordance with subsection (a), except that the Secretary shall apportion 50 percent of each dollar amount specified in subsection (a).”</content>
+                        </subsection></quotedContent>.</content>
+                    </paragraph>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stC/s136" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="136">SEC. 136. </num><heading style="-uslm-dtd:header">AUTHORIZATIONS FOR PUBLIC TRANSPORTATION. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stC/s136/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Formula and Bus Grants.—</heading><chapeau style="-uslm-dtd:text">Section 5338(b) of title 49, United States Code, is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s136/a/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">in paragraph (1)—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/1/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end of subparagraph (E);</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/1/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking the period at the end of subparagraph (F) and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/1/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="G">“(G) </num><content style="-uslm-dtd:text">$4,180,282,500 for the period beginning on October 1, 2011, and ending on March 31, 2012.”</content>
+                                </subparagraph></quotedContent>; and</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in paragraph (2)—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subparagraph (A) by striking “<quotedText style="-uslm-dtd:quote">and $113,500,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$113,500,000 for fiscal year 2011, and $56,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subparagraph (B) by striking “<quotedText style="-uslm-dtd:quote">and $4,160,365,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$4,160,365,000 for fiscal year 2011, and $2,080,182,500 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in subparagraph (C) by striking “<quotedText style="-uslm-dtd:quote">and $51,500,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$51,500,000 for fiscal year 2011, and $25,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/D" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">in subparagraph (D) by striking “<quotedText style="-uslm-dtd:quote">and $1,666,500,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$1,666,500,000 for fiscal year 2011, and $833,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/E" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">in subparagraph (E) by striking “<quotedText style="-uslm-dtd:quote">and $984,000,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$984,000,000 for fiscal year 2011, and $492,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/F" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">in subparagraph (F) by striking “<quotedText style="-uslm-dtd:quote">and $133,500,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$133,500,000 for fiscal year 2011, and $66,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/G" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">in subparagraph (G) by striking “<quotedText style="-uslm-dtd:quote">and $465,000,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/H" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">in subparagraph (H) by striking “<quotedText style="-uslm-dtd:quote">and $164,500,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$164,500,000 for fiscal  year 2011, and $82,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">in subparagraph (I) by striking “<quotedText style="-uslm-dtd:quote">and $92,500,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$92,500,000 for fiscal year 2011, and $46,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/J" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="J">(J) </num><content style="-uslm-dtd:text">in subparagraph (J) by striking “<quotedText style="-uslm-dtd:quote">and $26,900,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$26,900,000 for fiscal year 2011, and $13,450,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/K" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="K">(K) </num><content style="-uslm-dtd:text">in subparagraph (K) by striking “<quotedText style="-uslm-dtd:quote">and $3,500,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$3,500,000 for fiscal year 2011, and $1,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/L" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="L">(L) </num><content style="-uslm-dtd:text">in subparagraph (L) by striking “<quotedText style="-uslm-dtd:quote">and $25,000,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$25,000,000 for fiscal year 2011, and $12,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/M" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="M">(M) </num><content style="-uslm-dtd:text">in subparagraph (M) by striking “<quotedText style="-uslm-dtd:quote">and $465,000,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s136/a/2/N" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="N">(N) </num><content style="-uslm-dtd:text">in subparagraph (N) by striking “<quotedText style="-uslm-dtd:quote">and $8,800,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$8,800,000 for fiscal year 2011, and $4,400,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stC/s136/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Capital Investment Grants.—</heading><chapeau style="-uslm-dtd:text">Section 5338(c) of title 49, United States Code, is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s136/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end of paragraph (5);</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s136/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking the period at the end of paragraph (6) and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s136/b/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="7">“(7) </num><content style="-uslm-dtd:text">$800,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”</content>
+                            </paragraph></quotedContent>.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stC/s136/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Research and University Research Centers.—</heading><chapeau style="-uslm-dtd:text">Section 5338(d) of title 49, United States Code, is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s136/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (1), in the matter preceding subparagraph (A), by striking “<quotedText style="-uslm-dtd:quote">and $69,750,000 for fiscal year 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$69,750,000 for fiscal year 2011, and $29,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s136/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (2)(A) by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">2012</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s136/c/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by striking paragraph (3) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Additional authorizations. </heading>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">October 1, 2011, through march 31, 2012. </heading><content style="-uslm-dtd:text">Of amounts authorized to be appropriated for the period beginning on October 1, 2011, and ending on March 31, 2012, under paragraph (1), the Secretary shall allocate for each of the activities and projects described in subparagraphs (A) through (F) of paragraph (1) an amount equal to 50 percent of 85 percent of the amount allocated for fiscal year 2009 under each such subparagraph.</content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">University centers program. </heading>
+                                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">October 1, 2011, through march 31, 2012. </heading><content style="-uslm-dtd:text">Of the amounts allocated under subparagraph (A)(i) for the university centers program under section 5506  for the period beginning on October 1, 2011, and ending on March 31, 2012, the Secretary shall allocate for each program described in clauses (i) through (iii) and (v) through (viii) of paragraph (2)(A) an amount equal to 50 percent of 85 percent of the amount allocated for fiscal year 2009 under each such clause.</content>
+                                    </clause>
+                                    <clause style="-uslm-dtd:clause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Funding. </heading><content style="-uslm-dtd:text">If the Secretary determines that a project or activity described in paragraph (2) received sufficient funds in fiscal year 2011, or a previous fiscal year, to carry out the purpose for which the project or activity was authorized, the Secretary may not allocate any amounts under clause (i) for the project or activity for fiscal year 2012, or any subsequent fiscal year.”</content>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph></quotedContent>.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stC/s136/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Administration.—</heading><chapeau style="-uslm-dtd:text">Section 5338(e) of title 49, United States Code, is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s136/d/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end of paragraph (5);</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s136/d/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking the period at the end of paragraph (6) and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s136/d/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="7">“(7) </num><content style="-uslm-dtd:text">$49,455,500 for the period beginning on October 1, 2011, and ending on March 31, 2012.”</content>
+                            </paragraph></quotedContent>.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stC/s137" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="137">SEC. 137. </num><heading style="-uslm-dtd:header">AMENDMENTS TO SAFETEA-LU. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stC/s137/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Contracted Paratransit Pilot.—</heading><content style="-uslm-dtd:text">Section 3009(i)(1) of SAFETEA-LU (119 Stat. 1572) is amended by striking “<quotedText style="-uslm-dtd:quote">2011,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stC/s137/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Public-Private Partnership Pilot Program.—</heading><chapeau style="-uslm-dtd:text">Section 3011 of SAFETEA-LU (49 U.S.C. 5309 note; 119 Stat. 1588) is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s137/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (c)(5) by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and the period beginning on October 1, 2011, and ending on March 31, 2012</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s137/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in the second sentence of subsection (d) by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stC/s137/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Elderly Individuals and Individuals With Disabilities Pilot Program.—</heading><content style="-uslm-dtd:text">Section 3012(b)(8) of SAFETEA-LU (49 U.S.C. 5310 note; 119 Stat. 1593) is amended by striking “<quotedText style="-uslm-dtd:quote">September 30, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">March 31, 2012</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stC/s137/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Obligation Ceiling.—</heading><chapeau style="-uslm-dtd:text">Section 3040 of SAFETEA-LU (119 Stat. 1639) is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s137/d/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end of paragraph (6);</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s137/d/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking the period at the end of paragraph (7) and inserting “<quotedText style="-uslm-dtd:quote">; and</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s137/d/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="8">“(8) </num><content style="-uslm-dtd:text">$5,059,238,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, of which not more than $4,180,282,500 shall be from the Mass Transit Account.”</content>
+                            </paragraph></quotedContent>.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stC/s137/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Project Authorizations for New Fixed Guideway Capital Projects.—</heading><chapeau style="-uslm-dtd:text">Section 3043 of SAFETEA-LU (119 Stat. 1640) is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s137/e/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (b), in the matter preceding paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s137/e/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subsection (c), in the matter preceding paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stC/s137/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Allocations for National Research and Technology Programs.—</heading><chapeau style="-uslm-dtd:text">Section 3046 of SAFETEA-LU (49 U.S.C. 5338 note; 119 Stat. 1706) is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s137/f/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsection (b) by striking “<quotedText style="-uslm-dtd:quote">fiscal year</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">fiscal year or period</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s137/f/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking subsection (c) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Additional Appropriations. </heading><chapeau style="-uslm-dtd:text">The Secretary shall allocate amounts appropriated pursuant to section 5338(d) of title 49, United States Code, for national research and technology programs under sections 5312, 5314, and 5322 of such title—</chapeau>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">for each of fiscal years 2010 and 2011, in amounts equal to the amounts allocated for fiscal year 2009 under each of paragraphs (2), (3), (5), (6), and (8) through (25) of subsection (a); and</content>
+                                </paragraph>
+                                <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">for the period beginning on October 1, 2011, and ending on March 31, 2012, in amounts equal to 50 percent of 85 percent of the amounts allocated for fiscal year 2009 under each of paragraphs (2), (3), (5), (6), and (8) through (25) of subsection (a).”</content>
+                                </paragraph>
+                            </subsection></quotedContent>; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stC/s137/f/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">in subsection (d)—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s137/f/3/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">fiscal year 2010, or a previous fiscal year</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">fiscal year 2011, or a previous fiscal year</quotedText>”; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stC/s137/f/3/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">fiscal year 2011, or any subsequent fiscal year</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">fiscal year 2012, or any subsequent fiscal year</quotedText>”.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                </section>
+            </subtitle>
+            <subtitle style="-uslm-dtd:subtitle" identifier="/us/sComp/112/30/tI/stD">
+                <num style="-uslm-dtd:enum" value="D">Subtitle D—</num><heading style="-uslm-dtd:header">Highway Trust Fund Extension </heading>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stD/s141" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="141">SEC. 141. </num><heading style="-uslm-dtd:header">EXTENSION OF TRUST FUND EXPENDITURE AUTHORITY. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stD/s141/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s9503">26 U.S.C. 9503</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Highway Trust Fund.—</heading><chapeau style="-uslm-dtd:text">Section 9503 of the Internal Revenue Code of 1986 is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s141/a/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">October 1, 2011</quotedText>” in subsections (b)(6)(B), (c)(1), and (e)(3) and inserting “<quotedText style="-uslm-dtd:quote">April 1, 2012</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s141/a/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Surface Transportation Extension Act of 2011</quotedText>” in subsections (c)(1) and (e)(3) and inserting “<quotedText style="-uslm-dtd:quote">Surface Transportation Extension Act of 2011, Part II</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stD/s141/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Sport Fish Restoration and Boating Trust Fund.—</heading><chapeau style="-uslm-dtd:text">Section 9504 of such Code is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s141/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Surface Transportation Extension Act of 2011</quotedText>” each place it appears in subsection (b)(2) and inserting “<quotedText style="-uslm-dtd:quote">Surface Transportation Extension Act of 2011, Part II</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s141/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">October 1, 2011</quotedText>” in subsection (d)(2) and inserting “<quotedText style="-uslm-dtd:quote">April 1, 2012</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stD/s141/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Leaking Underground Storage Tank Trust Fund.—</heading><content style="-uslm-dtd:text">Paragraph (2) of section 9508(e) of such Code is amended by striking “<quotedText style="-uslm-dtd:quote">October 1, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">April 1, 2012</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stD/s141/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s9503">26 U.S.C. 9503 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall take effect on October 1, 2011.</content>
+                    </subsection>
+                </section>
+                <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tI/stD/s142" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="142">SEC. 142. </num><heading style="-uslm-dtd:header">EXTENSION OF HIGHWAY-RELATED TAXES. </heading>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stD/s142/a" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s142/a/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Each of the following provisions of the Internal Revenue Code of 1986 is amended by striking “<quotedText style="-uslm-dtd:quote">September 30, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">March 31, 2012</quotedText>”:</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stD/s142/a/1/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s4041">26 U.S.C. 4041</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">Section 4041(a)(1)(C)(iii)(I).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stD/s142/a/1/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Section 4041(m)(1)(B).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stD/s142/a/1/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Section 4081(d)(1).</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s142/a/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">Each of the following provisions of such Code is amended by striking “<quotedText style="-uslm-dtd:quote">October 1, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">April 1, 2012</quotedText>”:</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stD/s142/a/2/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Section 4041(m)(1)(A).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stD/s142/a/2/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Section 4051(c).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stD/s142/a/2/C" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Section 4071(d).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stD/s142/a/2/D" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">Section 4081(d)(3).</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stD/s142/b" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Extension of Tax, Etc., on Use of Certain Heavy Vehicles.—</heading><chapeau style="-uslm-dtd:text">Each of the following provisions of such Code is amended by striking “<quotedText style="-uslm-dtd:quote">2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2012</quotedText>”:</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s142/b/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Section 4481(f).</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s142/b/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Subsections (c)(4) and (d) of section 4482.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stD/s142/c" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Floor Stocks Refunds.—</heading><chapeau style="-uslm-dtd:text">Section 6412(a)(1) of such Code is amended—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s142/c/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">October 1, 2011</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">April 1, 2012</quotedText>”;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s142/c/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">March 31, 2012</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">September 30, 2012</quotedText>”; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s142/c/3" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">January 1, 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">July 1, 2012</quotedText>”.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stD/s142/d" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Extension of Certain Exemptions.—</heading><content style="-uslm-dtd:text">Sections 4221(a) and 4483(i) of such Code are each amended by striking “<quotedText style="-uslm-dtd:quote">October 1, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">April 1, 2012</quotedText>”.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stD/s142/e" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Extension of Transfers of Certain Taxes.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s142/e/1" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Section 9503 of such Code is amended—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stD/s142/e/1/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">in subsection (b)—</chapeau>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stD/s142/e/1/A/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">October 1, 2011</quotedText>” each place it appears in paragraphs (1) and (2) and inserting “<quotedText style="-uslm-dtd:quote">April 1, 2012</quotedText>”;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stD/s142/e/1/A/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">October 1, 2011</quotedText>” in the heading of paragraph (2) and inserting “<quotedText style="-uslm-dtd:quote">April 1, 2012</quotedText>”;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stD/s142/e/1/A/iii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">September 30, 2011</quotedText>” in paragraph (2) and inserting “<quotedText style="-uslm-dtd:quote">March 31, 2012</quotedText>”; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stD/s142/e/1/A/iv" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">July 1, 2012</quotedText>” in paragraph (2) and inserting “<quotedText style="-uslm-dtd:quote">January 1, 2013</quotedText>”; and</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stD/s142/e/1/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subsection (c)(2), by striking “<quotedText style="-uslm-dtd:quote">July 1, 2012</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">January 1, 2013</quotedText>”.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tI/stD/s142/e/2" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Motorboat and small-engine fuel tax transfers.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stD/s142/e/2/A" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Paragraphs (3)(A)(i) and (4)(A) of section 9503(c) of such Code are each amended by striking “<quotedText style="-uslm-dtd:quote">October 1, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">April 1, 2012</quotedText>”.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tI/stD/s142/e/2/B" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Conforming amendments to land and water conservation fund.—</heading>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stD/s142/e/2/B/i" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Section 201(b) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l-11(b)) is amended—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/30/tI/stD/s142/e/2/B/i/I" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">October 1, 2012</quotedText>” each place it appears and inserting “<quotedText style="-uslm-dtd:quote">April 1, 2013</quotedText>”; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/30/tI/stD/s142/e/2/B/i/II" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">October 1, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">April 1, 2012</quotedText>”.</content>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" identifier="/us/sComp/112/30/tI/stD/s142/e/2/B/ii" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Correction of cross references.—</heading><chapeau style="-uslm-dtd:text">Section 201 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l-11) is amended—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/30/tI/stD/s142/e/2/B/ii/I" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 9503(c)(4)(B) of the Internal Revenue Code of 1954 (relating to special motor fuels and gasoline used in motorboats)</quotedText>” in subsection (a) and inserting “<quotedText style="-uslm-dtd:quote">section 9503(c)(3)(A) of the Internal Revenue Code of 1986 (relating to transfer to Land and Water Conservation Fund)</quotedText>”; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/112/30/tI/stD/s142/e/2/B/ii/II" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">section 6412(a)(2)</quotedText>” in subsection (b)(2) and inserting “<quotedText style="-uslm-dtd:quote">section 6412</quotedText>”.</content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tI/stD/s142/f" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">(f) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t16/s460l-11">16 U.S.C. 460l-11 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall take effect on October 1, 2011.</content>
+                    </subsection>
+                </section>
+            </subtitle>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/112/30/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">EXTENSION OF AIR TRANSPORTATION PROGRAMS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s1">26 U.S.C. 1 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+                <content style="-uslm-dtd:text" class="block">This title may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Airport and Airway Extension Act of 2011, Part V</inline></shortTitle>”.</content>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tII/s202" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">EXTENSION OF TAXES FUNDING AIRPORT AND AIRWAY TRUST FUND. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s202/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s4081">26 U.S.C. 4081</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Fuel Taxes.—</heading><content style="-uslm-dtd:text">Subparagraph (B) of section 4081(d)(2) of the Internal Revenue Code of 1986 is amended by striking “<quotedText style="-uslm-dtd:quote">September 16, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">January 31, 2012</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s202/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Ticket Taxes.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s202/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Persons.—</heading><content style="-uslm-dtd:text">Clause (ii) of section 4261(j)(1)(A) of such Code is amended by striking “<quotedText style="-uslm-dtd:quote">September 16, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">January 31, 2012</quotedText>”.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s202/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Property.—</heading><content style="-uslm-dtd:text">Clause (ii) of section 4271(d)(1)(A) of such Code is amended by striking “<quotedText style="-uslm-dtd:quote">September 16, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">January 31, 2012</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s202/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s4081">26 U.S.C. 4081 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall take effect on September 17, 2011.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tII/s203" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="203">SEC. 203. </num><heading style="-uslm-dtd:header">EXTENSION OF AIRPORT AND AIRWAY TRUST FUND EXPENDITURE AUTHORITY. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s203/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Paragraph (1) of section 9502(d) of the Internal Revenue Code of 1986 is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s203/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">September 17, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 1, 2012</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s203/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">or the Airport and Airway Extension Act of 2011, Part V</quotedText>” before the semicolon at the end of subparagraph (A).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s203/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conforming Amendment.—</heading><content style="-uslm-dtd:text">Paragraph (2) of section 9502(e) of such Code is amended by striking “<quotedText style="-uslm-dtd:quote">September 17, 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 1, 2012</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s203/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t26/s9502">26 U.S.C. 9502 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall take effect on September 17, 2011.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tII/s204" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="204">SEC. 204. </num><heading style="-uslm-dtd:header">EXTENSION OF AIRPORT IMPROVEMENT PROGRAM. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s204/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s204/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Section 48103 of title 49, United States Code, is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tII/s204/a/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in paragraph (7) by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/112/30/tII/s204/a/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking paragraph (8) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="8">“(8) </num><content style="-uslm-dtd:text">$3,515,000,000 for fiscal year 2011; and</content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="9">“(9) </num><content style="-uslm-dtd:text">$1,181,270,492 for the period beginning on October 1, 2011, and ending on January 31, 2012.”</content>
+                            </paragraph></quotedContent>.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s204/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Obligation of amounts.—</heading><content style="-uslm-dtd:text">Subject to limitations specified in advance in appropriation Acts, sums made available for a portion of fiscal year 2012 pursuant to the amendment made by paragraph (1) may be obligated at any time through September 30, 2012, and shall remain available until expended.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s204/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t49/s47104">49 U.S.C. 47104</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Project Grant Authority.—</heading><content style="-uslm-dtd:text">Section 47104(c) of such title is amended by striking “<quotedText style="-uslm-dtd:quote">September 16, 2011,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">January 31, 2012,</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tII/s205" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="205">SEC. 205. </num><heading style="-uslm-dtd:header">EXTENSION OF EXPIRING AUTHORITIES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s205/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Section 40117(l)(7) of title 49, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">September 17, 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 1, 2012.</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s205/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Section 41743(e)(2) of such title is amended by striking “<quotedText style="-uslm-dtd:quote">and $35,000,000 for each of fiscal years 2004 through 2011</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$35,000,000 for each of fiscal years 2004 through 2011, and $2,016,393 for the portion of fiscal year 2012 ending before February 1, 2012,</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s205/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><chapeau style="-uslm-dtd:text">Section 44302(f)(1) of such title is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s205/c/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">September 16, 2011,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">January 31, 2012,</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s205/c/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">December 31, 2011,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">April 30, 2012,</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s205/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">Section 44303(b) of such title is amended by striking “<quotedText style="-uslm-dtd:quote">December 31, 2011,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">April 30, 2012,</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s205/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">Section 47107(s)(3) of such title is amended by striking “<quotedText style="-uslm-dtd:quote">September 17, 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">February 1, 2012.</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s205/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><content style="-uslm-dtd:text">Section 47115(j) of such title is amended by striking “<quotedText style="-uslm-dtd:quote">fiscal years 2004 through 2010, and for the portion of fiscal year 2011 ending before September 17, 2011,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">fiscal years 2004 through 2011, and for the portion of fiscal year 2012 ending before February 1, 2012,</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s205/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><content style="-uslm-dtd:text">Section 47141(f) of such title is amended by striking “<quotedText style="-uslm-dtd:quote">September 16, 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">January 31, 2012.</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s205/h" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><content style="-uslm-dtd:text">Section 49108 of such title is amended by striking “<quotedText style="-uslm-dtd:quote">September 16, 2011,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">January 31, 2012,</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s205/i" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">Section 161 of the Vision 100—Century of Aviation Reauthorization Act (49 U.S.C. 47109 note) is amended by striking “<quotedText style="-uslm-dtd:quote">fiscal year 2009 or 2010, or in the portion of fiscal year 2011 ending before September 17, 2011,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">any of fiscal years 2009 through 2011, or in the portion of fiscal year 2012 ending before February 1, 2012,</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s205/j" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="j">(j) </num><content style="-uslm-dtd:text">Section 186(d) of such Act (117 Stat. 2518) is amended by striking “<quotedText style="-uslm-dtd:quote">October 1, 2010, and for the portion of fiscal year 2011 ending before September 17, 2011,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">October 1, 2011, and for the portion of fiscal year 2012 ending before February 1, 2012,</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/112/30/tII/s205/k" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="k">(k) </num><content style="-uslm-dtd:text">Section 409(d) of such Act (49 U.S.C. 41731 note) is amended by striking “<quotedText style="-uslm-dtd:quote">September 30, 2011.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">January 31, 2012.</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tII/s206" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="206">SEC. 206. </num><heading style="-uslm-dtd:header">FEDERAL AVIATION ADMINISTRATION OPERATIONS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 106(k)(1) of title 49, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s206/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subparagraph (E) by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s206/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subparagraph (F) by striking “<quotedText style="-uslm-dtd:quote">2010.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2010;</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s206/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by inserting after subparagraph (F) the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">“(G) </num><content style="-uslm-dtd:text">$9,514,000,000 for fiscal year 2011; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">“(H) </num><content style="-uslm-dtd:text">$3,197,315,080 for the period beginning on October 1, 2011, and ending on January 31, 2012.”</content>
+                    </subparagraph></quotedContent>.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tII/s207" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="207">SEC. 207. </num><heading style="-uslm-dtd:header">AIR NAVIGATION FACILITIES AND EQUIPMENT. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 48101(a) of title 49, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s207/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (5) by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s207/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (6) by striking “<quotedText style="-uslm-dtd:quote">2010.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2010;</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s207/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">“(7) </num><content style="-uslm-dtd:text">$2,731,000,000 for fiscal year 2011; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">“(8) </num><content style="-uslm-dtd:text">$917,704,544 for the period beginning on October 1, 2011, and ending on January 31, 2012.”</content>
+                    </paragraph></quotedContent>.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tII/s208" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="208">SEC. 208. </num><heading style="-uslm-dtd:header">RESEARCH, ENGINEERING, AND DEVELOPMENT. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 48102(a) of title 49, United States Code, is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s208/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in paragraph (13) by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s208/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (14) by striking “<quotedText style="-uslm-dtd:quote">2010.</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">2010;</quotedText>”; and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/112/30/tII/s208/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="15">“(15) </num><content style="-uslm-dtd:text">$170,000,000 for fiscal year 2011; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="16">“(16) </num><content style="-uslm-dtd:text">$57,016,885 for the period beginning on October 1, 2011, and ending on January 31, 2012.”</content>
+                    </paragraph></quotedContent>.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/112/30/tII/s209" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="209">SEC. 209. </num><heading style="-uslm-dtd:header">ESSENTIAL AIR SERVICE. </heading>
+                <content style="-uslm-dtd:text" class="block">Section 41742(a)(2) of title 49, United States Code, is amended by striking “<quotedText style="-uslm-dtd:quote">there is authorized to be appropriated $77,000,000 for each fiscal year</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011 and $50,309,016 for the period beginning on October 1, 2011, and ending on January 31, 2012,</quotedText>”.</content>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>97-98 - Agriculture and Food Act of 1981</dc:title>
+        <citableAs>Public Law 97–98, as amended</citableAs>
+        <citableAs>95 Stat. 1213, as amended</citableAs>
+        <citableAsShortTitle>97-98 - Agriculture and Food Act of 1981</citableAsShortTitle>
+        <docNumber>98</docNumber>
+        <currentThroughPublicLaw>115–334</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
+        <processedDate>2024-06-14</processedDate>
+        <containsShortTitle>National Agricultural Research, Extension, and Teaching Policy Act Amendments of 1981</containsShortTitle>
+        <containsShortTitle>Agriculture and Food Act of 1981</containsShortTitle>
+        <containsShortTitle>Farmland Protection Policy Act</containsShortTitle>
+        <property role="fileId">10248</property>
+        <congress>97</congress>
+        <approvedDate>1981-12-22</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">97-98 - Agriculture and Food Act of 1981</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>P.L. 97–98</citableAs>, <citableAs>95 Stat. 1213</citableAs>, <date date="1981-12-22">Dec. 22, 1981</date>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 115–334</currentThroughPublicLaw>, Enacted <date date="2018-12-20">December 20, 2018</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 97–98. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote><editorialContent style="-uslm-dtd:table-of-contents">
+        <toc style="-uslm-dtd:toc">
+            <heading class="centered" style="-uslm-dtd:toc-entry">TABLE OF CONTENTS<ref class="footnoteRef" idref="ID56DDB19EE79E44B5897849CABB74342F" style="-uslm-dtd:footnote-ref">1–1</ref></heading><footnote id="ID56DDB19EE79E44B5897849CABB74342F" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1–1</sup><p style="-uslm-dtd:para; margin-left:1em">This table of contents is not part of the Act but is included for user convenience.</p></footnote>
+            <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1.</designator><label> Short title.</label></referenceItem>
+            <groupItem>
+                <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE I—</designator><label>DAIRY</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 106.</designator><label> Reduction of dairy product inventories.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE XI—</designator><label>MISCELLANEOUS</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1114.</designator><label> Distribution of surplus commodities; special nutrition projects.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE XII—</designator><label>AGRICULTURAL EXPORTS AND PUBLIC LAW 480</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1202.</designator><label> Congressional consultation on bilateral commodity supply agreements.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE XIV—</designator><label>NATIONAL AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING POLICY ACT AMENDMENTS OF 1981</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1401.</designator><label> Short title.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1419.</designator><label> Transfer of functions under the Second Morrill Act.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1433.</designator><label> Authority to award grants to upgrade 1890 land-grant college research facilities.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE XV—</designator><label>RESOURCE CONSERVATION</label></referenceItem>
+                <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>Subtitle G—</designator><label>Volunteers for Department of Agriculture Programs</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1526.</designator><label> Establishment of program.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1527.</designator><label> Authorization for appropriations.</label></referenceItem>
+                <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>Subtitle H—</designator><label>Resource Conservation and Development Program</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1528.</designator><label> Definitions.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1529.</designator><label> Resource conservation and development program.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1530.</designator><label> Selection of designated areas.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1531.</designator><label> Powers of the Secretary.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1532.</designator><label> Eligibility; terms and conditions.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1533.</designator><label> Resource Conservation and Development Policy Advisory Board.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1535.</designator><label> Limitation on assistance.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1536.</designator><label> Supplemental authority of the Secretary.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1537.</designator><label> Authorization of appropriations.</label></referenceItem>
+                <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>Subtitle I—</designator><label>Farmland Protection Policy Act</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1539.</designator><label> Short title.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1540.</designator><label> Findings, purpose, and definitions.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1541.</designator><label> Farmland protection policy.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1542.</designator><label> Existing policies and procedures.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1543.</designator><label> Technical assistance.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1544.</designator><label> Farmland resource information.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1545.</designator><label> Grants; contracts.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1546.</designator><label> Report.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1547.</designator><label> Statement of limitation.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1548.</designator><label> Prohibition.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1549.</designator><label> Effective date.</label></referenceItem>
+                <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>Subtitle J—</designator><label>Miscellaneous Provisions</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1550.</designator><label> Local search and rescue operations.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1551.</designator><label> Reclamation.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1552.</designator><label> Payments for land removed from production for conservation purposes.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1553.</designator><label> Conservation tillage.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1554.</designator><label> Regulations.</label></referenceItem>
+            </groupItem>
+        </toc></editorialContent>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To provide price and income protection for farmers, assure consumers of an abundance of food and fiber at reasonable prices, continue food assistance to low-income households, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula><section class="inline" role="undesignated-level" style="-uslm-dtd:section" styleType="OLC"><content style="-uslm-dtd:text"><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s1281">7 U.S.C. 1281 note</ref><b>]</b> </editorialNote>That this Act, with the following table of contents, may be cited as the “<shortTitle style="-uslm-dtd:quote">Agriculture and Food Act of 1981</shortTitle>”.</content>
+        <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided></section>
+        <title identifier="/us/sComp/97/98/tI" style="-uslm-dtd:title" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">DAIRY </heading>
+            <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+            <section identifier="/us/sComp/97/98/tI/s106" style="-uslm-dtd:section" styleType="traditional">
+                <heading style="-uslm-dtd:header">REDUCTION OF DAIRY PRODUCT INVENTORIES </heading>
+                <num style="-uslm-dtd:enum" value="106">Sec. 106. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s1446c–1">7 U.S.C. 1446c–1</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">The Secretary of Agriculture shall utilize, to the fullest extent practicable, the authorities under the Commodity Credit Corporation Charter Act (including exportation of dairy products at not less than prevailing world market prices), the Food for Peace Act (Public Law 480), and other authorities available to the Secretary to reduce inventories of dairy products held by the Commodity Credit Corporation so as to reduce net Commodity Credit Corporation expenditures to the estimated outlays for the milk price support program used in developing budget outlays under the Congressional Budget Act of 1974 for the appropriate fiscal year.</content>
+                <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+            </section>
+        </title>
+        <title identifier="/us/sComp/97/98/tXI" style="-uslm-dtd:title" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="XI">TITLE XI—</num><heading style="-uslm-dtd:header">MISCELLANEOUS </heading>
+            <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+            <section identifier="/us/sComp/97/98/tXI/s1114" style="-uslm-dtd:section" styleType="traditional">
+                <heading style="-uslm-dtd:header">DISTRIBUTION OF SURPLUS COMMODITIES; SPECIAL NUTRITION PROJECTS </heading>
+                <num style="-uslm-dtd:enum" value="1114">Sec. 1114. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s1431e">7 U.S.C. 1431e</ref><b>]</b> </editorialNote><subsection class="inline" identifier="/us/sComp/97/98/tXI/s1114/a" style="-uslm-dtd:subsection" styleType="OLC"><num style="-uslm-dtd:enum" value="a">(a)</num><paragraph class="inline" identifier="/us/sComp/97/98/tXI/s1114/a/1" style="-uslm-dtd:paragraph" styleType="OLC"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Notwithstanding any other provision of law, whenever Government stocks of commodities are acquired under the price support programs and are not likely to be sold by the Commodity Credit Corporation or otherwise used in programs of commodity sale or distribution, such commodities shall be made available without charge or credit to nutrition projects under the authority of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), to child nutrition programs providing food service, and to food banks participating in the special nutrition projects established under section 211 of the Agricultural Act of 1980. Such distribution may include bulk distribution to congregate nutrition sites and to providers of home delivered meals under the Older Americans Act of 1965. The Commodity Credit Corporation is authorized to use available funds to operate the program under this subsection and to further process products to facilitate bonus commodity use. Commodities made available under this section shall include, but not be limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal.</content></paragraph>
+                <paragraph class="leftIndentDecrease1" identifier="/us/sComp/97/98/tXI/s1114/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2)</num><subparagraph class="inline" identifier="/us/sComp/97/98/tXI/s1114/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">For each of fiscal years 2008 through 2023, whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary of Agriculture, the Secretary shall encourage consumption of such commodity through agreements with private companies under which the commodity is reprocessed into end-food products for use by eligible recipient agencies. The expense of reprocessing shall be paid by such eligible recipient agencies.</content></subparagraph>
+                    <subparagraph class="leftIndentDecrease2" identifier="/us/sComp/97/98/tXI/s1114/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">To maintain eligibility to enter into, and to continue, any agreement with the Secretary of Agriculture under subparagraph (A), a private company shall annually settle all accounts with the Secretary and any appropriate State agency regarding commodities process under such agreements.</content>
+                    </subparagraph>
+                    <subparagraph class="leftIndentDecrease2" identifier="/us/sComp/97/98/tXI/s1114/a/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Whenever commodities are made available to agencies pursuant to section 311(a)(4) of the Older Americans Act of 1965 (42 U.S.C. 3030a(a)(4)), the Secretary shall encourage access to processed end products containing the commodities when in the Secretary's judgment it is cost effective. The requirements of this subparagraph shall be met in the most efficient and effective way possible. The Secretary may, among other alternatives, use direct purchase, State option contracts authorized under section 3A of the Commodity Distribution Reform Act and WIC Amendments of 1987 (Public Law 100–237; 7 U.S.C. 612c note), State processing programs, and (beginning in fiscal year 1994) agreements with private companies operated as a part of the national commodity processing program.</content>
+                    </subparagraph>
+                    <subparagraph class="leftIndentDecrease2" identifier="/us/sComp/97/98/tXI/s1114/a/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">In each of fiscal years 1992, 1993, and 1994, the Secretary shall conduct a pilot project in not more than three States under which any commodity made available to agencies pursuant to section 311(a)(4) of the Older Americans Act of 1965 (42 U.S.C. 3030a(a)(4)) that the Secretary determines to be appropriate for reprocessing is made available to the agencies as reprocessed end products. The reprocessing shall be performed pursuant to agreements with private companies, at the expense of the agencies, and operated as part of the national commodity processing program established under subparagraph (A). In determining the appropriateness of the commodities to be reprocessed under the pilot project, the Secretary shall consider the common needs of the agencies and the availability of processors.</content>
+                    </subparagraph>
+                </paragraph></subsection>
+                <subsection identifier="/us/sComp/97/98/tXI/s1114/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">[Omitted-Amends other Act</content>
+                </subsection>
+                <subsection identifier="/us/sComp/97/98/tXI/s1114/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">[Omitted-Amends other Act</content>
+                </subsection>
+                <subsection identifier="/us/sComp/97/98/tXI/s1114/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4004a">7 U.S.C. 4004a</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">Section 4(b) of the Food and Nutrition Act of 2008 shall not apply with respect to distribution of surplus commodities under section 211 of the Agricultural Act of 1980.</content>
+                    <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/97/98/tXII" style="-uslm-dtd:title" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="XII">TITLE XII—</num><heading style="-uslm-dtd:header">AGRICULTURAL EXPORTS AND PUBLIC LAW 480 </heading>
+            <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+            <section identifier="/us/sComp/97/98/tXII/s1202" style="-uslm-dtd:section" styleType="traditional">
+                <heading style="-uslm-dtd:header">CONGRESSIONAL CONSULTATION ON BILATERAL COMMODITY SUPPLY AGREEMENTS </heading>
+                <num style="-uslm-dtd:enum" value="1202">Sec. 1202. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s1736h">7 U.S.C. 1736h</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">As soon as practicable before the Government of the United States enters into any bilateral international agreement, other than a treaty, involving a commitment on the part of the United States to assure access by a foreign country or instrumentality thereof to United States agricultural commodities or products thereof on a commercial basis, the President is encouraged to notify and consult with the appropriate committees of Congress for the purpose of setting forth in detail the terms of and reasons for negotiating such agreement.</content>
+                <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+            </section>
+        </title>
+        <title identifier="/us/sComp/97/98/tXIV" style="-uslm-dtd:title" styleType="traditional">
+            <num style="-uslm-dtd:enum" value="XIV">TITLE XIV—</num><heading style="-uslm-dtd:header">NATIONAL AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING POLICY ACT AMENDMENTS OF 1981 </heading>
+            <section identifier="/us/sComp/97/98/tXIV/s1401" style="-uslm-dtd:section" styleType="traditional">
+                <heading style="-uslm-dtd:header">short title </heading>
+                <num style="-uslm-dtd:enum" value="1401">Sec. 1401. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s3101">7 U.S.C. 3101 note</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">This title may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">National Agricultural Research, Extension, and Teaching Policy Act Amendments of 1981</inline></shortTitle>”.</content>
+                <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+            </section>
+            <section identifier="/us/sComp/97/98/tXIV/s1419" style="-uslm-dtd:section" styleType="traditional">
+                <heading style="-uslm-dtd:header">transfer of functions under the second morrill act </heading>
+                <num style="-uslm-dtd:enum" value="1419">Sec. 1419. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s321">7 U.S.C. 321 note</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">There are hereby transferred to the Secretary of Agriculture all the functions and duties of the Secretary of Education under the Act of August 30, 1890 and the tenth and eleventh paragraphs under the heading “<quotedText style="-uslm-dtd:quote">Emergency Appropriations</quotedText>” of the Act of March 4, 1907 (7 U.S.C. 321 et seq.).</content>
+                <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+            </section>
+            <section identifier="/us/sComp/97/98/tXIV/s1433" style="-uslm-dtd:section" styleType="traditional">
+                <heading style="-uslm-dtd:header">authority to award grants to upgrade 1890 land-grant college research facilities </heading>
+                <num style="-uslm-dtd:enum" value="1433">Sec. 1433. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s3223">7 U.S.C. 3223</ref><b>]</b> </editorialNote><subsection class="inline" identifier="/us/sComp/97/98/tXIV/s1433/a" style="-uslm-dtd:subsection" styleType="OLC"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">It is hereby declared to be the intent of Congress to assist the institutions eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee Institute (hereinafter referred to in this section as “<quotedText style="-uslm-dtd:quote">eligible institutions</quotedText>”), in the acquisition and improvement of research facilities and equipment, including agricultural libraries, so that eligible institutions may participate fully with the State agricultural experiment stations in a balanced attack on the research needs of the people of their States.</content></subsection>
+                <subsection identifier="/us/sComp/97/98/tXIV/s1433/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">There are authorized to be appropriated to the Secretary of Agriculture for the purpose of carrying out the provisions of this section $10,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, and September 30, 1987, such sums to remain available until expended.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/97/98/tXIV/s1433/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Four per centum of the sums appropriated pursuant to this section shall be available to the Secretary for administration of this grants program. The remaining funds shall be available for grants to the eligible institutions for the purpose of assisting them in the purchase of equipment and land, and the planning, construction, alteration, or renovation of buildings to strengthen their capacity to conduct research in the food and agricultural sciences.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/97/98/tXIV/s1433/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">Grants awarded pursuant to this section shall be made in such amounts and under such terms and conditions as the Secretary shall determine necessary for carrying out the purposes of this section.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/97/98/tXIV/s1433/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">Federal funds provided under this section may not be utilized for the payment of any overhead costs of the eligible institutions.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/97/98/tXIV/s1433/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><content style="-uslm-dtd:text">The Secretary may promulgate such rules and regulations as the Secretary may deem necessary to carry out the provisions of this section.</content>
+                    <elided style="-uslm-dtd:omitted-text">* * * * * * *</elided>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/97/98/tXV" style="-uslm-dtd:title; -uslm-dtd-nonstandard:all-cap 10 no-bold" styleType="nonstandard">
+            <num style="-uslm-dtd:enum" value="XV">TITLE XV—</num><heading style="-uslm-dtd:header">RESOURCE CONSERVATION<ref class="footnoteRef" idref="ID3FAD305AAA564D41B8479F60EDBC0076" style="-uslm-dtd:footnote-ref">1501–1</ref> </heading><footnote id="ID3FAD305AAA564D41B8479F60EDBC0076" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1501–1</sup><p style="-uslm-dtd:para; margin-left:1em">Sec. 336(f)(1) of the Federal Agriculture Improvement and Reform Act of 1996, P.L. 104–127, 110 Stat. 1007, April 4, 1996, repealed subtitles A, B, D, E, and F of this title.</p></footnote>
+            <subtitle identifier="/us/sComp/97/98/tXV/stG" style="-uslm-dtd:subtitle; -uslm-dtd-nonstandard:cap-lc 10 no-bold" styleType="nonstandard">
+                <num style="-uslm-dtd:enum" value="G">subtitle G—</num><heading style="-uslm-dtd:header">Volunteers for Department of Agriculture Programs </heading>
+                <section identifier="/us/sComp/97/98/tXV/stG/s1526" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">establishment of program </heading>
+                    <num style="-uslm-dtd:enum" value="1526">Sec. 1526.<ref class="footnoteRef" idref="IDC5D106020AB54B64827EFD328EAF57A7" style="-uslm-dtd:footnote-ref">1526–1</ref> </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s2272">7 U.S.C. 2272</ref><b>]</b> </editorialNote><subsection class="inline" identifier="/us/sComp/97/98/tXV/stG/s1526/a" style="-uslm-dtd:subsection" styleType="OLC"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Secretary of Agriculture (hereafter referred to in this subtitle as the “<quotedText style="-uslm-dtd:quote">Secretary</quotedText>”) may establish a program to use volunteers in carrying out the programs of the Department of Agriculture.</content><footnote id="IDC5D106020AB54B64827EFD328EAF57A7" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1526–1</sup><p style="-uslm-dtd:para; margin-left:1em">See Sec. 739 of P.L. 102–142, 105 Stat. 915, Oct. 28, 1991, relating to expenditure of funds by the Department of Agriculture with respect to such volunteers. (7 U.S.C. 2272a).</p></footnote></subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stG/s1526/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">The Secretary may accept, subject to regulations issued by the Office of Personnel Management, voluntary service for the Department of Agriculture for such purpose if the service:</chapeau>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stG/s1526/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">is to be without compensation; and</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stG/s1526/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">will not be used to displace any employee of the Department of Agriculture including the local, county, and State committees established under section 8(b) of the Soil Conservation and Domestic Allotment Act.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stG/s1526/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Any individual who provides voluntary service under this subtitle shall not be considered a Federal employee, except for purposes of chapter 81 of title 5, United States Code (relating to compensation for injury), and sections 2671 through 2680 of title 28, United States Code (relating to tort claims).</content>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stG/s1527" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">authorization for appropriations </heading>
+                    <num style="-uslm-dtd:enum" value="1527">Sec. 1527. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s2272">7 U.S.C. 2272 note</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subtitle, such sums to remain available until expended.</content>
+                </section>
+            </subtitle>
+            <subtitle identifier="/us/sComp/97/98/tXV/stH" style="-uslm-dtd:subtitle" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="H">Subtitle H—</num><heading style="-uslm-dtd:header">Resource Conservation and Development Program </heading>
+                <section identifier="/us/sComp/97/98/tXV/stH/s1528" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1528">SEC. 1528. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3451">16 U.S.C. 3451</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                    <subsection role="undesignated-level" style="-uslm-dtd:subsection" styleType="OLC"><chapeau style="-uslm-dtd:text">In this subtitle:</chapeau>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Area plan.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">area plan</term>” means a resource conservation and use plan developed through a locally led planning process by a council for a designated area of 1 or more States, or of land under the jurisdiction of an Indian tribe, that includes 1 or more of the following elements:</chapeau>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">A land conservation element, the purpose of which is to control erosion and sedimentation.</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">A water management element that provides 1 or more clear environmental or conservation benefits, the purpose of which is to provide for—</chapeau>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the conservation, use, and quality of water, including irrigation and rural water supplies;</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the mitigation of floods and high water tables;</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/B/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the repair and improvement of reservoirs;</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/B/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">the improvement of agricultural water management; and</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/B/v" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">the improvement of water quality.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">A community development element, the purpose of which is to improve—</chapeau>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the development of resources-based industries;</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the protection of rural industries from natural resource hazards;</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/C/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the development of adequate rural water and waste disposal systems;</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/C/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">the improvement of recreation facilities;</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/C/v" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">the improvement in the quality of rural housing;</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/C/vi" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">the provision of adequate health and education facilities;</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/C/vii" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="vii">(vii) </num><content style="-uslm-dtd:text">the satisfaction of essential transportation and communication needs; and</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/C/viii" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="viii">(viii) </num><content style="-uslm-dtd:text">the promotion of food security, economic development, and education.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">(D) </num><chapeau style="-uslm-dtd:text">A land management element, the purpose of which is—</chapeau>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/D/i" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">energy conservation, including the production of energy crops;</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/D/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the protection of agricultural land, as appropriate, from conversion to other uses;</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/D/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">farmland protection; and</content>
+                                </clause>
+                                <clause identifier="/us/sComp/97/98/tXV/stH/s1528/1/D/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">the protection of fish and wildlife habitats.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Board.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Board</term>” means the Resource Conservation and Development Policy Advisory Board established under section 1533(a).</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Council.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">council</term>” means a nonprofit entity (including an affiliate of the entity) operating in a State that is—</chapeau>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">established by volunteers or representatives of States, local units of government, Indian tribes, or local nonprofit organizations to carry out an area plan in a designated area; and</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">designated by the chief executive officer or legislature of the State to receive technical assistance and financial assistance under this subtitle.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Designated area.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">designated area</term>” means a geographic area designated by the Secretary to receive technical assistance and financial assistance under this subtitle.</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Financial assistance.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">financial assistance</term>” means a grant or loan provided by the Secretary (or the Secretary and other Federal agencies) to, or a cooperative agreement entered into by the Secretary (or the Secretary and other Federal agencies) with, a council, or association of councils, to carry out an area plan in a designated area, including assistance provided for planning, analysis, feasibility studies, training, education, and other activities necessary to carry out the area plan.</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Indian tribe.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Indian tribe</term>” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Local unit of government.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">local unit of government</term>” means—</chapeau>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/7/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any county, city, town, township, parish, village, or other general-purpose subdivision of a State; and</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/7/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any local or regional special district or other limited political subdivision of a State, including any soil conservation district, school district, park authority, and water or sanitary district.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Locally led planning process.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">planning process</term>” means actions taken by a locally led council to develop and carry out an effective area plan in a designated area, including development of the area plan, goals, purposes, policies, implementation activities, evaluations and reviews, and the opportunity for public participation in the actions.</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Nonprofit organization.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">nonprofit organization</term>” means any organization that is—</chapeau>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/9/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">described in section 501(c) of the Internal Revenue Code of 1986; and</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/9/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">exempt from taxation under section 501(a) of the Internal Revenue Code of 1986.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/10" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="10">(10) </num><heading style="-uslm-dtd:header">Project.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">project</term>” means a project that is carried out by a council to achieve any of the elements of an area plan.</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/11" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="11">(11) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Secretary</term>” means the Secretary of Agriculture.</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/12" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="12">(12) </num><heading style="-uslm-dtd:header">State.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">State</term>” means—</chapeau>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/12/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any State;</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/12/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the District of Columbia; or</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/12/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">any territory or possession of the United States.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1528/13" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="13">(13) </num><heading style="-uslm-dtd:header">Technical assistance.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">technical assistance</term>” means any service provided by the Secretary or agent of the Secretary, including—</chapeau>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/13/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">inventorying, evaluating, planning, designing, supervising, laying out, and inspecting projects;</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/13/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">providing maps, reports, and other documents associated with the services provided;</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/13/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">providing assistance for the implementation of area plans and projects; and</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1528/13/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">providing services that involve the resources of Department of Agriculture programs in a local community, as defined in the locally led planning process.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stH/s1529" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1529">SEC. 1529. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3452">16 U.S.C. 3452</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">RESOURCE CONSERVATION AND DEVELOPMENT PROGRAM. </heading>
+                    <subsection role="undesignated-level" style="-uslm-dtd:subsection" styleType="OLC"><chapeau style="-uslm-dtd:text">The Secretary shall establish a resource conservation and development program under which the Secretary shall provide technical assistance and financial assistance to councils to develop and carry out area plans and projects in designated areas—</chapeau>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1529/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">to conserve and improve the use of land, develop natural resources, and improve and enhance the social, economic, and environmental conditions in primarily rural areas of the United States; and</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1529/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">to encourage and improve the capability of State, units of government, Indian tribes, nonprofit organizations, and councils to carry out the purposes described in paragraph (1).</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stH/s1530" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1530">SEC. 1530. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3453">16 U.S.C. 3453</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SELECTION OF DESIGNATED AREAS. </heading>
+                    <content class="block" style="-uslm-dtd:text">The Secretary shall select designated areas for assistance under this subtitle on the basis of the elements of area plans.</content>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stH/s1531" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1531">SEC. 1531. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3454">16 U.S.C. 3454</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">POWERS OF THE SECRETARY. </heading>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1531/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">In carrying out this subtitle, the Secretary may—</chapeau>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1531/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">provide technical assistance to any council to assist in developing and implementing an area plan for a designated area;</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1531/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">cooperate with other departments and agencies of the Federal Government, States, local units of government, local Indian tribes, and local nonprofit organizations in conducting surveys and inventories, disseminating information, and developing area plans;</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1531/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">assist in carrying out an area plan approved by the Secretary for any designated area by providing technical assistance and financial assistance to any council; and</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1531/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">enter into agreements with councils in accordance with section 1532.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1531/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Coordinator.—</heading>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1531/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">To improve the provision of technical assistance to councils under this subtitle, the Secretary shall designate for each council an individual to be the coordinator for the council.</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1531/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Responsibility.—</heading><content style="-uslm-dtd:text">A coordinator for a council shall be directly responsible for the provision of technical assistance to the council.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stH/s1532" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1532">SEC. 1532. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3455">16 U.S.C. 3455</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ELIGIBILITY; TERMS AND CONDITIONS. </heading>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1532/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Eligibility.—</heading><chapeau style="-uslm-dtd:text">Technical assistance and financial assistance may be provided by the Secretary under this subtitle to any council to assist in carrying out a project specified in an area plan approved by the Secretary only if—</chapeau>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1532/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">the council agrees in writing—</chapeau>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1532/a/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to carry out the project; and</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stH/s1532/a/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to finance or arrange for financing of any portion of the cost of carrying out the project for which financial assistance is not provided by the Secretary under this subtitle;</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1532/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the project is included in an area plan and is approved by the council;</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1532/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the Secretary determines that assistance is necessary to carry out the area plan;</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1532/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the project provided for in the area plan is consistent with any comprehensive plan for the area;</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1532/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the cost of the land or an interest in the land acquired or to be acquired under the plan by any State, local unit of government, Indian tribe, or local nonprofit organization is borne by the State, local unit of government, Indian tribe, or local nonprofit organization, respectively; and</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1532/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">the State, local unit of government, Indian tribe, or local nonprofit organization participating in the area plan agrees to maintain and operate the project.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1532/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Loans.—</heading>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1532/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to paragraphs (2) and (3), a loan made under this subtitle shall be made on such terms and conditions as the Secretary may prescribe.</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1532/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Term.—</heading><content style="-uslm-dtd:text">A loan for a project made under this subtitle shall have a term of not more than 30 years after the date of completion of the project.</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1532/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Interest rate.—</heading><content style="-uslm-dtd:text">A loan made under this subtitle shall bear interest at the average rate of interest paid by the United States on obligations of a comparable term, as determined by the Secretary of the Treasury.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1532/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Approval by Secretary.—</heading><content style="-uslm-dtd:text">Technical assistance and financial assistance under this subtitle may not be made available to a council to carry out an area plan unless the area plan has been submitted to and approved by the Secretary.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1532/d" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Withdrawal.—</heading><content style="-uslm-dtd:text">The Secretary may withdraw technical assistance and financial assistance with respect to any area plan if the Secretary determines that the assistance is no longer necessary or that sufficient progress has not been made toward developing or implementing the elements of the area plan.</content>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stH/s1533" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1533">SEC. 1533. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3456">16 U.S.C. 3456</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">RESOURCE CONSERVATION AND DEVELOPMENT POLICY ADVISORY BOARD. </heading>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1533/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">The Secretary shall establish within the Department of Agriculture a Resource Conservation and Development Policy Advisory Board.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1533/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Composition.—</heading>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1533/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Board shall be composed of at least 7 employees of the Department of Agriculture selected by the Secretary.</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stH/s1533/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Chairperson.—</heading><content style="-uslm-dtd:text">A member of the Board shall be designated by the Secretary to serve as chairperson of the Board.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1533/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Duties.—</heading><content style="-uslm-dtd:text">The Board shall advise the Secretary regarding the administration of this subtitle, including the formulation of policies for carrying out this subtitle.</content>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stH/s1534" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1534">SEC. 1534. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3457">16 U.S.C. 3457</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">EVALUATION OF PROGRAM.<ref class="footnoteRef" idref="ID9C66F2E620AD47D3AA698D0C2B8D1594" style="-uslm-dtd:footnote-ref">1534–1</ref> </heading><footnote id="ID9C66F2E620AD47D3AA698D0C2B8D1594" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1534–1</sup><p style="-uslm-dtd:para; margin-left:1em">Sec. 2805(d) of the Food, Conservation, and Energy Act of 2008 (P.L. 110–246; 122 Stat. 1817) repealed this section.</p></footnote>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stH/s1535" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1535">SEC. 1535. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3458">16 U.S.C. 3458</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">LIMITATION ON ASSISTANCE. </heading>
+                    <content class="block" style="-uslm-dtd:text">In carrying out this subtitle, the Secretary shall provide technical assistance and financial assistance with respect to not more than 450 active designated areas.</content>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stH/s1536" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1536">SEC. 1536. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3459">16 U.S.C. 3459</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SUPPLEMENTAL AUTHORITY OF THE SECRETARY. </heading>
+                    <content class="block" style="-uslm-dtd:text">The authority of the Secretary under this subtitle to assist councils in the development and implementation of area plans shall be supplemental to, and not in lieu of, any authority of the Secretary under any other provision of law.</content>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stH/s1537" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1537">SEC. 1537. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3460">16 U.S.C. 3460</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS. </heading>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1537/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">There are authorized to be such sums as are necessary to carry out this subtitle.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1537/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Loans.—</heading><content style="-uslm-dtd:text">The Secretary shall not use more than $15,000,000 of any funds made available for a fiscal year to make loans under this subtitle.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stH/s1537/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Availability.—</heading><content style="-uslm-dtd:text">Funds appropriated to carry out this subtitle shall remain available until expended.</content>
+                    </subsection>
+                </section>
+            </subtitle>
+            <subtitle identifier="/us/sComp/97/98/tXV/stI" style="-uslm-dtd:subtitle; -uslm-dtd-nonstandard:cap-lc 10 no-bold" styleType="nonstandard">
+                <num style="-uslm-dtd:enum" value="I">subtitle I—</num><heading style="-uslm-dtd:header">Farmland Protection Policy Act </heading>
+                <section identifier="/us/sComp/97/98/tXV/stI/s1539" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">short title </heading>
+                    <num style="-uslm-dtd:enum" value="1539">Sec. 1539. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4201">7 U.S.C. 4201 note</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">This subtitle may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Farmland Protection Policy Act</inline></shortTitle>”.</content>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stI/s1540" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">findings, purpose, and definitions </heading>
+                    <num style="-uslm-dtd:enum" value="1540">Sec. 1540. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4201">7 U.S.C. 4201</ref><b>]</b> </editorialNote><subsection class="inline" identifier="/us/sComp/97/98/tXV/stI/s1540/a" style="-uslm-dtd:subsection" styleType="OLC"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">Congress finds that—</chapeau>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Nation's farmland is a unique natural resource and provides food and fiber necessary for the continued welfare of the people of the United States;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">each year, a large amount of the Nation's farmland is irrevocably converted from actual or potential agricultural use to nonagricultural use;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">continued decrease in the Nation's farmland base may threaten the ability of the United States to produce food and fiber in sufficient quantities to meet domestic needs and the demands of our export markets;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the extensive use of farmland for nonagricultural purposes undermines the economic base of many rural areas;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">Federal actions, in many cases, result in the conversion of farmland to nonagricultural uses where alternative actions would be preferred;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">the Department of Agriculture is the agency primarily responsible for the implementation of Federal policy with respect to United States farmland, assuring the maintenance of the agricultural production capacity of the United States, and has the personnel and other resources needed to implement national farmland protection policy; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/a/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">the Department of Agriculture and other Federal agencies should take steps to assure that the actions of the Federal Government do not cause United States farmland to be irreversibly converted to nonagricultural uses in cases in which other national interests do not override the importance of the protection of farmland nor otherwise outweigh the benefits of maintaining farmland resources.</content>
+                    </paragraph></subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stI/s1540/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">The purpose of this subtitle is to minimize the extent to which Federal programs contribute to the unnecessary and irreversible conversion of farmland to nonagricultural uses, and to assure that Federal programs are administered in a manner that, to the extent practicable, will be compatible with State, unit of local government, and private programs and policies to protect farmland.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stI/s1540/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><chapeau style="-uslm-dtd:text">As used in this subtitle—</chapeau>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">the term “<term style="-uslm-dtd:term">farmland</term>” includes all land defined as follows:</chapeau>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stI/s1540/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">prime farmland is land that has the best combination of physical and chemical characteristics for producing food, feed, fiber, forage, oilseed, and other agricultural crops with minimum inputs of fuel, fertilizer, pesticides, and labor, and with intolerable soil erosion, as determined by the Secretary. Prime farmland includes land that possesses the above characteristics but is being used currently to produce livestock and timber. It does not include land already in or committed to urban development or water storage;</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stI/s1540/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">unique farmland is land other than prime farmland that is used for production of specific high-value food and fiber crops, as determined by the Secretary. It has the special combination of soil quality, location, growing season, and moisture supply needed to economically produce sustained high quality or high yields of specific crops when treated and managed according to acceptable farming methods. Examples of such crops include citrus, tree nuts, olives, cranberries, fruits, and vegetables; and</content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/97/98/tXV/stI/s1540/c/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">farmland, other than prime or unique farmland, that is of statewide or local importance for the production of food, feed, fiber, forage, or oilseed crops, as determined by the appropriate State or unit of local government agency or agencies, and that the Secretary determines should be considered as farmland for the purposes of this subtitle;</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:term">State</term>” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, or any territory or possession of the United States;</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:term">unit of local government</term>” means the government of a county, municipality, town, township, village, or other unit of general government below the State level, or a combination of units of local government acting through an areawide agency under State law or an agreement for the formulation of regional development policies and plans;</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:term">Federal program</term>” means those activities or responsibilities of a department, agency, independent commission, or other unit of the Federal Government that involve (A) undertaking, financing, or assisting construction or improvement projects; or (B) acquiring, managing, or disposing of Federal lands and facilities. The term “<term style="-uslm-dtd:term">Federal program</term>” does not include construction or improvement projects that on the effective date of this subtitle are beyond the planning stage and are in either the active design or construction state; and</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stI/s1540/c/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the term “<term style="-uslm-dtd:term">Secretary</term>” means the Secretary of Agriculture.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stI/s1541" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">farmland protection policy </heading>
+                    <num style="-uslm-dtd:enum" value="1541">Sec. 1541. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4202">7 U.S.C. 4202</ref><b>]</b> </editorialNote><subsection class="inline" identifier="/us/sComp/97/98/tXV/stI/s1541/a" style="-uslm-dtd:subsection" styleType="OLC"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Department of Agriculture, in cooperation with other departments, agencies, independent commissions, and other units of the Federal Government, shall develop criteria for identifying the effects of Federal programs on the conversion of farmland to nonagricultural uses.</content></subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stI/s1541/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Departments, agencies, independent commissions, and other units of the Federal Government shall use the criteria established under subsection (a) of this section, to identify the quantity of farmland actually converted by Federal programs, and to identify and take into account the adverse effects of Federal programs on the preservation of farmland; consider alternative actions, as appropriate, that could lessen such adverse effects; and assure that such Federal programs, to the extent practicable, are compatible with State, unit of local government, and private programs and policies to protect farmland.</content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stI/s1541/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">The Department of Agriculture may make available to States, units of local government, individuals, organizations, and other units of the Federal Government information useful in restoring, maintaining, and improving the quantity and quality of farmland.</content>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stI/s1542" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">existing policies and procedures </heading>
+                    <num style="-uslm-dtd:enum" value="1542">Sec. 1542. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4203">7 U.S.C. 4203</ref><b>]</b> </editorialNote><subsection class="inline" identifier="/us/sComp/97/98/tXV/stI/s1542/a" style="-uslm-dtd:subsection" styleType="OLC"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Each department, agency, independent commission, or other unit of the Federal Government, with the assistance of the Department of Agriculture, shall review current provisions of law, administrative rules and regulations, and policies and procedures applicable to it to determine whether any provision thereof will prevent such unit of the Federal Government from taking appropriate action to comply fully with the provisions of this subtitle.</content></subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stI/s1542/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">Each department, agency, independent commission, or other unit of the Federal Government, with the assistance of the Department of Agriculture, shall, as appropriate, develop proposals for action to bring its programs, authorities, and administrative activities into conformity with the purpose and policy of this subtitle.</content>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stI/s1543" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">technical assistance </heading>
+                    <num style="-uslm-dtd:enum" value="1543">Sec. 1543. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4204">7 U.S.C. 4204</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">The Secretary is encouraged to provide technical assistance to any State or unit of local government, or any nonprofit organization, as determined by the Secretary, that desires to develop programs or policies to limit the conversion of productive farmland to nonagricultural uses.</content>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stI/s1544" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">farmland resource information </heading>
+                    <num style="-uslm-dtd:enum" value="1544">Sec. 1544. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4205">7 U.S.C. 4205</ref><b>]</b> </editorialNote><subsection class="inline" identifier="/us/sComp/97/98/tXV/stI/s1544/a" style="-uslm-dtd:subsection" styleType="OLC"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Secretary, through existing agencies or interagency groups, and in cooperation with the cooperative extension services of the States, shall design and implement educational programs and materials emphasizing the importance of productive farmland to the Nation's well-being and distribute educational materials through communications media, schools, groups, and other Federal agencies.</content></subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stI/s1544/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">The Secretary shall designate one or more farmland information centers to serve as central depositories and distribution points for information on farmland issues, policies, programs, technical principles, and innovative actions or proposals by local and State governments.</content>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stI/s1545" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">grants; contracts </heading>
+                    <num style="-uslm-dtd:enum" value="1545">Sec. 1545. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4206">7 U.S.C. 4206</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">The Secretary may carry out the purposes of this subtitle, with existing facilities and funds otherwise available, through the use of grants, contracts, or such other means as the Secretary deems appropriate.</content>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stI/s1546" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">report </heading>
+                    <num style="-uslm-dtd:enum" value="1546">Sec. 1546. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4207">7 U.S.C. 4207</ref><b>]</b> </editorialNote><chapeau style="-uslm-dtd:text">On January 1, 1987, and at the beginning of each subsequent calendar year.<ref class="footnoteRef" idref="IDF75BFD07CFAC4BBFB1FA3480455012B4" style="-uslm-dtd:footnote-ref">1546–1</ref> the Secretary of Agriculture shall report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the progress made in implementing the provisions of this subtitle. Such report shall include information on—</chapeau><footnote id="IDF75BFD07CFAC4BBFB1FA3480455012B4" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1546–1</sup><p style="-uslm-dtd:para; margin-left:1em">Sec. 1255(a) of P.L. 99–198, 99 Stat. 1518, Dec. 23, 1985, amended this sec. by striking “<quotedText style="-uslm-dtd:quote">Within one year after the enactment of this subtitle,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">On January 1, 1987, and at the beginning on each subsequent calendar year.</quotedText>”. Period at end of phrase so in law. The period should probably be replaced with a comma.</p></footnote>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stI/s1546/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the effects, if any, of Federal programs, authorities, and administrative activities with respect to the protection of United States farmland; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stI/s1546/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the results of the reviews of existing policies and procedures required under section 1542(a) of this subtitle.</content>
+                    </paragraph>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stI/s1547" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">statement of limitation </heading>
+                    <num style="-uslm-dtd:enum" value="1547">Sec. 1547. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4208">7 U.S.C. 4208</ref><b>]</b> </editorialNote><subsection class="inline" identifier="/us/sComp/97/98/tXV/stI/s1547/a" style="-uslm-dtd:subsection" styleType="OLC"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">This subtitle does not authorize the Federal Government in any way to regulate the use of private or non-Federal land, or in any way affect the property rights of owners of such land.</content></subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stI/s1547/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">None of the provisions or other requirements of this subtitle shall apply to the acquisition or use of farmland for national defense purposes during a national emergency.</content>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stI/s1548" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">prohibition </heading>
+                    <num style="-uslm-dtd:enum" value="1548">Sec. 1548. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4209">7 U.S.C. 4209</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">This subtitle shall not be deemed to provide a basis for any action, either legal or equitable, by any person or class of persons challenging a Federal project, program, or other activity that may affect farmland: <i style="-uslm-dtd:italic">Provided,</i> That the Governor of an affected State where a State policy or program exists to protect farmland may bring an action in the Federal district court of the district where a Federal program is proposed to enforce the requirements of section 1541 of this subtitle and regulations issued pursuant thereto.</content>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stI/s1549" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">effective date </heading>
+                    <num style="-uslm-dtd:enum" value="1549">Sec. 1549. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s4201">7 U.S.C. 4201 note</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">The provisions of this subtitle shall become effective six months after the date of enactment of this Act.</content>
+                </section>
+            </subtitle>
+            <subtitle identifier="/us/sComp/97/98/tXV/stJ" style="-uslm-dtd:subtitle; -uslm-dtd-nonstandard:cap-lc 10 no-bold" styleType="nonstandard">
+                <num style="-uslm-dtd:enum" value="J">subtitle J—</num><heading style="-uslm-dtd:header">Miscellaneous Provisions </heading>
+                <section identifier="/us/sComp/97/98/tXV/stJ/s1550" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">local search and rescue operations </heading>
+                    <num style="-uslm-dtd:enum" value="1550">Sec. 1550. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t7/s2273">7 U.S.C. 2273</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">The Secretary of Agriculture may assist, through the use of Soil Conservation Service personnel, vehicles, communication equipment, and other equipment or materials available to the Secretary, in local search and rescue operations when requested by responsible local public authorities. Such assistance may be provided in emergencies caused by tornadoes, fires, floods, snowstorms, earthquakes, and similar disasters.</content>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stJ/s1551" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">reclamation </heading>
+                    <num style="-uslm-dtd:enum" value="1551">Sec. 1551.<ref class="footnoteRef" idref="ID965D8A44BC504D35ACC101720D2877A8" style="-uslm-dtd:footnote-ref">1551–1</ref> </num><footnote id="ID965D8A44BC504D35ACC101720D2877A8" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1551–1</sup><p style="-uslm-dtd:para; margin-left:1em">This section amended sec. 406(d) of the Surfacing Mining Control and Reclamation Act of 1977 (30 U.S.C. 1246(d)).</p></footnote>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stJ/s1552" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">payments for land removed from production for conservation purposes </heading>
+                    <num style="-uslm-dtd:enum" value="1552">Sec. 1552. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3471">16 U.S.C. 3471</ref><b>]</b> </editorialNote><subsection class="inline" identifier="/us/sComp/97/98/tXV/stJ/s1552/a" style="-uslm-dtd:subsection" styleType="OLC"><num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">The Secretary of Agriculture may enter into contracts to provide financial assistance in the form of payments to owners and operators of cropland located in counties where the soil normally freezes to a depth of at least four inches annually who remove such land from agricultural production for a period not to exceed one year for the purpose of installing enduring conservation measures which involve excavation of the soil. The payments under such contracts shall be in such amounts as determined by the Secretary to be necessary to effectuate the purposes of this subtitle but shall not exceed an amount equal to the number of acres of cropland removed from agricultural production for such purpose multiplied by 50 per centum of the typical annual rent, as determined by the Secretary, paid for similar land in the county. Financial assistance may not be provided under this section with respect to any conservation measure without the approval of the soil and water conservation district board for the district in which the land is located, and may not, in the aggregate, be provided in any year with respect to more than one-half of 1 per centum of the cropland in any county.</content></subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stJ/s1552/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><content style="-uslm-dtd:text">There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, such sums to remain available until expended.</content>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stJ/s1553" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">conservation tillage </heading>
+                    <num style="-uslm-dtd:enum" value="1553">Sec. 1553. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3472">16 U.S.C. 3472</ref><b>]</b> </editorialNote><subsection class="inline" identifier="/us/sComp/97/98/tXV/stJ/s1553/a" style="-uslm-dtd:subsection" styleType="OLC"><num style="-uslm-dtd:enum" value="a">(a) </num><chapeau style="-uslm-dtd:text">Congress finds that—</chapeau>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stJ/s1553/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">domestic and international demand for agricultural products from the United States is great and is expected to significantly increase over the next twenty years;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stJ/s1553/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the ability of the United States to provide agricultural products to meet that demand is seriously impaired by the annual loss of five billion tons of soil due to wind and water erosion;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stJ/s1553/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the battle against soil erosion is being lost despite the annual expenditure of millions of dollars by the Federal Government on research, technical assistance, and conservation incentives to control soil erosion;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stJ/s1553/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">conservation tillage practices are estimated to reduce soil erosion by 50 to 90 per centum over conventional farming practices; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/97/98/tXV/stJ/s1553/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">conservation tillage may result in better yields, greater land use flexibility, decreased fuel use, decreased labor and equipment costs, increased retention of soil moisture, and more productive land than conventional farming practices and may be adaptable to a broad range of soil types and slopes throughout the country.</content>
+                    </paragraph></subsection>
+                    <subsection identifier="/us/sComp/97/98/tXV/stJ/s1553/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><chapeau style="-uslm-dtd:text">It is the sense of Congress that the Secretary of Agriculture should, and is hereby urged and requested to—</chapeau>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stJ/s1553/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">direct the attention of our Nation's farmers to the costs and benefits of conservation tillage as a means of controlling soil erosion and improving profitability; and</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/97/98/tXV/stJ/s1553/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">conduct a program of research designed to resolve any unanswered questions regarding the advantages and disadvantages of conservation tillage over other soil conservation practices.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/97/98/tXV/stJ/s1554" style="-uslm-dtd:section" styleType="traditional">
+                    <heading style="-uslm-dtd:header">regulations </heading>
+                    <num style="-uslm-dtd:enum" value="1554">Sec. 1554. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t16/s3473">16 U.S.C. 3473</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">The Secretary of Agriculture shall prescribe such regulations as may be necessary to carry out the provisions of this title.</content>
+                </section>
+            </subtitle>
+        </title>
+    </main>
+</statuteCompilation>

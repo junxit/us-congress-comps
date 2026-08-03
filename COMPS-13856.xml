@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Western Oregon Tribal Fairness Act</dc:title>
+        <citableAs>Public Law 115–103</citableAs>
+        <citableAsShortTitle>Western Oregon Tribal Fairness Act</citableAsShortTitle>
+        <docNumber>103</docNumber>
+        <currentThroughPublicLaw>115–103</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Western Oregon Tribal Fairness Act</containsShortTitle>
+        <property role="fileId">13856</property>
+        <congress>115</congress>
+        <approvedDate>2018-01-08</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Western Oregon Tribal Fairness Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 115–103</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 115-103. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To provide for the conveyance of certain Federal land in the State of Oregon, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/s1/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Western Oregon Tribal Fairness Act</shortTitle>”.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/s1/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents for this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>COW CREEK UMPQUA LAND CONVEYANCE</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Definitions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Land to be held in trust.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Map and legal description.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Administration.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 105.</designator><label> Land reclassification.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>OREGON COASTAL LAND CONVEYANCE</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> Definitions.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> Land to be held in trust.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 203.</designator><label> Map and legal description.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 204.</designator><label> Administration.</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 205.</designator><label> Land reclassification.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE III—</designator><label>AMENDMENTS TO COQUILLE RESTORATION ACT</label></referenceItem>
+                    <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 301.</designator><label> Amendments to Coquille Restoration Act.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/115/103/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">COW CREEK UMPQUA LAND CONVEYANCE </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/tI/s101" styleType="OLC" role="definitions">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">In this title:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s101/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Council creek land.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Council Creek land</term>” means the approximately 17,519 acres of land, as generally depicted on the map entitled “<term style="-uslm-dtd:quote">Canyon Mountain Land Conveyance</term>” and dated May 24, 2016.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s101/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Tribe.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Tribe</term>” means the Cow Creek Band of Umpqua Tribe of Indians.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s101/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Secretary</term>” means the Secretary of the Interior.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/tI/s102" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">LAND TO BE HELD IN TRUST. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s102/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Subject to valid existing rights, including rights-of-way, all right, title, and interest of the United States  in and to the Council Creek land, including any improvements located on the land, appurtenances to the land, and minerals on or in the land, including oil and gas, shall be—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s102/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">held in trust by the United States for the benefit of the Tribe; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s102/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">part of the reservation of the Tribe.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s102/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Survey.—</heading><content style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the Secretary shall complete a survey to establish the boundaries of the land taken into trust under subsection (a).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s102/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">Subsection (a) shall take effect on the day after the date on which the Secretary records the agreement entered into under section 104(d)(1).</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/tI/s103" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">MAP AND LEGAL DESCRIPTION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s103/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">As soon as practicable after the date of enactment of this Act, the Secretary shall file a map and legal description of the Council Creek land with—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s103/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Committee on Energy and Natural Resources of the Senate; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s103/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the Committee on Natural Resources of the House of Representatives.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s103/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Force and Effect.—</heading><content style="-uslm-dtd:text">The map and legal description filed under subsection (a) shall have the same force and effect as if included in this title, except that the Secretary may correct any clerical or typographical errors in the map or legal description.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s103/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Public Availability.—</heading><content style="-uslm-dtd:text">The map and legal description filed under subsection (a) shall be on file and available for public inspection in the Office of the Secretary.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/tI/s104" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">ADMINISTRATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s104/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Unless expressly provided in this title, nothing in this title affects any right or claim of the Tribe existing on the date of enactment of this Act to any land or interest in land.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s104/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Prohibitions.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s104/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Exports of unprocessed logs.—</heading><content style="-uslm-dtd:text">Federal law (including regulations) relating to the export of unprocessed logs harvested from Federal land shall apply to any unprocessed logs that are harvested from the Council Creek land.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s104/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Non-permissible use of land.—</heading><content style="-uslm-dtd:text">Any real property taken into trust under section 102 shall not be eligible, or used, for any gaming activity carried out under Public Law 100-497 (25 U.S.C. 2701 et seq.).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s104/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Forest Management.—</heading><content style="-uslm-dtd:text">Any forest management activity that is carried out on the Council Creek land shall be managed in accordance with all applicable Federal laws.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s104/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Agreements.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s104/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Memorandum of agreement for administrative access.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Secretary shall seek to enter into an agreement with the Tribe that secures existing administrative access by the Secretary to the Council Creek land.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s104/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Reciprocal right-of-way agreements.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/103/tI/s104/d/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">On the date on which the agreement is entered into under paragraph (1), the Secretary shall provide to the Tribe all reciprocal right-of-way agreements to the Council Creek land in existence as of the date of enactment of this Act.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/103/tI/s104/d/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Continued access.—</heading><content style="-uslm-dtd:text">Beginning on the date on which the Council Creek land is taken into trust under section 102, the Tribe shall continue the access provided by the agreements referred to in subparagraph (A) in perpetuity.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s104/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Land Use Planning Requirements.—</heading><content style="-uslm-dtd:text">Except as provided in subsection (c), once the Council Creek land is taken into trust under section 102, the Council Creek land shall not be subject to the land use planning requirements of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) or the Act of August 28, 1937 (43 U.S.C. 1181a et seq.).</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/tI/s105" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><heading style="-uslm-dtd:header">LAND RECLASSIFICATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s105/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Identification of Oregon and California Railroad Grant Land.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Secretary of Agriculture and the Secretary shall identify any Oregon and California Railroad grant land that is held in trust by the United States for the benefit of the Tribe under section 102.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s105/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Identification of Public Domain Land.—</heading><chapeau style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the Secretary shall identify public domain land in the State of Oregon that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s105/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">is approximately equal in acreage and condition as the Oregon and California Railroad grant land identified under subsection (a); and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s105/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">is located within the 18 western Oregon and California Railroad grant land counties (other than Klamath County, Oregon).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s105/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Maps.—</heading><content style="-uslm-dtd:text">Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to Congress and publish in the Federal Register one or more maps depicting the land identified in subsections (a) and (b).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tI/s105/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Reclassification.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s105/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">After providing an opportunity for public comment, the Secretary shall reclassify the land identified in subsection (b) as Oregon and California Railroad grant land.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tI/s105/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Applicability.—</heading><content style="-uslm-dtd:text">The Act of August 28, 1937 (43 U.S.C. 1181a et seq.), shall apply to land reclassified as Oregon and California Railroad grant land under paragraph (1).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/115/103/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">OREGON COASTAL LAND CONVEYANCE </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/tII/s201" styleType="OLC" role="definitions">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">In this title:</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s201/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Confederated tribes.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Confederated Tribes</term>” means the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s201/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Oregon coastal land.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Oregon Coastal land</term>” means the approximately 14,742 acres of land, as generally depicted on the map entitled “<term style="-uslm-dtd:quote">Oregon Coastal Land Conveyance</term>” and dated July 11, 2016.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s201/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Secretary</term>” means the Secretary of the Interior.</content>
+                </paragraph>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/tII/s202" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">LAND TO BE HELD IN TRUST. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s202/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Subject to valid existing rights, including rights-of-way, all right, title, and interest of the United States in and to the Oregon Coastal land, including any improvements located on the land, appurtenances to the land, and minerals on or in the land, including oil and gas, shall be—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s202/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">held in trust by the United States for the benefit of the Confederated Tribes; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s202/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">part of the reservation of the Confederated Tribes.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s202/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Survey.—</heading><content style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the Secretary shall complete a survey to establish the boundaries of the land taken into trust under subsection (a).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s202/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">Subsection (a) shall take effect on the day after the date on which the Secretary records the agreement entered into under section 204(d)(1).</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/tII/s203" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="203">SEC. 203. </num><heading style="-uslm-dtd:header">MAP AND LEGAL DESCRIPTION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s203/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">As soon as practicable after the date of enactment of this Act, the Secretary shall file a map and legal description of the Oregon Coastal land with—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s203/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Committee on Energy and Natural Resources of the Senate; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s203/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the Committee on Natural Resources of the House of Representatives.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s203/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Force and Effect.—</heading><content style="-uslm-dtd:text">The map and legal description filed under subsection (a) shall have the same force and effect as if included in this title, except that the Secretary may correct any clerical or typographical errors in the map or legal description.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s203/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Public Availability.—</heading><content style="-uslm-dtd:text">The map and legal description filed under subsection (a) shall be on file and available for public inspection in the Office of the Secretary.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/tII/s204" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="204">SEC. 204. </num><heading style="-uslm-dtd:header">ADMINISTRATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s204/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Unless expressly provided in this title, nothing in this title affects any right or claim of the Confederated Tribes existing on the date of enactment of this Act to any land or interest in land.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s204/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Prohibitions.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s204/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Exports of unprocessed logs.—</heading><content style="-uslm-dtd:text">Federal law (including regulations) relating to the export of unprocessed logs harvested from Federal land shall apply to any unprocessed logs that are harvested from the Oregon Coastal land taken into trust under section 202.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s204/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Non-permissible use of land.—</heading><content style="-uslm-dtd:text">Any real property taken into trust under section 202 shall not be eligible, or used, for any gaming activity carried out under Public Law 100-497 (25 U.S.C. 2701 et seq.).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s204/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Forest Management.—</heading><content style="-uslm-dtd:text">Any forest management activity that is carried out on the Oregon Coastal land shall be managed in accordance with all applicable Federal laws.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s204/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Agreements.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s204/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Memorandum of agreement for administrative access.—</heading><chapeau style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Secretary shall seek to enter into an agreement with the Confederated Tribes that secures existing administrative access by the Secretary to the Oregon Coastal land and that provides for—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/103/tII/s204/d/1/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">access for certain activities, including—</chapeau>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/103/tII/s204/d/1/A/i" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">forest management;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/103/tII/s204/d/1/A/ii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">timber and rock haul;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/103/tII/s204/d/1/A/iii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">road maintenance;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/103/tII/s204/d/1/A/iv" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">wildland fire protection and management;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/103/tII/s204/d/1/A/v" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">cadastral surveys;</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/103/tII/s204/d/1/A/vi" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">wildlife, cultural, and other surveys; and</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" identifier="/us/sComp/115/103/tII/s204/d/1/A/vii" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vii">(vii) </num><content style="-uslm-dtd:text">law enforcement activities;</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/103/tII/s204/d/1/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the management of the Oregon Coastal land that is acquired or developed under chapter 2003 of title 54, United States Code, consistent with section 200305(f)(3) of that title; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/103/tII/s204/d/1/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the terms of public vehicular transit across the Oregon Coastal land to and from the Hult Log Storage Reservoir located in T. 15 S., R. 7 W., as generally depicted on the map described in section 201(2), subject to the requirement that if the Bureau of Land Management discontinues maintenance of the public recreation site known as “<quotedText style="-uslm-dtd:quote">Hult Reservoir</quotedText>”, the terms of any agreement in effect on that date that provides for public vehicular transit to and from the Hult Log Storage Reservoir shall be void.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s204/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Reciprocal right-of-way agreements.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/103/tII/s204/d/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">On the date on which the agreement is entered into under paragraph (1), the Secretary shall provide to the Confederated Tribes all reciprocal right-of-way agreements to the Oregon Coastal land in existence on the date of enactment of this Act.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/115/103/tII/s204/d/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Continued access.—</heading><content style="-uslm-dtd:text">Beginning on the date on which the Oregon Coastal land is taken into trust under section 202, the Confederated Tribes shall continue the access provided by the reciprocal right-of-way agreements referred to in subparagraph (A) in perpetuity.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s204/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Land Use Planning Requirements.—</heading><content style="-uslm-dtd:text">Except as provided in subsection (c), once the Oregon Coastal land is taken into trust under section 202, the Oregon Coastal land shall not be subject to the land use planning requirements of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) or the Act of August 28, 1937 (43 U.S.C. 1181a et seq.).</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/tII/s205" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="205">SEC. 205. </num><heading style="-uslm-dtd:header">LAND RECLASSIFICATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s205/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Identification of Oregon and California Railroad Grant Land.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, the Secretary of Agriculture and the Secretary shall identify any Oregon and California Railroad grant land that is held in trust by the United States for the benefit of the Confederated Tribes under section 202.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s205/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Identification of Public Domain Land.—</heading><chapeau style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the Secretary shall identify public domain land in the State of Oregon that—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s205/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">is approximately equal in acreage and condition as the Oregon and California Railroad grant land identified under subsection (a); and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s205/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">is located within the 18 western Oregon and California Railroad grant land counties (other than Klamath County, Oregon).</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s205/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Maps.—</heading><content style="-uslm-dtd:text">Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to Congress and publish    in the Federal Register one or more maps depicting the land identified in subsections (a) and (b).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/115/103/tII/s205/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Reclassification.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s205/d/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">After providing an opportunity for public comment, the Secretary shall reclassify the land identified in subsection (b) as Oregon and California Railroad grant land.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tII/s205/d/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Applicability.—</heading><content style="-uslm-dtd:text">The Act of August 28, 1937 (43 U.S.C. 1181a et seq.), shall apply to land reclassified as Oregon and California Railroad grant land under paragraph (1).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/115/103/tIII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">AMENDMENTS TO COQUILLE RESTORATION ACT </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/115/103/tIII/s301" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t25/s715c">25 U.S.C. 715c</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">AMENDMENTS TO COQUILLE RESTORATION ACT. </heading>
+                <chapeau style="-uslm-dtd:text" class="block">Section 5(d) of the Coquille Restoration Act (Public Law 101-42; 103 Stat. 92, 110 Stat. 3009-537) is amended—</chapeau>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tIII/s301/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking paragraph (5) and inserting the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">“(5) </num><heading style="-uslm-dtd:header">Management.—</heading>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to subparagraph (B), the Secretary, acting through the Assistant Secretary for Indian Affairs, shall manage the Coquille Forest in accordance with the laws pertaining to the management of Indian trust land.</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Administration.—</heading>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">Unprocessed logs.—</heading><content style="-uslm-dtd:text">Unprocessed logs harvested from the Coquille Forest shall be subject to the same Federal statutory restrictions on export to foreign nations that apply to unprocessed logs harvested from Federal land.</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Sales of timber.—</heading><content style="-uslm-dtd:text">Notwithstanding any other provision of law, all sales of timber from land subject to this subsection shall be advertised, offered, and awarded according to competitive bidding practices, with sales being awarded to the highest responsible bidder.”</content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph></quotedContent>;</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tIII/s301/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking paragraph (9); and</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/115/103/tIII/s301/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by redesignating paragraphs (10) through (12) as paragraphs (9) through (11), respectively.</content>
+                </paragraph>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

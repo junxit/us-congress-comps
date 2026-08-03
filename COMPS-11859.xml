@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Integrated Public Alert and Warning System Modernization Act of 2015</dc:title>
+        <citableAs>Public Law 114–143</citableAs>
+        <citableAsShortTitle>Integrated Public Alert and Warning System Modernization Act of 2015</citableAsShortTitle>
+        <docNumber>143</docNumber>
+        <currentThroughPublicLaw>114–143</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Integrated Public Alert and Warning System Modernization Act of 2015</containsShortTitle>
+        <property role="fileId">11859</property>
+        <congress>114</congress>
+        <approvedDate>2016-04-11</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">Integrated Public Alert and Warning System Modernization Act of 2015</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 114–143</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[This law has not been amended]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 114-143. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend the Homeland Security Act of 2002 to direct the Administrator of the Federal Emergency Management Agency to modernize the integrated public alert and warning system of the United States, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</enactingFormula>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/143/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s101">6 U.S.C. 101 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content style="-uslm-dtd:text" class="block">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Integrated Public Alert and Warning System Modernization Act of 2015</shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/114/143/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">INTEGRATED PUBLIC ALERT AND WARNING SYSTEM MODERNIZATION. </heading>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/143/s2/a" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="526">“SEC. 526. </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s3210">6 U.S.C. 3210</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">INTEGRATED PUBLIC ALERT AND WARNING SYSTEM MODERNIZATION </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">To provide timely and effective warnings regarding natural disasters, acts of terrorism, and other man-made disasters or threats to public safety, the Administrator shall—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">modernize the integrated public alert and warning system of the United States (in this section referred to as the ‘<quotedText style="-uslm-dtd:quote">public alert and warning system</quotedText>’) to help ensure that under all conditions the President and, except to the extent the public alert and warning system is in use by the President, Federal agencies and State, tribal, and local governments can alert and warn the civilian population in areas endangered by natural disasters, acts of terrorism, and other man-made disasters or threats to public safety; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">implement the public alert and warning system to disseminate timely and effective warnings regarding natural disasters, acts of terrorism, and other man-made disasters or threats to public safety.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Implementation Requirements.—</heading><chapeau style="-uslm-dtd:text">In carrying out subsection (a), the Administrator shall—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">establish or adopt, as appropriate, common alerting and warning protocols, standards, terminology, and operating procedures for the public alert and warning system;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">include in the public alert and warning system the capability to adapt the distribution and content of communications on the basis of geographic location, risks, and multiple communication systems and technologies, as appropriate and to the extent technically feasible;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><content style="-uslm-dtd:text">include in the public alert and warning system the capability to alert, warn, and provide equivalent information to individuals with disabilities, individuals with access and functional needs, and individuals with limited-English proficiency, to the extent technically feasible;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><chapeau style="-uslm-dtd:text">ensure that training, tests, and exercises are conducted for the public alert and warning system, including by—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">incorporating the public alert and warning system into other training and exercise programs of the Department, as appropriate;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">establishing and integrating into the National Incident Management System a comprehensive and periodic training program to instruct and educate Federal, State, tribal, and local government officials in the use of the Common Alerting Protocol enabled Emergency Alert System; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">conducting, not less than once every 3 years, periodic nationwide tests of the public alert and warning system;</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">to the extent practicable, ensure that the public alert and warning system is resilient and secure and can withstand acts of terrorism and other external attacks;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">“(6) </num><content style="-uslm-dtd:text">conduct public education efforts so that State, tribal, and local governments, private entities, and the people of the United States reasonably understand the functions of the public alert and warning system and how to access, use, and respond to information from the public alert and warning system through a general market awareness campaign;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="7">“(7) </num><content style="-uslm-dtd:text">consult, coordinate, and cooperate with the appropriate private sector entities and Federal, State, tribal, and local governmental authorities, including the Regional Administrators and emergency response providers;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="8">“(8) </num><content style="-uslm-dtd:text">consult and coordinate with the Federal Communications Commission, taking into account rules and regulations promulgated by the Federal Communications Commission; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="9">“(9) </num><content style="-uslm-dtd:text">coordinate with and consider the recommendations of the Integrated Public Alert and Warning System Subcommittee established under section 2(b) of the Integrated Public Alert and Warning System Modernization Act of 2015.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">System Requirements.—</heading><chapeau style="-uslm-dtd:text">The public alert and warning system shall—</chapeau>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">to the extent determined appropriate by the Administrator, incorporate multiple communications technologies;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">be designed to adapt to, and incorporate, future technologies for communicating directly with the public;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><chapeau style="-uslm-dtd:text">to the extent technically feasible, be designed—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">to provide alerts to the largest portion of the affected population feasible, including nonresident visitors and tourists, individuals with disabilities, individuals with access and functional needs, and individuals with limited-English proficiency; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">to improve the ability of remote areas to receive alerts;</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><content style="-uslm-dtd:text">promote local and regional public and private partnerships to enhance community preparedness and response;</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="5">“(5) </num><content style="-uslm-dtd:text">provide redundant alert mechanisms where practicable so as to reach the greatest number of people; and</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">“(6) </num><content style="-uslm-dtd:text">to the extent feasible, include a mechanism to ensure the protection of individual privacy.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Use of System.—</heading><content style="-uslm-dtd:text">Except to the extent necessary for testing the public alert and warning system, the public alert and warning system shall not be used to transmit a message that does not relate to a natural disaster, act of terrorism, or other man-made disaster or threat to public safety.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Performance Reports.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date of enactment of the Integrated Public Alert and Warning System Modernization Act of 2015, and annually thereafter through 2018, the Administrator shall make available on the public website of the Agency a performance report, which shall—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">establish performance goals for the implementation of the public alert and warning system by the Agency;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><chapeau style="-uslm-dtd:text">describe the performance of the public alert and warning system, including—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">the type of technology used for alerts and warnings issued under the system;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">the measures taken to alert, warn, and provide equivalent information to individuals with disabilities, individuals with access and function needs, and individuals with limited-English proficiency; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">the training, tests, and exercises performed and the outcomes obtained by the Agency;</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">identify significant challenges to the effective operation of the public alert and warning system and any plans to address these challenges;</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">identify other necessary improvements to the system; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">provide an analysis comparing the performance of the public alert and warning system with the performance goals established under subparagraph (A).</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Congress.—</heading><content style="-uslm-dtd:text">The Administrator shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives each report required under paragraph (1).”</content>
+                        </paragraph>
+                    </subsection>
+                </section></quotedContent>.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/143/s2/b" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Integrated Public Alert and Warning System Subcommittee.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/143/s2/b/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">Not later than 90 days after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency (in this subsection referred to as the “<quotedText style="-uslm-dtd:quote">Administrator</quotedText>”) shall establish a subcommittee to the National Advisory Council established under section 508 of the Homeland Security Act of 2002 (6 U.S.C. 318) to be known as the Integrated Public Alert and Warning System Subcommittee (in this subsection referred to as the “<quotedText style="-uslm-dtd:quote">Subcommittee</quotedText>”).</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/143/s2/b/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Membership.—</heading><chapeau style="-uslm-dtd:text">Notwithstanding section 508(c) of the Homeland Security Act of 2002 (6 U.S.C. 318(c)), the Subcommittee shall be composed of the following members (or their designees):</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The Deputy Administrator for Protection and National Preparedness of the Federal Emergency Management Agency.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The Chairman of the Federal Communications Commission.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">The Administrator of the National Oceanic and Atmospheric Administration of the Department of Commerce.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">The Assistant Secretary for Communications and Information of the Department of Commerce.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">The Under Secretary for Science and Technology of the Department of Homeland Security.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/2/F" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">The Under Secretary for the National Protection and Programs Directorate.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/2/G" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">The Director of Disability Integration and Coordination of the Federal Emergency Management Agency.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/2/H" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">The Chairperson of the National Council on Disability.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/2/I" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">Qualified individuals appointed by the Administrator as soon as practicable after the date of enactment of this Act from among the following:</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/b/2/I/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">Representatives of State and local governments, representatives of emergency management agencies, and representatives of emergency response providers.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/b/2/I/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">Representatives from federally recognized Indian tribes and national Indian organizations.</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/b/2/I/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><chapeau style="-uslm-dtd:text">Individuals who have the requisite technical knowledge and expertise to serve on the Subcommittee, including representatives of—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/2/I/iii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">communications service providers;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/2/I/iii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">vendors, developers, and manufacturers of systems, facilities, equipment, and capabilities for the provision of communications services;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/2/I/iii/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">third-party service bureaus;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/2/I/iii/IV" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">the broadcasting industry, including public broadcasting;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/2/I/iii/V" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="V">(V) </num><content style="-uslm-dtd:text">the commercial mobile radio service industry;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/2/I/iii/VI" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VI">(VI) </num><content style="-uslm-dtd:text">the cable industry;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/2/I/iii/VII" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VII">(VII) </num><content style="-uslm-dtd:text">the satellite industry;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/2/I/iii/VIII" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VIII">(VIII) </num><content style="-uslm-dtd:text">national organizations representing individuals with disabilities, the blind, deaf, and hearing-loss communities, individuals with access and functional needs, and the elderly;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/2/I/iii/IX" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IX">(IX) </num><content style="-uslm-dtd:text">consumer or privacy advocates; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/2/I/iii/X" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="X">(X) </num><content style="-uslm-dtd:text">organizations representing individuals with limited-English proficiency.</content>
+                            </subclause>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/b/2/I/iv" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">Qualified representatives of such other stakeholders and interested and affected parties as the Administrator considers appropriate.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/143/s2/b/3" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Chairperson.—</heading><content style="-uslm-dtd:text">The Deputy Administrator for Protection and National Preparedness of the Federal Emergency Management Agency shall serve as the Chairperson of the Subcommittee.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/143/s2/b/4" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Meetings.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/4/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Initial meeting.—</heading><content style="-uslm-dtd:text">The initial meeting of the Subcommittee shall take place not later than 120 days after the date of enactment of this Act.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/4/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Other meetings.—</heading><content style="-uslm-dtd:text">After the initial meeting, the Subcommittee shall meet, at least annually, at the call of the Chairperson.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/143/s2/b/5" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Consultation with nonmembers.—</heading><chapeau style="-uslm-dtd:text">The Subcommittee and the program offices for the integrated public alert and warning system for the United States shall consult with individuals and entities that are not represented on the Subcommittee to consider new and developing technologies that may be beneficial to the public alert and warning system, including—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/5/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Defense Advanced Research Projects Agency;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/5/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">entities engaged in federally funded research; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/5/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">academic institutions engaged in relevant work and research.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/143/s2/b/6" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Recommendations.—</heading><chapeau style="-uslm-dtd:text">The Subcommittee shall—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/6/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">develop recommendations for an integrated public alert and warning system; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/6/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">in developing the recommendations under subparagraph (A), consider—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/b/6/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">recommendations for common alerting and warning protocols, standards, terminology, and operating procedures for the public alert and warning system; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/b/6/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">recommendations to provide for a public alert and warning system that—</chapeau>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/6/B/ii/I" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">has the capability to adapt the distribution and content of communications on the basis of geographic location, risks, or personal user preferences, as appropriate;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/6/B/ii/II" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">has the capability to alert and warn individuals with disabilities and individuals with limited-English proficiency;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/6/B/ii/III" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">to the extent appropriate, incorporates multiple communications technologies;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/6/B/ii/IV" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">is designed to adapt to, and incorporate, future technologies for communicating directly with the public;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/6/B/ii/V" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="V">(V) </num><content style="-uslm-dtd:text">is designed to provide alerts to the largest portion of the affected population feasible, including nonresident visitors and tourists, and improve the ability of remote areas to receive alerts;</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/6/B/ii/VI" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VI">(VI) </num><content style="-uslm-dtd:text">promotes local and regional public and private partnerships to enhance community preparedness and response; and</content>
+                            </subclause>
+                            <subclause style="-uslm-dtd:subclause" identifier="/us/sComp/114/143/s2/b/6/B/ii/VII" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="VII">(VII) </num><content style="-uslm-dtd:text">provides redundant alert mechanisms, if practicable, to reach the greatest number of people regardless of whether they have access to, or use, any specific medium of communication or any particular device.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/143/s2/b/7" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Report.—</heading>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/7/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Subcommittee submission.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Subcommittee shall submit to the National Advisory Council a report containing any recommendations required to be developed    under paragraph (6) for approval by the National Advisory Council.</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/b/7/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Submission by national advisory council.—</heading><chapeau style="-uslm-dtd:text">If the National Advisory Council approves the recommendations contained in the report submitted under subparagraph (A), the National Advisory Council shall submit the report to—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/b/7/B/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the head of each agency represented on the Subcommittee;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/b/7/B/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate; and</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/b/7/B/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives.</content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/143/s2/b/8" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Termination.—</heading><content style="-uslm-dtd:text">The Subcommittee shall terminate not later than 3 years after the date of enactment of this Act.</content>
+                </paragraph>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/143/s2/c" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">There are authorized to be appropriated to carry out this Act and the amendments made by this Act such sums as may be necessary for each of fiscal years 2016, 2017, and 2018.</content>
+            </subsection>
+            <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/114/143/s2/d" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote style="-uslm-dtd:usc-reference" role="uscRef"><b>[</b><ref href="/us/usc/t6/s3210">6 U.S.C. 3210 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Limitations on Statutory Construction.—</heading>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/143/s2/d/1" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Definition.—</heading><content style="-uslm-dtd:text">In this subsection, the term “<quotedText style="-uslm-dtd:quote">participating commercial mobile service provider</quotedText>” has the meaning given that term under section 10.10(f) of title 47, Code of Federal Regulations, as in effect on the date of enactment of this Act.</content>
+                </paragraph>
+                <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/114/143/s2/d/2" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Limitations.—</heading><chapeau style="-uslm-dtd:text">Nothing in this Act, including an amendment made by this Act, shall be construed—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/d/2/A" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">to affect any authority—</chapeau>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/d/2/A/i" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">of the Department of Commerce;</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/d/2/A/ii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">of the Federal Communications Commission; or</content>
+                        </clause>
+                        <clause style="-uslm-dtd:clause" identifier="/us/sComp/114/143/s2/d/2/A/iii" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">provided under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.);</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/d/2/B" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to provide the Secretary of Homeland Security with authority to require any action by the Department of Commerce, the Federal Communications Commission, or any nongovernmental entity;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/d/2/C" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to apply to, or to provide the Administrator of the Federal Emergency Management Agency with authority over, any participating commercial mobile service provider;</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/d/2/D" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">to alter in any way the wireless emergency alerts service established under the Warning, Alert, and Response Network Act (47 U.S.C. 1201 et seq.) or any related orders issued by the Federal Communications Commission after October 13, 2006; or</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/114/143/s2/d/2/E" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">to provide the Federal Emergency Management Agency with authority to require a State or local jurisdiction to use the integrated public alert and warning system of the United States.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

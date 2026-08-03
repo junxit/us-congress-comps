@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>National Quantum Initiative Act</dc:title>
+        <citableAs>Public Law 115–368, as amended</citableAs>
+        <citableAsShortTitle>National Quantum Initiative Act</citableAsShortTitle>
+        <docNumber>368</docNumber>
+        <currentThroughPublicLaw>117–167</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
+        <processedDate>2025-08-21</processedDate>
+        <containsShortTitle>National Quantum Initiative Act</containsShortTitle>
+        <property role="fileId">15322</property>
+        <congress>115</congress>
+        <approvedDate>2018-12-21</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">National Quantum Initiative Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 115–368</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 117–167</currentThroughPublicLaw>, Enacted <date date="2022-08-09">August 9, 2022</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 115-368. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To provide for a coordinated Federal program to accelerate quantum research and development for the economic and national security of the United States.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/115/368/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8801">15 U.S.C. 8801 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection identifier="/us/sComp/115/368/s1/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">National Quantum Initiative Act</shortTitle>”.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/115/368/s1/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents of this Act is as follows:<toc style="-uslm-dtd:toc">
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 2.</designator><label> Definitions.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 3.</designator><label> Purposes.</label></referenceItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE I—</designator><label>NATIONAL QUANTUM INITIATIVE</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 101.</designator><label> National Quantum Initiative Program.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 102.</designator><label> National Quantum Coordination Office.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 103.</designator><label> Subcommittee on Quantum Information Science.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 104.</designator><label> National Quantum Initiative Advisory Committee.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>105.</designator><label><ref class="footnoteRef" idref="IDEC5608906B7C44D5B0729A3EA48CFF81" style="-uslm-dtd:footnote-ref">1</ref> Subcommittee on the Economic and Security Implications of Quantum Information Science. </label></referenceItem><footnote id="IDEC5608906B7C44D5B0729A3EA48CFF81" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">So in law. The items relating to sections 105 and 106 of the National Quantum Initiative Act, as amended by section 6606(d) of division F of Public Law 117–81, should include “<quotedText style="-uslm-dtd:quote">Sec.</quotedText>” at the beginning of such items. </p></footnote>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>106.</designator><label><ref class="footnoteRef" style="-uslm-dtd:dangling-footnote-ref">1</ref> Sunset.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE II—</designator><label>NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY QUANTUM ACTIVITIES</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 201.</designator><label> National Institute of Standards and Technology activities and quantum consortium.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE III—</designator><label>NATIONAL SCIENCE FOUNDATION QUANTUM ACTIVITIES</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 301.</designator><label> Quantum information science research and education program.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 302.</designator><label> Multidisciplinary Centers for Quantum Research and Education.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE IV—</designator><label>DEPARTMENT OF ENERGY QUANTUM ACTIVITIES</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 401.</designator><label> Quantum Information Science Research program.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 402.</designator><label> National Quantum Information Science Research Centers.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 403.</designator><label> Department of Energy quantum network infrastructure research and development program. </label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 404.</designator><label> Department of Energy quantum user expansion for science and technology program.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/115/368/s2" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8801">15 U.S.C. 8801</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading><chapeau style="-uslm-dtd:text">In this Act:</chapeau>
+            <paragraph identifier="/us/sComp/115/368/s2/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Advisory committee.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Advisory Committee</term>” means the National Quantum Initiative Advisory Committee established under section 104(a).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s2/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Appropriate committees of congress.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">appropriate committees of Congress</term>” means—</chapeau>
+                <subparagraph identifier="/us/sComp/115/368/s2/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Committee on Commerce, Science, and Transportation of the Senate;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/368/s2/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Committee on Energy and Natural Resources of the Senate; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/368/s2/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Committee on Science, Space, and Technology of the House of Representatives.</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s2/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Coordination office.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Coordination Office</term>” means the National Quantum Coordination Office established under section 102(a).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s2/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Institution of higher education.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">institution of higher education</term>” has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s2/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Program.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Program</term>” means the National Quantum Initiative Program implemented under section 101(a).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s2/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Quantum information science.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">quantum information science</term>” means the use of the laws of quantum physics for the storage, transmission, manipulation, computing, or measurement of information.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s2/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Quantum network infrastructure.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">quantum network infrastructure</term>” means any facility, expertise, or capability that is necessary to enable the development and deployment of scalable and diverse quantum network technologies.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s2/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="8">(8)<ref class="footnoteRef" idref="ID265F10DEA35A405EA90109C20F39350D" style="-uslm-dtd:footnote-ref">2</ref> </num><heading style="-uslm-dtd:header">Subcommittee on economic and security implications.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Subcommittee on Economic and Security Implications</term>” means the Subcommittee on the Economic and Security Implications of Quantum Information Science established under section 105(a).</content><footnote id="ID265F10DEA35A405EA90109C20F39350D" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">2</sup><p style="-uslm-dtd:para; margin-left:1em">There are two paragraph (8)s’ in law. The first one was redesignated by section 10104(b)(1)(A) of division B of Public Law 117–167.</p></footnote>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s2/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Subcommittee on quantum information science.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">Subcommittee on Quantum Information Science</term>” means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 103(a).</content>
+            </paragraph>
+        </section>
+        <section identifier="/us/sComp/115/368/s3" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8802">15 U.S.C. 8802</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PURPOSES. </heading><chapeau style="-uslm-dtd:text">The purpose of this Act is to ensure the continued leadership of the United States in quantum information science and its technology applications by—</chapeau>
+            <paragraph identifier="/us/sComp/115/368/s3/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">supporting research, development, demonstration, and application of quantum information science and technology—</chapeau>
+                <subparagraph identifier="/us/sComp/115/368/s3/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to expand the number of researchers, educators, and students with training in quantum information science and technology to develop a workforce pipeline;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/368/s3/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to promote the development and inclusion of multidisciplinary curriculum and research opportunities for quantum information science at the undergraduate, graduate, and postdoctoral level;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/368/s3/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to address basic research knowledge gaps, including computational research gaps;</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/368/s3/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">to promote the further development of facilities and centers available for quantum information science and technology research, testing and education; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/368/s3/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">to stimulate research on and promote more rapid development of quantum-based technologies;</content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s3/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">improving the interagency planning and coordination of Federal research and development of quantum information science and technology;</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s3/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">maximizing the effectiveness of the Federal Government’s quantum information science and technology research, development, and demonstration programs;</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s3/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">promoting collaboration among the Federal Government, Federal laboratories, industry, and universities; and</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/115/368/s3/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><chapeau style="-uslm-dtd:text">promoting the development of international standards for quantum information science and technology security—</chapeau>
+                <subparagraph identifier="/us/sComp/115/368/s3/5/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to facilitate technology innovation and private sector commercialization; and</content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/115/368/s3/5/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to meet economic and national security goals.</content>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <title identifier="/us/sComp/115/368/tI" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">NATIONAL QUANTUM INITIATIVE </heading>
+            <section identifier="/us/sComp/115/368/tI/s101" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8811">15 U.S.C. 8811</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL QUANTUM INITIATIVE PROGRAM. </heading>
+                <subsection identifier="/us/sComp/115/368/tI/s101/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The President shall implement a National Quantum Initiative Program.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s101/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">In carrying out the Program, the President, acting through Federal agencies, councils, working groups, subcommittees, and the Coordination Office, as the President considers appropriate, shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tI/s101/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">establish the goals, priorities, and metrics for a 10-year plan to accelerate development of quantum information science and technology applications in the United States;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s101/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">invest in fundamental Federal quantum information science and technology research, development, demonstration, and other activities to achieve the goals established under paragraph (1);</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s101/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">invest in activities to develop a quantum information science and technology workforce pipeline;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s101/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">provide for interagency planning and coordination of Federal quantum information science and technology research, development, demonstration, standards engagement, and other activities under the Program;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s101/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">partner with industry and universities to leverage knowledge and resources; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s101/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">leverage existing Federal investments efficiently to advance Program goals and priorities established under paragraph (1).</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/368/tI/s102" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8812">15 U.S.C. 8812</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL QUANTUM COORDINATION OFFICE. </heading>
+                <subsection identifier="/us/sComp/115/368/tI/s102/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tI/s102/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The President shall establish a National Quantum Coordination Office.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s102/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Administration.—</heading><chapeau style="-uslm-dtd:text">The Coordination Office shall have—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s102/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a Director appointed by the Director of the Office of Science and Technology Policy, in consultation with the Secretary of Commerce, the Director of the National Science Foundation, and the Secretary of Energy; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s102/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">staff comprised of employees detailed from the Federal departments and agencies described in section 103(b).</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s102/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Responsibilities.—</heading><chapeau style="-uslm-dtd:text">The Coordination Office shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tI/s102/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">provide technical and administrative support to—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s102/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Subcommitteeon Quantum Information Science;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s102/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Advisory Committee; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s102/b/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Subcommittee on Economic and Security Implications;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s102/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">oversee interagency coordination of the Program, including by encouraging and supporting joint agency solicitation and selection of applications for funding of activities under the Program;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s102/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">serve as the point of contact on Federal civilian quantum information science and technology activities for Federal departments and agencies, industry, universities professional societies, State governments, and such other persons as the Coordination Office considers appropriate to exchange technical and programmatic information;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s102/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">ensure coordination among the collaborative ventures or consortia established under section 201(a), Multidisciplinary 
+Centers for Quantum Research and Education established under section 302(a), and the National Quantum Information Science Research Centers established under section 402(a);</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s102/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">conduct public outreach, including the dissemination of findings and recommendations of the Advisory Committee, as appropriate;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s102/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">promote access to and early application of the technologies, innovations, and expertise derived from Program activities to agency missions and systems across the Federal Government, and to industry, including startup companies; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s102/b/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">promote access, through appropriate Federal Government agencies, and an open and competitive merit-reviewed process, to existing quantum computing and communication systems developed by industry, universities, and Federal laboratories to the general user community in pursuit of discovery of the new applications of such systems.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s102/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">Funds necessary to carry out the activities of the Coordination Office shall be made available each fiscal year by the Federal departments and agencies described in section 103(b), as determined by the Director of the Office of Science and Technology Policy.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/368/tI/s103" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8813">15 U.S.C. 8813</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SUBCOMMITTEE ON QUANTUM INFORMATION SCIENCE. </heading>
+                <subsection identifier="/us/sComp/115/368/tI/s103/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">The President shall establish, through the National Science and Technology Council, the Subcommittee on Quantum Information Science.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s103/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Membership.—</heading><chapeau style="-uslm-dtd:text">The Subcommittee shall include a representative of—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the National Institute of Standards and Technology;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the National Science Foundation;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the Department of Energy;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the National Aeronautics and Space Administration;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the Department of Defense;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">the Office of the Director of National Intelligence;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/b/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">the Office of Management and Budget;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/b/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">the Office of Science and Technology Policy; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/b/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">such other Federal department or agency as the President considers appropriate.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s103/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Chairpersons.—</heading><content style="-uslm-dtd:text">The Subcommittee shall be jointly chaired by the Director of the National Institute of Standards and Technology, the Director of the National Science Foundation, and the Secretary of Energy.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s103/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Responsibilities.—</heading><chapeau style="-uslm-dtd:text">The Subcommittee shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">coordinate the quantum information science and technology research, information sharing about international standards development and use, and education activities and programs of the Federal agencies;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">establish goals and priorities of the Program, based on identified knowledge and workforce gaps and other national needs;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">assess and recommend Federal infrastructure needs to support the Program;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/d/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">assess the status, development, and diversity of the United States quantum information science workforce;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/d/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">assess the global outlook for quantum information science research and development efforts;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/d/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">evaluate opportunities for international cooperation with strategic allies on research and development in quantum information science and technology; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/d/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">propose a coordinated interagency budget for the Program to the Office of Management and Budget to ensure the maintenance of a balanced quantum information science research portfolio and an appropriate level of research effort.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s103/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Strategic Plans.—</heading><chapeau style="-uslm-dtd:text">In order to guide the activities of the Program and meet the goals, priorities, and anticipated outcomes of the Federal departments and agencies described in subsection (b), the Subcommittee shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">not later than 1 year after the date of enactment of this Act, develop a 5-year strategic plan;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">not later than 6 years after the date of enactment of this Act, develop a subsequent 5-year strategic plan; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">periodically update each plan, as necessary.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s103/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Submittal to Congress.—</heading><content style="-uslm-dtd:text">The chairpersons of the Subcommittee shall submit to the President, the Advisory Committee, and the appropriate committees of Congress each strategic plan developed under subsection (e) and any updates thereto.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s103/g" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Annual Program Budget Report.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/g/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Each year, concurrent with the annual budget request submitted by the President to Congress under section 1105 of title 31, United States Code, the chairpersons of the Subcommittee shall submit to the appropriate committees of Congress and such other committees of Congress as the chairpersons deem appropriate a report on the budget for the Program.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/g/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Contents.—</heading><chapeau style="-uslm-dtd:text">Each report submitted under paragraph (1) shall include the following:</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s103/g/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">The budget of the Program for the current fiscal year, for each Federal department and agency described in subsection (b).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s103/g/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">The budget proposed for the Program for the next fiscal year, for each Federal department and agency described in subsection (b).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s103/g/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">An analysis of the progress made toward achieving the goals and priorities established under subsection (d)(2).</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s103/h" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Report on Quantum Networking and Communications.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/h/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than January 1, 2026, the Quantum Networking Working Group within the Subcommittee on Quantum Information Science of the National Science and Technology Council, in coordination with the Subcommittee on the Economic and Security Implications of Quantum Information Science, shall submit to the appropriate committees of Congress a report detailing a plan for the advancement of quantum networking and communications technology in the United States, building on the report entitled <i style="-uslm-dtd:italic">A Strategic Vision for America’s Quantum Networks and A Coordinated Approach for Quantum Networking Research</i>.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s103/h/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">The report under paragraph (1) shall include the following:</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s103/h/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">An update to the report entitled <i style="-uslm-dtd:italic">Coordinated Approach to Quantum Networking Research Report</i> focusing on a framework for interagency collaboration regarding the advancement of quantum networking and communications research.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s103/h/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">A plan for Federal Government partnership with the private sector and interagency collaboration regarding engagement in international standards for quantum networking and communications technology, including a list of Federal priorities for standards relating to such networking and technology.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s103/h/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">A proposal for the protection of national security interests relating to the advancement of quantum networking and communications technology.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s103/h/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">An assessment of the relative position of the United States with respect to other countries in the global race to develop, demonstrate, and utilize quantum networking and communications technology.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s103/h/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">Recommendations to Congress for legislative action relating to the matters considered under subparagraphs (A), (B), (C), and (D).</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s103/h/2/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">Such other matters as the Quantum Network Working Group considers necessary to advance the security of communications and network infrastructure, remain at the forefront of scientific discovery in the quantum information science domain, and transition quantum information science research into the emerging quantum technology economy.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/368/tI/s104" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8814">15 U.S.C. 8814</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL QUANTUM INITIATIVE ADVISORY COMMITTEE. </heading>
+                <subsection identifier="/us/sComp/115/368/tI/s104/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The President shall establish a National Quantum Initiative Advisory Committee.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s104/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Qualifications.—</heading><content style="-uslm-dtd:text">The Advisory Committee shall consist of members, appointed by the President, who are representative of industry, universities, and Federal laboratories and are qualified to provide advice and information on quantum information science and technology research, development, demonstrations, standards, education, technology transfer, commercial application, or national security and economic concerns.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s104/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Membership Consideration.—</heading><content style="-uslm-dtd:text">In selecting the members of the Advisory Committee, the President may seek and give consideration to recommendations from the Congress, industry, the scientific community (including the National Academy of Sciences, scientific professional societies, and universities), the defense community, and other appropriate organizations.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s104/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Duties.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tI/s104/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Advisory Committee shall advise the President, the Subcommittee on Quantum Information Science, and the Subcommittee on Economic and Security Implications and make recommendations for the President to consider when reviewing and revising the Program.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s104/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Independent assessments.—</heading><chapeau style="-uslm-dtd:text">The Advisory Committee shall conduct periodic, independent assessments of—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s104/d/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any trends or developments in quantum information science and technology;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s104/d/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the progress made in implementing the Program;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s104/d/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the management, coordination, implementation, and activities of the Program;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s104/d/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">whether the Program activities and the goals and priorities established under section 103(d)(2) are helping to maintain United States leadership in quantum information science and technology;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s104/d/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">whether a need exists to revise the Program;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s104/d/2/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">whether opportunities exist for international cooperation with strategic allies on research and development in, and the development of open standards for, quantum information science and technology; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tI/s104/d/2/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">whether national security, societal, economic, legal, and workforce concerns are adequately addressed by the Program.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s104/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Reports.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, and at least biennially thereafter, the Advisory Committee shall submit to the President, the appropriate committees of Congress, and such other committees of Congress as the Advisory Committee deems appropriate a report on the findings of the independent assessment under subsection (d), including any recommendations for improvements to the Program.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s104/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Travel Expenses of Non-Federal Members.—</heading><content style="-uslm-dtd:text">Non-Federal members of the Advisory Committee, while attending meetings of the Advisory Committee or while otherwise serving at the request of the head of the Advisory Committee away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code, for individuals in the Government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Committee who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s104/g" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">FACA Exemption.—</heading><content style="-uslm-dtd:text">The Advisory Committee shall be exempt from section 14 of the Federal Advisory Committee Act (5 U.S.C. App.).</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/368/tI/s105" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8814a">15 U.S.C. 8814a</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SUBCOMMITTEE ON THE ECONOMIC AND SECURITY IMPLICATIONS OF QUANTUM INFORMATION SCIENCE. </heading>
+                <subsection identifier="/us/sComp/115/368/tI/s105/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">The President shall establish, through the National Science and Technology Council, the Subcommittee on the Economic and Security Implications of Quantum Information Science.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s105/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Membership.—</heading><chapeau style="-uslm-dtd:text">The Subcommittee shall include a representative of—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the Department of Energy;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the Department of Defense;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the Department of Commerce;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the Department of Homeland Security;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the Office of the Director of National Intelligence;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">the Office of Management and Budget;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/b/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">the Office of Science and Technology Policy;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/b/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">the Department of Justice;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/b/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="9">(9) </num><content style="-uslm-dtd:text">the National Science Foundation;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/b/10" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="10">(10) </num><content style="-uslm-dtd:text">the National Institute of Standards and Technology; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/b/11" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="11">(11) </num><content style="-uslm-dtd:text">such other Federal department or agency as the President considers appropriate.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s105/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Responsibilities.—</heading><chapeau style="-uslm-dtd:text">The Subcommittee shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in coordination with the Director of the Office and Management and Budget, the Director of the National Quantum Coordination Office, and the Subcommittee on Quantum Information Science, track investments of the Federal Government in quantum information science research and development;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">review and assess any economic or security implications of such investments;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">review and assess any counterintelligence risks or other foreign threats to such investments;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">recommend goals and priorities for the Federal Government and make recommendations to Federal departments and agencies and the Director of the National Quantum Coordination Office to address any counterintelligence risks or other foreign threats identified as a result of an assessment under paragraph (3);</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/c/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">assess the export of technology associated with quantum information science and recommend to the Secretary of Commerce and the Secretary of State export controls necessary to protect the economic and security interests of the United States as a result of such assessment;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/c/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">recommend to Federal departments and agencies investment strategies in quantum information science that advance the economic and security interest of the United States; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/c/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">recommend to the Director of National Intelligence and the Secretary of Energy appropriate protections to address counterintelligence risks or other foreign threats identified as a result of the assessment under paragraph (3); and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/c/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">in coordination with the Subcommittee on Quantum Information Science, ensure the approach of the United States to investments of the Federal Government in quantum information science research and development reflects a balance between scientific progress and the potential economic and security implications of such progress.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s105/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Technical and Administrative Support.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary of Energy, the Director of National Intelligence, and the Director of the National Quantum Coordination Office may provide to the Subcommittee personnel, equipment, facilities, and such other technical and administrative support as may be necessary for the Subcommittee to carry out the responsibilities of the Subcommittee under this section.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tI/s105/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Support related to classified information.—</heading><content style="-uslm-dtd:text">The Director of the Office of Science and Technology Policy and the Director of National Intelligence shall provide to the Subcommittee technical and administrative support related to the responsibilities of the Subcommittee that involve classified information, including support related to sensitive compartmented information facilities and the storage of classified information.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/368/tI/s106" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="106">SEC. 106. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8815">15 U.S.C. 8815</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SUNSET. </heading>
+                <subsection identifier="/us/sComp/115/368/tI/s106/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Except as provided in subsection (b), the authority to carry out sections 101, 102, 103, 104, and 105 shall terminate on the date that is 11 years after the date of enactment of this Act.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tI/s106/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Extension.—</heading><content style="-uslm-dtd:text">The President may continue the activities under such sections if the President determines that such activities are necessary to meet national economic or national security needs.</content>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/115/368/tII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY QUANTUM ACTIVITIES </heading>
+            <section identifier="/us/sComp/115/368/tII/s201" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8831">15 U.S.C. 8831</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY ACTIVITIES AND QUANTUM CONSORTIUM. </heading>
+                <subsection identifier="/us/sComp/115/368/tII/s201/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">National Institute of Standards and Technology Activities.—</heading><chapeau style="-uslm-dtd:text">As part of the Program, the Director of the National Institute of Standards and Technology—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tII/s201/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">shall continue to support and expand basic and applied quantum information science and technology research and development of measurement and standards infrastructure necessary to advance commercial development of quantum applications;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tII/s201/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">shall use the existing programs of the National Institute of Standards and Technology, in collaboration with other Federal departments and agencies, as appropriate, to train scientists in quantum information science and technology to increase participation in the quantum fields;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tII/s201/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">shall carry out research to facilitate the development and standardization of quantum cryptography and post-quantum classical cryptography;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tII/s201/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">shall carry out research to facilitate the development and standardization of quantum networking, communications, and sensing technologies and applications;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tII/s201/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">for quantum technologies determined by the Director of the National Institute of Standards and Technology to be at a readiness level sufficient for standardization, shall provide technical review and assistance to such other Federal agencies as the Director considers appropriate for the development of quantum networking infrastructure standards;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tII/s201/a/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">shall establish or expand collaborative ventures or consortia with other public or private sector entities, including industry, universities, and Federal laboratories for the purpose of advancing the field of quantum information science and engineering; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tII/s201/a/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">may enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this Act.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tII/s201/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Quantum Consortium.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tII/s201/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Director of the National Institute of Standards and Technology shall convene a consortium of stakeholders to identify the future measurement, standards, cybersecurity, and other appropriate needs for supporting the development of a robust quantum information science and technology industry in the United States.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tII/s201/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Goals.—</heading><chapeau style="-uslm-dtd:text">The goals of the consortium shall be—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tII/s201/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to assess the current research on the needs identified in paragraph (1);</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tII/s201/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to identify any gaps in the research necessary to meet the needs identified in paragraph (1); and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tII/s201/b/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to provide recommendations on how the National Institute of Standards and Technology and the Program can address the gaps in the necessary research identified in subparagraph (B).</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tII/s201/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Report to congress.—</heading><content style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the Director of the National Institute of Standards and Technology shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report summarizing the findings of the consortium.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tII/s201/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">The Director of the National Institute of Standards and Technology shall allocate up to $80,000,000 to carry out the activities under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Institute of Standards and Technology.</content>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/115/368/tIII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">NATIONAL SCIENCE FOUNDATION QUANTUM ACTIVITIES </heading>
+            <section identifier="/us/sComp/115/368/tIII/s301" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8841">15 U.S.C. 8841</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">QUANTUM INFORMATION SCIENCE RESEARCH AND EDUCATION PROGRAM. </heading>
+                <subsection identifier="/us/sComp/115/368/tIII/s301/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Director of the National Science Foundation shall carry out a basic research and education program on quantum information science and engineering, including the competitive award of grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof).</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIII/s301/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Program Components.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s301/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">In carrying out the program under subsection (a), the Director of the National Science Foundation shall carry out activities that—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">support basic interdisciplinary quantum information science and engineering research; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">support human resources development in all aspects of quantum information science and engineering.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s301/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirements.—</heading><chapeau style="-uslm-dtd:text">The activities described in paragraph (1) shall include—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">using the existing programs of the National Science Foundation, in collaboration with other Federal departments and agencies, as appropriate—</chapeau>
+                            <clause identifier="/us/sComp/115/368/tIII/s301/b/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">to improve the teaching and learning of quantum information science and engineering at the undergraduate, graduate, and postgraduate levels; and</content>
+                            </clause>
+                            <clause identifier="/us/sComp/115/368/tIII/s301/b/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">to increase participation in the quantum fields, including by individuals identified in sections 33 and 34 of the Science and Engineering Equal Opportunities Act (42 U.S.C. 1885a, 1885b);</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">formulating goals for quantum information science and engineering research and education activities to be supported by the National Science Foundation;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/b/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">leveraging the collective body of knowledge from existing quantum information science and engineering research and education activities;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/b/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">coordinating research efforts funded through existing programs across the directorates of the National Science Foundation; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/b/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">engaging with other Federal departments and agencies, research communities, and potential users of information produced under this section.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIII/s301/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Graduate Traineeships.—</heading><content style="-uslm-dtd:text">The Director of the National Science Foundation may establish a program to provide traineeships to graduate students at institutions of higher education within the United States who are citizens of the United States and who choose to pursue masters or doctoral degrees in quantum information science.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIII/s301/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Incorporating QISE Into STEM Curriculum.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s301/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Director of the National Science Foundation shall, through programs carried out or supported by the National Science Foundation, seek to increase the integration of quantum information science and engineering (referred to in this subsection as “<quotedText style="-uslm-dtd:quote">QISE</quotedText>”) into the STEM curriculum at all education levels, including community colleges, as considered appropriate by the Director.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s301/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Curriculum integration.—</heading><chapeau style="-uslm-dtd:text">The curriculum integration under paragraph (1) may include the following:</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/d/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">Methods to conceptualize QISE for elementary, middle, and high school curricula.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/d/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Methods for strengthening foundational mathematics and science curricula.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/d/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">Methods for integrating students who are underserved or historically underrepresented groups in STEM.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/d/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">Age-appropriate materials that apply the principles of quantum information science in STEM fields.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/d/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">Recommendations for the standardization of key concepts, definitions, and curriculum criteria across government, academia, and industry.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s301/d/2/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">Materials that specifically address the findings and outcomes of the study to evaluate and make recommendations for the quantum information science workforce pursuant to subsection (d) of section 10661 of the Research and Development, Competition, and Innovation Act and strategies to account for the skills and workforce needs identified through such study.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s301/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Coordination.—</heading><content style="-uslm-dtd:text">In carrying out this subsection, the Director shall coordinate with relevant Federal agencies, and consult with nongovernmental entities with expertise in QISE, as appropriate, which may include institutions eligible to participate in the Established Program to Stimulate Competitive Research (EPSCoR).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s301/d/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Definition.—</heading><content style="-uslm-dtd:text">In this subsection, the term “<quotedText style="-uslm-dtd:quote">STEM</quotedText>” means the academic and professional disciplines of science, technology, engineering, and mathematics, including computer science.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/368/tIII/s302" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8842">15 U.S.C. 8842</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">MULTIDISCIPLINARY CENTERS FOR QUANTUM RESEARCH AND EDUCATION. </heading>
+                <subsection identifier="/us/sComp/115/368/tIII/s302/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Director of the National Science Foundation, in consultation with other Federal departments and agencies, as appropriate, shall award grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof) to establish at least 2, but not more than 5, Multidisciplinary Centers for Quantum Research and Education (referred to in this section as “Centers”).</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIII/s302/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Collaborations.—</heading><content style="-uslm-dtd:text">A collaboration receiving an award under this subsection may include institutions of higher education, nonprofit organizations, and private sector entities.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIII/s302/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Purpose.—</heading><chapeau style="-uslm-dtd:text">The purpose of the Centers shall be to conduct basic research and education activities in support of the goals and priorities established under section 103(d)(2), including by—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s302/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">continuing to advance quantum information science and engineering;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s302/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">supporting curriculum and workforce development in quantum information science and engineering; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s302/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">fostering innovation by bringing industry perspectives to quantum research and workforce development, including by leveraging industry knowledge and resources.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIII/s302/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Requirements.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s302/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">An institution of higher education or an eligible nonprofit organization (or a consortium thereof) seeking funding under this section shall submit an application to the Director of the National Science Foundation at such time, in such manner, and containing such information as the Director may require.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s302/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Applications.—</heading><chapeau style="-uslm-dtd:text">Each application under paragraph (1) shall include a description of—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s302/d/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">how the Center will work with other research institutions and industry partners to leverage expertise in quantum science, education and curriculum development, and technology transfer;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s302/d/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">how the Center will promote active collaboration among researchers in multiple disciplines involved in quantum research, including physics, engineering, mathematics, computer science, chemistry, and material science;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s302/d/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">how the Center will support long-term and short-term workforce development in the quantum field;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s302/d/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">how the Center can support an innovation ecosystem to work with industry to translate Center research into applications; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIII/s302/d/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">a long-term plan to become self-sustaining after the expiration of funding under this section.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIII/s302/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Selection and Duration.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s302/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Each Center established under this section is authorized to carry out activities for a period of 5 years.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s302/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Reapplication.—</heading><content style="-uslm-dtd:text">An awardee may reapply for additional, subsequent periods of 5 years on a competitive, merit-reviewed basis.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIII/s302/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Termination.—</heading><content style="-uslm-dtd:text">Consistent with the authorities of the National Science Foundation, the Director of the National Science Foundation may terminate an underperforming Center for cause during the performance period.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIII/s302/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">The Director of the National Science Foundation shall allocate up to $10,000,000 for each Center established under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Science Foundation.</content>
+                </subsection>
+            </section>
+        </title>
+        <title identifier="/us/sComp/115/368/tIV" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="IV">TITLE IV—</num><heading style="-uslm-dtd:header">DEPARTMENT OF ENERGY QUANTUM ACTIVITIES </heading>
+            <section identifier="/us/sComp/115/368/tIV/s401" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="401">SEC. 401. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8851">15 U.S.C. 8851</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">QUANTUM INFORMATION SCIENCE RESEARCH PROGRAM. </heading>
+                <subsection identifier="/us/sComp/115/368/tIV/s401/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Secretary of Energy shall carry out a basic research program on quantum information science.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s401/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Program Components.—</heading><chapeau style="-uslm-dtd:text">In carrying out the program under subsection (a), the Secretary of Energy shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s401/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">formulate goals for quantum information science research to be supported by the Department of Energy;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s401/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">leverage the collective body of knowledge from existing quantum information science research;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s401/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">provide research experiences and training for additional undergraduate and graduate students in quantum information science, including in the fields of—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">quantum information theory;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">quantum physics;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">quantum computational science;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">applied mathematics and algorithm development;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/3/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">quantum networking;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/3/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">quantum sensing and detection; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/3/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">materials science and engineering;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s401/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">coordinate research efforts funded through existing programs across the Department of Energy, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Nanoscale Science Research Centers;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Energy Frontier Research Centers;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Energy Innovation Hubs;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/4/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the National Laboratories;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/4/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">the Advanced Research Projects Agency; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s401/b/4/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">the National Quantum Information Science Research Centers; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s401/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">coordinate with other Federal departments and agencies, research communities, and potential users of information produced under this section.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/368/tIV/s402" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="402">SEC. 402. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8852">15 U.S.C. 8852</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">NATIONAL QUANTUM INFORMATION SCIENCE RESEARCH CENTERS. </heading>
+                <subsection identifier="/us/sComp/115/368/tIV/s402/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s402/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary of Energy, acting through the Director of the Office of Science (referred to in this section as the “Director”), shall ensure that the Office of Science carries out a program, in consultation with other Federal departments and agencies, as appropriate, to establish and operate at least 2, but not more than 5, National Quantum Information Science Research Centers (referred to in this section as “Centers”) to conduct basic research to accelerate scientific breakthroughs in quantum information science and technology and to support research conducted under section 401.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s402/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Requirements.—</heading>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s402/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Competitive, merit-reviewed process.—</heading><content style="-uslm-dtd:text">The Centers shall be established through a competitive, merit-reviewed process.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s402/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Applications.—</heading><content style="-uslm-dtd:text">An eligible applicant under this subsection shall submit to the Director an application at such time, in such manner, and containing such information as the Director determines to be appropriate.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s402/a/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Eligible applicants.—</heading><content style="-uslm-dtd:text">The Director shall consider applications from National Laboratories, institutions of higher education, research centers, multi-institutional collaborations, and any other entity that the Secretary of Energy determines to be appropriate.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s402/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Collaborations.—</heading><content style="-uslm-dtd:text">A collaboration that receives an award under this section may include multiple types of research institutions and private sector entities.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s402/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Requirements.—</heading><content style="-uslm-dtd:text">To the maximum extent practicable, the Centers developed, constructed, operated, or maintained under this section shall serve the needs of the Department of Energy, industry, the academic community, and other relevant entities to create and develop processes for the purpose of advancing basic research in quantum information science and improving the competitiveness of the United States.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s402/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Coordination.—</heading><chapeau style="-uslm-dtd:text">The Secretary of Energy shall ensure the coordination, and avoid unnecessary duplication, of the activities of each Center with the activities of—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s402/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">other research entities of the Department of Energy, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s402/d/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Nanoscale Science Research Centers;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s402/d/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Energy Frontier Research Centers;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s402/d/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Energy Innovation Hubs; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s402/d/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the National Laboratories;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s402/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">institutions of higher education; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s402/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">industry.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s402/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Duration.—</heading>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s402/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Each Center established under this section is authorized to carry out activities for a period of 5 years.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s402/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Reapplication.—</heading><content style="-uslm-dtd:text">An awardee may reapply for additional, subsequent periods of 5 years. The Director shall approve or disapprove of each reapplication on a competitive, merit-reviewed basis.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s402/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Termination.—</heading><content style="-uslm-dtd:text">Consistent with the authorities of the Department of Energy, the Secretary of Energy may terminate an underperforming Center for cause during the performance period.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s402/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">The Secretary of Energy shall allocate up to $25,000,000 for each Center established under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section 
+shall be derived from amounts appropriated or otherwise made available to the Department of Energy.</content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/368/tIV/s403" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="403">SEC. 403. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8853">15 U.S.C. 8853</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEPARTMENT OF ENERGY QUANTUM NETWORK INFRASTRUCTURE RESEARCH AND DEVELOPMENT PROGRAM. </heading>
+                <subsection identifier="/us/sComp/115/368/tIV/s403/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Secretary of Energy (referred to in this section as the “<quotedText style="-uslm-dtd:quote">Secretary</quotedText>”) shall carry out a research, development, and demonstration program to accelerate innovation in quantum network infrastructure in order to—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">facilitate the advancement of distributed quantum computing systems through the internet and intranet;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">improve the precision of measurements of scientific phenomena and physical imaging technologies;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">develop secure national quantum communications technologies and strategies;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">demonstrate quantum networking utilizing the Department of Energy’s Energy Sciences Network User Facility; and </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/a/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">advance the relevant domestic supply chains, manufacturing capabilities, and associated simulations or modeling capabilities.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s403/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Program.—</heading><chapeau style="-uslm-dtd:text">In carrying out this section, the Secretary shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">coordinate with—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Director of the National Science Foundation;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Director of the National Institute of Standards and Technology;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Chair of the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 103(a); and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the Chair of the Subcommittee on the Economic and Security Implications of Quantum Science;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">conduct cooperative research with industry, National Laboratories, institutions of higher education, and other research institutions to facilitate new quantum infrastructure methods and technologies, including—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">quantum-limited detectors, ultra-low loss optical channels, space-to-ground connections, and classical networking and cybersecurity protocols;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">entanglement and hyper-entangled state sources and transmission, control, and measurement of quantum states;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">quantum interconnects that allow short range local connections between quantum processors;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">transducers for quantum sources and signals between optical wavelength regimes, including telecommunications regimes and quantum computer-relevant domains, including microwaves;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">development of quantum memory buffers and small-scale quantum computers that are compatible with photon-based quantum bits in the optical or telecommunications wavelengths;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/2/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">long-range entanglement distribution, including allowing entanglement-based protocols between small- and large scale quantum processors, at the terrestrial and space-based level using quantum repeaters and optical or laser communications;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/2/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">quantum routers, multiplexers, repeaters, and related technologies necessary to create secure long-distance quantum communication; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s403/b/2/H" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">integration of systems across the quantum technology stack into traditional computing networks, including the development of remote controlled, high-performance, and reliable implementations of key quantum network components by leveraging the expertise, infrastructure and supplemental investments at the National Laboratories in the Energy Sciences Network User Facility;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">engage with the Quantum Economic Development Consortium and other organizations, as applicable, to transition component technologies to help facilitate as appropriate the development of a quantum supply chain for quantum network technologies;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">advance basic research in advanced scientific computing, particle and nuclear physics, and material science to enhance the understanding, prediction, and manipulation of materials, processes, and physical phenomena relevant to quantum network infrastructure;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">develop experimental tools and testbeds in collaboration with the Energy Sciences Network User Facility necessary to support cross-cutting fundamental research and development activities with diverse stakeholders from industry, National Laboratories, and institutions of higher education; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">consider quantum network infrastructure applications that span the Department of Energy’s missions in energy, environment, and national security.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s403/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Leveraging.—</heading><chapeau style="-uslm-dtd:text">In carrying out this section, the Secretary shall leverage resources, infrastructure, and expertise across the Department of Energy and from—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the National Institute of Standards and Technology;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the National Science Foundation;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the National Aeronautics and Space Administration;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">other relevant Federal agencies;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/c/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the National Laboratories;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/c/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">industry stakeholders;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/c/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">institutions of higher education; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s403/c/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">the National Quantum Information Science Research Centers.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s403/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Research Plan.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of the Research and Development, Competition, and Innovation Act, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a 4-year research plan that identifies and prioritizes basic research needs relating to quantum network infrastructure.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s403/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Standard of Review.—</heading><content style="-uslm-dtd:text">The Secretary shall review activities carried out under this section to determine the achievement of technical milestones.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s403/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">Of the funds authorized to be appropriated for the Department of Energy’s Office of Science, there is authorized to be appropriated to the Secretary to carry out the activities under this section $100,000,000 for each of fiscal years 2023 through 2027. </content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/115/368/tIV/s404" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="404">SEC. 404. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t15/s8854">15 U.S.C. 8854</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEPARTMENT OF ENERGY QUANTUM USER EXPANSION FOR SCIENCE AND TECHNOLOGY PROGRAM. </heading>
+                <subsection identifier="/us/sComp/115/368/tIV/s404/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Secretary of Energy (referred to in this section as the “<quotedText style="-uslm-dtd:quote">Secretary</quotedText>”) shall establish and carry out a program, to be known as the “<quotedText style="-uslm-dtd:quote">Quantum User Expansion for Science and Technology program</quotedText>” or “<quotedText style="-uslm-dtd:quote">QUEST program</quotedText>”, to encourage and facilitate access to United States quantum computing hardware and quantum computing clouds for research purposes—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">to enhance the United States quantum research enterprise;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">to educate the future quantum computing workforce;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">to accelerate the advancement of United States quantum computing capabilities; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">to advance the relevant domestic supply chains, manufacturing processes, and associated simulations or modeling capabilities.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s404/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Program.—</heading><chapeau style="-uslm-dtd:text">In carrying out this section, the Secretary shall—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">coordinate with—</chapeau>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s404/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the Director of the National Science Foundation;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s404/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Director of the National Institute of Standards and Technology;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s404/b/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Chair of the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 103(a); and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/115/368/tIV/s404/b/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the Chair of the Subcommittee on the Economic and Security Implications of Quantum Science;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">provide researchers based within the United States with access to, and use of, United States quantum computing resources through a competitive, merit-reviewed process;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">consider applications from the National Laboratories, multi-institutional collaborations, institutions of higher education, industry stakeholders, and any other entities that the Secretary determines are appropriate to provide national leadership on quantum computing related issues;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">coordinate with private sector stakeholders, the user community, and interagency partners on program development and best management practices; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">to the extent practicable, balance user access to commercial prototypes available for use across a broad class of applications and Federal research prototypes that enable benchmarking a wider variety of early-stage devices. </content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s404/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Leveraging.—</heading><chapeau style="-uslm-dtd:text">In carrying out this section, the Secretary shall leverage resources and expertise across the Department of Energy and from—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the National Institute of Standards and Technology;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">the National Science Foundation;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">the National Aeronautics and Space Administration;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">other relevant Federal agencies;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/c/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the National Laboratories;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/c/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">industry stakeholders;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/c/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">institutions of higher education; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/c/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">the National Quantum Information Science Research Centers.</content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s404/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Security.—</heading><content style="-uslm-dtd:text">In carrying out the activities authorized by this section, the Secretary, in consultation with the Director of the National Science Foundation and the Director of the National Institute of Standards and Technology, shall ensure proper security controls are in place to protect sensitive information, as appropriate.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/115/368/tIV/s404/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Funding.—</heading><chapeau style="-uslm-dtd:text">Of the funds authorized to be appropriated for the Department of Energy’s Office of Science, there are authorized to be appropriated to the Secretary to carry out the activities under this section—</chapeau>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">$30,000,000 for fiscal year 2023;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">$31,500,000 for fiscal year 2024;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">$33,075,000 for fiscal year 2025;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/e/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">$34,728,750 for fiscal year 2026; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/115/368/tIV/s404/e/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">$36,465,188 for fiscal year 2027.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

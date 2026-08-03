@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>IMPACT Act of 2014</dc:title>
+        <citableAs>Public Law 113–185, as amended</citableAs>
+        <citableAsShortTitle>IMPACT Act of 2014</citableAsShortTitle>
+        <docNumber>185</docNumber>
+        <currentThroughPublicLaw>119–75</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
+        <processedDate>2026-02-13</processedDate>
+        <containsShortTitle>IMPACT Act of 2014</containsShortTitle>
+        <containsShortTitle>Improving Medicare Post-Acute Care Transformation Act of 2014</containsShortTitle>
+        <property role="fileId">11121</property>
+        <congress>113</congress>
+        <approvedDate>2014-10-06</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">IMPACT Act of 2014</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 113–185</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 119–75</currentThroughPublicLaw>, Enacted <date date="2026-02-03">February 3, 2026</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 113-185. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To amend title XVIII of the Social Security Act to provide for standardized post-acute care assessment data for quality, payment, and discharge planning, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/113/185/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s1305">42 U.S.C. 1305 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content class="block" style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Improving Medicare Post-Acute Care Transformation Act of 2014</shortTitle>” or the “<shortTitle style="-uslm-dtd:quote">IMPACT Act of 2014</shortTitle>”.</content>
+        </section>
+        <section identifier="/us/sComp/113/185/s2" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">STANDARDIZATION OF POST-ACUTE CARE DATA. </heading>
+            <subsection identifier="/us/sComp/113/185/s2/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Title XVIII of the Social Security Act is amended by adding at the end the following new section:<quotedContent style="-uslm-dtd:quoted-block">
+                <section style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1899B">“SEC. 1899B. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s1395lll">42 U.S.C. 1395lll</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">STANDARDIZED POST-ACUTE CARE (PAC) ASSESSMENT DATA FOR QUALITY, PAYMENT, AND DISCHARGE PLANNING </heading>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Requirement for Standardized Assessment Data.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><chapeau style="-uslm-dtd:text">require under the applicable reporting provisions post-acute care providers (as defined in paragraph (2)(A)) to report—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">standardized patient assessment data in accordance with subsection (b);</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">data on quality measures under subsection (c)(1); and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">data on resource use and other measures under subsection (d)(1);</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">require data described in subparagraph (A) to be standardized and interoperable so as to allow for the exchange of such data among such post-acute care providers and other providers and the use by such providers of such data that has been so exchanged, including by using common standards and definitions, in order to provide access to longitudinal information for such providers to facilitate coordinated care and improved Medicare beneficiary outcomes; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><chapeau style="-uslm-dtd:text">in accordance with subsections (b)(1) and (c)(2), modify PAC assessment instruments (as defined in paragraph (2)(B)) applicable to post-acute care providers to—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">provide for the submission of standardized patient assessment data under this title with respect to such providers; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">enable comparison of such assessment data across all such providers to whom such data are applicable.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">For purposes of this section:</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Post-acute care (pac) provider.—</heading><chapeau style="-uslm-dtd:text">The terms ‘<quotedText style="-uslm-dtd:quote">post-acute care provider</quotedText>’ and ‘<quotedText style="-uslm-dtd:quote">PAC provider</quotedText>’ mean—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">a home health agency;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">a skilled nursing facility;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">an inpatient rehabilitation facility; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">a long-term care hospital (other than a hospital classified under section 1886(d)(1)(B)(iv)(II)).</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">PAC assessment instrument.—</heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">PAC assessment instrument</quotedText>’ means—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">in the case of home health agencies, the instrument used for purposes of reporting and assessment with respect to the Outcome and Assessment Information Set (OASIS), as described in sections 484.55 and 484.250 of title 42, the Code of Federal Regulations, or any successor regulation, or any other instrument used with respect to home health agencies for such purposes;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">in the case of skilled nursing facilities, the resident’s assessment under section 1819(b)(3);</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">in the case of inpatient rehabilitation facilities, any Medicare beneficiary assessment instrument established by the Secretary for purposes of section 1886(j); and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">in the case of long-term care hospitals, the Medicare beneficiary assessment instrument used with respect to such hospitals for the collection of data elements necessary to calculate quality measures as described in the August 18, 2011, Federal Register (76 Fed. Reg. 51754-51755), including for purposes of section 1886(m)(5)(C), or any other instrument used with respect to such hospitals for assessment purposes.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Applicable reporting provision.—</heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">applicable reporting provision</quotedText>’ means—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">for home health agencies, section 1895(b)(3)(B)(v);</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">for skilled nursing facilities, section 1888(e)(6);</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">for inpatient rehabilitation facilities, section 1886(j)(7); and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">for long-term care hospitals, section 1886(m)(5).</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><heading style="-uslm-dtd:header">PAC payment system.—</heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">PAC payment system</quotedText>’ means—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">with respect to a home health agency, the prospective payment system under section 1895;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">with respect to a skilled nursing facility, the prospective payment system under section 1888(e);</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">with respect to an inpatient rehabilitation facility, the prospective payment system under section 1886(j); and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">with respect to a long-term care hospital, the prospective payment system under section 1886(m).</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">“(E) </num><heading style="-uslm-dtd:header">Specified application date.—</heading><chapeau style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">specified application date</quotedText>’ means the following:</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">Quality Measures.—</heading><chapeau style="-uslm-dtd:text">In the case of quality measures under subsection (c)(1)—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><chapeau style="-uslm-dtd:text">with respect to the domain described in subsection (c)(1)(A) (relating to functional status, cognitive function, and changes in function and cognitive function)—</chapeau>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">for PAC providers described in clauses (ii) and (iii) of paragraph (2)(A), October 1, 2016;</content>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">for PAC providers described in clause (iv) of such paragraph, October 1, 2018; and</content>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="cc">“(cc) </num><content style="-uslm-dtd:text">for PAC providers described in clause (i) of such paragraph, January 1, 2019;</content>
+                                        </item>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><chapeau style="-uslm-dtd:text">with respect to the domain described in subsection (c)(1)(B) (relating to skin integrity and changes in skin integrity)—</chapeau>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">for PAC providers described in clauses (ii), (iii), and (iv) of paragraph (2)(A), October 1, 2016; and</content>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">for PAC providers described in clause (i) of such paragraph, January 1, 2017;</content>
+                                        </item>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="III">“(III) </num><chapeau style="-uslm-dtd:text">with respect to the domain described in subsection (c)(1)(C) (relating to medication reconciliation)—</chapeau>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">for PAC providers described in clause (i) of such paragraph, January 1, 2017; and</content>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">for PAC providers described in clauses (ii), (iii), and (iv) of such paragraph, October 1, 2018;</content>
+                                        </item>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="IV">“(IV) </num><chapeau style="-uslm-dtd:text">with respect to the domain described in subsection (c)(1)(D) (relating to incidence of major falls)—</chapeau>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">for PAC providers described in clauses (ii), (iii), and (iv) of paragraph (2)(A), October 1, 2016; and</content>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">for PAC providers described in clause (i) of such paragraph, January 1, 2019; and</content>
+                                        </item>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="V">“(V) </num><chapeau style="-uslm-dtd:text">with respect to the domain described in subsection (c)(1)(E) (relating to accurately communicating the existence of and providing for the transfer of health information and care preferences)—</chapeau>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="aa">“(aa) </num><content style="-uslm-dtd:text">for PAC providers described in clauses (ii), (iii), and (iv) of paragraph (2)(A), October 1, 2018; and</content>
+                                        </item>
+                                        <item style="-uslm-dtd:item" styleType="OLC">
+                                            <num style="-uslm-dtd:enum" value="bb">“(bb) </num><content style="-uslm-dtd:text">for PAC providers described in clause (i) of such paragraph, January 1, 2019.</content>
+                                        </item>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Resource Use and Other Measures.—</heading><chapeau style="-uslm-dtd:text">In the case of resource use and other measures under subsection (d)(1)—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">for PAC providers described in clauses (ii), (iii), and (iv) of paragraph (2)(A), October 1, 2016; and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">for PAC providers described in clause (i) of such paragraph, January 1, 2017.</content>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="F">“(F) </num><heading style="-uslm-dtd:header">Medicare beneficiary.—</heading><content style="-uslm-dtd:text">The term ‘<quotedText style="-uslm-dtd:quote">Medicare beneficiary</quotedText>’ means an individual entitled to benefits under  part A or, as appropriate, enrolled for benefits under part B.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">“(b) </num><heading style="-uslm-dtd:header">Standardized patient assessment data.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Requirement for reporting assessment data.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Beginning not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A) and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall require PAC providers to submit to the Secretary, under the applicable reporting provisions and through the use of PAC assessment instruments, the standardized patient assessment data described in subparagraph (B). The Secretary shall require such data be submitted with respect to admission and discharge of an individual (and may be submitted more frequently as the Secretary deems appropriate).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Standardized patient assessment data described.—</heading><chapeau style="-uslm-dtd:text">For purposes of subparagraph (A), the standardized patient assessment data described in this subparagraph is data required for at least the quality measures described in subsection (c)(1) and that is with respect to the following categories:</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">Functional status, such as mobility and self care at admission to a PAC provider and before discharge from a PAC provider.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">Cognitive function, such as ability to express ideas and to understand, and mental status, such as depression and dementia.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">Special services, treatments, and interventions, such as need for ventilator use, dialysis, chemotherapy, central line placement, and total parenteral nutrition.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iv">“(iv) </num><content style="-uslm-dtd:text">Medical conditions and co-morbidities, such as diabetes, congestive heart failure, and pressure ulcers.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="v">“(v) </num><content style="-uslm-dtd:text">Impairments, such as incontinence and an impaired ability to hear, see, or swallow.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="vi">“(vi) </num><content style="-uslm-dtd:text">Other categories deemed necessary and appropriate by the Secretary.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Alignment of claims data with standardized patient assessment data.—</heading><content style="-uslm-dtd:text">To the extent practicable, not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A), and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall match claims data with assessment data pursuant to this section for purposes of assessing prior service use and concurrent service use, such as antecedent hospital or PAC provider use, and may use such matched data for such other uses as the Secretary determines appropriate.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Replacement of certain existing data.—</heading><content style="-uslm-dtd:text">In the case of patient assessment data being used with respect to a PAC assessment instrument that duplicates or overlaps with standardized patient assessment data within a category described in paragraph (1), the Secretary shall, as soon as practicable, revise or replace such existing data with the standardized data.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Clarification.—</heading><content style="-uslm-dtd:text">Standardized patient assessment data submitted pursuant to this subsection shall not be used to require individuals to be provided post-acute care by a specific type of PAC provider in order for such care to be eligible for payment under this title.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">“(c) </num><heading style="-uslm-dtd:header">Quality measures.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Requirement for reporting quality measures.—</heading><chapeau style="-uslm-dtd:text">Not later than the specified application date, as applicable to measures and PAC providers, the Secretary shall specify quality measures on which PAC providers are required under the applicable reporting provisions to submit standardized patient assessment data described in subsection (b)(1) and other necessary data specified by the Secretary. Such measures shall be with respect to at least the following domains:</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">Functional status, cognitive function, and changes in function and cognitive function.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">Skin integrity and changes in skin integrity.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">Medication reconciliation.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">Incidence of major falls.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="E">“(E) </num><chapeau style="-uslm-dtd:text">Accurately communicating the existence of and providing for the transfer of health information and care preferences of an individual to the individual, family caregiver of the individual, and providers of services furnishing items and services to the individual, when the individual transitions—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">from a hospital or critical access hospital to another applicable setting, including a PAC provider or the home of the individual; or</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">from a PAC provider to another applicable setting, including a different PAC provider, a hospital, a critical access hospital, or the home of the individual.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Reporting through pac assessment instruments.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">To the extent possible, the Secretary shall require such reporting by a PAC provider of quality measures under paragraph (1) through the use of a PAC assessment instrument and shall modify such PAC assessment instrument as necessary to enable the use of such instrument with respect to such quality measures.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Limitation.—</heading><content style="-uslm-dtd:text">The Secretary may not make significant modifications to a PAC assessment instrument more than once per calendar year or fiscal year, as applicable, unless the Secretary publishes in the Federal Register a justification for such significant modification.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Adjustments.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall consider applying adjustments to the quality measures under this subsection taking into consideration the studies under section 2(d) of the IMPACT Act of 2014.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Risk adjustment.—</heading><content style="-uslm-dtd:text">Such quality measures shall be risk adjusted, as determined appropriate by the Secretary.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="d">“(d) </num><heading style="-uslm-dtd:header">Resource use and other measures.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Requirement for resource use and other measures.—</heading><chapeau style="-uslm-dtd:text">Not later than the specified application date, as applicable to measures and PAC providers, the Secretary shall specify resource use and other measures on which PAC providers are required under the applicable reporting provisions  to submit any necessary data specified by the Secretary, which may include standardized assessment data in addition to claims data. Such measures shall be with respect to at least the following domains:</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">Resource use measures, including total estimated Medicare spending per beneficiary.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">Discharge to community.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">Measures to reflect all-condition risk-adjusted potentially preventable hospital readmission rates.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Aligning methodology adjustments for resource use measures.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Period of time.—</heading><content style="-uslm-dtd:text">With respect to the period of time used for calculating measures under paragraph (1)(A), the Secretary shall, to the extent the Secretary determines appropriate, align resource use with the methodology used for purposes of section 1886(o)(2)(B)(ii).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Geographic and other adjustments.—</heading><content style="-uslm-dtd:text">The Secretary shall standardize measures with respect to the domain described in paragraph (1)(A) for geographic payment rate differences and payment differentials (and other adjustments, as applicable) consistent with the methodology published in the Federal Register on August 18, 2011 (76 Fed. Reg. 51624 through 51626), or any subsequent modifications made to the methodology.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Medicare spending per beneficiary.—</heading><content style="-uslm-dtd:text">The Secretary shall adjust, as appropriate, measures with respect to the domain described in paragraph (1)(A) for the factors applied under section 1886(o)(2)(B)(ii).</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Adjustments.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall consider applying adjustments to the resource use and other measures specified under this subsection with respect to the domain described in paragraph (1)(A), taking into consideration the studies under section 2(d) of the IMPACT Act of 2014.</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Risk adjustment.—</heading><content style="-uslm-dtd:text">Such resource use and other measures shall be risk adjusted, as determined appropriate by the Secretary.</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="e">“(e) </num><heading style="-uslm-dtd:header">Measurement Implementation Phases; Selection of Quality Measures and Resource Use and Other Measures.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">Measurement implementation phases.—</heading><chapeau style="-uslm-dtd:text">In the case of quality measures specified under subsection (c)(1) and resource use and other measures specified under subsection (d)(1), the provisions of this section shall be implemented in accordance with the following phases:</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Initial implementation phase.—</heading><chapeau style="-uslm-dtd:text">The initial implementation phase, with respect to such a measure, shall, in accordance with subsections (c) and (d), as applicable, consist of—</chapeau>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">measure specification, including informing the public of the measure’s numerator, denominator, exclusions, and any other aspects the Secretary determines necessary;</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">data collection, including, in the case of quality measures, requiring PAC providers to report data elements needed to calculate such a measure; and</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">data analysis, including, in the case of resource use and other measures, the use of claims data to calculate such a measure.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Second implementation phase.—</heading><content style="-uslm-dtd:text">The second implementation phase, with respect to such a measure, shall consist of the provision of feedback reports to PAC providers, in accordance with subsection (f).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><heading style="-uslm-dtd:header">Third implementation phase.—</heading><content style="-uslm-dtd:text">The third implementation phase, with respect to such a measure, shall consist of public reporting of PAC providers’ performance on such measure in accordance with subsection (g).</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Consensus-based entity.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to subparagraph (B), each measure specified by the Secretary under this section shall be endorsed by the entity with a contract under section 1890(a).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Exception.—</heading><content style="-uslm-dtd:text">In the case of a specified area or medical topic determined appropriate by the Secretary for which a feasible and practical measure has not been endorsed by the entity with a contract under section 1890(a), the Secretary may specify a measure that is not so endorsed as long as due consideration is given to measures that have been endorsed or adopted by a consensus organization identified by the Secretary.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Treatment of application of pre-rulemaking process (measure applications partnership process).—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to subparagraph (B), the provisions of section 1890A shall apply in the case of a quality measure specified under subsection (c) or a resource use or other measure specified under subsection (d).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Exceptions.—</heading>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">Expedited procedures.—</heading><content style="-uslm-dtd:text">For purposes of satisfying subparagraph (A), the Secretary may use expedited procedures, such as ad-hoc reviews, as necessary, in the case of a quality measure specified under subsection (c) or a resource use or other measure specified in subsection (d) required with respect to data submissions under the applicable reporting provisions during the 1-year period before the specified application date applicable to such a measure and provider involved.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Option to waive provisions.—</heading><content style="-uslm-dtd:text">The Secretary may waive the application of the provisions of section 1890A in the case of a quality measure or resource use or other measure described in clause (i), if the application of such provisions (including through the use of an expedited procedure described in such clause) would result in the inability of the Secretary to satisfy any deadline specified in this section with respect to such measure.</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="f">“(f) </num><heading style="-uslm-dtd:header">Feedback Reports to PAC Providers.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Beginning one year after the specified application date, as applicable to PAC providers and quality measures and resource use and other measures under this section, the Secretary shall provide confidential feedback reports to such PAC providers on the performance of such  providers with respect to such measures required under the applicable provisions.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Frequency.—</heading><content style="-uslm-dtd:text">To the extent feasible, the Secretary shall provide feedback reports described in paragraph (1) not less frequently than on a quarterly basis. Notwithstanding the previous sentence, with respect to measures described in such paragraph that are reported on an annual basis, the Secretary may provide such feedback reports on an annual basis.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="g">“(g) </num><heading style="-uslm-dtd:header">Public Reporting of PAC Provider Performance.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Subject to the succeeding paragraphs of this subsection, the Secretary shall provide for public reporting of PAC provider performance on quality measures under subsection (c)(1) and the resource use and other measures under subsection (d)(1), including by establishing procedures for making available to the public information regarding the performance of individual PAC providers with respect to such measures.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Opportunity to review.—</heading><content style="-uslm-dtd:text">The procedures under paragraph (1) shall ensure, including through a process consistent with the process applied under section 1886(b)(3)(B)(viii)(VII) for similar purposes, that a PAC provider has the opportunity to review and submit corrections to the data and information that is to be made public with respect to the provider prior to such data being made public.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Timing.—</heading><content style="-uslm-dtd:text">Such procedures shall provide that the data and information described in paragraph (1), with respect to a measure and PAC provider, is made publicly available beginning not later than two years after the specified application date applicable to such a measure and provider.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">“(4) </num><heading style="-uslm-dtd:header">Coordination with existing programs.—</heading><chapeau style="-uslm-dtd:text">Such procedures shall provide that data and information described in paragraph (1) with respect to quality measures and resource use and other measures under subsections (c)(1) and (d)(1) shall be made publicly available consistent with the following provisions:</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">In the case of home health agencies, section 1895(b)(3)(B)(v)(III).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">In the case of skilled nursing facilities, sections 1819(i) and 1919(i).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">In the case of inpatient rehabilitation facilities, section 1886(j)(7)(E).</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="D">“(D) </num><content style="-uslm-dtd:text">In the case of long-term care hospitals, section 1886(m)(5)(E).</content>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="h">“(h) </num><heading style="-uslm-dtd:header">Removing, Suspending, or Adding Measures.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary may remove, suspend, or add a quality measure or resource use or other measure described in subsection (c)(1) or (d)(1), so long as, subject to paragraph (2), the Secretary publishes in the Federal Register (with a notice and comment period) a justification for such removal, suspension, or addition.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Exception.—</heading><content style="-uslm-dtd:text">In the case of such a quality measure or resource use or other measure for which there is a reason to believe that the continued collection of such measure raises potential safety concerns or would cause other unintended consequences, the Secretary may promptly suspend or remove such measure and satisfy paragraph (1) by publishing in the  Federal Register a justification for such suspension or removal in the next rulemaking cycle following such suspension or removal.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">Use of Standardized Assessment Data, Quality Measures, and Resource Use and Other Measures To Inform Discharge Planning and Incorporate Patient Preference.—</heading>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">“(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Not later than January 1, 2016, and periodically thereafter (but not less frequently than once every 5 years), the Secretary shall promulgate regulations to modify conditions of participation and subsequent interpretive guidance applicable to PAC providers, hospitals, and critical access hospitals. Such regulations and interpretive guidance shall require such providers to take into account quality, resource use, and other measures under the applicable reporting provisions (which, as available, shall include measures specified under subsections (c) and (d), and other relevant measures) in the discharge planning process. Specifically, such regulations and interpretive guidance shall address the settings to which a patient may be discharged in order to assist subsection (d) hospitals, critical access hospitals, hospitals described in section 1886(d)(1)(B)(v), PAC providers, patients, and families of such patients with discharge planning from inpatient settings, including such hospitals, and from PAC provider settings. In addition, such regulations and interpretive guidance shall include procedures to address—</chapeau>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">treatment preferences of patients; and</content>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">goals of care of patients.</content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><heading style="-uslm-dtd:header">Discharge planning.—</heading><content style="-uslm-dtd:text">All requirements applied pursuant to paragraph (1) shall be used to help inform and mandate the discharge planning process.</content>
+                        </paragraph>
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Clarification.—</heading><content style="-uslm-dtd:text">Such regulations shall not require an individual to be provided post-acute care by a specific type of PAC provider in order for such care to be eligible for payment under this title.</content>
+                        </paragraph>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="j">“(j) </num><heading style="-uslm-dtd:header">Stakeholder Input.—</heading><content style="-uslm-dtd:text">Before the initial rulemaking process to implement this section, the Secretary shall allow for stakeholder input, such as through town halls, open door forums, and mail-box submissions.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="k">“(k) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">For purposes of carrying out this section, the Secretary shall provide for the transfer to the Centers for Medicare &amp; Medicaid Services Program Management Account, from the Federal Hospital Insurance Trust Fund under section 1817 and the Federal Supplementary Medical Insurance Trust Fund under section 1841, in such proportion as the Secretary determines appropriate, of $130,000,000. Fifty percent of such amount shall be available on the date of the enactment of this section and fifty percent of such amount shall be equally proportioned for each of fiscal years 2015 through 2019. Such sums shall remain available until expended.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="l">“(l) </num><heading style="-uslm-dtd:header">Limitation.—</heading><content style="-uslm-dtd:text">There shall be no administrative or judicial review under sections 1869 and 1878 or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="m">“(m) </num><heading style="-uslm-dtd:header">Non-Application of Paperwork Reduction Act.—</heading><content style="-uslm-dtd:text">Chapter 35 of title 44, United States Code (commonly referred to as the ‘<quotedText style="-uslm-dtd:quote">Paperwork Reduction Act of 1995</quotedText>’) shall not apply to    this section and the sections referenced in subsection (a)(2)(B) that require modification in order to achieve the standardization of patient assessment data.”</content>
+                    </subsection>
+                </section></quotedContent>.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/113/185/s2/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Studies of Alternative PAC Payment Models.—</heading>
+                <paragraph identifier="/us/sComp/113/185/s2/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">MedPAC.—</heading><content style="-uslm-dtd:text">Using data from the Post-Acute Payment Reform Demonstration authorized under section 5008 of the Deficit Reduction Act of 2005 (Public Law 109-171) or other data, as available, not later than June 30, 2016, the Medicare Payment Advisory Commission shall submit to Congress a report that evaluates and recommends features of PAC payment systems (as defined in section 1899B(a)(2)(D) of the Social Security Act, as added by subsection (a)) that establish, or a unified post-acute care payment system under title XVIII of the Social Security Act that establishes, payment rates according to characteristics of individuals (such as cognitive ability, functional status, and impairments) instead of according to the post-acute care setting where the Medicare beneficiary involved is treated. To the extent feasible, such report shall consider the impacts of moving from PAC payment systems (as defined in subsection (a)(2)(D) of such section 1899B) in existence as of the date of the enactment of this Act to new post-acute care payment systems under title XVIII of the Social Security Act.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s2/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Recommendations for pac prospective payment.—</heading>
+                    <subparagraph identifier="/us/sComp/113/185/s2/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Report by secretary.—</heading><chapeau style="-uslm-dtd:text">Not later than 2 years after the date by which the Secretary of Health and Human Services has collected 2 years of data on quality measures under subsection (c) of section 1899B, as added by subsection (a), the Secretary shall, in consultation with the Medicare Payment Advisory Commission and appropriate stakeholders, submit to Congress a report, including—</chapeau>
+                        <clause identifier="/us/sComp/113/185/s2/b/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><chapeau style="-uslm-dtd:text">recommendations and a technical prototype, on a post-acute care prospective payment system under title XVIII of the Social Security Act that would—</chapeau>
+                            <subclause identifier="/us/sComp/113/185/s2/b/2/A/i/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">in lieu of the rates that would otherwise apply under PAC payment systems (as defined in subsection (a)(2)(D) of such section 1899B), base payments under such title, with respect to items and services furnished to an individual by a PAC provider (as defined in subsection (a)(2)(A) of such section), according to individual characteristics (such as cognitive ability, functional status, and impairments) of such individual instead of the post-acute care setting in which the individual is furnished such items and services;</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/113/185/s2/b/2/A/i/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">account for the clinical appropriateness of items and services so furnished and Medicare beneficiary outcomes;</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/113/185/s2/b/2/A/i/III" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">be designed to incorporate (or otherwise account for) standardized patient assessment data under section 1899B; and</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/113/185/s2/b/2/A/i/IV" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="IV">(IV) </num><content style="-uslm-dtd:text">further clinical integration, such as by motivating greater coordination around a single condition or procedure to integrate hospital systems with PAC providers (as so defined).</content>
+                            </subclause>
+                        </clause>
+                        <clause identifier="/us/sComp/113/185/s2/b/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">recommendations on which Medicare fee-for-service regulations for post-acute care payment systems under title XVIII of the Social Security Act should be altered (such as the skilled nursing facility 3-day stay and inpatient rehabilitation facility 60 percent rule);</content>
+                        </clause>
+                        <clause identifier="/us/sComp/113/185/s2/b/2/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">an analysis of the impact of the recommended payment system described in clause (i) on Medicare beneficiary cost-sharing, access to care, and choice of setting;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/113/185/s2/b/2/A/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">a projection of any potential reduction in expenditures under title XVIII of the Social Security Act that may be attributable to the application of the recommended payment system described in clause (i); and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/113/185/s2/b/2/A/v" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">a review of the value of subsection (d) hospitals (as defined in section 1886(d)(1)(B) of the Social Security Act (42 U.S.C. 1395ww(d)(1)(B)), hospitals described in section 1886(d)(1)(B)(v) of such Act (42 U.S.C. 1395ww(d)(1)(B)(v)), and critical access hospitals described in section 1820(c)(2)(B) of such Act (42 U.S.C. 1395i-4(c)(2)(B)) collecting and reporting to the Secretary standardized patient assessment data with respect to inpatient hospital services furnished by such a hospital or critical access hospital to individuals who are entitled to benefits under part A of title XVIII of such Act or, as appropriate, enrolled for benefits under part B of such title.</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Report by medpac.—</heading><content style="-uslm-dtd:text">Not later than the first June 30th following the date on which the report is required under subparagraph (A), the Medicare Payment Advisory Commission shall submit to Congress a report, including recommendations and a technical prototype, on a post-acute care prospective payment system under title XVIII of the Social Security Act that would satisfy the criteria described in subparagraph (A).</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s2/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Medicare beneficiary defined.—</heading><content style="-uslm-dtd:text">For purposes of this subsection, the term “<quotedText style="-uslm-dtd:quote">Medicare beneficiary</quotedText>” has the meaning given such term in section 1899B(a)(2) of the Social Security Act, as added by subsection (a).</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/113/185/s2/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Payment Consequences Under the Applicable Reporting Provisions.—</heading>
+                <paragraph identifier="/us/sComp/113/185/s2/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Home health agencies.—</heading><chapeau style="-uslm-dtd:text">Section 1895(b)(3)(B)(v) of the Social Security Act (42 U.S.C. 1395fff(b)(3)(B)(v)) is amended—</chapeau>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subclause (I), by striking “<quotedText style="-uslm-dtd:quote">subclause (II)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subclauses (II) and (IV)</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subclause (II), by striking “<quotedText style="-uslm-dtd:quote">For 2007</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Subject to subclause (V), for 2007</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in subclause (III), by inserting “<quotedText style="-uslm-dtd:quote">and subclause (IV)(aa)</quotedText>” after “<quotedText style="-uslm-dtd:quote">subclause (II)</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">by adding at the end the following new subclauses:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="IV">“(IV) </num><heading style="-uslm-dtd:header">Submission of additional data.—</heading>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="aa">“(aa) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">For the year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1899B), as  applicable with respect to home health agencies and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent year, in addition to the data described in subclause (II), each home health agency shall submit to the Secretary data on such quality measures and any necessary data specified by the Secretary under such subsection (d)(1).</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="bb">“(bb) </num><heading style="-uslm-dtd:header">Standardized patient assessment data.—</heading><content style="-uslm-dtd:text">For 2019 and each subsequent year, in addition to such data described in item (aa), each home health agency shall submit to the Secretary standardized patient assessment data required under subsection (b)(1) of section 1899B.</content>
+                            </item>
+                            <item style="-uslm-dtd:item" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="cc">“(cc) </num><heading style="-uslm-dtd:header">Submission.—</heading><content style="-uslm-dtd:text">Data shall be submitted under items (aa) and (bb) in the form and manner, and at the time, specified by the Secretary for purposes of this clause.</content>
+                            </item>
+                        </subclause>
+                        <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="V">“(V) </num><heading style="-uslm-dtd:header">Non-duplication.—</heading><content style="-uslm-dtd:text">To the extent data submitted under subclause (IV) duplicates other data required to be submitted under subclause (II), the submission of such data under subclause (IV) shall be in lieu of the submission of such data under subclause (II). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1899B, taking into account the different specified application dates under subsection (a)(2)(E) of such section.”</content>
+                        </subclause></quotedContent>.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s2/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Inpatient rehabilitation facilities.—</heading><chapeau style="-uslm-dtd:text">Section 1886(j)(7) of the Social Security Act (42 U.S.C. 1395ww(j)(7)) is amended—</chapeau>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subparagraph (A)(i), by striking “<quotedText style="-uslm-dtd:quote">subparagraph (C)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subparagraphs (C) and (F)</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subparagraph (C), by striking “<quotedText style="-uslm-dtd:quote">For fiscal year 2014 and each subsequent rate year</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Subject to subparagraph (G), for fiscal year 2014 and each subsequent fiscal year</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in subparagraph (E), by inserting “<quotedText style="-uslm-dtd:quote">and subparagraph (F)(i)</quotedText>” after “<quotedText style="-uslm-dtd:quote">subparagraph (C)</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">by adding at the end the following new subparagraphs:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">“(F) </num><heading style="-uslm-dtd:header">Submission of additional data.—</heading>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">For the fiscal year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1899B), as applicable with respect to inpatient rehabilitation facilities and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent fiscal year, in addition to such data on the quality measures described in subparagraph (C), each rehabilitation facility shall submit to the Secretary data on the quality measures under such  subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Standardized patient assessment data.—</heading><content style="-uslm-dtd:text">For fiscal year 2019 and each subsequent fiscal year, in addition to such data described in clause (i), each rehabilitation facility shall submit to the Secretary standardized patient assessment data required under subsection (b)(1) of section 1899B.</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><heading style="-uslm-dtd:header">Submission.—</heading><content style="-uslm-dtd:text">Such data shall be submitted in the form and manner, and at the time, specified by the Secretary for purposes of this subparagraph.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">“(G) </num><heading style="-uslm-dtd:header">Non-duplication.—</heading><content style="-uslm-dtd:text">To the extent data submitted under subparagraph (F) duplicates other data required to be submitted under subparagraph (C), the submission of such data under subparagraph (F) shall be in lieu of the submission of such data under subparagraph (C). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1899B, taking into account the different specified application dates under subsection (a)(2)(E) of such section.”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s2/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Long-term care hospitals.—</heading><chapeau style="-uslm-dtd:text">Section 1886(m)(5) of the Social Security Act (42 U.S.C. 1395ww(m)(5)) is amended—</chapeau>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">in subparagraph (A)(i), by striking “<quotedText style="-uslm-dtd:quote">subparagraph (C)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subparagraphs (C) and (F)</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">in subparagraph (C), by striking “<quotedText style="-uslm-dtd:quote">For rate year</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Subject to subparagraph (G), for rate year</quotedText>”;</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">in subparagraph (E), by inserting “<quotedText style="-uslm-dtd:quote">and subparagraph (F)(i)</quotedText>” after “<quotedText style="-uslm-dtd:quote">subparagraph (C)</quotedText>”; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">by adding at the end the following new subparagraphs:<quotedContent style="-uslm-dtd:quoted-block">
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">“(F) </num><heading style="-uslm-dtd:header">Submission of additional data.—</heading>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">For the rate year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1899B), as applicable with respect to long-term care hospitals and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent rate year, in addition to the data on the quality measures described in subparagraph (C), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(iv)(II)) shall submit to the Secretary data on the quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Standardized patient assessment data.—</heading><content style="-uslm-dtd:text">For rate year 2019 and each subsequent rate year, in addition to such data described in clause (i), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(iv)(II)) shall submit to the Secretary standardized patient assessment data required under subsection (b)(1) of section 1899B.</content>
+                            </clause>
+                            <clause style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">“(iii) </num><heading style="-uslm-dtd:header">Submission.—</heading><content style="-uslm-dtd:text">Such data shall be submitted in the form and manner, and at the time, specified by the Secretary for purposes of this subparagraph.</content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="G">“(G) </num><heading style="-uslm-dtd:header">Non-duplication.—</heading><content style="-uslm-dtd:text">To the extent data submitted under subparagraph (F) duplicates other data required to  be submitted under subparagraph (C), the submission of such data under subparagraph (F) shall be in lieu of the submission of such data under subparagraph (C). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1899B, taking into account the different specified application dates under subsection (a)(2)(E) of such section.”</content>
+                        </subparagraph></quotedContent>.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s2/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Skilled nursing facilities.—</heading>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Paragraph (6) of section 1888(e) of the Social Security Act (42 U.S.C. 1395yy(e)) is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="6">“(6) </num><heading style="-uslm-dtd:header">Reporting of assessment and quality data.—</heading>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">“(A) </num><heading style="-uslm-dtd:header">Reduction in update for failure to report.—</heading>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">For fiscal years beginning with fiscal year 2018, in the case of a skilled nursing facility that does not submit data, as applicable, in accordance with subclauses (II) and (III) of subparagraph (B)(i) with respect to such a fiscal year, after determining the percentage described in paragraph (5)(B)(i), and after application of paragraph (5)(B)(ii), the Secretary shall reduce such percentage for payment rates during such fiscal year by 2 percentage points.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Special rule.—</heading><content style="-uslm-dtd:text">The application of this subparagraph may result in the percentage described in paragraph (5)(B)(i), after application of paragraph (5)(B)(ii), being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><heading style="-uslm-dtd:header">Noncumulative application.—</heading><content style="-uslm-dtd:text">Any reduction under clause (i) shall apply only with respect to the fiscal year involved and the Secretary shall not take into account such reduction in computing the payment amount under this subsection for a subsequent fiscal year.</content>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">“(B) </num><heading style="-uslm-dtd:header">Assessment and measure data.—</heading>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="i">“(i) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">A skilled nursing facility, or a facility (other than a critical access hospital) described in paragraph (7)(B), shall submit to the Secretary, in a manner and within the timeframes prescribed by the Secretary—</chapeau>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="I">“(I) </num><content style="-uslm-dtd:text">subject to clause (iii), the resident assessment data necessary to develop and implement the rates under this subsection;</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="II">“(II) </num><content style="-uslm-dtd:text">for fiscal years beginning on or after the specified application date (as defined in subsection (a)(2)(E) of section 1899B), as applicable with respect to skilled nursing facilities and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, data on such quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1); and</content>
+                                    </subclause>
+                                    <subclause style="-uslm-dtd:subclause" styleType="OLC">
+                                        <num style="-uslm-dtd:enum" value="III">“(III) </num><content style="-uslm-dtd:text">for fiscal years beginning on or after October 1, 2018, standardized patient assessment  data required under subsection (b)(1) of section 1899B.</content>
+                                    </subclause>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="ii">“(ii) </num><heading style="-uslm-dtd:header">Use of standard instrument.—</heading><content style="-uslm-dtd:text">For purposes of meeting the requirement under clause (i), a skilled nursing facility, or a facility (other than a critical access hospital) described in paragraph (7)(B), may submit the resident assessment data required under section 1819(b)(3), using the standard instrument designated by the State under section 1819(e)(5).</content>
+                                </clause>
+                                <clause style="-uslm-dtd:clause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="iii">“(iii) </num><heading style="-uslm-dtd:header">Non-duplication.—</heading><content style="-uslm-dtd:text">To the extent data submitted under subclause (II) or (III) of clause (i) duplicates other data required to be submitted under clause (i)(I), the submission of such data under such a subclause shall be in lieu of the submission of such data under clause (i)(I). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1899B, taking into account the different specified application dates under subsection (a)(2)(E) of such section.”</content>
+                                </clause>
+                            </subparagraph>
+                        </paragraph></quotedContent>.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/c/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Funding for nursing home compare website.—</heading><content style="-uslm-dtd:text">Section 1819(i) of the Social Security Act (42 U.S.C. 1395i-3(i)) is amended by adding at the end the following new paragraph:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">“(3) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">The Secretary shall transfer to the Centers for Medicare &amp; Medicaid Services Program Management Account, from the Federal Hospital Insurance Trust Fund under section 1817 a one-time allocation of $11,000,000. The amount shall be available on the date of the enactment of this paragraph. Such sums shall remain available until expended. Such sums shall be used to implement section 1128I(g).”</content>
+                        </paragraph></quotedContent>.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/113/185/s2/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s1395lll">42 U.S.C. 1395lll note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Improving Payment Accuracy Under the PAC Payment Systems and Other Medicare Payment Systems.—</heading>
+                <paragraph identifier="/us/sComp/113/185/s2/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Studies and reports of effect of certain information on quality and resource use.—</heading>
+                    <subparagraph identifier="/us/sComp/113/185/s2/d/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">Study using existing medicare data.—</heading>
+                        <clause identifier="/us/sComp/113/185/s2/d/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Study.—</heading><content style="-uslm-dtd:text">The Secretary of Health and Human Services (in this subsection referred to as the “<quotedText style="-uslm-dtd:quote">Secretary</quotedText>”) shall conduct a study that examines the effect of individuals’ socioeconomic status on quality measures and resource use and other measures for individuals under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) (such as to recognize that less healthy individuals may require more intensive interventions). The study shall use information collected on such individuals in carrying out such program, such as urban and rural location, eligibility for Medicaid under title XIX of such Act (42 U.S.C. 1396 et seq.) (recognizing and accounting for varying Medicaid eligibility across States), and eligibility for benefits under the supplemental security income (SSI) program. The Secretary shall carry out this paragraph acting through the Assistant Secretary for Planning and Evaluation.</content>
+                        </clause>
+                        <clause identifier="/us/sComp/113/185/s2/d/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 2 years after the date of the enactment of this Act, the Secretary shall submit    to Congress a report on the study conducted under clause (i).</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/d/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Study using other data.—</heading>
+                        <clause identifier="/us/sComp/113/185/s2/d/1/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Study.—</heading><content style="-uslm-dtd:text">The Secretary shall conduct a study that examines the impact of risk factors, such as those described in section 1848(p)(3) of the Social Security Act (42 U.S.C. 1395w-4(p)(3)), race, health literacy, limited English proficiency (LEP), and Medicare beneficiary activation, on quality measures and resource use and other measures under the Medicare program (such as to recognize that less healthy individuals may require more intensive interventions). In conducting such study the Secretary may use existing Federal data and collect such additional data as may be necessary to complete the study.</content>
+                        </clause>
+                        <clause identifier="/us/sComp/113/185/s2/d/1/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Report.—</heading><content style="-uslm-dtd:text">Not later than 5 years after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the study conducted under clause (i).</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/d/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Examination of data in conducting studies.—</heading><content style="-uslm-dtd:text">In conducting the studies under subparagraphs (A) and (B), the Secretary shall examine what non-Medicare data sets, such as data from the American Community Survey (ACS), can be useful in conducting the types of studies under such paragraphs and how such data sets that are identified as useful can be coordinated with Medicare administrative data in order to improve the overall data set available to do such studies and for the administration of the Medicare program.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/d/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Recommendations to account for information in payment adjustment mechanisms.—</heading><chapeau style="-uslm-dtd:text">If the studies conducted under subparagraphs (A) and (B) find a relationship between the factors examined in the studies and quality measures and resource use and other measures, then the Secretary shall also provide recommendations for how the Centers for Medicare &amp; Medicaid Services should—</chapeau>
+                        <clause identifier="/us/sComp/113/185/s2/d/1/D/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">obtain access to the necessary data (if such data is not already being collected) on such factors, including recommendations on how to address barriers to the Centers in accessing such data; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/113/185/s2/d/1/D/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">account for such factors—</chapeau>
+                            <subclause identifier="/us/sComp/113/185/s2/d/1/D/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">in quality measures, resource use measures, and other measures under title XVIII of the Social Security Act (including such measures specified under subsections (c) and (d) of section 1899B of such Act, as added by subsection (a)); and</content>
+                            </subclause>
+                            <subclause identifier="/us/sComp/113/185/s2/d/1/D/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">in determining payment adjustments based on such measures in other applicable provisions of such title.</content>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/d/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">There are hereby appropriated to the Secretary from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t) (in proportions determined appropriate by the Secretary) to carry out this paragraph $6,000,000, to remain available until expended.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s2/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">CMS activities.—</heading>
+                    <subparagraph identifier="/us/sComp/113/185/s2/d/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">Taking into account the relevant studies conducted and recommendations made in reports under paragraph (1) and, as appropriate, other information, including information collected before completion of such studies and recommendations, the Secretary, on an ongoing basis, shall, as the Secretary determines appropriate and based on an individual’s health status and other factors—</chapeau>
+                        <clause identifier="/us/sComp/113/185/s2/d/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">assess appropriate adjustments to quality measures, resource use measures, and other measures under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) (including measures specified in subsections (c) and (d) of section 1899B of such Act, as added by subsection (a)); and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/113/185/s2/d/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">assess and implement appropriate adjustments to payments under such title based on measures described in clause (i).</content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/d/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Accessing data.—</heading><content style="-uslm-dtd:text">The Secretary shall collect or otherwise obtain access to the data necessary to carry out this paragraph through existing and new data sources.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/d/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><heading style="-uslm-dtd:header">Periodic analyses.—</heading><content style="-uslm-dtd:text">The Secretary shall carry out periodic analyses, at least every 3 years, based on the factors referred to in subparagraph (A) so as to monitor changes in possible relationships.</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s2/d/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">There are hereby appropriated to the Secretary from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t) (in proportions determined appropriate by the Secretary) to carry out this paragraph $10,000,000, to remain available until expended.</content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s2/d/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Strategic plan for accessing race and ethnicity data.—</heading><content style="-uslm-dtd:text">Not later than 18 months after the date of the enactment of this Act, the Secretary shall develop and report to Congress on a strategic plan for collecting or otherwise accessing data on race and ethnicity for purposes of specifying quality measures and resource use and other measures under subsections (c) and (d) of section 1899B of the Social Security Act, as added by subsection (a), and, as the Secretary determines appropriate, other similar provisions of, including payment adjustments under, title XVIII of such Act (42 U.S.C. 1395 et seq.).</content>
+                </paragraph>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/113/185/s3" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="3">SEC. 3. </num><heading style="-uslm-dtd:header">HOSPICE CARE. </heading>
+            <subsection identifier="/us/sComp/113/185/s3/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Hospice Survey Requirement.—</heading>
+                <paragraph identifier="/us/sComp/113/185/s3/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Section 1861(dd)(4) of the Social Security Act (42 U.S.C. 1395x(dd)(4)) is amended by adding at the end the following new subparagraph:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subclause class="leftIndentDecrease4" style="-uslm-dtd:subclause" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">Any entity that is certified as a hospice program shall be subject to a standard survey by an appropriate State or local survey agency, or an approved accreditation agency, as determined by the Secretary, not less frequently than once every 36 months beginning 6 months after the date of the enactment of this subparagraph and ending September 30, 2025.”</content>
+                    </subclause></quotedContent>.</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s3/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Funding.—</heading><chapeau style="-uslm-dtd:text">For purposes of carrying out subparagraph (C) of section 1861(dd)(4) of the Social Security Act (42 U.S.C. 1395x(dd)(4)), as added by paragraph (1), and section 1822(a)(1) of such Act, there shall be transferred from the Federal Hospital Insurance Trust Fund under section 1817 of such Act (42 U.S.C. 1395i) to the Centers for Medicare &amp; Medicaid Services Program Management Account—</chapeau>
+                    <subparagraph identifier="/us/sComp/113/185/s3/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">$25,000,000 for fiscal years 2015 through 2017, to be made available for such purposes in equal parts for each such fiscal year; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s3/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">$45,000,000 for fiscal years 2018 through 2025, to be made available for such purposes in equal parts for each such fiscal year; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s3/a/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">$2,000,000 for the period beginning on October 1, 2025, and ending on January 30, 2026; and</content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/113/185/s3/a/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">$4,400,000 for the period beginning on January 31, 2026, and ending on December 31, 2026, to remain available until expended.</content>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/113/185/s3/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Hospice Program Eligibility Recertification Technical Correction to Apply Limitation on Liability of Beneficiary Rules.—</heading><content style="-uslm-dtd:text">Section 1879 of the Social Security Act (42 U.S.C. 1395pp) is amended by adding at the end the following new subsection:<quotedContent style="-uslm-dtd:quoted-block">
+                <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">“(i) </num><content style="-uslm-dtd:text">The provisions of this section shall apply with respect to a denial of a payment under this title by reason of section 1814(a)(7)(E) in the same manner as such provisions apply with respect to a denial of a payment under this title by reason of section 1862(a)(1).”</content>
+                </subsection></quotedContent>.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/113/185/s3/c" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Revision to Requirement for Medical Review of Certain Hospice Care.—</heading><chapeau style="-uslm-dtd:text">Section 1814(a)(7) of the Social Security Act (42 U.S.C. 1395f(a)(7)) is amended—</chapeau>
+                <paragraph identifier="/us/sComp/113/185/s3/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subparagraph (C), by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s3/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in subparagraph (D), in the matter preceding clause (i), by inserting “<quotedText style="-uslm-dtd:quote">(and, in the case of clause (ii), before the date of enactment of subparagraph (E))</quotedText>” after “<quotedText style="-uslm-dtd:quote">2011</quotedText>”; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s3/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following new subparagraph:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">“(E) </num><content style="-uslm-dtd:text">on and after the date of enactment of this subparagraph, in the case of hospice care provided an individual for more than 180 days by a hospice program for which the number of such cases for such program comprises more than a percent (specified by the Secretary) of the total number of all cases of individuals provided hospice care by the program under this title, the hospice care provided to such individual is medically reviewed (in accordance with procedures established by the Secretary); and”</content>
+                    </subparagraph></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/113/185/s3/d" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Update of Hospice Aggregate Payment Cap.—</heading><chapeau style="-uslm-dtd:text">Section 1814(i)(2)(B) of the Social Security Act (42 U.S.C. 1395f(i)(2)(B)) is amended—</chapeau>
+                <paragraph identifier="/us/sComp/113/185/s3/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">(B) For purposes</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">(B)(i) Except as provided in clause (ii), for purposes</quotedText>”; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s3/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by adding at the end the following:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="ii">“(ii) </num><content style="-uslm-dtd:text">For purposes of subparagraph (A) for accounting years that end after September 30, 2016, and before October 1, 2025, the ‘<quotedText style="-uslm-dtd:quote">cap amount</quotedText>’ is the cap amount under this subparagraph for the preceding accounting year updated by the percentage update to payment rates for hospice care under paragraph (1)(C) for services furnished during the fiscal year beginning on the October 1 preceding the beginning of the accounting year (including the application of any productivity or other adjustment under clause (iv) of that paragraph).</content>
+                    </subsection>
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="iii">“(iii) </num><content style="-uslm-dtd:text">For accounting years that end after September 30, 2025, the cap amount shall be computed under clause (i) as if clause (ii) had never applied.”</content>
+                    </subsection></quotedContent>.</content>
+                </paragraph>
+            </subsection>
+            <subsection identifier="/us/sComp/113/185/s3/e" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Medicare Improvement Fund.—</heading><chapeau style="-uslm-dtd:text">Section 1898 of the Social Security Act (42 U.S.C. 1395iii) is amended—</chapeau>
+                <paragraph identifier="/us/sComp/113/185/s3/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by amending the heading to read as follows: “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">medicare improvement fund</headingText></quotedText>”;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s3/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by amending subsection (a) to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                    <subsection style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">“(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">The Secretary shall establish under this title a Medicare Improvement Fund (in this section referred to as the ‘<quotedText style="-uslm-dtd:quote">Fund</quotedText>’) which shall be available to the Secretary to make improvements under the original Medicare fee-for-service program under parts A and B for individuals entitled to, or enrolled for, benefits under part or enrolled under part B including adjustments to payments for items and services furnished by providers of services and suppliers under such original Medicare fee-for-service program.”</content>
+                    </subsection></quotedContent>;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s3/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in subsection (b)(1), by striking “<quotedText style="-uslm-dtd:quote">during</quotedText>” and all that follows and inserting “<quotedText style="-uslm-dtd:quote">during and after fiscal year 2020, $195,000,000.</quotedText>”; and</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/113/185/s3/e/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in subsection (b)(2), by striking “<quotedText style="-uslm-dtd:quote">from the Federal</quotedText>” and all that follows and inserting “<quotedText style="-uslm-dtd:quote">from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines appropriate.</quotedText>”.</content>
+                </paragraph>
+            </subsection>
+        </section>
+    </main>
+</statuteCompilation>

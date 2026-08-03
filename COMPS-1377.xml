@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd" xml:lang="en" style="-uslm-dtd:statute">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>IMMIGRATION AND NATIONALITY TECHNICAL CORRECTIONS ACT OF 1994</dc:title>
+        <citableAs>Public Law 103–416, as amended</citableAs>
+        <citableAsShortTitle>IMMIGRATION AND NATIONALITY TECHNICAL CORRECTIONS ACT OF 1994</citableAsShortTitle>
+        <docNumber>416</docNumber>
+        <currentThroughPublicLaw>112–176</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
+        <processedDate>2021-10-15</processedDate>
+        <containsShortTitle>Immigration and Nationality Technical Corrections Act of 1994</containsShortTitle>
+        <property role="fileId">1377</property>
+        <congress>103</congress>
+        <approvedDate>1994-10-25</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property style="-uslm-dtd:comp-short-title" role="compShortTitle">IMMIGRATION AND NATIONALITY TECHNICAL CORRECTIONS ACT OF 1994</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 103–416</citableAs>, <date date="1994-10-25">October 25, 1994</date>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 112–176</currentThroughPublicLaw>, Enacted <date date="2012-09-28">September 28, 2012</date>]</editionNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 103–416. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
+        <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body">
+        <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/s1" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE. </heading>
+            <content style="-uslm-dtd:text" class="block">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote"><inline style="-uslm-dtd:short-title">Immigration and Nationality Technical Corrections Act of 1994</inline></shortTitle>”.</content>
+        </section>
+        <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/s2" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><heading style="-uslm-dtd:header">TABLE OF CONTENTS. </heading>
+            <content style="-uslm-dtd:text" class="block">The table of contents of this Act is as follows:<toc style="-uslm-dtd:toc">
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 1.</designator><label> Short title.</label></referenceItem>
+            <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 2.</designator><label> Table of contents.</label></referenceItem>
+            <groupItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE I—</designator><label>NATIONALITY AND NATURALIZATION</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 101.</designator><label> Equal treatment of women in conferring citizenship to children born abroad.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 102.</designator><label> Naturalization of children on application of citizen parent.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 103.</designator><label> Former citizens of United States regaining United States citizenship.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 104.</designator><label> Intent to reside permanently in the United States after naturalization.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 105.</designator><label> Terminology relating to expatriation.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 106.</designator><label> Administrative and judicial determinations relating to loss of citizenship.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 107.</designator><label> Cancellation of United States passports and consular reports of birth.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 108.</designator><label> Expanding waiver of the Government knowledge, United States history, and English language requirements for naturalization.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 109.</designator><label> Report on citizenship of certain legalized aliens.</label></referenceItem>
+            </groupItem>
+            <groupItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="title" class="centered"><designator>TITLE II—</designator><label>TECHNICAL CORRECTIONS OF IMMIGRATION LAWS</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 201.</designator><label> American Institute in Taiwan.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 202.</designator><label> G–4 special immigrants.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 203.</designator><label> Clarification of certain grounds for exclusion and deportation.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 204.</designator><label> United States citizens entering and departing on United States passports.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 205.</designator><label> Applications for visas.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 206.</designator><label> Family unity.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 207.</designator><label> Technical amendment regarding one-house veto.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 208.</designator><label> Authorization of appropriations for refugee assistance for fiscal years 1995, 1996, and 1997.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 209.</designator><label> Fines for unlawful bringing of aliens into the United States.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 210.</designator><label> Extension of visa waiver pilot program.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 211.</designator><label> Creation of probationary status for participant countries in the visa waiver pilot program.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 212.</designator><label> Technical changes to numerical limitations concerning certain special immigrants.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 213.</designator><label> Extension of telephone employment verification system.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 214.</designator><label> Extension of expanded definition of special immigrant for religious workers.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 215.</designator><label> Extension of off-campus work authorization for students.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 216.</designator><label> Eliminating obligation of carriers to detain stowaways.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 217.</designator><label> Completing use of visas provided under diversity transition program.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 218.</designator><label> Effect on preference date of application for labor certification.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 219.</designator><label> Other miscellaneous and technical corrections to immigration-related provisions.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 220.</designator><label> Waiver of foreign country residence requirement with respect to international medical graduates.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 221.</designator><label> Visas for officials of Taiwan.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 222.</designator><label> Expansion of definition of aggravated felony.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 223.</designator><label> Summary deportation.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 224.</designator><label> Judicial deportation.</label></referenceItem>
+                <referenceItem style="-uslm-dtd:toc-entry" role="section"><designator>Sec. 225.</designator><label> Construction of expedited deportation requirements.</label></referenceItem>
+            </groupItem></toc></content>
+        </section>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/103/416/tI" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">NATIONALITY AND NATURALIZATION </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tI/s101" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">EQUAL TREATMENT OF WOMEN IN CONFERRING CITIZENSHIP TO CHILDREN BORN ABROAD. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s101/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; added paragraph (h) to §301 of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s101/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Waiver of Retention Requirements.—</heading><content style="-uslm-dtd:text">Any provision of law (including section 301(b) of the Immigration and Nationality Act (as in effect before October 10, 1978), and the provisos of section 201(g) of the Nationality Act of 1940) that provided for a person's loss of citizenship or nationality if the person failed to come to, or reside or be physically present in, the United States shall not apply in the case of a person claiming United States citizenship based on such person's descent from an individual described in section 301(h) of the Immigration and Nationality Act (as added by subsection (a)).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s101/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Retroactive Application.—</heading><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tI/s101/c/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Except as provided in paragraph (2), the immigration and nationality laws of the United States shall be applied (to persons born before, on, or after the date of the enactment of this Act) as though the amendment made by subsection (a), and subsection (b), had been in effect as of the date of their birth, except that the retroactive application of the amendment and that subsection shall not affect the validity of citizenship of anyone who has obtained citizenship under section 1993 of the Revised Statutes (as in effect before the enactment of the Act of May 24, 1934 (48 Stat. 797)).</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tI/s101/c/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The retroactive application of the amendment made by subsection (a), and subsection (b), shall not confer citizenship on, or affect the validity of any denaturalization, deportation, or exclusion action against, any person who is or was excludable from the United States under section 212(a)(3)(E) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(E)) (or predecessor provision) or who was excluded from, or who would not have been eligible for admission to, the United States under the Displaced Persons Act of 1948 or under section 14 of the Refugee Relief Act of 1953.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s101/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Applicability of Transmission Requirements.—</heading><content style="-uslm-dtd:text">This section, the amendments made by this section, and any retroactive application of such amendments shall not effect the application of any provision of law relating to residence or physical presence in the United States for purposes of transmitting United States citizenship to any person whose claim is based on the amendment made by subsection (a) or through whom such a claim is derived.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tI/s102" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="102">SEC. 102. </num><heading style="-uslm-dtd:header">NATURALIZATION OF CHILDREN ON APPLICATION OF CITIZEN PARENT. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s102/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended section 322 of the INA in its entirety.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s102/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conforming Amendment.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; repealed subsection (c) of section 341 of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s102/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Clerical Amendment.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended item in table of contents of INA relating to section 322.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s102/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall take effect on the first day of the first month beginning more than 120 days after the date of the enactment of this Act.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s102/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Transition.—</heading><content style="-uslm-dtd:text">In applying the amendment made by subsection (a) to children born before November 14, 1986, any reference in the matter inserted by such amendment to “<quotedText style="-uslm-dtd:quote">five years, at least two of which</quotedText>” is deemed a reference to “<quotedText style="-uslm-dtd:quote">10 years, at least 5 of which</quotedText>”.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tI/s103" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="103">SEC. 103. </num><heading style="-uslm-dtd:header">FORMER CITIZENS OF UNITED STATES REGAINING UNITED STATES CITIZENSHIP. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s103/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; added subsection (d) to section 324 of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s103/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendment made by subsection (a) shall take effect on the first day of the first month beginning more than 120 days after the date of the enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tI/s104" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="104">SEC. 104. </num><heading style="-uslm-dtd:header">INTENT TO RESIDE PERMANENTLY IN THE UNITED STATES AFTER NATURALIZATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s104/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; struck certain language from section 338 of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s104/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conforming Repeal.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; repealed section 340(d) of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s104/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Conforming Redesignation.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; conforming amendments to section 340 of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s104/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Conforming Amendment.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; struck subsection (b) of section 405 of the Immigration Act of 1990.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s104/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendment made by subsection (a) shall apply to persons admitted to citizenship on or after the date of enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tI/s105" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="105">SEC. 105. </num><heading style="-uslm-dtd:header">TERMINOLOGY RELATING TO EXPATRIATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s105/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended section 351 of the INA by substituting ``references to “<quotedText style="-uslm-dtd:quote">loss of nationality</quotedText>” for “<quotedText style="-uslm-dtd:quote">expatriation</quotedText>”.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s105/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Clerical Amendment.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended item in table of contents of INA relating to section 351.<b>]</b> </editorialNote>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tI/s106" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="106">SEC. 106. </num><heading style="-uslm-dtd:header">ADMINISTRATIVE AND JUDICIAL DETERMINATIONS RELATING TO LOSS OF CITIZENSHIP. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; added sentence at the end of section 358 of the INA.<b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tI/s107" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="107">SEC. 107. </num><heading style="-uslm-dtd:header">CANCELLATION OF UNITED STATES PASSPORTS AND CONSULAR REPORTS OF BIRTH. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s107/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; added section 361 to the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s107/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Clerical Amendment.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; inserted item in table of contents of the INA relating to section 361.<b>]</b> </editorialNote>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tI/s108" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="108">SEC. 108. </num><heading style="-uslm-dtd:header">EXPANDING WAIVER OF THE GOVERNMENT KNOWLEDGE, UNITED STATES HISTORY, AND ENGLISH LANGUAGE REQUIREMENTS FOR NATURALIZATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s108/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended §312 of the INA by striking the proviso and adding a subsection (b).<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s108/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Conforming Amendments.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; made conforming amendment to section 245A(b)(1)(D) of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s108/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by subsection (a) shall take effect on the date of the enactment of this Act and shall apply to applications for naturalization filed on or after such date and to such applications pending on such date.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tI/s108/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Regulations.—</heading><content style="-uslm-dtd:text">Not later than 120 days after the date of enactment of this Act, the Attorney General shall promulgate regulations to carry out section 312(b)(3) of the Immigration and Nationality Act (as amended by subsection (a)).</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tI/s109" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="109">SEC. 109. </num><heading style="-uslm-dtd:header">REPORT ON CITIZENSHIP OF CERTAIN LEGALIZED ALIENS. </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">Not later than June 30, 1996, the Commissioner of the Immigration and Naturalization Service shall prepare and submit to the Congress a report concerning the citizenship status of aliens legalized under section 245A and section 210 of the Immigration and Nationality Act. Such report shall include the following information by district office for each national origin group:</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tI/s109/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The number of applications for citizenship filed.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tI/s109/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The number of applications approved.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tI/s109/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The number of applications denied.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tI/s109/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The number of applications pending.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title style="-uslm-dtd:title" identifier="/us/sComp/103/416/tII" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">TECHNICAL CORRECTIONS OF IMMIGRATION LAWS </heading>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s201" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><heading style="-uslm-dtd:header">AMERICAN INSTITUTE IN TAIWAN. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended section 101(a)(27)(D) of the INA to insert references to the American Institute in Taiwan.<b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s202" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><heading style="-uslm-dtd:header">G–4 SPECIAL IMMIGRANTS. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended subclause (II) of §101(a)(17)(I)(iii) of the INA.<b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s203" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="203">SEC. 203. </num><heading style="-uslm-dtd:header">CLARIFICATION OF CERTAIN GROUNDS FOR EXCLUSION AND DEPORTATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s203/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Exclusion Grounds.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended §§212(a)(2)(A)(i) and 212(h) of the INA to add attempts or conspiracies to commit crimes.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s203/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Deportation Grounds.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended §241(a)(2)(C) and 241(a)(3)(B) of the INA to add attempts or conspiracies.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s203/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall apply to convictions occurring before, on, or after the date of the enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s204" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="204">SEC. 204. </num><heading style="-uslm-dtd:header">UNITED STATES CITIZENS ENTERING AND DEPARTING ON UNITED STATES PASSPORTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s204/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; inserted “<quotedText style="-uslm-dtd:quote">United States</quotedText>” after “<quotedText style="-uslm-dtd:quote">valid</quotedText>” in §215(b) of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s204/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendment made by subsection (a) shall apply to departures and entries (and attempts thereof) occurring on or after the date of enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s205" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="205">SEC. 205. </num><heading style="-uslm-dtd:header">APPLICATIONS FOR VISAS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s205/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended §222(a) of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s205/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by subsection (a) shall apply to applications made on or after the date of the enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s206" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="206">SEC. 206. </num><heading style="-uslm-dtd:header">FAMILY UNITY. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s206/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended §301(a) of the Immigration Act of 1990.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s206/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendment made by subsection (a) shall be deemed to have become effective as of October 1, 1991.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s207" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="207">SEC. 207. </num><heading style="-uslm-dtd:header">TECHNICAL AMENDMENT REGARDING ONE-HOUSE VETO. </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">Section 13(c) of the Act of September 11, 1957 (8 U.S.C. 1255b(c)) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s207/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking the third sentence; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s207/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in the fourth sentence, by striking “<quotedText style="-uslm-dtd:quote">If neither the Senate nor the House of Representatives passes such a resolution within the time above specified, the</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">The</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s208" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="208">SEC. 208. </num><heading style="-uslm-dtd:header">AUTHORIZATION OF APPROPRIATIONS FOR REFUGEE ASSISTANCE FOR FISCAL YEARS 1995, 1996, AND 1997. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended §414(a) of the INA.<b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s209" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="209">SEC. 209. </num><heading style="-uslm-dtd:header">FINES FOR UNLAWFUL BRINGING OF ALIENS INTO THE UNITED STATES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s209/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">Section 273 of the Immigration and Nationality Act (8 U.S.C. 1323) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s209/a/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in subsections (b) and (d) by striking “<quotedText style="-uslm-dtd:quote">the sum of $3,000</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">a fine of $3,000</quotedText>” each place it appears;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s209/a/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in the first sentence of subsection (b) by striking “<quotedText style="-uslm-dtd:quote">a sum equal</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">an amount equal</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s209/a/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in the second sentence of subsection (d) by striking “<quotedText style="-uslm-dtd:quote">a sum sufficient to cover such fine</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">an amount sufficient to cover such fine</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s209/a/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">sum</quotedText>” and “<quotedText style="-uslm-dtd:quote">sums</quotedText>” each place either appears and inserting “<quotedText style="-uslm-dtd:quote">fine</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s209/a/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">in subsection (c) by striking “<quotedText style="-uslm-dtd:quote">Such</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Except as provided in subsection (e), such</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s209/a/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">by adding at the end the following new subsection:</content><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Text of subsection (e) omitted.<b>]</b> </editorialNote>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s209/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall apply with respect to aliens brought to the United States more than 60 days after the date of enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s210" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="210">SEC. 210. </num><heading style="-uslm-dtd:header">EXTENSION OF VISA WAIVER PILOT PROGRAM. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended §217(f) of the INA.<b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s211" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="211">SEC. 211. </num><heading style="-uslm-dtd:header">CREATION OF PROBATIONARY STATUS FOR PARTICIPANT COUNTRIES IN THE VISA WAIVER PROGRAM. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended subsections (a)(2)(B) and (c)(2) of §217 of the INA and added subsection (g) to that section.<b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s212" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="212">SEC. 212. </num><heading style="-uslm-dtd:header">TECHNICAL CHANGES TO NUMERICAL LIMITATIONS CONCERNING CERTAIN SPECIAL IMMIGRANTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s212/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Panama Canal Special Immigrants.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; struck subsection (c) of section 3201 of the Panama Canal Act of 1979 (Public Law 96–70).<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s212/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Armed Forces Special Immigrants.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; struck subparagraph (C) of §203(b)(6) of the INA.<b>]</b> </editorialNote>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s213" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="213">SEC. 213. </num><heading style="-uslm-dtd:header">EXTENSION OF TELEPHONE EMPLOYMENT VERIFICATION SYSTEM. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended §274A(d)(4)(A) of the INA.<b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s214" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="214">SEC. 214. </num><heading style="-uslm-dtd:header">EXTENSION OF EXPANDED DEFINITION OF SPECIAL IMMIGRANT FOR RELIGIOUS WORKERS. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended subclauses (II) and (III) of section 101(a)(27)(C)(ii) of the INA.<b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s215" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="215">SEC. 215. </num><heading style="-uslm-dtd:header">EXTENSION OF OFF-CAMPUS WORK AUTHORIZATION FOR STUDENTS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s215/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; extended for 2 years the period and deadlines under §221 of the Immigration Act of 1990; there was no subsection (b) in the law.<b>]</b> </editorialNote>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s216" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="216">SEC. 216. </num><heading style="-uslm-dtd:header">ELIMINATING OBLIGATION OF CARRIERS TO DETAIN STOWAWAYS. </heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended first sentence of §273(d) of the INA.<b>]</b> </editorialNote>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s217" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="217">SEC. 217. </num><heading style="-uslm-dtd:header">COMPLETING USE OF VISAS PROVIDED UNDER DIVERSITY TRANSITION PROGRAM. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s217/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Extension of Diversity Transition Program.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended §132 of the Immigration Act of 1990.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s217/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Administration of 1995 Diversity Transition Program.—</heading>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s217/b/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Eligibility.—</heading><content style="-uslm-dtd:text">For the purpose of carrying out the extension of the diversity transition program under the amendments made by subsection (a), applications for natives of diversity transition countries submitted for fiscal year 1995 for diversity immigrants under section 203(c) of the Immigration and Nationality Act shall be considered applications for visas made available for fiscal year 1995 for the diversity transition program under section 132 of the Immigration Act of 1990. No application period for the fiscal year 1995 diversity transition program shall be established and no new applications may be accepted for visas made available under such program for fiscal year 1995. Applications for visas in excess of the minimum available to natives of the country specified in section 132(c) of the Immigration Act of 1990 shall be selected for qualified applicants within the several regions defined in section 203(c)(1)(F) of the Immigration and Nationality Act in proportion to the region's share of visas issued in the diversity transition program during fiscal years 1992 and 1993.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s217/b/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Notification.—</heading><content style="-uslm-dtd:text">Not later than 180 days after the date of enactment of this Act, notification of the extension of the diversity transition program for fiscal year 1995 and the provision of visa numbers shall be made to each eligible applicant under paragraph (1).</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s217/b/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Requirements.—</heading><content style="-uslm-dtd:text">Notwithstanding any other provision of law, for the purpose of carrying out the extension of the diversity transition program under the amendments made by subsection (a), the requirement of section 132(b)(2) of the Immigration Act of 1990 shall not apply to applicants under such extension and the requirement of section 203(c)(2) of the Immigration and Nationality Act shall apply to such applicants.</content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s218" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="218">SEC. 218. </num><heading style="-uslm-dtd:header">EFFECT ON PREFERENCE DATE OF APPLICATION FOR LABOR CERTIFICATION. </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">Section 161(c)(1) of the Immigration Act of 1990 (Public Law 101–649) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s218/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">or an application for labor certification before such date under section 212(a)(14)</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s218/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">in subparagraph (A)—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/416/tII/s218/2/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">or application</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/416/tII/s218/2/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">, or 60 days after the date of certification in the case of labor certifications filed in support of the petition under section 212(a)(14) of such Act before October 1, 1991, but not certified until after October 1, 1993</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s219" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="219">SEC. 219. </num><heading style="-uslm-dtd:header">OTHER MISCELLANEOUS AND TECHNICAL CORRECTIONS TO IMMIGRATION-RELATED PROVISIONS. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><content style="-uslm-dtd:text">Section 101(a)(27)(J)(i) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)(i)) is amended by striking “<quotedText style="-uslm-dtd:quote">and has</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">or whom such a court has legally committed to, or placed under the custody of, an agency or department of a State and who has</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/b/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)) is amended by inserting “<quotedText style="-uslm-dtd:quote">(and each child of the alien)</quotedText>” after “<quotedText style="-uslm-dtd:quote">the alien</quotedText>”.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/b/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">The second sentence of section 204(a)(1)(A) of such Act (8 U.S.C. 1154(a)(1)(A)) is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/416/tII/s219/b/2/A" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">spouse</quotedText>” after “<quotedText style="-uslm-dtd:quote">alien</quotedText>”, and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/416/tII/s219/b/2/B" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by inserting “<quotedText style="-uslm-dtd:quote">of the alien (and the alien's children)</quotedText>” after “<quotedText style="-uslm-dtd:quote">for classification</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><content style="-uslm-dtd:text">Section 203(b)(5) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5)) is amended by striking “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">Targetted</headingText></quotedText>”, “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">targetted</headingText></quotedText>”, and “<quotedText style="-uslm-dtd:quote">targetted</quotedText>” each place each appears and inserting “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">Targeted</headingText></quotedText>”, “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">targeted</headingText></quotedText>”, and “<quotedText style="-uslm-dtd:quote">targeted</quotedText>”, respectively.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/d" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><content style="-uslm-dtd:text">Section 210(d)(3) of the Immigration and Nationality Act (8 U.S.C. 1160(d)(3)) is amended by inserting “<quotedText style="-uslm-dtd:quote">the</quotedText>” before “<quotedText style="-uslm-dtd:quote">Service</quotedText>” the first place it appears.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/e" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><content style="-uslm-dtd:text">Section 212(d)(11) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(11)) is amended by striking “<quotedText style="-uslm-dtd:quote">voluntary</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">voluntarily</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/f" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><content style="-uslm-dtd:text">Section 258 of the Immigration and Nationality Act (8 U.S.C. 1288) is amended in subsection (d)(3)(B) by striking “<quotedText style="-uslm-dtd:quote">subparagraph (A)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subparagraph (A)(iii)</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/g" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><content style="-uslm-dtd:text">Section 241(c) of the Immigration and Nationality Act (8 U.S.C. 1251(c)) is amended by striking “<quotedText style="-uslm-dtd:quote">or (3)(A) of subsection 241(a)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">and (3)(A) of subsection (a)</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/h" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="h">(h) </num><content style="-uslm-dtd:text">Section 242(h) of the Immigration and Nationality Act (8 U.S.C. 1252(h)) is amended by striking “<quotedText style="-uslm-dtd:quote">Parole,,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Parole,</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/i" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">Section 242B(c)(1) of the Immigration and Nationality Act (8 U.S.C. 1252b(c)(1)) is amended by striking the comma after “<quotedText style="-uslm-dtd:quote">that</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/j" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="j">(j) </num><chapeau style="-uslm-dtd:text">Section 244A(c)(2)(A)(iii)(III) of the Immigration and Nationality Act (8 U.S.C. 1254a(c)(2)(A)(iii)(III)) is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/j/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">Paragraphs</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">paragraphs</quotedText>”, and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/j/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">or (3)(E)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">and (3)(E)</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/k" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="k">(k) </num><content style="-uslm-dtd:text">Section 245(h)(2)(B) of the Immigration and Nationality Act (8 U.S.C. 1255(h)(2)(B)) is amended by striking “<quotedText style="-uslm-dtd:quote">or (3)(E)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">and (3)(E)</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/l" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="l">(l)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/l/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">Subparagraph (C) of section 245A(c)(7) of the Immigration and Nationality Act (8 U.S.C. 1255a(c)(7)), as added by Public Law 102–140, is amended—</chapeau>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/416/tII/s219/l/1/A" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by indenting it 2 additional ems to the right; and</content>
+                    </subparagraph>
+                    <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/416/tII/s219/l/1/B" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">subsection (B)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subparagraph (B)</quotedText>”.</content>
+                    </subparagraph></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/l/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">Section 610(b) of Public Law 102–140 is amended by striking “<quotedText style="-uslm-dtd:quote">404(b)(2)(ii)</quotedText>” and “<quotedText style="-uslm-dtd:quote">404(b)(2)(iii)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">404(b)(2)(A)(ii)</quotedText>” and “<quotedText style="-uslm-dtd:quote">404(b)(2)(A)(iii)</quotedText>”, respectively.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/m" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="m">(m) </num><content style="-uslm-dtd:text">Effective as of the date of the enactment of this Act, section 246(a) of the Immigration and Nationality Act (8 U.S.C. 1256(a)) is amended by striking the first 3 sentences.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/n" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="n">(n) </num><content style="-uslm-dtd:text">Section 262(c) of the Immigration and Nationality Act (8 U.S.C. 1302(c)) is amended by striking “<quotedText style="-uslm-dtd:quote">subsection (a) and (b)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subsections (a) and (b)</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/o" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="o">(o) </num><content style="-uslm-dtd:text">Section 272(a) of the Immigration and Nationality Act (8 U.S.C. 1322(a)) is amended by striking the comma after “<quotedText style="-uslm-dtd:quote">so afflicted</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/p" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="p">(p) </num><content style="-uslm-dtd:text">The first sentence of section 273(b) of the Immigration and Nationality Act (8 U.S.C. 1323(b)) is amended by striking “<quotedText style="-uslm-dtd:quote">collector of customs</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Commissioner</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/q" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="q">(q) </num><content style="-uslm-dtd:text">Section 274B(g)(2)(C) of the Immigration and Nationality Act (8 U.S.C. 1324b(g)(2)(C)) is amended by striking “<quotedText style="-uslm-dtd:quote">an administrative law judge</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">the Special Counsel</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/r" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="r">(r) </num><content style="-uslm-dtd:text">Section 274C(b) of the Immigration and Nationality Act (8 U.S.C. 1324c(b)) is amended by striking “<quotedText style="-uslm-dtd:quote">title V</quotedText>” and all that follows through “<quotedText style="-uslm-dtd:quote">3481)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">chapter 224 of title 18, United States Code</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/s" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="s">(s) </num><content style="-uslm-dtd:text">Section 280(b)(1)(C) of the Immigration and Nationality Act (8 U.S.C. 1330(b)(1)(C)) is amended by striking “<quotedText style="-uslm-dtd:quote">maintainance</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">maintenance</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/t" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="t">(t) </num><chapeau style="-uslm-dtd:text">Effective as if included in the enactment of Public Law 102–395, subsection (r) of section 286 of the Immigration and Nationality Act (8 U.S.C. 1356), as added by section 112 of such Public Law, is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/t/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">in the subsection heading, by striking “<quotedText style="-uslm-dtd:quote">Breached Bond/Detention Account</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote"><headingText style="-uslm-dtd:header-in-text">Breached Bond/Detention Fund</headingText></quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/t/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">in paragraph (1), by striking “<quotedText style="-uslm-dtd:quote">(hereafter referred to as the Fund)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">(in this subsection referred to as the ‘<quotedText style="-uslm-dtd:quote">Fund</quotedText>’)</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/t/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">in paragraph (2), by striking “<quotedText style="-uslm-dtd:quote">the Immigration and Nationality Act of 1952, as amended,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">this Act</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/t/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">in paragraphs (4) and (6), by striking “<quotedText style="-uslm-dtd:quote">the Breached Bond/Detention</quotedText>” each place it appears;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/t/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">in paragraph (4), by striking “<quotedText style="-uslm-dtd:quote">of this Act</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">of Public Law 102–395</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/t/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">in paragraph (5), by striking “<quotedText style="-uslm-dtd:quote">account</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">Fund</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/u" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="u">(u) </num><content style="-uslm-dtd:text">Section 310(b)(5)(A) of the Immigration and Nationality Act (8 U.S.C. 1421(b)(5)(A)) is amended by striking “<quotedText style="-uslm-dtd:quote">District Court</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">district court</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/v" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">Effective December 12, 1991, section 313(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1424(a)(2)) is amended by striking “<quotedText style="-uslm-dtd:quote">and</quotedText>” before “<quotedText style="-uslm-dtd:quote">(F)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">or</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/w" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="w">(w) </num><content style="-uslm-dtd:text">Section 333(b)(1) of the Immigration and Nationality Act (8 U.S.C. 1444(b)(1)) is amended by striking “<quotedText style="-uslm-dtd:quote">249(a)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">249</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/x" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="x">(x) </num><content style="-uslm-dtd:text">Section 412(e)(7)(D) of the Immigration and Nationality Act (8 U.S.C. 1522(e)(7)(D)) is amended by striking “<quotedText style="-uslm-dtd:quote">paragraph (1) or (2) of</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/y" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="y">(y) </num><content style="-uslm-dtd:text">Section 302(c) of the Immigration Act of 1990 is amended by striking “<quotedText style="-uslm-dtd:quote">effect</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">affect</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/z" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="z">(z) </num><chapeau style="-uslm-dtd:text">Effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/z/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">section 303(a)(7)(B)(i) of such Act is amended by striking “<quotedText style="-uslm-dtd:quote">paragraph (1)(A)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">paragraph (1)(A)(i)</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/z/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">section 304(b)(2) of such Act is amended by striking “<quotedText style="-uslm-dtd:quote">paragraph (1)(B)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">subsection (c)(1)(B)</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/z/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">paragraph (1) of section 305(j) of such Act is repealed (and section 407(d)(16)(C) of the Immigration Act of 1990 shall read as if such paragraph had not been enacted);</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/z/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">paragraph (2) of section 306(b) of such Act is amended to read as follows:<quotedContent style="-uslm-dtd:quoted-block">
+                        <paragraph style="-uslm-dtd:paragraph" styleType="OLC" class="leftIndentDecrease1">
+                            <num style="-uslm-dtd:enum" value="2">“(2) </num><content style="-uslm-dtd:text">Section 538(a) of the Immigration Act of 1990 is amended by striking the comma after ‘<quotedText style="-uslm-dtd:quote">Service</quotedText>’.”</content>
+                        </paragraph></quotedContent>;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/z/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">section 307(a)(6) of such Act is amended by striking “<quotedText style="-uslm-dtd:quote">immigrants</quotedText>” the first place it appears and inserting “<quotedText style="-uslm-dtd:quote">immigrant aliens</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/z/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">section 309(a)(3) of such Act is amended by striking “<quotedText style="-uslm-dtd:quote">paragraph (1) and (2)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">paragraphs (1)(A) and (1)(B)</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/z/7" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">section 309(b)(6)(F) of such Act is amended by striking “<quotedText style="-uslm-dtd:quote">210(a)(1)(B)(1)(B)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">210(a)(B)(1)(B)</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/z/8" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">section 309(b)(8) of such Act is amended by striking “<quotedText style="-uslm-dtd:quote">274A(g)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">274A(h)</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/z/9" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="9">(9) </num><chapeau style="-uslm-dtd:text">section 310 of such Act is amended—</chapeau>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/416/tII/s219/z/9/A" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by adding “<quotedText style="-uslm-dtd:quote">and</quotedText>” at the end of paragraph (1);</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/416/tII/s219/z/9/B" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking paragraph (2); and</content>
+                        </subparagraph>
+                        <subparagraph style="-uslm-dtd:subparagraph" identifier="/us/sComp/103/416/tII/s219/z/9/C" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">by redesignating paragraph (3) as paragraph (2) and by striking “<quotedText style="-uslm-dtd:quote">309(c)</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">309(b)</quotedText>”.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/aa" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="aa">(aa) </num><chapeau style="-uslm-dtd:text">Effective as if included in section 4 of Public Law 102–110, section 161(c)(3) of the Immigration Act of 1990 is amended—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/aa/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">alien described in section 203(a)(3) or 203(a)(6) of such Act</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">alien admitted for permanent residence as a preference immigrant under section 203(a)(3) or 203(a)(6) of such Act (as in effect before such date)</quotedText>”; and</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/aa/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">this section</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">this title</quotedText>”.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/bb" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="bb">(bb) </num><content style="-uslm-dtd:text">Section 599E(c) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) is amended by striking “<quotedText style="-uslm-dtd:quote">and subparagraphs</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">or subparagraph</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/cc" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="cc">(cc) </num><content style="-uslm-dtd:text">Section 204(a)(1)(C) of the Immigration Reform and Control Act of 1986 is amended by striking “<quotedText style="-uslm-dtd:quote">year 1993</quotedText>” the first place it appears and inserting “<quotedText style="-uslm-dtd:quote">years 1993</quotedText>”.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/dd" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="dd">(dd) </num><content style="-uslm-dtd:text">Except as otherwise specifically provided in this section, the amendments made by this section shall be effective as if included in the enactment of the Immigration Act of 1990.</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/ee" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="ee">(ee)</num><paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/ee/1" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">Section 210A of the Immigration and Nationality Act (8 U.S.C. 1161) is repealed.</content></paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/ee/2" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The table of contents of the Immigration and Nationality Act is amended by striking the item relating to section 210A.</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s219/ee/3" styleType="OLC" class="leftIndentDecrease1">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The amendments made by this subsection shall take effect on the date of the enactment of this Act.</content>
+                    </paragraph>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/ff" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="ff">(ff) </num><content style="-uslm-dtd:text">Section 122 of the Immigration Act of 1990 is amended by striking subsection (a).</content>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s219/gg" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="gg">(gg) </num><content style="-uslm-dtd:text">The Copyright Royalty Tribunal Reform Act of 1993 (Public Law 103–198; 107 Stat. 2304) is amended by striking section 8.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s220" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="220">SEC. 220. </num><heading style="-uslm-dtd:header">WAIVER OF FOREIGN COUNTRY RESIDENCE REQUIREMENT WITH RESPECT TO INTERNATIONAL MEDICAL GRADUATES. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s220/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Waiver.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended §212(e) of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s220/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Restrictions on Waiver.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; added a subsection (k) at the end of §214 of the INA.<b>]</b> </editorialNote>
+                </subsection><subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s220/c" styleType="OLC" class="inline"><num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall apply to aliens admitted to the United States under section 101(a)(15)(J) of the Immigration and Nationality Act, or acquiring such status after admission to the United States, before, on, or after the date of enactment of this Act and before September 30, 2015<ref style="-uslm-dtd:footnote-ref" idref="IDD005753ACA104C98B98ADAA3058B92CB" class="footnoteRef">1</ref>.</content><footnote id="IDD005753ACA104C98B98ADAA3058B92CB" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">Section 541 of division F of Public Law 114–113 provides: Section 220(c) of the Immigration and Nationality
+Technical Corrections Act of 1994 (8 U.S.C. 1182 note) shall be
+applied by substituting ‘‘September 30, 2017’’ for “<quotedText style="-uslm-dtd:quote">September 30, 2015</quotedText>”.</p></footnote></subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s221" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="221">SEC. 221. </num><heading style="-uslm-dtd:header">VISAS FOR OFFICIALS OF TAIWAN. </heading>
+                <subsection style="-uslm-dtd:subsection" styleType="OLC" role="undesignated-level"><chapeau style="-uslm-dtd:text">Whenever the President of Taiwan or any other high-level official of Taiwan shall apply to visit the United States for the purposes of discussions with United States Federal or State government officials concerning—</chapeau>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s221/1" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">trade or business with Taiwan that will reduce the United States-Taiwan trade deficit,</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s221/2" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">prevention of nuclear proliferation,</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s221/3" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">threats to the national security of the United States,</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s221/4" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">the protection of the global environment,</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s221/5" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">the protection of endangered species, or</content>
+                    </paragraph>
+                    <paragraph style="-uslm-dtd:paragraph" identifier="/us/sComp/103/416/tII/s221/6" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">regional humanitarian disasters,</content>
+                    </paragraph><continuation style="-uslm-dtd:continuation-text" role="subsection">the official shall be admitted to the United States, unless the official is otherwise inadmissible<ref style="-uslm-dtd:footnote-ref" idref="IDC4BEC10E1612464E8DEDD41A09A9071A" class="footnoteRef">2</ref> under the immigration laws of the United States.</continuation><footnote id="IDC4BEC10E1612464E8DEDD41A09A9071A" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">2</sup><p style="-uslm-dtd:para; margin-left:1em">The word “<quotedText style="-uslm-dtd:quote">inadmissible</quotedText>” was substituted for the word “<quotedText style="-uslm-dtd:quote">excludable</quotedText>”. This amendment takes effect on April 1, 1997. See P.L. 104–208, 110 Stat. 3009–637 for the amendment.</p></footnote>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s222" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="222">SEC. 222. </num><heading style="-uslm-dtd:header">EXPANSION OF DEFINITION OF AGGRAVATED FELONY. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s222/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Expansion of Definition.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended section 101(a)(43) of the INA in its entirety.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s222/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall apply to convictions entered on or after the date of enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s223" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="223">SEC. 223. </num><heading style="-uslm-dtd:header">SUMMARY DEPORTATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s223/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Expedited Procedures.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended subsections (b)(4)(D) and (b)(4)(E) of section 242A of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s223/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Technical Correction.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; amended §106(d)(1)(D) of the INA.<b>]</b> </editorialNote>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s224" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="224">SEC. 224. </num><heading style="-uslm-dtd:header">JUDICIAL DEPORTATION. </heading>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s224/a" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Judicial Deportation.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; added subsection (d) to section 242A.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s224/b" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Technical Amendment.—</heading><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Omitted; added exception to the ninth sentence of §242(b) of the INA.<b>]</b> </editorialNote>
+                </subsection>
+                <subsection style="-uslm-dtd:subsection" identifier="/us/sComp/103/416/tII/s224/c" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Effective Date.—</heading><content style="-uslm-dtd:text">The amendments made by this section shall apply to all aliens whose adjudication of guilt or guilty plea is entered in the record after the date of enactment of this Act.</content>
+                </subsection>
+            </section>
+            <section style="-uslm-dtd:section" identifier="/us/sComp/103/416/tII/s225" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="225">SEC. 225. </num><heading style="-uslm-dtd:header">CONSTRUCTION OF EXPEDITED DEPORTATION REQUIREMENTS. </heading>
+                <content style="-uslm-dtd:text" class="block">No amendment made by this Act shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.</content>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>

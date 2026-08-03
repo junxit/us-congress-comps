@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
+    <meta style="-uslm-dtd:compilation-act-form">
+        <dc:title>Save Our Seas 2.0 Act</dc:title>
+        <citableAs>Public Law 116–224, as amended</citableAs>
+        <citableAsShortTitle>Save Our Seas 2.0 Act</citableAsShortTitle>
+        <docNumber>224</docNumber>
+        <currentThroughPublicLaw>119–65</currentThroughPublicLaw>
+        <dc:type>Statute Compilation</dc:type>
+        <dc:creator>United States House of Representatives</dc:creator>
+        <dc:creator>Office of the Legislative Counsel</dc:creator>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+        <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+        <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
+        <processedDate>2026-01-09</processedDate>
+        <containsShortTitle>Save Our Seas 2.0 Act</containsShortTitle>
+        <property role="fileId">15913</property>
+        <congress>116</congress>
+        <approvedDate>2020-12-18</approvedDate>
+    </meta>
+    <preface style="-uslm-dtd:compilation-act-form">
+        <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Save Our Seas 2.0 Act</property>
+        <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 116–224</citableAs>)]</citationNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 119–65</currentThroughPublicLaw>, Enacted <date date="2025-12-26">December 26, 2025</date>]</editionNote>
+    </preface>
+    <main style="-uslm-dtd:legis-body"><longTitle><docTitle style="-uslm-dtd:legis-type">AN ACT</docTitle><officialTitle style="-uslm-dtd:official-title">To improve efforts to combat marine debris, and for other purposes.</officialTitle></longTitle><enactingFormula style="-uslm-dtd:enacting-clause">
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+</enactingFormula>
+        <section identifier="/us/sComp/116/224/s1" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="1">SECTION 1. </num><heading style="-uslm-dtd:header">SHORT TITLE; TABLE OF CONTENTS. </heading>
+            <subsection identifier="/us/sComp/116/224/s1/a" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="a">(a) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s4201">33 U.S.C. 4201 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">Short Title.—</heading><content style="-uslm-dtd:text">This Act may be cited as the “<shortTitle style="-uslm-dtd:quote">Save Our Seas 2.0 Act</shortTitle>”.</content>
+            </subsection>
+            <subsection identifier="/us/sComp/116/224/s1/b" style="-uslm-dtd:subsection" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Table of Contents.—</heading><content style="-uslm-dtd:text">The table of contents of this Act is as follows: <toc style="-uslm-dtd:toc">
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 1.</designator><label> Short title; table of contents.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 2.</designator><label> Definitions.</label></referenceItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE I—</designator><label>COMBATING MARINE DEBRIS</label></referenceItem>
+                    <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>Subtitle A—</designator><label>Amendments to the Marine Debris Act</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 101.</designator><label> Amendments to the Marine Debris Act.</label></referenceItem>
+                    <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>Subtitle B—</designator><label>Marine Debris Foundation</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 111.</designator><label> Establishment and purposes of Foundation.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 112.</designator><label> Board of Directors of the Foundation.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 113.</designator><label> Rights and obligations of the Foundation.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 114.</designator><label> Administrative services and support.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 115.</designator><label> Volunteer status.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 116.</designator><label> Report requirements; petition of attorney general for equitable relief.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 117.</designator><label> United States release from liability.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 118.</designator><label> Authorization of appropriations.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 119.</designator><label> Termination of authority.</label></referenceItem>
+                    <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>Subtitle C—</designator><label>Genius Prize for Save Our Seas Innovations</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 121.</designator><label> Definitions.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 122.</designator><label> Genius Prize for Save Our Seas Innovations.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 123.</designator><label> Agreement with the Marine Debris Foundation.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 124.</designator><label> Judges.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 125.</designator><label> Report to Congress.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 126.</designator><label> Authorization of appropriations.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 127.</designator><label> Termination of authority.</label></referenceItem>
+                    <referenceItem class="centered" role="subtitle" style="-uslm-dtd:toc-entry"><designator>Subtitle D—</designator><label>Studies, Pilot Projects, and Reports</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 131.</designator><label> Report on opportunities for innovative uses of plastic waste.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 132.</designator><label> Report on microfiber pollution.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 133.</designator><label> Study on United States plastic pollution data.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 134.</designator><label> Study on mass balance methodologies to certify circular polymers.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 135.</designator><label> Report on sources and impacts of derelict fishing gear.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 136.</designator><label> Expansion of derelict vessel recycling.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 137.</designator><label> Incentive for fishermen to collect and dispose of plastic found at sea.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE II—</designator><label>ENHANCED GLOBAL ENGAGEMENT TO COMBAT MARINE DEBRIS</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 201.</designator><label> Statement of policy on international cooperation to combat marine debris.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 202.</designator><label> Prioritization of efforts and assistance to combat marine debris and improve plastic waste management.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 203.</designator><label> United States leadership in international fora.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 204.</designator><label> Enhancing international outreach and partnership of United States agencies involved in marine debris activities.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 205.</designator><label> Negotiation of new international agreements.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 206.</designator><label> Consideration of marine debris in negotiating international agreements.</label></referenceItem>
+                </groupItem>
+                <groupItem>
+                    <referenceItem class="centered" role="title" style="-uslm-dtd:toc-entry"><designator>TITLE III—</designator><label>IMPROVING DOMESTIC INFRASTRUCTURE TO PREVENT MARINE DEBRIS</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 301.</designator><label> Strategy for improving post-consumer materials management and water management.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 302.</designator><label> Grant programs.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 303.</designator><label> Study on repurposing plastic waste in infrastructure.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 304.</designator><label> Study on effects of microplastics in food supplies and sources of drinking water.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 305.</designator><label> Report on eliminating barriers to increase the collection of recyclable materials.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 306.</designator><label> Report on economic incentives to spur development of new end-use markets for recycled plastics.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 307.</designator><label> Report on minimizing the creation of new plastic waste.</label></referenceItem>
+                </groupItem></toc></content>
+            </subsection>
+        </section>
+        <section identifier="/us/sComp/116/224/s2" role="definitions" style="-uslm-dtd:section" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="2">SEC. 2. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s4201">33 U.S.C. 4201 note</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">DEFINITIONS. </heading>
+            <chapeau class="block" style="-uslm-dtd:text">  In this Act: </chapeau>
+            <paragraph identifier="/us/sComp/116/224/s2/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Circular economy.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">circular economy</term>” means an economy that uses a systems-focused approach and involves industrial processes and economic activities that—</chapeau>
+                <subparagraph identifier="/us/sComp/116/224/s2/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">are restorative or regenerative by design; </content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/224/s2/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">enable resources used in such processes and activities to maintain their highest values for as long as possible; and </content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/224/s2/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">aim for the elimination of waste through the superior design of materials, products, and systems (including business models). </content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/224/s2/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">EPA administrator.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">EPA Administrator</term>” means the Administrator of the Environmental Protection Agency.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/224/s2/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Indian tribe.—</heading><content style="-uslm-dtd:text">The term ““<term style="-uslm-dtd:quote">Indian Tribe</term>” has the meaning given the term “<term style="-uslm-dtd:quote">Indian tribe</term>” in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304), without regard to capitalization.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/224/s2/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Interagency marine debris coordinating committee.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Interagency Marine Debris Coordinating Committee</term>” means the Interagency Marine Debris Coordinating Committee established under section 5 of the Marine Debris Act (33 U.S.C. 1954).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/224/s2/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="5">(5) </num><heading style="-uslm-dtd:header">Marine debris.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">marine debris</term>” has the meaning given that term in section 7 of the Marine Debris Act (33 U.S.C. 1956).</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/224/s2/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="6">(6) </num><heading style="-uslm-dtd:header">Marine debris event.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">marine debris event</term>” means an event or related events that affects or may imminently affect the United States involving—</chapeau>
+                <subparagraph identifier="/us/sComp/116/224/s2/6/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">marine debris caused by a natural event, including a tsunami, flood, landslide, hurricane, or other natural source; </content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/224/s2/6/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">distinct, nonrecurring marine debris, including derelict vessel groundings and container spills, that have immediate or long-term impacts on habitats with high ecological, economic, or human-use values; or </content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/224/s2/6/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">marine debris caused by an intentional or grossly negligent act or acts that causes substantial economic or environmental harm. </content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/224/s2/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="7">(7) </num><heading style="-uslm-dtd:header">Nonprofit organization.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">nonprofit organization</term>” means an organization that is described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code.</content>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/224/s2/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Post-consumer materials management.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">post-consumer materials management</term>” means the systems, operation, supervision, and long-term management of processes and equipment used for post-use material (including packaging, goods, products, and other materials), including—</chapeau>
+                <subparagraph identifier="/us/sComp/116/224/s2/8/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">collection; </content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/224/s2/8/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">transport; </content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/224/s2/8/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">safe disposal of waste that cannot be recovered, reused, recycled, repaired, or refurbished; and </content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/224/s2/8/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">systems and processes related to post-use materials that can be recovered, reused, recycled, repaired, or refurbished. </content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/224/s2/9" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">State.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">State</term>” means—</chapeau>
+                <subparagraph identifier="/us/sComp/116/224/s2/9/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a State; </content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/224/s2/9/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">an Indian Tribe; </content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/224/s2/9/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the District of Columbia; </content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/224/s2/9/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">a territory or possession of the United States; or </content>
+                </subparagraph>
+                <subparagraph identifier="/us/sComp/116/224/s2/9/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">any political subdivision of an entity described in subparagraphs (A) through (D). </content>
+                </subparagraph>
+            </paragraph>
+            <paragraph identifier="/us/sComp/116/224/s2/10" style="-uslm-dtd:paragraph" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="10">(10) </num><heading style="-uslm-dtd:header">Under secretary.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Under Secretary</term>” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.</content>
+            </paragraph>
+        </section>
+        <title identifier="/us/sComp/116/224/tI" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="I">TITLE I—</num><heading style="-uslm-dtd:header">COMBATING MARINE DEBRIS </heading>
+            <subtitle identifier="/us/sComp/116/224/tI/stA" style="-uslm-dtd:subtitle" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="A">Subtitle A—</num><heading style="-uslm-dtd:header">Amendments to the Marine Debris Act </heading>
+                <section identifier="/us/sComp/116/224/tI/stA/s101" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="101">SEC. 101. </num><heading style="-uslm-dtd:header">AMENDMENTS TO THE MARINE DEBRIS ACT. </heading>
+                    <chapeau class="block" style="-uslm-dtd:text">  The Marine Debris Act (33 U.S.C. 1951 et seq.) is amended— </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tI/stA/s101/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s1951">33 U.S.C. 1951</ref><b>]</b> </editorialNote><content style="-uslm-dtd:text">in section 2 by striking “<quotedText style="-uslm-dtd:quote">marine environment,</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries),</quotedText>”;</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tI/stA/s101/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s1958">33 U.S.C. 1958</ref><b>]</b> </editorialNote><chapeau style="-uslm-dtd:text">in section 9(a)— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tI/stA/s101/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">$10,000,000</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">$15,000,000</quotedText>”; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tI/stA/s101/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">by striking “<quotedText style="-uslm-dtd:quote">5 percent</quotedText>” and inserting “<quotedText style="-uslm-dtd:quote">7 percent</quotedText>”; and</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tI/stA/s101/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">by adding at the end the following: <quotedContent style="-uslm-dtd:quoted-block">
+                        <section style="-uslm-dtd:section" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="10">“SEC. 10. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s1959">33 U.S.C. 1959</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PRIORITIZATION OF MARINE DEBRIS IN EXISTING INNOVATION AND ENTREPRENEURSHIP PROGRAMS </heading>
+                            <chapeau class="block" style="-uslm-dtd:text">“In carrying out any relevant innovation and entrepreneurship programs that improve the innovation, effectiveness, and efficiency of the Marine Debris Program established under section 3 without undermining the purpose for which such program was established, the Secretary of Commerce, the Secretary of Energy, the Administrator of the Environmental Protection Agency, and the heads of other relevant Federal agencies, shall prioritize efforts to combat marine debris, including by— </chapeau>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="1">“(1) </num><content style="-uslm-dtd:text">increasing innovation in methods and the effectiveness of efforts to identify, determine sources of, assess, prevent, reduce, and remove marine debris; and </content>
+                            </paragraph>
+                            <paragraph style="-uslm-dtd:paragraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="2">“(2) </num><chapeau style="-uslm-dtd:text">addressing the impacts of marine debris on— </chapeau>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="A">“(A) </num><content style="-uslm-dtd:text">the economy of the United States; </content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="B">“(B) </num><content style="-uslm-dtd:text">the marine environment; and </content>
+                                </subparagraph>
+                                <subparagraph style="-uslm-dtd:subparagraph" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="C">“(C) </num><content style="-uslm-dtd:text">navigation safety. ”</content>
+                                </subparagraph>
+                            </paragraph>
+                        </section></quotedContent>.</content>
+                    </paragraph>
+                </section>
+            </subtitle><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Sections 3(a) and 4(a) of Public Law 119-65 transferred subtitles B and C of this title  to the Marine Debris Act.<b>]</b> </editorialNote>
+            <subtitle identifier="/us/sComp/116/224/tI/stD" style="-uslm-dtd:subtitle" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="D">Subtitle D—</num><heading style="-uslm-dtd:header">Studies, Pilot Projects, and Reports </heading>
+                <section identifier="/us/sComp/116/224/tI/stD/s131" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="131">SEC. 131. </num><heading style="-uslm-dtd:header">REPORT ON OPPORTUNITIES FOR INNOVATIVE USES OF PLASTIC WASTE. </heading>
+                    <content class="block" style="-uslm-dtd:text">  Not later than 2 years after the date of enactment of this Act, the Interagency Marine Debris Coordinating Committee shall submit to Congress a report on innovative uses for plastic waste in consumer products. </content>
+                </section>
+                <section identifier="/us/sComp/116/224/tI/stD/s132" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="132">SEC. 132. </num><heading style="-uslm-dtd:header">REPORT ON MICROFIBER POLLUTION. </heading>
+                    <chapeau class="block" style="-uslm-dtd:text">  Not later than 2 years after the date of the enactment of this Act, the Interagency Marine Debris Coordinating Committee shall submit to Congress a report on microfiber pollution that includes— </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s132/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a definition of microfiber; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s132/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">an assessment of the sources, prevalence, and causes of microfiber pollution; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s132/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">a recommendation for a standardized methodology to measure and estimate the prevalence of microfiber pollution; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s132/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">recommendations for reducing microfiber pollution; and </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s132/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">a plan for how Federal agencies, in partnership with other stakeholders, can lead on opportunities to reduce microfiber pollution during the 5-year period beginning on such date of enactment. </content>
+                    </paragraph>
+                </section>
+                <section identifier="/us/sComp/116/224/tI/stD/s133" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="133">SEC. 133. </num><heading style="-uslm-dtd:header">STUDY ON UNITED STATES PLASTIC POLLUTION DATA. </heading>
+                    <subsection identifier="/us/sComp/116/224/tI/stD/s133/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Under Secretary, in consultation with the EPA Administrator and the Secretary of the Interior, shall seek to enter into an arrangement with the National Academies of Sciences, Engineering, and Medicine under which the National Academies will undertake a multifaceted study that includes the following: </chapeau>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s133/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">An evaluation of United States contributions to global ocean plastic waste, including types, sources, and geographic variations. </content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s133/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">An assessment of the prevalence of marine debris and mismanaged plastic waste in saltwater and freshwater United States navigable waterways and tributaries. </content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s133/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">An examination of the import and export of plastic waste to and from the United States, including the destinations of the exported plastic waste and the waste management infrastructure and environmental conditions of these locations. </content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s133/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">Potential means to reduce United States contributions to global ocean plastic waste. </content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/116/224/tI/stD/s133/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 18 months after the date of the enactment of this Act, the Under Secretary shall submit to Congress a report on the study conducted under subsection (a) that includes— </chapeau>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s133/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the findings of the National Academies; </content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s133/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">recommendations on knowledge gaps that warrant further scientific inquiry; and </content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s133/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">recommendations on the potential value of a national marine debris tracking and monitoring system and how such a system might be designed and implemented.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/116/224/tI/stD/s134" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="134">SEC. 134. </num><heading style="-uslm-dtd:header">STUDY ON MASS BALANCE METHODOLOGIES TO CERTIFY CIRCULAR POLYMERS. </heading>
+                    <subsection identifier="/us/sComp/116/224/tI/stD/s134/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The National Institute of Standards and Technology shall conduct a study of available mass balance methodologies that are or could be readily standardized to certify circular polymers. </content>
+                    </subsection>
+                    <subsection identifier="/us/sComp/116/224/tI/stD/s134/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the Institute shall submit to Congress a report on the study conducted under subsection (a) that includes— </chapeau>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s134/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">an identification and assessment of existing mass balance methodologies, standards, and certification systems that are or may be applicable to supply chain sustainability of polymers, considering the full life cycle of the polymer, and including an examination of— </chapeau>
+                            <subparagraph identifier="/us/sComp/116/224/tI/stD/s134/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the International Sustainability and Carbon Certification; and </content>
+                            </subparagraph>
+                            <subparagraph identifier="/us/sComp/116/224/tI/stD/s134/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the Roundtable on Sustainable Biomaterials; </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s134/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">an assessment of the environmental impacts of the full lifecycle of circular polymers, including impacts on climate change; and </content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s134/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">an assessment of any legal or regulatory barriers to developing a standard and certification system for circular polymers. </content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/116/224/tI/stD/s134/c" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Definitions.—</heading><chapeau style="-uslm-dtd:text">In this section: </chapeau>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s134/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Circular polymers.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">circular polymers</quotedText>” means polymers that can be reused multiple times or converted into a new, higher-quality product.</content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s134/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Mass balance methodology.—</heading><content style="-uslm-dtd:text">The term “<quotedText style="-uslm-dtd:quote">mass balance methodology</quotedText>” means the method of chain of custody accounting designed to track the exact total amount of certain content in products or materials through the production system and to ensure an appropriate allocation of this content in the finished goods based on auditable bookkeeping.</content>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section identifier="/us/sComp/116/224/tI/stD/s135" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="135">SEC. 135. </num><heading style="-uslm-dtd:header">REPORT ON SOURCES AND IMPACTS OF DERELICT FISHING GEAR. </heading>
+                    <chapeau class="block" style="-uslm-dtd:text">  Not later than 2 years after the date of the enactment of this Act, the Under Secretary shall submit to Congress a report that includes— </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s135/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">an analysis of the scale of fishing gear losses by domestic and foreign fisheries, including— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tI/stD/s135/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">how the amount of gear lost varies among— </chapeau>
+                            <clause identifier="/us/sComp/116/224/tI/stD/s135/1/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">domestic and foreign fisheries; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tI/stD/s135/1/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">types of fishing gear; and </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tI/stD/s135/1/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">methods of fishing; </content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tI/stD/s135/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">how lost fishing gear is transported by ocean currents; and </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tI/stD/s135/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">common reasons fishing gear is lost; </content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s135/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">an evaluation of the ecological, human health, and maritime safety impacts of derelict fishing gear, and how those impacts vary across— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tI/stD/s135/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">types of fishing gear; </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tI/stD/s135/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">materials used to construct fishing gear; and </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tI/stD/s135/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">geographic location; </content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s135/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">recommendations on management measures— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tI/stD/s135/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to prevent fishing gear losses; and </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tI/stD/s135/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to reduce the impacts of lost fishing gear;</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s135/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">an assessment of the cost of implementing such management measures; and </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s135/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">an assessment of the impact of fishing gear loss attributable to foreign countries. </content>
+                    </paragraph>
+                </section>
+                <section identifier="/us/sComp/116/224/tI/stD/s136" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="136">SEC. 136. </num><heading style="-uslm-dtd:header">EXPANSION OF DERELICT VESSEL RECYCLING. </heading>
+                    <chapeau class="block" style="-uslm-dtd:text">  Not later than 1 year after the date of the enactment of this Act, the Under Secretary and the EPA Administrator shall jointly conduct a study to determine the feasibility of developing a nationwide derelict vessel recycling program— </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s136/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">using as a model the fiberglass boat recycling program from the pilot project in Rhode Island led by Rhode Island Sea Grant and its partners; and </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tI/stD/s136/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">including, if possible, recycling of vessels made from materials other than fiberglass. </content>
+                    </paragraph>
+                </section>
+                <section identifier="/us/sComp/116/224/tI/stD/s137" style="-uslm-dtd:section" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="137">SEC. 137. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s4251">33 U.S.C. 4251</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">INCENTIVE FOR FISHERMEN TO COLLECT AND DISPOSE OF PLASTIC FOUND AT SEA. </heading>
+                    <subsection identifier="/us/sComp/116/224/tI/stD/s137/a" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Under Secretary shall establish a pilot program to assess the feasibility and advisability of providing incentives, such as grants, to fishermen based in the United States who incidentally capture marine debris while at sea— </chapeau>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s137/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">to track or keep the debris on board; and </content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s137/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">to dispose of the debris properly on land. </content>
+                        </paragraph>
+                    </subsection>
+                    <subsection identifier="/us/sComp/116/224/tI/stD/s137/b" style="-uslm-dtd:subsection" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Support for Collection and Removal of Derelict Gear.—</heading><chapeau style="-uslm-dtd:text">The Under Secretary shall encourage United States efforts, such as the Fishing for Energy net disposal program, that support— </chapeau>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s137/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">collection and removal of derelict fishing gear and other fishing waste; </content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s137/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">disposal or recycling of such gear and waste; and </content>
+                        </paragraph>
+                        <paragraph identifier="/us/sComp/116/224/tI/stD/s137/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">prevention of the loss of such gear. </content>
+                        </paragraph>
+                    </subsection>
+                </section>
+            </subtitle>
+        </title>
+        <title identifier="/us/sComp/116/224/tII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="II">TITLE II—</num><heading style="-uslm-dtd:header">ENHANCED GLOBAL ENGAGEMENT TO COMBAT MARINE DEBRIS </heading>
+            <section identifier="/us/sComp/116/224/tII/s201" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="201">SEC. 201. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s4261">33 U.S.C. 4261</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">STATEMENT OF POLICY ON INTERNATIONAL COOPERATION TO COMBAT MARINE DEBRIS. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">  It is the policy of the United States to partner, consult, and coordinate with foreign governments (at the national and subnational levels), civil society, international organizations, international financial institutions, subnational coastal communities, commercial and recreational fishing industry leaders, and the private sector, in a concerted effort— </chapeau>
+                <paragraph identifier="/us/sComp/116/224/tII/s201/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><chapeau style="-uslm-dtd:text">to increase knowledge and raise awareness about— </chapeau>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s201/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the linkages between the sources of plastic waste, mismanaged waste and post-consumer materials, and marine debris; and </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s201/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the upstream and downstream causes and effects of plastic waste, mismanaged waste and post-consumer materials, and marine debris on marine environments, marine wildlife, human health, and economic development; </content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/224/tII/s201/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">to support— </chapeau>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s201/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">strengthening systems for reducing the generation of plastic waste and recovering, managing, reusing, and  recycling plastic waste, marine debris, and microfiber pollution in the world’s oceans, emphasizing upstream post-consumer materials management solutions— </chapeau>
+                        <clause identifier="/us/sComp/116/224/tII/s201/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">to decrease plastic waste at its source; and </content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/224/tII/s201/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">to prevent leakage of plastic waste into the environment; </content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s201/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">advancing the utilization and availability of safe and affordable reusable alternatives to disposable plastic products in commerce, to the extent practicable, and with consideration for the potential impacts of such alternatives, and other efforts to prevent marine debris; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s201/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">deployment of and access to advanced technologies to capture value from post-consumer materials and municipal solid waste streams through mechanical and other recycling systems; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s201/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">access to information on best practices in post-consumer materials management, options for post-consumer materials management systems financing, and options for participating in public-private partnerships; and </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s201/2/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">implementation of management measures to reduce derelict fishing gear, the loss of fishing gear, and other sources of pollution generated from marine activities and to increase proper disposal and recycling of fishing gear; and </content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/224/tII/s201/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">to work cooperatively with international partners— </chapeau>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s201/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">on establishing— </chapeau>
+                        <clause identifier="/us/sComp/116/224/tII/s201/3/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">measurable targets for reducing marine debris, lost fishing gear, and plastic waste from all sources; and </content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/224/tII/s201/3/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">action plans to achieve those targets with a mechanism to provide regular reporting; </content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s201/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to promote consumer education, awareness, and outreach to prevent marine debris; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s201/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to reduce marine debris by improving advance planning for marine debris events and responses to such events; and </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s201/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">to share best practices in post-consumer materials management systems to prevent the entry of plastic waste into the environment. </content>
+                    </subparagraph>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/116/224/tII/s202" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="202">SEC. 202. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s4262">33 U.S.C. 4262</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">PRIORITIZATION OF EFFORTS AND ASSISTANCE TO COMBAT MARINE DEBRIS AND IMPROVE PLASTIC WASTE MANAGEMENT. </heading>
+                <subsection identifier="/us/sComp/116/224/tII/s202/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Secretary of State shall, in coordination with the Administrator of the United States Agency for International Development, as appropriate, and the officials specified in subsection (b)— </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">lead and coordinate efforts to implement the policy described in section 201; and </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">develop strategies and implement programs that prioritize engagement and cooperation with foreign governments, subnational and local stakeholders, and the private sector to expedite efforts and assistance in foreign countries— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tII/s202/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">to partner with, encourage, advise and facilitate national and subnational governments on the development and execution, where practicable, of national projects, programs and initiatives to—</chapeau>
+                            <clause identifier="/us/sComp/116/224/tII/s202/a/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">improve the capacity, security, and standards of operations of post-consumer materials management systems; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tII/s202/a/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">monitor and track how well post-consumer materials management systems are functioning nationwide, based on uniform and transparent standards developed in cooperation with municipal, industrial, and civil society stakeholders; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tII/s202/a/2/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">identify the operational challenges of post-consumer materials management systems and develop policy and programmatic solutions; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tII/s202/a/2/A/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">end intentional or unintentional incentives for municipalities, industries, and individuals to improperly dispose of plastic waste; and </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tII/s202/a/2/A/v" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">conduct outreach campaigns to raise public awareness of the importance of proper waste disposal and the reduction of plastic waste; </content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tII/s202/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to facilitate the involvement of municipalities and industries in improving solid waste reduction, collection, disposal, and reuse and recycling projects, programs, and initiatives; </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tII/s202/a/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">to partner with and provide technical assistance to investors, and national and local institutions, including private sector actors, to develop new business opportunities and solutions to specifically reduce plastic waste and expand solid waste and post-consumer materials management best practices in foreign countries by— </chapeau>
+                            <clause identifier="/us/sComp/116/224/tII/s202/a/2/C/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">maximizing the number of people and businesses, in both rural and urban communities, receiving reliable solid waste and post-consumer materials management services; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tII/s202/a/2/C/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">improving and expanding the capacity of foreign industries to responsibly employ post-consumer materials management practices; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tII/s202/a/2/C/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">improving and expanding the capacity and transparency of tracking mechanisms for marine debris to reduce the impacts on the marine environment; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tII/s202/a/2/C/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">eliminating incentives that undermine responsible post-consumer materials management practices and lead to improper waste disposal practices and leakage; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tII/s202/a/2/C/v" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><chapeau style="-uslm-dtd:text">building the capacity of countries— </chapeau>
+                                <subclause identifier="/us/sComp/116/224/tII/s202/a/2/C/v/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">to reduce, monitor, regulate, and manage waste, post-consumer materials and plastic waste, and pollution appropriately and transparently, including imports of plastic waste from the United States and other countries; </content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/116/224/tII/s202/a/2/C/v/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">to encourage private investment in post-consumer materials management and reduction; and </content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/116/224/tII/s202/a/2/C/v/III" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">to encourage private investment, grow opportunities, and develop markets for recyclable, reusable, and repurposed plastic waste and post-consumer materials, and products with high levels of recycled plastic content, at both national and local levels; and</content>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tII/s202/a/2/C/vi" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">promoting safe and affordable reusable alternatives to disposable plastic products, to the extent practicable; and </content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tII/s202/a/2/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">to research, identify, and facilitate opportunities to promote collection and proper disposal of damaged or derelict fishing gear. </content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tII/s202/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Officials Specified.—</heading><chapeau style="-uslm-dtd:text">The officials specified in this subsection are the following: </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">The United States Trade Representative. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The Under Secretary. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The EPA Administrator. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The Director of the Trade and Development Agency. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">The President and the Board of Directors of the Overseas Private Investment Corporation or the Chief Executive Officer and the Board of Directors of the United States International Development Finance Corporation, as appropriate. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/b/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="6">(6) </num><content style="-uslm-dtd:text">The Chief Executive Officer and the Board of Directors of the Millennium Challenge Corporation. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/b/7" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="7">(7) </num><content style="-uslm-dtd:text">The Commandant of the Coast Guard, with respect to pollution from ships. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/b/8" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="8">(8) </num><content style="-uslm-dtd:text">The heads of such other agencies as the Secretary of State considers appropriate. </content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tII/s202/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Prioritization.—</heading><chapeau style="-uslm-dtd:text">In carrying out subsection (a), the officials specified in subsection (b) shall prioritize assistance to countries with, and regional organizations in regions with— </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">rapidly developing economies; and </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tII/s202/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">rivers and coastal areas that are the most severe sources of marine debris, as identified by the best available science. </content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tII/s202/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Effectiveness Measurement.—</heading><content style="-uslm-dtd:text">In prioritizing and expediting efforts and assistance under this section, the officials specified in subsection (b) shall use clear, accountable, and metric-based targets to measure the effectiveness of guarantees and assistance in achieving the policy described in section 201. </content>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tII/s202/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Rule of Construction.—</heading><content style="-uslm-dtd:text">Nothing in this section may be construed to authorize the modification of or the imposition of limits on the portfolios of any agency or institution led by an official specified in subsection (b). </content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/116/224/tII/s203" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="203">SEC. 203. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s4263">33 U.S.C. 4263</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">UNITED STATES LEADERSHIP IN INTERNATIONAL FORA. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">  In implementing the policy described in section 201, the President shall direct the United States representatives to appropriate international bodies and conferences (including the United Nations Environment Programme, the Association of Southeast Asian Nations, the Asia Pacific Economic Cooperation, the Group of 7, the Group of 20, the Organization for Economic Co-Operation and Development (OECD), and the Our Ocean Conference) to use the voice, vote, and influence of the United States, consistent with the broad foreign policy goals of the United States, to advocate that each such body— </chapeau>
+                <paragraph identifier="/us/sComp/116/224/tII/s203/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">commit to significantly increasing efforts to promote investment in well-designed post-consumer materials management and plastic waste elimination and mitigation projects and services that increase access to safe post-consumer materials management and mitigation services, in partnership with the private sector and consistent with the constraints of other countries;</content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/224/tII/s203/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">address the post-consumer materials management needs of individuals and communities where access to municipal post-consumer materials management services is historically impractical or cost-prohibitive; </content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/224/tII/s203/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">enhance coordination with the private sector— </chapeau>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to increase access to solid waste and post-consumer materials management services; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to utilize safe and affordable alternatives to disposable plastic products, to the extent practicable; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to encourage and incentivize the use of recycled content; and </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/3/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">to grow economic opportunities and develop markets for recyclable, compostable, reusable, and repurposed plastic waste materials and post-consumer materials and other efforts that support the circular economy; </content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/224/tII/s203/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">provide technical assistance to foreign regulatory authorities and governments to remove unnecessary barriers to investment in otherwise commercially-viable projects related to— </chapeau>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">post-consumer materials management; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the use of safe and affordable alternatives to disposable plastic products; or </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">beneficial reuse of solid waste, plastic waste, post-consumer materials, plastic products, and refuse; </content>
+                    </subparagraph>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/224/tII/s203/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">use clear, accountable, and metric-based targets to measure the effectiveness of such projects; and </content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/224/tII/s203/6" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="6">(6) </num><chapeau style="-uslm-dtd:text">engage international partners in an existing multilateral forum (or, if necessary, establish through an international agreement a new multilateral forum) to improve global cooperation on— </chapeau>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/6/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">creating tangible metrics for evaluating efforts to reduce plastic waste and marine debris; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/6/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">developing and implementing best practices at the national and subnational levels of foreign countries, particularly countries with little to no solid waste or post-consumer materials management systems, facilities, or policies in place for— </chapeau>
+                        <clause identifier="/us/sComp/116/224/tII/s203/6/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">collecting, disposing, recycling, and reusing plastic waste and post-consumer materials, including building capacity for improving post-consumer materials management; and </content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/224/tII/s203/6/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">integrating alternatives to disposable plastic products, to the extent practicable; </content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/6/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">encouraging the development of standards and practices, and increasing recycled content percentage requirements for disposable plastic products; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/6/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">integrating tracking and monitoring systems into post-consumer materials management systems; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/6/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="E">(E) </num><chapeau style="-uslm-dtd:text">fostering research to improve scientific understanding of— </chapeau>
+                        <clause identifier="/us/sComp/116/224/tII/s203/6/E/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">how microfibers and microplastics may affect marine ecosystems, human health and safety, and maritime activities; </content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/224/tII/s203/6/E/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">changes in the amount and regional concentrations of plastic waste in the ocean, based on scientific modeling and forecasting;</content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/224/tII/s203/6/E/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">the role rivers, streams, and other inland waterways play in serving as conduits for mismanaged waste traveling from land to the ocean; </content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/224/tII/s203/6/E/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">effective means to eliminate present and future leakages of plastic waste into the environment; and </content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/224/tII/s203/6/E/v" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">other related areas of research the United States representatives deem necessary; </content>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/6/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">encouraging the World Bank and other international finance organizations to prioritize efforts to reduce plastic waste and combat marine debris; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/6/G" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="G">(G) </num><content style="-uslm-dtd:text">collaborating on technological advances in post-consumer materials management and recycled plastics; </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/6/H" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="H">(H) </num><content style="-uslm-dtd:text">growing economic opportunities and developing markets for recyclable, compostable, reusable, and repurposed plastic waste and post-consumer materials and other efforts that support the circular economy; and </content>
+                    </subparagraph>
+                    <subparagraph identifier="/us/sComp/116/224/tII/s203/6/I" style="-uslm-dtd:subparagraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="I">(I) </num><chapeau style="-uslm-dtd:text">advising foreign countries, at both the national and subnational levels, on the development and execution of regulatory policies, services, including recycling and reuse of plastic, and laws pertaining to reducing the creation and the collection and safe management of— </chapeau>
+                        <clause identifier="/us/sComp/116/224/tII/s203/6/I/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">solid waste; </content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/224/tII/s203/6/I/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">post-consumer materials; </content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/224/tII/s203/6/I/iii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">plastic waste; and </content>
+                        </clause>
+                        <clause identifier="/us/sComp/116/224/tII/s203/6/I/iv" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">marine debris. </content>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/116/224/tII/s204" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="204">SEC. 204. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s4264">33 U.S.C. 4264</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">ENHANCING INTERNATIONAL OUTREACH AND PARTNERSHIP OF UNITED STATES AGENCIES INVOLVED IN MARINE DEBRIS ACTIVITIES. </heading>
+                <subsection identifier="/us/sComp/116/224/tII/s204/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Findings.—</heading><content style="-uslm-dtd:text">Congress recognizes the success of the marine debris program of the National Oceanic and Atmospheric Administration and the Trash-Free Waters program of the Environmental Protection Agency. </content>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tII/s204/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Authorization of Efforts to Build Foreign Partnerships.—</heading><content style="-uslm-dtd:text">The Under Secretary and the EPA Administrator shall work with the Secretary of State and the Administrator of the United States Agency for International Development to build partnerships, as appropriate, with the governments of foreign countries and to support international efforts to combat marine debris. </content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/116/224/tII/s205" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="205">SEC. 205. </num><heading style="-uslm-dtd:header">NEGOTIATION OF NEW INTERNATIONAL AGREEMENTS. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">  Not later than 1 year after the date of the enactment of this Act, the Secretary of State shall submit to Congress a report— </chapeau>
+                <paragraph identifier="/us/sComp/116/224/tII/s205/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">assessing the potential for negotiating new international agreements or creating a new international forum to reduce land-based sources of marine debris and derelict fishing gear, consistent with section 203; </content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/224/tII/s205/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">describing the provisions that could be included in such agreements; and </content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/224/tII/s205/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">assessing potential parties to such agreements. </content>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/116/224/tII/s206" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="206">SEC. 206. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s4265">33 U.S.C. 4265</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">CONSIDERATION OF MARINE DEBRIS IN NEGOTIATING INTERNATIONAL AGREEMENTS. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">  In negotiating any relevant international agreement with any country or countries after the date of the enactment of this Act, the President shall, as appropriate—</chapeau>
+                <paragraph identifier="/us/sComp/116/224/tII/s206/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">consider the impact of land-based sources of plastic waste and other solid waste from that country on the marine and aquatic environment; and </content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/224/tII/s206/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">ensure that the agreement strengthens efforts to eliminate land-based sources of plastic waste and other solid waste from that country that impact the marine and aquatic environment. </content>
+                </paragraph>
+            </section>
+        </title>
+        <title identifier="/us/sComp/116/224/tIII" style="-uslm-dtd:title" styleType="OLC">
+            <num style="-uslm-dtd:enum" value="III">TITLE III—</num><heading style="-uslm-dtd:header">IMPROVING DOMESTIC INFRASTRUCTURE TO PREVENT MARINE DEBRIS </heading>
+            <section identifier="/us/sComp/116/224/tIII/s301" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="301">SEC. 301. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s4281">33 U.S.C. 4281</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">STRATEGY FOR IMPROVING POST-CONSUMER MATERIALS MANAGEMENT AND WATER MANAGEMENT. </heading>
+                <subsection identifier="/us/sComp/116/224/tIII/s301/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">Not later than 1 year after the date of enactment of this Act, the EPA Administrator shall, in consultation with stakeholders, develop a strategy to improve post-consumer materials management and infrastructure for the purpose of reducing plastic waste and other post-consumer materials in waterways and oceans. </content>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tIII/s301/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Release.—</heading><chapeau style="-uslm-dtd:text">On development of the strategy under subsection (a), the EPA Administrator shall— </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s301/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">distribute the strategy to States; and </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s301/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">make the strategy publicly available, including for use by— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s301/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">for-profit private entities involved in post-consumer materials management; and </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s301/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">other nongovernmental entities. </content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/116/224/tIII/s302" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="302">SEC. 302. </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t33/s4282">33 U.S.C. 4282</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">GRANT PROGRAMS. </heading>
+                <subsection identifier="/us/sComp/116/224/tIII/s302/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Post-Consumer Materials Management Infrastructure Grant Program.—</heading>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The EPA Administrator may provide grants to States to implement the strategy developed under section 301(a) and— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/a/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to support improvements to local post-consumer materials management, including municipal recycling programs; and </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/a/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to assist local waste management authorities in making improvements to local waste management systems. </content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Applications.—</heading><content style="-uslm-dtd:text">To be eligible to receive a grant under paragraph (1), the applicant State shall submit to the EPA Administrator an application at such time, in such manner, and containing such information as the EPA Administrator may require. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/a/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Contents of applications.—</heading><chapeau style="-uslm-dtd:text">In developing application requirements, the EPA Administrator shall consider requesting that a State applicant provide— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/a/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">a description of— </chapeau>
+                            <clause identifier="/us/sComp/116/224/tIII/s302/a/3/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the project or projects to be carried out using grant funds; and </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tIII/s302/a/3/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">how the project or projects would result in the generation of less plastic waste; </content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/a/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">a description of how the funds will support disadvantaged communities; and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/a/3/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">an explanation of any limitations, such as flow control measures, that restrict access to reusable or recyclable materials. </content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/a/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">Report to congress.—</heading><chapeau style="-uslm-dtd:text">Not later than January 1, 2023, the EPA Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives a report that includes— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/a/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">a description of the activities carried out under this subsection; </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/a/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">estimates as to how much plastic waste was prevented from entering the oceans and other waterways as a result of activities funded pursuant to this subsection; and </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/a/4/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">a recommendation on the utility of evolving the grant program into a new waste management State revolving fund. </content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tIII/s302/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Drinking Water Infrastructure Grants.—</heading>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The EPA Administrator may provide competitive grants to units of local government, Indian Tribes, and public water systems (as defined in section 1401 of the Safe Drinking Water Act (42 U.S.C. 300f)) to support improvements in reducing and removing plastic waste and post-consumer materials, including microplastics and microfibers, from drinking water or sources of drinking water, including planning, design, construction, technical assistance, and planning support for operational adjustments. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Applications.—</heading><content style="-uslm-dtd:text">To be eligible to receive a grant under paragraph (1), an applicant shall submit to the EPA Administrator an application at such time, in such manner, and containing such information as the EPA Administrator may require. </content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tIII/s302/c" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Wastewater Infrastructure Grants.—</heading>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The EPA Administrator may provide grants to municipalities (as defined in section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362)) or Indian Tribes that own and operate treatment works (as such term is defined in section 212 of such Act (33 U.S.C. 1292)) for the construction of improvements to reduce and remove plastic waste and post-consumer materials, including microplastics and microfibers, from wastewater. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Applications.—</heading><content style="-uslm-dtd:text">To be eligible to receive a grant under paragraph (1), an applicant shall submit to the EPA Administrator an application at such time, in such manner, and containing such information as the EPA Administrator may require. </content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tIII/s302/d" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Trash-Free Waters Grants.—</heading>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/d/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">The EPA Administrator may provide grants to units of local government, Indian Tribes, and nonprofit organizations— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/d/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">to support projects to reduce the quantity of solid waste in bodies of water by reducing the quantity of waste at the source, including through anti-litter initiatives; </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/d/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">to enforce local post-consumer materials management ordinances;</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/d/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">to implement State or local policies relating to solid waste; </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/d/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">to capture post-consumer materials at stormwater inlets, at stormwater outfalls, or in bodies of water; </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/d/1/E" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><content style="-uslm-dtd:text">to provide education and outreach about post-consumer materials movement and reduction; and </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s302/d/1/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><content style="-uslm-dtd:text">to monitor or model flows of post-consumer materials, including monitoring or modeling a reduction in trash as a result of the implementation of best management practices for the reduction of plastic waste and other post-consumer materials in sources of drinking water. </content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/d/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Applications.—</heading><content style="-uslm-dtd:text">To be eligible to receive a grant under paragraph (1), an applicant shall submit to the EPA Administrator an application at such time, in such manner, and containing such information as the EPA Administrator may require. </content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tIII/s302/e" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Applicability of Federal Law.—</heading>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/e/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The EPA Administrator shall ensure that all laborers and mechanics employed on projects funded directly, or assisted in whole or in part, by a grant established by this section shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of part A of subtitle II of title 40, United States Code. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/e/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Authority.—</heading><content style="-uslm-dtd:text">With respect to the labor standards specified in paragraph (1), the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and section 3145 of title 40, United States Code. </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Requirements.—</heading><content style="-uslm-dtd:text">The requirements of section 608 of the Federal Water Pollution Control Act (33 U.S.C. 1388) shall apply to the construction of a project carried out, in whole or in part, with assistance made available under this section in the same manner as the requirements of such section apply with respect to funds made available pursuant to title VI of such Act. </content>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tIII/s302/f" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Limitation on Use of Funds.—</heading><content style="-uslm-dtd:text">A grant under this section may not be used (directly or indirectly) as a source of payment (in whole or in part) of, or security for, an obligation the interest on which is excluded from gross income under section 103 of the Internal Revenue Code of 1986. </content>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tIII/s302/g" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><chapeau style="-uslm-dtd:text">There are authorized to be appropriated— </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/g/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">for the program described subsection (a), $55,000,000 for each of fiscal years 2021 through 2025; and </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s302/g/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">for each of the programs described subsections (b), (c), and (d), $10,000,000 for each of fiscal years 2021 through 2025. </content>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/116/224/tIII/s303" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="303">SEC. 303. </num><heading style="-uslm-dtd:header">STUDY ON REPURPOSING PLASTIC WASTE IN INFRASTRUCTURE. </heading>
+                <subsection identifier="/us/sComp/116/224/tIII/s303/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><chapeau style="-uslm-dtd:text">The Secretary of Transportation (referred to in this section as the “Secretary”) and the EPA Administrator shall jointly enter into an arrangement with the National Academies of Sciences, Engineering, and Medicine under which the National Academies will— </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s303/a/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">conduct a study on the uses of plastic waste in infrastructure; and </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s303/a/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><chapeau style="-uslm-dtd:text">as part of the study under paragraph (1)— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s303/a/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">identify domestic and international examples of— </chapeau>
+                            <clause identifier="/us/sComp/116/224/tIII/s303/a/2/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the use of plastic waste materials described in that paragraph; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tIII/s303/a/2/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">infrastructure projects in which the use of plastic waste has been applied; and </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tIII/s303/a/2/A/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">projects in which the use of plastic waste has been incorporated into or with other infrastructure materials; </content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s303/a/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">assess— </chapeau>
+                            <clause identifier="/us/sComp/116/224/tIII/s303/a/2/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the effectiveness and utility of the uses of plastic waste described in that paragraph; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tIII/s303/a/2/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">the extent to which plastic waste materials are consistent with recognized specifications for infrastructure construction and other recognized standards; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tIII/s303/a/2/B/iii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">relevant impacts of plastic waste materials compared to non-waste plastic materials; </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tIII/s303/a/2/B/iv" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><chapeau style="-uslm-dtd:text">the health, safety, and environmental impacts of— </chapeau>
+                                <subclause identifier="/us/sComp/116/224/tIII/s303/a/2/B/iv/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">plastic waste on humans and animals; and </content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/116/224/tIII/s303/a/2/B/iv/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the increased use of plastic waste for infrastructure; </content>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tIII/s303/a/2/B/v" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="v">(v) </num><content style="-uslm-dtd:text">the ability of plastic waste infrastructure to withstand natural disasters, extreme weather events, and other hazards; and </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tIII/s303/a/2/B/vi" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="vi">(vi) </num><content style="-uslm-dtd:text">plastic waste in infrastructure through an economic analysis; and </content>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s303/a/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">make recommendations with respect to what standards or matters may need to be addressed with respect to ensuring human and animal health and safety from the use of plastic waste in infrastructure. </content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tIII/s303/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report Required.—</heading><content style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act and subject to the availability of appropriations, the Secretary and the EPA Administrator shall submit to Congress a report on the study conducted under subsection (a). </content>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/116/224/tIII/s304" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="304">SEC. 304. </num><heading style="-uslm-dtd:header">STUDY ON EFFECTS OF MICROPLASTICS IN FOOD SUPPLIES AND SOURCES OF DRINKING WATER. </heading>
+                <subsection identifier="/us/sComp/116/224/tIII/s304/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The EPA Administrator, in consultation with the Under Secretary, shall seek to enter into an arrangement with the National Academies of Sciences, Engineering, and Medicine under which the National Academies will conduct a human health and environmental risk assessment on microplastics, including microfibers, in food supplies and sources of drinking water. </content>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tIII/s304/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report Required.—</heading><chapeau style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the EPA Administrator shall submit to Congress a report on the study conducted under subsection (a) that includes— </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s304/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">a science-based definition of “microplastics” that can be adopted in federally supported monitoring and future assessments supported or conducted by a Federal agency; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s304/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">recommendations for standardized monitoring, testing, and other necessary protocols relating to microplastics; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s304/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><chapeau style="-uslm-dtd:text">an assessment of— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s304/b/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the extent to which microplastics are present in the food supplies and sources of drinking water; and </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s304/b/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><chapeau style="-uslm-dtd:text">the type, source, prevalence, and risk of microplastics in the food supplies and sources of drinking water, including— </chapeau>
+                            <clause identifier="/us/sComp/116/224/tIII/s304/b/3/B/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">an identification of the most significant sources of those microplastics; and </content>
+                            </clause>
+                            <clause identifier="/us/sComp/116/224/tIII/s304/b/3/B/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">a review of the best available science to determine any potential hazards of microplastics in the food supplies and sources of drinking water; and </content>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s304/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><chapeau style="-uslm-dtd:text">a measurement of— </chapeau>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s304/b/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">the quantity of environmental chemicals that adsorb to microplastics; and </content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/116/224/tIII/s304/b/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the quantity described in subparagraph (A) that would be available for human exposure through food supplies or sources of drinking water. </content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section identifier="/us/sComp/116/224/tIII/s305" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="305">SEC. 305. </num><heading style="-uslm-dtd:header">REPORT ON ELIMINATING BARRIERS TO INCREASE THE COLLECTION OF RECYCLABLE MATERIALS. </heading>
+                <chapeau class="block" style="-uslm-dtd:text">  Not later than 1 year after the date of enactment of this Act, the EPA Administrator shall submit to Congress a report describing— </chapeau>
+                <paragraph identifier="/us/sComp/116/224/tIII/s305/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">the economic, educational, technological, resource availability, legal, or other barriers to increasing the collection, processing, and use of recyclable materials; and </content>
+                </paragraph>
+                <paragraph identifier="/us/sComp/116/224/tIII/s305/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">recommendations to overcome the barriers described under paragraph (1). </content>
+                </paragraph>
+            </section>
+            <section identifier="/us/sComp/116/224/tIII/s306" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="306">SEC. 306. </num><heading style="-uslm-dtd:header">REPORT ON ECONOMIC INCENTIVES TO SPUR DEVELOPMENT OF NEW END-USE MARKETS FOR RECYCLED PLASTICS. </heading>
+                <content class="block" style="-uslm-dtd:text">  Not later than 1 year after the date of enactment of this Act, the EPA Administrator shall submit to Congress a report describing the most efficient and effective economic incentives to spur the development of additional new end-use markets for recycled plastics, including plastic film, including the use of increased recycled content by manufacturers in the production of plastic goods and packaging. </content>
+            </section>
+            <section identifier="/us/sComp/116/224/tIII/s307" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="307">SEC. 307. </num><heading style="-uslm-dtd:header">REPORT ON MINIMIZING THE CREATION OF NEW PLASTIC WASTE. </heading>
+                <subsection identifier="/us/sComp/116/224/tIII/s307/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The EPA Administrator, in coordination with the Interagency Marine Debris Coordinating Committee and the National Institute of Standards and Technology, shall conduct a study on minimizing the creation of new plastic waste. </content>
+                </subsection>
+                <subsection identifier="/us/sComp/116/224/tIII/s307/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Report.—</heading><chapeau style="-uslm-dtd:text">Not later than 2 years after the date of enactment of this Act, the EPA Administrator shall submit to Congress a report on the study conducted under subsection (a) that includes— </chapeau>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s307/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">an estimate of the current and projected United States production and consumption of plastics, by type of plastic, including consumer food products; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s307/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">an estimate of the environmental effects and impacts of plastic production and use in relation to other materials; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s307/b/3" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">an estimate of current and projected future recycling rates of plastics, by type of plastic; </content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s307/b/4" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">an assessment of opportunities to minimize the creation of new plastic waste, including consumer food products, by reducing, recycling, reusing, refilling, refurbishing, or capturing plastic that would otherwise be part of a waste stream; and</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/116/224/tIII/s307/b/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5) </num><content style="-uslm-dtd:text">an assessment of what post-consumer recycled content standards for plastic are technologically and economically feasible, and the impact of the standards on recycling rates. </content>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+    </main>
+</statuteCompilation>
