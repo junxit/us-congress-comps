@@ -1,20 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
     <meta style="-uslm-dtd:compilation-act-form">
         <dc:title>SOCIAL SECURITY ACT</dc:title>
         <containsShortTitle>TITLE VII OF THE SOCIAL SECURITY ACT</containsShortTitle>
-        <citableAs>Chapter 531 of the 74th Congress, as amended</citableAs>
-        <citableAs>49 Stat. 620, as amended</citableAs>
         <citableAsShortTitle>SOCIAL SECURITY ACT</citableAsShortTitle>
-        <docNumber>ch531</docNumber>
-        <currentThroughPublicLaw>117–286</currentThroughPublicLaw>
+        <docNumber/>
         <dc:type>Statute Compilation</dc:type>
         <dc:creator>United States House of Representatives</dc:creator>
         <dc:creator>Office of the Legislative Counsel</dc:creator>
         <dc:format>text/xml</dc:format>
         <dc:language>EN</dc:language>
         <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
-        <processedBy>GPO Statute Compilations USLM converter, version 20210527.1</processedBy>
-        <processedDate>2023-02-03</processedDate>
+        <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
+        <processedDate>2026-10-16</processedDate>
         <containsShortTitle>Social Security Act-TITLE VII (Administration)</containsShortTitle>
         <containsShortTitle>Federal Employees Unemployment Compensation Act</containsShortTitle>
         <containsShortTitle>Health Insurance for the Aged Act</containsShortTitle>
@@ -28,7 +25,7 @@
     <preface style="-uslm-dtd:compilation-act-form">
         <property role="compShortTitle" style="-uslm-dtd:comp-short-title">SOCIAL SECURITY ACT</property>
         <citationNote style="-uslm-dtd:public-law">[<citableAs>Chapter 531 of the 74th Congress</citableAs>, approved <date date="1935-08-14">August 14, 1935</date>, <citableAs>49 Stat. 620</citableAs>.]</citationNote>
-        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 117–286</currentThroughPublicLaw>, Enacted <date date="2022-12-27">December 27, 2022</date>]</editionNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 119–119</currentThroughPublicLaw>, Enacted <date date="2026-10-07">October 7, 2026</date>]</editionNote>
         <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of title VII of Chapter 531 of the 74th Congress. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
         <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
     </preface>
@@ -50,6 +47,7 @@
                 <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 711.</designator><label> Office of Rural Health Policy.</label></referenceItem>
                 <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 712.</designator><label> Duties and authority of Secretary.</label></referenceItem>
                 <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 713.</designator><label> Office of women's health.</label></referenceItem>
+                <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 714.</designator><label> Single point of contact for identity theft victims.<ref class="footnoteRef" idref="IDF1CCD17B98154BD590DE800F15BC16D5" style="-uslm-dtd:footnote-ref">3</ref></label></referenceItem><footnote id="IDF1CCD17B98154BD590DE800F15BC16D5" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">3</sup><p style="-uslm-dtd:para; margin-left:1em">See details in  footnote to section 714 as to when such section takes effect.</p></footnote>
             </toc>
             <section identifier="/us/sComp/74/271/tVII/s701" style="-uslm-dtd:section" styleType="traditional">
                 <heading style="-uslm-dtd:header">social security administration </heading>
@@ -102,7 +100,7 @@
                 </subsection>
             </section>
             <section role="undesignated-level" style="-uslm-dtd:section" styleType="traditional">
-                <heading style="-uslm-dtd:header">chief actuary<ref class="footnoteRef" idref="ID2BD9E1E9A878409795554326C6BE8D8A" style="-uslm-dtd:footnote-ref">3</ref> </heading><footnote id="ID2BD9E1E9A878409795554326C6BE8D8A" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">3</sup><p style="-uslm-dtd:para; margin-left:1em">So in original; probably should be set caps and lowercase.</p></footnote>
+                <heading style="-uslm-dtd:header">chief actuary<ref class="footnoteRef" idref="ID2BD9E1E9A878409795554326C6BE8D8A" style="-uslm-dtd:footnote-ref">4</ref> </heading><footnote id="ID2BD9E1E9A878409795554326C6BE8D8A" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">4</sup><p style="-uslm-dtd:para; margin-left:1em">So in original; probably should be set caps and lowercase.</p></footnote>
                 <subsection identifier="/us/sComp/74/271/tVII/c" style="-uslm-dtd:subsection" styleType="OLC">
                     <num style="-uslm-dtd:enum" value="c">(c)</num><paragraph class="inline" identifier="/us/sComp/74/271/tVII/c/1" style="-uslm-dtd:paragraph" styleType="OLC"><num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in the actuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.</content></paragraph>
                     <paragraph class="leftIndentDecrease1" identifier="/us/sComp/74/271/tVII/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
@@ -482,6 +480,33 @@
                     <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Authorization of Appropriations.—</heading><content style="-uslm-dtd:text">For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.</content>
                 </subsection>
             </section>
+            <section identifier="/us/sComp/74/271/tVII/s714" inEffect="false" style="-uslm-dtd:section" styleType="OLC">
+                <num style="-uslm-dtd:enum" value="714">SEC. 714.<ref class="footnoteRef" idref="ID9EFCF00A83D1496FAA03315F95392AAA" style="-uslm-dtd:footnote-ref">5</ref> </num><editorialNote role="uscRef" style="-uslm-dtd:usc-reference"><b>[</b><ref href="/us/usc/t42/s915">42 U.S.C. 915</ref><b>]</b> </editorialNote><heading style="-uslm-dtd:header">SINGLE POINT OF CONTACT FOR IDENTITY THEFT VICTIMS. </heading>
+                <subsection identifier="/us/sComp/74/271/tVII/s714/a" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In General.—</heading><content style="-uslm-dtd:text">The Commissioner of Social Security shall establish and implement procedures to ensure that any individual whose social security account number has been misused (such as to fraudulently obtain benefits under title II, VIII, or XVI of this Act, or in a manner that affects an individual’s records at the Social Security Administration, or in a manner that prompts the individual to request a new social security account number) or whose Social Security card has been lost in the course of transmission to the individual has a single point of contact at the Social Security Administration throughout the resolution of the individual’s case. The single point of contact shall track the individual’s case to completion and coordinate with other units to resolve issues as quickly as possible.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/74/271/tVII/s714/b" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Single Point of Contact.—</heading>
+                    <paragraph identifier="/us/sComp/74/271/tVII/s714/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><chapeau style="-uslm-dtd:text">For purposes of subsection (a), the single point of contact shall consist of a team or subset of specially trained employees who—</chapeau>
+                        <subparagraph identifier="/us/sComp/74/271/tVII/s714/b/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">have the ability to coordinate with other units to resolve the issues involved in the individual's case, and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/74/271/tVII/s714/b/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">shall be accountable for the case until its resolution.</content>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/74/271/tVII/s714/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Team or subset.—</heading><chapeau style="-uslm-dtd:text">The employees included within the team or subset described in paragraph (1) may change as required to meet the needs of the Social Security Administration, provided that procedures have been established to—</chapeau>
+                        <subparagraph identifier="/us/sComp/74/271/tVII/s714/b/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">ensure continuity of records and case history, and</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/74/271/tVII/s714/b/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">notify the individual when appropriate.</content>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section><footnote id="ID9EFCF00A83D1496FAA03315F95392AAA" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">5</sup><p style="-uslm-dtd:para; margin-left:1em">Effective April 5, 2027, section 2(a) of Public Law 119–119 adds at the end of title VII a new section 714 (as shown above).</p></footnote>
         </title>
     </main>
 </statuteCompilation>
