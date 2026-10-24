@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><statuteCompilation xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpo="http://www.gpo.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" style="-uslm-dtd:statute" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.13.xsd">
     <meta style="-uslm-dtd:compilation-act-form">
         <dc:title>Claims Resolution Act of 2010</dc:title>
-        <citableAs>Public Law 111–291, as amended</citableAs>
         <citableAsShortTitle>Claims Resolution Act of 2010</citableAsShortTitle>
-        <docNumber>291</docNumber>
-        <currentThroughPublicLaw>117–342</currentThroughPublicLaw>
+        <docNumber/>
         <dc:type>Statute Compilation</dc:type>
         <dc:creator>United States House of Representatives</dc:creator>
         <dc:creator>Office of the Legislative Counsel</dc:creator>
@@ -12,12 +10,13 @@
         <dc:language>EN</dc:language>
         <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
         <processedBy>GPO Statute Compilations USLM converter, version 20240419</processedBy>
-        <processedDate>2026-07-17</processedDate>
+        <processedDate>2026-10-23</processedDate>
         <containsShortTitle>Aamodt Litigation Settlement Act</containsShortTitle>
         <containsShortTitle>Claims Resolution Act of 2010</containsShortTitle>
         <containsShortTitle>Crow Tribe Water Rights Settlement Act of 2010</containsShortTitle>
         <containsShortTitle>Taos Pueblo Indian Water Rights Settlement Act</containsShortTitle>
         <containsShortTitle>White Mountain Apache Tribe Water Rights Quantification Act of 2010</containsShortTitle>
+        <containsShortTitle>Crow Tribe Water Rights Settlement Amendments Act of 2025</containsShortTitle>
         <property role="fileId">13809</property>
         <congress>111</congress>
         <approvedDate>2010-12-08</approvedDate>
@@ -25,7 +24,7 @@
     <preface style="-uslm-dtd:compilation-act-form">
         <property role="compShortTitle" style="-uslm-dtd:comp-short-title">Claims Resolution Act of 2010</property>
         <citationNote style="-uslm-dtd:public-law">[(<citableAs>Public Law 111–291</citableAs>)]</citationNote>
-        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 117–342</currentThroughPublicLaw>, Enacted <date date="2023-01-05">January 5, 2023</date>]</editionNote>
+        <editionNote style="-uslm-dtd:updated-through-note">[As Amended Through <currentThroughPublicLaw>P.L. 119–122</currentThroughPublicLaw>, Enacted <date date="2026-10-15">October 15, 2026</date>]</editionNote>
         <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Currency: This publication is a compilation of the text of Public Law 111–291. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https://www.govinfo.gov/app/collection/comps/<b>]</b></explanationNote>
         <explanationNote style="-uslm-dtd:explanatory-note"><b>[</b>Note: While this publication does  not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204).<b>]</b></explanationNote>
     </preface>
@@ -71,8 +70,7 @@ Be it enacted by the Senate and House of Representatives of the United States of
                     <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 402.</designator><label> Purposes.</label></referenceItem>
                     <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 403.</designator><label> Definitions.</label></referenceItem>
                     <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 404.</designator><label> Ratification of Compact.</label></referenceItem>
-                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 405.</designator><label> Rehabilitation and improvement of Crow Irrigation Project.</label></referenceItem>
-                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 406.</designator><label> Design and construction of MR&amp;I System.</label></referenceItem>
+                    <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 405.</designator><label> Rehabilitation and improvement of Crow Irrigation Project.<ref class="footnoteRef" idref="ID5706A576D1B7429B969F1D0F41243E1C" style="-uslm-dtd:footnote-ref">1</ref></label></referenceItem><footnote id="ID5706A576D1B7429B969F1D0F41243E1C" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">1</sup><p style="-uslm-dtd:para; margin-left:1em">The  item for section 406 was repealed by  section 2(b)(2) of Public Law 119-122.</p></footnote>
                     <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 407.</designator><label> Tribal water rights.</label></referenceItem>
                     <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 408.</designator><label> Storage allocation from Bighorn Lake.</label></referenceItem>
                     <referenceItem role="section" style="-uslm-dtd:toc-entry"><designator>Sec. 409.</designator><label> Satisfaction of claims.</label></referenceItem>
@@ -1878,45 +1876,24 @@ be returned to the general fund of the Treasury.</content>
                     <num style="-uslm-dtd:enum" value="8">(8) </num><heading style="-uslm-dtd:header">Fund.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Fund</term>” means the Crow Settlement Fund established by section 411.</content>
                 </paragraph>
                 <paragraph identifier="/us/sComp/111/291/tIV/s403/9" style="-uslm-dtd:paragraph" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Indian tribe.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Indian tribe</term>” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).</content>
+                    <num style="-uslm-dtd:enum" value="9">(9) </num><heading style="-uslm-dtd:header">Indian tribe.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">Indian tribe</term>” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).</content>
                 </paragraph>
                 <paragraph identifier="/us/sComp/111/291/tIV/s403/10" style="-uslm-dtd:paragraph" styleType="OLC">
                     <num style="-uslm-dtd:enum" value="10">(10) </num><heading style="-uslm-dtd:header">Joint stipulation of settlement.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">joint stipulation of settlement</term>” means the joint stipulation of settlement relating to the civil action styled Crow Tribe of Indians v. Norton, No. 02-284 (D.D.C. 2006).</content>
                 </paragraph>
                 <paragraph identifier="/us/sComp/111/291/tIV/s403/11" style="-uslm-dtd:paragraph" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="11">(11) </num><heading style="-uslm-dtd:header">MR&amp;I system.—</heading>
-                    <subparagraph identifier="/us/sComp/111/291/tIV/s403/11/A" style="-uslm-dtd:subparagraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">MR&amp;I System</term>” means the municipal, rural, and industrial water system of the Reservation, generally described in the document entitled “<term style="-uslm-dtd:quote">Crow Indian Reservation Municipal, Rural and Industrial Water System Engineering Report</term>” prepared by DOWL HKM, and dated July 2008 and updated in a status report prepared by DOWL HKM dated December 2009.</content>
-                    </subparagraph>
-                    <subparagraph identifier="/us/sComp/111/291/tIV/s403/11/B" style="-uslm-dtd:subparagraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Inclusions.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">MR&amp;I System</term>” includes—</chapeau>
-                        <clause identifier="/us/sComp/111/291/tIV/s403/11/B/i" style="-uslm-dtd:clause" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the raw water intake, water treatment plant, pipelines, storage tanks, pumping stations, pressure-reducing valves, electrical transmission facilities, and other items (including real property and easements necessary to deliver potable water to the Reservation) appurtenant to the system described in subparagraph (A); and</content>
-                        </clause>
-                        <clause identifier="/us/sComp/111/291/tIV/s403/11/B/ii" style="-uslm-dtd:clause" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><chapeau style="-uslm-dtd:text">in descending order of construction priority—</chapeau>
-                            <subclause identifier="/us/sComp/111/291/tIV/s403/11/B/ii/I" style="-uslm-dtd:subclause" styleType="OLC">
-                                <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">the Bighorn River Valley Subsystem;</content>
-                            </subclause>
-                            <subclause identifier="/us/sComp/111/291/tIV/s403/11/B/ii/II" style="-uslm-dtd:subclause" styleType="OLC">
-                                <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">the Little Bighorn River Valley Subsystem; and</content>
-                            </subclause>
-                            <subclause identifier="/us/sComp/111/291/tIV/s403/11/B/ii/III" style="-uslm-dtd:subclause" styleType="OLC">
-                                <num style="-uslm-dtd:enum" value="III">(III) </num><content style="-uslm-dtd:text">Pryor Extension.</content>
-                            </subclause>
-                        </clause>
-                    </subparagraph>
+                    <num style="-uslm-dtd:enum" value="11">(11) </num><heading style="-uslm-dtd:header">MR&amp;I project.—</heading><content style="-uslm-dtd:text">The term “<term style="-uslm-dtd:term">MR&amp;I Project</term>” means an activity described in clauses (i) through (iii) of section 411(e)(3)(F)<i style="-uslm-dtd:italic"/>.</content>
                 </paragraph>
                 <paragraph identifier="/us/sComp/111/291/tIV/s403/12" style="-uslm-dtd:paragraph" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="12">(12) </num><heading style="-uslm-dtd:header">MR&amp;I system om&amp;r.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">MR&amp;I System OM&amp;R</term>” means—</chapeau>
+                    <num style="-uslm-dtd:enum" value="12">(12) </num><heading style="-uslm-dtd:header">MR&amp;I projects om&amp;r.—</heading><chapeau style="-uslm-dtd:text">The term “<term style="-uslm-dtd:quote">MR&amp;I System OM&amp;R</term>” means—</chapeau>
                     <subparagraph identifier="/us/sComp/111/291/tIV/s403/12/A" style="-uslm-dtd:subparagraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any recurring or ongoing activity associated with the day-to-day operation of the MR&amp;I System;</content>
+                        <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">any recurring or ongoing activity associated with the day-to-day operation of the MR&amp;I Projects;</content>
                     </subparagraph>
                     <subparagraph identifier="/us/sComp/111/291/tIV/s403/12/B" style="-uslm-dtd:subparagraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any activity relating to scheduled or unscheduled maintenance of the MR&amp;I System; and</content>
+                        <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">any activity relating to scheduled or unscheduled maintenance of the MR&amp;I Projects; and</content>
                     </subparagraph>
                     <subparagraph identifier="/us/sComp/111/291/tIV/s403/12/C" style="-uslm-dtd:subparagraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">any activity relating to replacement of project features of the MR&amp;I System.</content>
+                        <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">any activity relating to replacement of project features of the MR&amp;I Projects.</content>
                     </subparagraph>
                 </paragraph>
                 <paragraph identifier="/us/sComp/111/291/tIV/s403/13" style="-uslm-dtd:paragraph" styleType="OLC">
@@ -2051,118 +2028,7 @@ be returned to the general fund of the Treasury.</content>
                         <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">to seek additional ways to reduce overall costs for the rehabilitation and improvement of the Crow Irrigation Project.</content>
                     </paragraph>
                 </subsection>
-            </section>
-            <section identifier="/us/sComp/111/291/tIV/s406" style="-uslm-dtd:section" styleType="OLC">
-                <num style="-uslm-dtd:enum" value="406">SEC. 406. </num><heading style="-uslm-dtd:header">DESIGN AND CONSTRUCTION OF MR&amp;I SYSTEM. </heading>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/a" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary, acting through the Commissioner of Reclamation, shall plan, design, and construct the water diversion and delivery features of the MR&amp;I System, in accordance with 1 or more agreements between the Secretary and the Tribe.</content>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/b" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Lead Agency.—</heading><content style="-uslm-dtd:text">The Bureau of Reclamation shall serve as the lead agency with respect to any activity to design and construct the water diversion and delivery features of the MR&amp;I System.</content>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/c" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="c">(c) </num><heading style="-uslm-dtd:header">Scope.—</heading>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/c/1" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The scope of the design and construction under this section shall be as generally described in the document entitled “<quotedText style="-uslm-dtd:quote">Crow Indian Reservation Municipal, Rural and Industrial Water System Engineering Report</quotedText>” prepared by DOWL HKM, and dated July 2008 and updated in a status report dated December 2009 by DOWL HKM, on the condition that prior to beginning construction activities, the Secretary shall review the design of the proposed MR&amp;I System and perform value engineering analyses.</content>
-                    </paragraph>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/c/2" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Negotiation with tribe.—</heading><content style="-uslm-dtd:text">On the basis of the review described in paragraph (1), the Secretary shall negotiate with the Tribe appropriate changes to the final design so that the final design meets applicable industry standards, as well as changes, if any, that would improve the cost-effectiveness of the delivery of MR&amp;I System water and take into consideration the equitable distribution of water to allottees.</content>
-                    </paragraph>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/d" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Nonreimbursability of Costs.—</heading><content style="-uslm-dtd:text">All costs incurred by the Secretary in carrying out this section shall be nonreimbursable.</content>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/e" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">Funding.—</heading><content style="-uslm-dtd:text">The total amount of obligations incurred by the Secretary in carrying out this section shall not exceed $246,381,000, except that the total amount of $246,381,000 shall be increased or decreased, as appropriate, based on ordinary fluctuations from May 1, 2008, in construction cost indices applicable to the types of construction involved in the design and construction of the MR&amp;I System.</content>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/f" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">Tribal Implementation Agreement.—</heading>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/f/1" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">At the request of the Tribe, in accordance with applicable Federal law, the Secretary shall enter into 1 or more agreements with the Tribe to implement the provisions of this section by which the Tribe shall plan, design, and construct any or all of the rehabilitation and improvement required by this section.</content>
-                    </paragraph>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/f/2" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Oversight costs.—</heading><content style="-uslm-dtd:text">The Bureau of Reclamation and the Tribe shall negotiate the cost of any oversight activities carried out by the Bureau of Reclamation for each agreement under this section, provided that the total cost for that oversight shall not exceed 4 percent of the total project costs.</content>
-                    </paragraph>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/g" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="g">(g) </num><heading style="-uslm-dtd:header">Acquisition of Land.—</heading>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/g/1" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">Tribal easements and rights-of-way.—</heading>
-                        <subparagraph identifier="/us/sComp/111/291/tIV/s406/g/1/A" style="-uslm-dtd:subparagraph" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Upon request, and in partial consideration for the funding provided under section 414(b), the Tribe shall consent to the grant of such easements and rights-of-way over tribal land as may be necessary for the construction of the MR&amp;I System authorized by this section at no cost to the United States.</content>
-                        </subparagraph>
-                        <subparagraph identifier="/us/sComp/111/291/tIV/s406/g/1/B" style="-uslm-dtd:subparagraph" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Jurisdiction.—</heading><content style="-uslm-dtd:text">The Tribe shall retain criminal and civil jurisdiction over any lands that were subject to tribal  jurisdiction prior to the granting of an easement or right-of-way in connection with the construction of the MR&amp;I System.</content>
-                        </subparagraph>
-                    </paragraph>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/g/2" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Land acquired by the united states.—</heading><content style="-uslm-dtd:text">Land acquired by the United States in connection with the construction of the MR&amp;I System authorized by this section shall be held in trust by the United States on behalf of the Tribe as part of the Reservation of the Tribe.</content>
-                    </paragraph>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/h" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="h">(h) </num><heading style="-uslm-dtd:header">Conveyance of Title to MR&amp;I System Facilities.—</heading>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/h/1" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">The Secretary shall convey title to each MR&amp;I System facility or section of a MR&amp;I System facility authorized under subsection (a) to the Tribe after completion of construction of a MR&amp;I System facility or a section of a MR&amp;I System facility that is operating and delivering water.</content>
-                    </paragraph>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/h/2" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Liability.—</heading>
-                        <subparagraph identifier="/us/sComp/111/291/tIV/s406/h/2/A" style="-uslm-dtd:subparagraph" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Effective on the date of the conveyance authorized by this subsection, the United States shall not be held liable by any court for damages of any kind arising out of any act, omission, or occurrence relating to the land, buildings, or facilities conveyed under this subsection, other than damages caused by acts of negligence committed by the United States, or by employees or agents of the United States, prior to the date of conveyance.</content>
-                        </subparagraph>
-                        <subparagraph identifier="/us/sComp/111/291/tIV/s406/h/2/B" style="-uslm-dtd:subparagraph" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Tort claims.—</heading><content style="-uslm-dtd:text">Nothing in this section increases the liability of the United States beyond the liability provided in chapter 171 of title 28, United States Code (commonly known as the “<quotedText style="-uslm-dtd:quote">Federal Tort Claims Act</quotedText>”).</content>
-                        </subparagraph>
-                    </paragraph>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/h/3" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Notice of proposed conveyance.—</heading><content style="-uslm-dtd:text">Not later than 45 days before the date of a proposed conveyance of title to any MR&amp;I System facility, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate notice of the conveyance of each such MR&amp;I System facility or section of a MR&amp;I System facility.</content>
-                    </paragraph>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/h/4" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="4">(4) </num><heading style="-uslm-dtd:header">MR&amp;I system om&amp;r obligation of the federal government after conveyance.—</heading><chapeau style="-uslm-dtd:text">The Federal Government shall have no obligation to pay for the operation, maintenance, or replacement costs of the MR&amp;I System beginning on the date on which—</chapeau>
-                        <subparagraph identifier="/us/sComp/111/291/tIV/s406/h/4/A" style="-uslm-dtd:subparagraph" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="A">(A) </num><content style="-uslm-dtd:text">title to any MR&amp;I System facility or section of a MR&amp;I System facility under this subsection is conveyed to the Tribe; and</content>
-                        </subparagraph>
-                        <subparagraph identifier="/us/sComp/111/291/tIV/s406/h/4/B" style="-uslm-dtd:subparagraph" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the amounts required to be deposited in the MR&amp;I System OM&amp;R Account pursuant to section 411 have been deposited in that account.</content>
-                        </subparagraph>
-                    </paragraph>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/i" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Authority of Tribe.—</heading><chapeau style="-uslm-dtd:text">Upon transfer of title to the MR&amp;I System or any section of a MR&amp;I System facility to the Tribe in accordance with subsection (h), the Tribe is authorized to collect water use charges from customers of the MR&amp;I System to cover—</chapeau>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/i/1" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">MR&amp;I System OM&amp;R costs; and</content>
-                    </paragraph>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/i/2" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">any other costs relating to the construction and operation of the MR&amp;I System.</content>
-                    </paragraph>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/j" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="j">(j) </num><heading style="-uslm-dtd:header">Alienation and Taxation.—</heading><content style="-uslm-dtd:text">Conveyance of title to the Tribe pursuant to subsection (h) does not waive or alter any applicable Federal law prohibiting alienation or taxation of the MR&amp;I System or the underlying Reservation land.</content>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/k" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="k">(k) </num><heading style="-uslm-dtd:header">Technical Assistance.—</heading><content style="-uslm-dtd:text">The Secretary shall provide technical assistance to prepare the Tribe for operation of the MR&amp;I System, including operation and management training.</content>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/l" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="l">(l) </num><heading style="-uslm-dtd:header">Project Management Committee.—</heading><chapeau style="-uslm-dtd:text">The Secretary shall facilitate the formation of a project management committee composed of representatives from the Bureau of Reclamation, the Bureau of Indian Affairs, and the Tribe—</chapeau>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/l/1" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="1">(1) </num><content style="-uslm-dtd:text">to review cost factors and budgets for construction, operation and maintenance activities for the MR&amp;I System;</content>
-                    </paragraph>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/l/2" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">to improve management of inherently governmental activities through enhanced communication; and</content>
-                    </paragraph>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/l/3" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">to seek additional ways to reduce overall costs for the MR&amp;I System.</content>
-                    </paragraph>
-                </subsection>
-                <subsection identifier="/us/sComp/111/291/tIV/s406/m" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="m">(m) </num><heading style="-uslm-dtd:header">Non-Federal Contribution.—</heading>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/m/1" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Prior to completion of the final design of the MR&amp;I System required by subsection (c), the Secretary shall consult with the Tribe, the State of Montana, and other affected non-Federal parties to discuss the possibility of receiving non-Federal contributions to the cost of the MR&amp;I System.</content>
-                    </paragraph>
-                    <paragraph identifier="/us/sComp/111/291/tIV/s406/m/2" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Negotiations.—</heading><content style="-uslm-dtd:text">If, based on the extent to which non-Federal parties are expected to use the MR&amp;I System, a non-Federal contribution to the MR&amp;I System is determined by the parties described in paragraph (1) to be appropriate, the Secretary shall initiate negotiations for an agreement on the means by which such contributions may be provided.</content>
-                    </paragraph>
-                </subsection>
-            </section>
+            </section><editorialNote style="-uslm-dtd:legis-comment"><b>[</b>Section 406 was repealed by  section 2(b)(2) of Public Law 119-122.<b>]</b> </editorialNote>
             <section identifier="/us/sComp/111/291/tIV/s407" style="-uslm-dtd:section" styleType="OLC">
                 <num style="-uslm-dtd:enum" value="407">SEC. 407. </num><heading style="-uslm-dtd:header">TRIBAL WATER RIGHTS. </heading>
                 <subsection identifier="/us/sComp/111/291/tIV/s407/a" style="-uslm-dtd:subsection" styleType="OLC">
@@ -2587,7 +2453,7 @@ be returned to the general fund of the Treasury.</content>
                             <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">all of the funds made available under subsections (c) through (f) of section 414 have been deposited in the Fund;</content>
                         </subparagraph>
                         <subparagraph identifier="/us/sComp/111/291/tIV/s410/e/1/C" style="-uslm-dtd:subparagraph" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Secretary has executed the agreements with the Tribe required by sections 405(a) and 406(a);</content>
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the Secretary has executed the agreement with the Tribe required by section 405(a);</content>
                         </subparagraph>
                         <subparagraph identifier="/us/sComp/111/291/tIV/s410/e/1/D" style="-uslm-dtd:subparagraph" styleType="OLC">
                             <num style="-uslm-dtd:enum" value="D">(D) </num><content style="-uslm-dtd:text">the State of Montana has appropriated and paid into an interest-bearing escrow account any payments due as of the date of enactment of this Act to the Tribe under the Compact;</content>
@@ -2640,7 +2506,7 @@ be returned to the general fund of the Treasury.</content>
             <section identifier="/us/sComp/111/291/tIV/s411" style="-uslm-dtd:section" styleType="OLC">
                 <num style="-uslm-dtd:enum" value="411">SEC. 411. </num><heading style="-uslm-dtd:header">CROW SETTLEMENT FUND. </heading>
                 <subsection identifier="/us/sComp/111/291/tIV/s411/a" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">There is established in the Treasury of the United States a fund to be known as “<quotedText style="-uslm-dtd:quote">the Crow Settlement Fund</quotedText>”, to be administered by the Secretary for the purpose of carrying out this title.</content>
+                    <num style="-uslm-dtd:enum" value="a">(a) </num><heading style="-uslm-dtd:header">Establishment.—</heading><content style="-uslm-dtd:text">There is established in the Treasury of the United States a fund to be known as “<quotedText style="-uslm-dtd:quote">the Crow Settlement Fund</quotedText>”, to be managed, invested, and distributed by the Secretary and to remain available until expended, withdrawn, or reverted to the general fund of the Treasury, consisting of amounts deposited in the Fund under subsection (b), together with any investment earnings, including interest, earned on those amounts, for the purpose of carrying out this title.</content>
                 </subsection>
                 <subsection identifier="/us/sComp/111/291/tIV/s411/b" style="-uslm-dtd:subsection" styleType="OLC">
                     <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Transfers to fund.—</heading><content style="-uslm-dtd:text">The Fund shall consist of such amounts as are deposited in the Fund under subsections (c) through (h) of section 414.</content>
@@ -2654,10 +2520,22 @@ be returned to the general fund of the Treasury.</content>
                         <num style="-uslm-dtd:enum" value="2">(2) </num><content style="-uslm-dtd:text">The Energy Development Projects account, consisting of amounts made available pursuant to section 414(d).</content>
                     </paragraph>
                     <paragraph identifier="/us/sComp/111/291/tIV/s411/c/3" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The MR&amp;I System OM&amp;R Account, consisting of amounts made available pursuant to section 414(e).</content>
+                        <num style="-uslm-dtd:enum" value="3">(3) </num><content style="-uslm-dtd:text">The MR&amp;I Projects OM&amp;R Account, consisting of amounts made available pursuant to section 414(e).</content>
                     </paragraph>
                     <paragraph identifier="/us/sComp/111/291/tIV/s411/c/4" style="-uslm-dtd:paragraph" styleType="OLC">
                         <num style="-uslm-dtd:enum" value="4">(4) </num><content style="-uslm-dtd:text">The CIP OM&amp;R Account, consisting of amounts made available pursuant to section 414(f).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/sComp/111/291/tIV/s411/c/5" style="-uslm-dtd:paragraph" styleType="OLC">
+                        <num style="-uslm-dtd:enum" value="5">(5)</num><subparagraph class="inline" identifier="/us/sComp/111/291/tIV/s411/c/5/A" style="-uslm-dtd:subparagraph" styleType="OLC"><num style="-uslm-dtd:enum" value="A">(A) </num><chapeau style="-uslm-dtd:text">The MR&amp;I Projects Account, to be established as soon as practicable after the date of enactment of the <inline style="-uslm-dtd:short-title">Crow Tribe Water Rights Settlement Amendments Act of 2025</inline>, consisting of—</chapeau>
+                        <clause identifier="/us/sComp/111/291/tIV/s411/c/5/A/i" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">amounts made available pursuant to paragraphs (1) and (2) of section 414(b) that are appropriated after the date of enactment of the <inline style="-uslm-dtd:short-title">Crow Tribe Water Rights Settlement Amendments Act of 2025</inline>; and</content>
+                        </clause>
+                        <clause identifier="/us/sComp/111/291/tIV/s411/c/5/A/ii" style="-uslm-dtd:clause" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">amounts to be deposited pursuant to section 414(h)(2).</content>
+                        </clause></subparagraph>
+                        <subparagraph class="leftIndentDecrease1" identifier="/us/sComp/111/291/tIV/s411/c/5/B" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">Amounts deposited into the MR&amp;I Projects Account shall be further deposited into the special joint signature account named “<quotedText style="-uslm-dtd:quote">MR&amp;I Account</quotedText>” established pursuant to the agreement with the Tribe dated September 13, 2012, prior to any investment earnings accruing or becoming available.”<ref class="footnoteRef" idref="ID0DE0C0F25F3D4374BFBF17C98E246971" style="-uslm-dtd:footnote-ref">2</ref></content><footnote id="ID0DE0C0F25F3D4374BFBF17C98E246971" style="-uslm-dtd:footnote"><sup style="-uslm-dtd:superscript">2</sup><p style="-uslm-dtd:para; margin-left:1em">The closing quotation marks appears as so in law. See the amendment made by section 2(c)(2)(B) of Public Law 119-122.</p></footnote>
+                        </subparagraph>
                     </paragraph>
                 </subsection>
                 <subsection identifier="/us/sComp/111/291/tIV/s411/d" style="-uslm-dtd:subsection" styleType="OLC">
@@ -2689,25 +2567,13 @@ be returned to the general fund of the Treasury.</content>
                             <num style="-uslm-dtd:enum" value="B">(B) </num><content style="-uslm-dtd:text">the first section of the Act of June 24, 1938 (25 U.S.C. 162a); and</content>
                         </subparagraph>
                         <subparagraph identifier="/us/sComp/111/291/tIV/s411/e/2/C" style="-uslm-dtd:subparagraph" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="C">(C) </num><chapeau style="-uslm-dtd:text">the obligations of Federal corporations and Federal Government-sponsored entities, the charter documents of which provide that the obligations of the entities are lawful investments for federally managed funds, including—</chapeau>
-                            <clause identifier="/us/sComp/111/291/tIV/s411/e/2/C/i" style="-uslm-dtd:clause" styleType="OLC">
-                                <num style="-uslm-dtd:enum" value="i">(i) </num><content style="-uslm-dtd:text">the obligations of the United States Postal Service described in section 2005 of title 39, United States Code;</content>
-                            </clause>
-                            <clause identifier="/us/sComp/111/291/tIV/s411/e/2/C/ii" style="-uslm-dtd:clause" styleType="OLC">
-                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><content style="-uslm-dtd:text">bonds and other obligations of the Tennessee Valley Authority described in section 15d of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831n-4);</content>
-                            </clause>
-                            <clause identifier="/us/sComp/111/291/tIV/s411/e/2/C/iii" style="-uslm-dtd:clause" styleType="OLC">
-                                <num style="-uslm-dtd:enum" value="iii">(iii) </num><content style="-uslm-dtd:text">mortgages, obligations, and other securities of the Federal Home Loan Mortgage Corporation described in section 303 of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1452); and</content>
-                            </clause>
-                            <clause identifier="/us/sComp/111/291/tIV/s411/e/2/C/iv" style="-uslm-dtd:clause" styleType="OLC">
-                                <num style="-uslm-dtd:enum" value="iv">(iv) </num><content style="-uslm-dtd:text">bonds, notes, and debentures of the Commodity Credit Corporation described in section 4 of the Act of March 8, 1938 (15 U.S.C. 713a-4).</content>
-                            </clause>
+                            <num style="-uslm-dtd:enum" value="C">(C) </num><content style="-uslm-dtd:text">the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4001 et seq.).</content>
                         </subparagraph>
                     </paragraph>
                     <paragraph identifier="/us/sComp/111/291/tIV/s411/e/3" style="-uslm-dtd:paragraph" styleType="OLC">
                         <num style="-uslm-dtd:enum" value="3">(3) </num><heading style="-uslm-dtd:header">Distributions from crow settlement fund.—</heading>
                         <subparagraph identifier="/us/sComp/111/291/tIV/s411/e/3/A" style="-uslm-dtd:subparagraph" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Amounts from the Fund shall be used for each purpose described in subparagraphs (B) through (E).</content>
+                            <num style="-uslm-dtd:enum" value="A">(A) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Amounts from the Fund shall be used for each purpose described in subparagraphs (B) through (F).</content>
                         </subparagraph>
                         <subparagraph identifier="/us/sComp/111/291/tIV/s411/e/3/B" style="-uslm-dtd:subparagraph" styleType="OLC">
                             <num style="-uslm-dtd:enum" value="B">(B) </num><heading style="-uslm-dtd:header">Tribal compact administration account.—</heading><content style="-uslm-dtd:text">The Tribal Compact Administration account shall be used for expenditures by the Tribe for Tribal Compact Administration.</content>
@@ -2740,7 +2606,22 @@ be returned to the general fund of the Treasury.</content>
                             </clause>
                         </subparagraph>
                         <subparagraph identifier="/us/sComp/111/291/tIV/s411/e/3/E" style="-uslm-dtd:subparagraph" styleType="OLC">
-                            <num style="-uslm-dtd:enum" value="E">(E) </num><heading style="-uslm-dtd:header">MR&amp;I system om&amp;r account.—</heading><content style="-uslm-dtd:text">Funds from the MR&amp;I System OM&amp;R Account shall be used to assist the Tribe in paying MR&amp;I System OM&amp;R costs.</content>
+                            <num style="-uslm-dtd:enum" value="E">(E) </num><heading style="-uslm-dtd:header">MR&amp;I projects om&amp;r account.—</heading><content style="-uslm-dtd:text">Funds from the MR&amp;I Projects OM&amp;R Account shall be used to assist the Tribe in paying MR&amp;I Projects OM&amp;R costs.</content>
+                        </subparagraph>
+                        <subparagraph identifier="/us/sComp/111/291/tIV/s411/e/3/F" style="-uslm-dtd:subparagraph" styleType="OLC">
+                            <num style="-uslm-dtd:enum" value="F">(F) </num><heading style="-uslm-dtd:header">MR&amp;I projects account.—</heading><chapeau style="-uslm-dtd:text">Funds from the MR&amp;I Projects Account shall be used for expenditures by the Tribe in accordance with the following:</chapeau>
+                            <clause identifier="/us/sComp/111/291/tIV/s411/e/3/F/i" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Priority use of funds.—</heading><chapeau style="-uslm-dtd:text">The Tribe shall use funds from the MR&amp;I Projects Account—</chapeau>
+                                <subclause identifier="/us/sComp/111/291/tIV/s411/e/3/F/i/I" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="I">(I) </num><content style="-uslm-dtd:text">to plan, permit, design, engineer, construct, reconstruct, replace, rehabilitate, operate, or repair water production, treatment, or delivery infrastructure, including for domestic and municipal use or wastewater infrastructure; and</content>
+                                </subclause>
+                                <subclause identifier="/us/sComp/111/291/tIV/s411/e/3/F/i/II" style="-uslm-dtd:subclause" styleType="OLC">
+                                    <num style="-uslm-dtd:enum" value="II">(II) </num><content style="-uslm-dtd:text">to comply with applicable environmental laws for the activities described in subclause (I).</content>
+                                </subclause>
+                            </clause>
+                            <clause identifier="/us/sComp/111/291/tIV/s411/e/3/F/ii" style="-uslm-dtd:clause" styleType="OLC">
+                                <num style="-uslm-dtd:enum" value="ii">(ii) </num><heading style="-uslm-dtd:header">Other use of funds.—</heading><content style="-uslm-dtd:text">After providing written notice to the Secretary that on-Reservation MR&amp;I projects described in clause (i) are complete, the Tribe may use funds remaining in the MR&amp;I Projects Account to purchase on-Reservation land with water rights.</content>
+                            </clause>
                         </subparagraph>
                     </paragraph>
                     <paragraph identifier="/us/sComp/111/291/tIV/s411/e/4" style="-uslm-dtd:paragraph" styleType="OLC">
@@ -2813,6 +2694,12 @@ be returned to the general fund of the Treasury.</content>
                         </paragraph></quotedContent>.</content>
                     </paragraph>
                 </subsection>
+                <subsection identifier="/us/sComp/111/291/tIV/s411/i" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="i">(i) </num><heading style="-uslm-dtd:header">Title to Infrastructure.—</heading><content style="-uslm-dtd:text">Title to, control over, and operation of any project constructed using funds from the MR&amp;I Projects Account shall remain in the Tribe.</content>
+                </subsection>
+                <subsection identifier="/us/sComp/111/291/tIV/s411/j" style="-uslm-dtd:subsection" styleType="OLC">
+                    <num style="-uslm-dtd:enum" value="j">(j) </num><heading style="-uslm-dtd:header">Operation, Maintenance, and Replacement.—</heading><content style="-uslm-dtd:text">The Federal Government shall have no obligation to pay for the operation, maintenance, or replacement of any MR&amp;I Project.</content>
+                </subsection>
             </section>
             <section identifier="/us/sComp/111/291/tIV/s412" style="-uslm-dtd:section" styleType="OLC">
                 <num style="-uslm-dtd:enum" value="412">SEC. 412. </num><heading style="-uslm-dtd:header">YELLOWTAIL DAM, MONTANA. </heading>
@@ -2840,7 +2727,7 @@ be returned to the general fund of the Treasury.</content>
                 <subsection identifier="/us/sComp/111/291/tIV/s412/b" style="-uslm-dtd:subsection" styleType="OLC">
                     <num style="-uslm-dtd:enum" value="b">(b) </num><heading style="-uslm-dtd:header">Power Generation.—</heading>
                     <paragraph identifier="/us/sComp/111/291/tIV/s412/b/1" style="-uslm-dtd:paragraph" styleType="OLC">
-                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Notwithstanding any other provision of law, the Tribe shall have the exclusive right to develop and market power generation on the Yellowtail Afterbay Dam, provided that this exclusive right shall expire 15 years after the date of enactment of this Act if construction has not been substantially completed on the power generation project of the Tribe.</content>
+                        <num style="-uslm-dtd:enum" value="1">(1) </num><heading style="-uslm-dtd:header">In general.—</heading><content style="-uslm-dtd:text">Notwithstanding any other provision of law, the Tribe shall have the exclusive right to develop and market power generation on the Yellowtail Afterbay Dam, provided that this exclusive right shall expire 20 years after the date of enactment of this Act if construction has not been substantially completed on the power generation project of the Tribe.</content>
                     </paragraph>
                     <paragraph identifier="/us/sComp/111/291/tIV/s412/b/2" style="-uslm-dtd:paragraph" styleType="OLC">
                         <num style="-uslm-dtd:enum" value="2">(2) </num><heading style="-uslm-dtd:header">Bureau of reclamation cooperation.—</heading><content style="-uslm-dtd:text">The Bureau of Reclamation shall cooperate with the Tribe on the development of any power generation project under this subsection.</content>
@@ -3018,7 +2905,7 @@ be returned to the general fund of the Treasury.</content>
                     <num style="-uslm-dtd:enum" value="d">(d) </num><heading style="-uslm-dtd:header">Energy Development Projects.—</heading><content style="-uslm-dtd:text">Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary $20,000,000, adjusted to reflect changes in appropriate cost indices during the period beginning on the date of enactment of this Act and ending on the date of the transfer, for Energy Development Projects as set forth in section 411(e)(3)(C).</content>
                 </subsection>
                 <subsection identifier="/us/sComp/111/291/tIV/s414/e" style="-uslm-dtd:subsection" styleType="OLC">
-                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">MR&amp;I System OM&amp;R.—</heading><content style="-uslm-dtd:text">Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall    transfer to the Secretary $47,000,000, adjusted to reflect changes in appropriate cost indices during the period beginning on the date of enactment of this Act and ending on the date of the transfer, for MR&amp;I System OM&amp;R.</content>
+                    <num style="-uslm-dtd:enum" value="e">(e) </num><heading style="-uslm-dtd:header">MR&amp;I Projects OM&amp;R.—</heading><content style="-uslm-dtd:text">Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary $47,000,000, adjusted to reflect changes in appropriate cost indices during the period beginning on the date of enactment of this Act and ending on the date of the transfer, for MR&amp;I Projects OM&amp;R.</content>
                 </subsection>
                 <subsection identifier="/us/sComp/111/291/tIV/s414/f" style="-uslm-dtd:subsection" styleType="OLC">
                     <num style="-uslm-dtd:enum" value="f">(f) </num><heading style="-uslm-dtd:header">CIP OM&amp;R.—</heading><content style="-uslm-dtd:text">Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary $10,000,000, adjusted to reflect changes in appropriate cost indices during the period beginning on the date of enactment of this Act and ending on the date of the transfer, for CIP OM&amp;R.</content>
